@@ -34,7 +34,7 @@
     </section>
 
     <section>
-      <h2>涨停原因分类</h2>
+      <h2>涨停概念分类</h2>
       <div class="filters">
         <label>
           日期
@@ -52,12 +52,12 @@
           <select id="dateFilterTable"></select>
         </label>
         <label>
-          涨停原因
+          概念分类
           <select id="reasonFilter"></select>
         </label>
         <label class="checkbox-label">
           <input id="top3Only" type="checkbox">
-          仅看涨停原因Top3
+          仅看概念Top3
         </label>
       </div>
       <div class="table-wrap">
@@ -65,6 +65,7 @@
           <thead>
             <tr>
               <th data-sort-key="name" class="sortable">名称</th>
+              <th data-sort-key="primary_concept" class="sortable">概念分类</th>
               <th data-sort-key="reason" class="sortable">涨停原因</th>
               <th data-sort-key="amount" class="sortable">成交额(亿)</th>
               <th data-sort-key="turnover_rate" class="sortable">换手率(%)</th>

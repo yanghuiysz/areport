@@ -18,6 +18,19 @@ let state = {
   loading: false
 };
 
+const CONCEPT_RULES = [
+  { concept: "通信", keywords: ["通信", "光模块", "光通信", "CPO", "5G", "卫星", "天线", "光纤"] },
+  { concept: "算力", keywords: ["算力", "云计算", "数据中心", "服务器", "液冷", "AIDC", "AI"] },
+  { concept: "医药", keywords: ["医药", "创新药", "制药", "原料药", "医疗", "医疗器械", "生物"] },
+  { concept: "机器人", keywords: ["机器人", "自动化", "智能制造", "机器视觉"] },
+  { concept: "芯片", keywords: ["芯片", "半导体", "集成电路", "SiC", "IGBT"] },
+  { concept: "新能源", keywords: ["光伏", "储能", "风电", "电池", "固态电池", "锂电", "充电"] },
+  { concept: "汽车", keywords: ["汽车", "智驾", "无人驾驶", "车路协同", "汽配"] },
+  { concept: "化工", keywords: ["化工", "化学", "化纤", "农药", "染料", "材料"] },
+  { concept: "国企改革", keywords: ["国企", "央企", "国资"] },
+  { concept: "金融", keywords: ["金融", "券商", "银行", "保险", "多元金融"] }
+];
+
 function toYi(amount) {
   if (amount === null || amount === undefined || Number.isNaN(Number(amount))) {
     return "-";
@@ -34,16 +47,37 @@ function splitReasonTags(reason) {
   return [...new Set(tags.length ? tags : ["其他"])];
 }
 
+function inferConceptFromTag(tag) {
+  const lower = String(tag || "").toLowerCase();
+  for (const rule of CONCEPT_RULES) {
+    if (rule.keywords.some((k) => lower.includes(String(k).toLowerCase()))) {
+      return rule.concept;
+    }
+  }
+  return null;
+}
+
+function getPrimaryConcept(row) {
+  const tags = splitReasonTags(row.reason);
+  for (const tag of tags) {
+    const mapped = inferConceptFromTag(tag);
+    if (mapped) return mapped;
+  }
+  return tags[0] || "其他";
+}
+
 function buildReasonStats(rows) {
   const stats = {};
   rows.forEach((row) => {
-    splitReasonTags(row.reason).forEach((tag) => {
-      stats[tag] = (stats[tag] || 0) + 1;
-    });
+    const concept = getPrimaryConcept(row);
+    const amount = Number(row.amount);
+    if (!stats[concept]) stats[concept] = { count: 0, amount: 0 };
+    stats[concept].count += 1;
+    stats[concept].amount += Number.isNaN(amount) ? 0 : amount;
   });
   return Object.entries(stats)
-    .map(([reason, count]) => ({ reason, count }))
-    .sort((a, b) => b.count - a.count);
+    .map(([reason, val]) => ({ reason, count: val.count, amount: val.amount }))
+    .sort((a, b) => b.count - a.count || b.amount - a.amount);
 }
 
 function getTop3Reasons(date) {
@@ -69,6 +103,9 @@ function compareByKey(a, b, key) {
   }
   if (key === "first_limit_up_time" || key === "last_limit_up_time") {
     return parseTimeToNumber(va) - parseTimeToNumber(vb);
+  }
+  if (key === "primary_concept") {
+    return String(getPrimaryConcept(a)).localeCompare(String(getPrimaryConcept(b)), "zh-CN");
   }
   return String(va || "").localeCompare(String(vb || ""), "zh-CN");
 }
@@ -173,7 +210,7 @@ function renderReasonStats(date) {
     const el = document.createElement("article");
     el.className = "reason-item";
     const tag = idx < 3 ? " (Top3)" : "";
-    el.innerHTML = `<p class="reason-name">${item.reason}${tag}</p><p>家数：${item.count}</p>`;
+    el.innerHTML = `<p class="reason-name">${item.reason}${tag}</p><p>家数：${item.count}  成交额：${toYi(item.amount)}亿</p>`;
     reasonStatsEl.appendChild(el);
   });
 }
@@ -193,10 +230,10 @@ function renderTable() {
   const reason = reasonFilterEl.value;
   const top3Reasons = getTop3Reasons(date);
   let rows = (state.detailsByDate[date] || []).filter((row) => {
-    const tags = splitReasonTags(row.reason);
-    if (top3OnlyEl.checked && !tags.some((x) => top3Reasons.includes(x))) return false;
+    const concept = getPrimaryConcept(row);
+    if (top3OnlyEl.checked && !top3Reasons.includes(concept)) return false;
     if (reason === "全部") return true;
-    return tags.includes(reason);
+    return concept === reason;
   });
   rows = rows.sort((a, b) => {
     const compared = compareByKey(a, b, state.sort.key);
@@ -205,14 +242,16 @@ function renderTable() {
 
   detailTableBodyEl.innerHTML = "";
   if (!rows.length) {
-    detailTableBodyEl.innerHTML = `<tr><td colspan="7" class="muted">没有匹配数据</td></tr>`;
+    detailTableBodyEl.innerHTML = `<tr><td colspan="8" class="muted">没有匹配数据</td></tr>`;
     return;
   }
 
   rows.forEach((row) => {
+    const concept = getPrimaryConcept(row);
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td>${row.name || "-"}</td>
+      <td>${concept}</td>
       <td>${row.reason || "-"}</td>
       <td>${toYi(row.amount)}</td>
       <td>${row.turnover_rate ?? "-"}</td>
