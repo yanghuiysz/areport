@@ -57,6 +57,9 @@ function compareByKey(a, b, key) {
     const nb = Number(vb);
     return (Number.isNaN(na) ? -Infinity : na) - (Number.isNaN(nb) ? -Infinity : nb);
   }
+  if (key === "limit_up_time") {
+    return parseTimeToNumber(a.first_limit_up_time) - parseTimeToNumber(b.first_limit_up_time);
+  }
   if (key === "first_limit_up_time" || key === "last_limit_up_time") {
     return parseTimeToNumber(va) - parseTimeToNumber(vb);
   }
@@ -194,19 +197,21 @@ function renderTable() {
 
   detailTableBodyEl.innerHTML = "";
   if (!rows.length) {
-    detailTableBodyEl.innerHTML = `<tr><td colspan="7" class="muted">没有匹配数据</td></tr>`;
+    detailTableBodyEl.innerHTML = `<tr><td colspan="6" class="muted">没有匹配数据</td></tr>`;
     return;
   }
 
   rows.forEach((row) => {
+    const firstTime = row.first_limit_up_time || "-";
+    const lastTime = row.last_limit_up_time || "-";
+    const limitUpTime = firstTime === lastTime ? firstTime : `${firstTime} -> ${lastTime}`;
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td>${row.name || "-"}</td>
       <td>${row.reason || "-"}</td>
       <td>${toYi(row.amount)}</td>
       <td>${row.turnover_rate ?? "-"}</td>
-      <td>${row.first_limit_up_time || "-"}</td>
-      <td>${row.last_limit_up_time || "-"}</td>
+      <td>${limitUpTime}</td>
       <td>${row.consecutive_boards ?? "-"}</td>
     `;
     detailTableBodyEl.appendChild(tr);

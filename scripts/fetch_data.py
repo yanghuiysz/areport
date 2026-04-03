@@ -1,12 +1,14 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime
+import re
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 
-import akshare as ak
 import pandas as pd
+import pywencai
+import akshare as ak
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,6 +26,20 @@ def _pick_column(df: pd.DataFrame, candidates: list[str]) -> str | None:
     for key in candidates:
         if key in df.columns:
             return key
+    return None
+
+
+def _pick_col_contains(df: pd.DataFrame, keywords: list[str], ds: str | None = None) -> str | None:
+    for col in df.columns:
+        col_text = str(col)
+        if ds and f"[{ds}]" not in col_text:
+            continue
+        if all(k in col_text for k in keywords):
+            return col_text
+    for col in df.columns:
+        col_text = str(col)
+        if all(k in col_text for k in keywords):
+            return col_text
     return None
 
 
@@ -49,55 +65,131 @@ def _to_number(value: Any) -> float | None:
         return None
 
 
-def fetch_market_activity() -> pd.DataFrame:
-    trade_days_df = ak.tool_trade_date_hist_sina()
-    if trade_days_df.empty:
-        raise RuntimeError("未获取到交易日数据")
-    today = datetime.now().date()
-    trade_days = pd.to_datetime(trade_days_df["trade_date"], errors="coerce").dropna()
-    trade_days = trade_days[trade_days.dt.date <= today]
-    trade_days = trade_days.dt.strftime("%Y-%m-%d").tolist()
-    recent_days = trade_days[-3:]
-    if not recent_days:
-        raise RuntimeError("未获取到最近交易日")
+def _to_int_count(value: Any) -> int | None:
+    number = _to_number(value)
+    if number is None:
+        return None
+    return int(number)
 
-    activity_map: dict[str, Any] = {}
-    stats_date: str | None = None
+
+def _extract_ds_from_columns(columns: list[Any]) -> str | None:
+    for col in columns:
+        match = re.search(r"\[(\d{8})\]", str(col))
+        if match:
+            return match.group(1)
+    return None
+
+
+def _resolve_trade_date(ask_date: str) -> str | None:
+    query = f"{_cn_date(ask_date)}涨停股票"
     try:
-        activity_df = ak.stock_market_activity_legu()
-        activity_map = {
-            str(row["item"]).strip(): row["value"] for _, row in activity_df.iterrows()
-        }
-        stats_date_raw = str(activity_map.get("统计日期", "")).strip()
-        stats_date = stats_date_raw[:10] if len(stats_date_raw) >= 10 else None
+        df = pywencai.get(query=query, loop=True)
     except Exception:
-        activity_map = {}
-        stats_date = None
+        return None
+    if df is None:
+        return None
+    resolved_ds = _extract_ds_from_columns(df.columns.tolist())
+    if resolved_ds is None:
+        return ask_date
+    return f"{resolved_ds[0:4]}-{resolved_ds[4:6]}-{resolved_ds[6:8]}"
+
+
+def get_recent_trade_dates() -> list[str]:
+    cursor = datetime.now().date()
+    resolved_days: list[str] = []
+    seen = set()
+    for _ in range(0, 10):
+        ask_date = cursor.strftime("%Y-%m-%d")
+        resolved_date = _resolve_trade_date(ask_date)
+        if resolved_date is None:
+            cursor -= timedelta(days=1)
+            continue
+        if resolved_date not in seen:
+            seen.add(resolved_date)
+            resolved_days.append(resolved_date)
+        if len(resolved_days) >= 3:
+            break
+        cursor = datetime.strptime(resolved_date, "%Y-%m-%d").date() - timedelta(days=1)
+    if len(resolved_days) >= 3:
+        return sorted(resolved_days)[-3:]
+
+    fallback: list[str] = []
+    day = datetime.now().date()
+    while len(fallback) < 3:
+        if day.weekday() < 5:
+            fallback.append(day.strftime("%Y-%m-%d"))
+        day -= timedelta(days=1)
+    return sorted(fallback)[-3:]
+
+
+def _cn_date(trade_date: str) -> str:
+    dt = datetime.strptime(trade_date, "%Y-%m-%d")
+    return f"{dt.year}年{dt.month}月{dt.day}日"
+
+
+def fetch_up_down_counts_wencai(trade_date: str) -> tuple[int | None, int | None, int | None]:
+    ds = trade_date.replace("-", "")
+    query = f"{_cn_date(trade_date)} A股涨跌幅"
+    try:
+        df = pywencai.get(query=query, loop=True)
+    except Exception:
+        return None, None, None
+    if df is None or df.empty:
+        return None, None, None
+    col = _pick_col_contains(df, ["涨跌幅"], ds=ds)
+    if col is None:
+        return None, None, None
+    series = pd.to_numeric(df[col], errors="coerce").dropna()
+    if series.empty:
+        return None, None, None
+    up_count = int((series > 0).sum())
+    down_count = int((series < 0).sum())
+    flat_count = int((series == 0).sum())
+    return up_count, down_count, flat_count
+
+
+def fetch_limit_up_details_wencai(trade_date: str) -> tuple[list[dict[str, Any]], bool]:
+    ds = trade_date.replace("-", "")
+    query = (
+        f"{_cn_date(trade_date)}涨停股票，涨停原因，成交额，换手率，首次涨停时间，"
+        "最终涨停时间，连续涨停天数"
+    )
+    try:
+        df = pywencai.get(query=query, loop=True)
+    except Exception:
+        return [], False
+    if df is None or df.empty:
+        return [], True
+
+    code_col = _pick_col_contains(df, ["股票代码"])
+    name_col = _pick_col_contains(df, ["股票简称"])
+    reason_col = _pick_col_contains(df, ["涨停原因类别"], ds=ds)
+    amount_col = _pick_col_contains(df, ["成交额"], ds=ds)
+    turnover_col = _pick_col_contains(df, ["换手率"], ds=ds)
+    first_col = _pick_col_contains(df, ["首次涨停时间"], ds=ds)
+    last_col = _pick_col_contains(df, ["最终涨停时间"], ds=ds) or _pick_col_contains(df, ["最后涨停时间"], ds=ds)
+    boards_col = _pick_col_contains(df, ["连续涨停天数"], ds=ds)
+    if boards_col is None:
+        boards_col = _pick_col_contains(df, ["几天几板"], ds=ds)
 
     rows: list[dict[str, Any]] = []
-    for d in recent_days:
-        # 涨跌家数来自乐咕乐股当日快照，历史日期暂无稳定公开接口，保留空值
-        if d == stats_date:
-            up_count = _to_number(activity_map.get("上涨"))
-            down_count = _to_number(activity_map.get("下跌"))
-            flat_count = _to_number(activity_map.get("平盘"))
-        else:
-            up_count = None
-            down_count = None
-            flat_count = None
-
-        rows.append(
-            {
-                "date": d,
-                "up_count": int(up_count) if up_count is not None else None,
-                "down_count": int(down_count) if down_count is not None else None,
-                "flat_count": int(flat_count) if flat_count is not None else None,
-            }
-        )
-    return pd.DataFrame(rows)
+    for _, row in df.iterrows():
+        reason_text = row[reason_col] if reason_col and pd.notna(row[reason_col]) else "其他"
+        item = {
+            "code": str(row[code_col]).split(".")[0] if code_col and pd.notna(row[code_col]) else None,
+            "name": str(row[name_col]).strip() if name_col and pd.notna(row[name_col]) else None,
+            "reason": str(reason_text).strip(),
+            "amount": _to_number(row[amount_col]) if amount_col else None,
+            "turnover_rate": _to_number(row[turnover_col]) if turnover_col else None,
+            "first_limit_up_time": _normalize_time(row[first_col]) if first_col else None,
+            "last_limit_up_time": _normalize_time(row[last_col]) if last_col else None,
+            "consecutive_boards": _to_int_count(row[boards_col]) if boards_col else None,
+        }
+        rows.append(item)
+    return rows, True
 
 
-def fetch_limit_up_details(trade_date: str) -> tuple[list[dict[str, Any]], bool]:
+def fetch_limit_up_details_em(trade_date: str) -> tuple[list[dict[str, Any]], bool]:
     ds = trade_date.replace("-", "")
     try:
         df = ak.stock_zt_pool_em(date=ds)
@@ -124,7 +216,18 @@ def fetch_limit_up_details(trade_date: str) -> tuple[list[dict[str, Any]], bool]
     return rows, True
 
 
-def fetch_limit_down_count(trade_date: str) -> int | None:
+def fetch_limit_down_count_wencai(trade_date: str) -> int | None:
+    query = f"{_cn_date(trade_date)}跌停股票"
+    try:
+        df = pywencai.get(query=query, loop=True)
+    except Exception:
+        return None
+    if df is None:
+        return None
+    return int(len(df.index))
+
+
+def fetch_limit_down_count_em(trade_date: str) -> int | None:
     ds = trade_date.replace("-", "")
     try:
         df = ak.stock_zt_pool_dtgc_em(date=ds)
@@ -134,24 +237,25 @@ def fetch_limit_down_count(trade_date: str) -> int | None:
 
 
 def main() -> None:
-    summary_df = fetch_market_activity()
-    if summary_df.empty:
-        raise RuntimeError("未获取到最近交易日概览数据")
-
     summary: list[dict[str, Any]] = []
     details_by_date: dict[str, list[dict[str, Any]]] = {}
+    recent_days = get_recent_trade_dates()
 
-    for _, row in summary_df.iterrows():
-        trade_date = row["date"]
-        details, details_ok = fetch_limit_up_details(trade_date)
+    for trade_date in recent_days:
+        up_count, down_count, flat_count = fetch_up_down_counts_wencai(trade_date)
+        details, details_ok = fetch_limit_up_details_wencai(trade_date)
+        if not details_ok:
+            details, details_ok = fetch_limit_up_details_em(trade_date)
         limit_up_count = len(details) if details_ok else None
-        limit_down_count = fetch_limit_down_count(trade_date)
+        limit_down_count = fetch_limit_down_count_wencai(trade_date)
+        if limit_down_count is None:
+            limit_down_count = fetch_limit_down_count_em(trade_date)
         summary.append(
             {
                 "date": trade_date,
-                "up_count": int(row["up_count"]) if pd.notna(row["up_count"]) else None,
-                "down_count": int(row["down_count"]) if pd.notna(row["down_count"]) else None,
-                "flat_count": int(row["flat_count"]) if pd.notna(row["flat_count"]) else None,
+                "up_count": up_count,
+                "down_count": down_count,
+                "flat_count": flat_count,
                 "limit_up_count": limit_up_count,
                 "limit_down_count": limit_down_count,
             }
