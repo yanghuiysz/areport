@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A 股涨停看板</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="page-header">
+    <h1>A 股涨停看板</h1>
+    <p id="generatedAt" class="muted">数据加载中...</p>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>最近 3 个交易日概览</h2>
+      <div id="summaryCards" class="summary-grid"></div>
+    </section>
+
+    <section>
+      <h2>涨停原因分类</h2>
+      <div class="filters">
+        <label>
+          日期
+          <select id="dateFilter"></select>
+        </label>
+      </div>
+      <div id="reasonStats" class="reason-grid"></div>
+    </section>
+
+    <section>
+      <h2>涨停个股明细</h2>
+      <div class="filters">
+        <label>
+          日期
+          <select id="dateFilterTable"></select>
+        </label>
+        <label>
+          涨停原因
+          <select id="reasonFilter"></select>
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>代码</th>
+              <th>名称</th>
+              <th>涨停原因</th>
+              <th>成交额(亿)</th>
+              <th>换手率(%)</th>
+              <th>首封时间</th>
+              <th>末封时间</th>
+              <th>连板数</th>
+            </tr>
+          </thead>
+          <tbody id="detailTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
