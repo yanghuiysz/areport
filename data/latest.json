@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-04-06 08:29:42",
+  "generated_at": "2026-04-07 04:28:10",
   "summary": [
+    {
+      "date": "2026-04-07",
+      "up_count": 3619,
+      "down_count": 1741,
+      "flat_count": 124,
+      "limit_up_count": 70,
+      "limit_down_count": 16
+    },
     {
       "date": "2026-04-03",
       "up_count": 716,
@@ -16,669 +24,9 @@
       "flat_count": 55,
       "limit_up_count": 32,
       "limit_down_count": 16
-    },
-    {
-      "date": "2026-04-01",
-      "up_count": 4495,
-      "down_count": 887,
-      "flat_count": 103,
-      "limit_up_count": 65,
-      "limit_down_count": 14
     }
   ],
   "limit_up_details_by_date": {
-    "2026-04-01": [
-      {
-        "code": "000078",
-        "name": "海王生物",
-        "reason": "创新药+流感+医疗器械",
-        "amount": 410250832.0,
-        "turnover_rate": 4.703471,
-        "first_limit_up_time": "10:18:49",
-        "last_limit_up_time": "10:18:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000534",
-        "name": "万泽股份",
-        "reason": "燃气轮机零部件+低空经济+微生态活菌",
-        "amount": 450668834.0,
-        "turnover_rate": 2.367517,
-        "first_limit_up_time": "09:45:24",
-        "last_limit_up_time": "09:45:24",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000788",
-        "name": "北大医药",
-        "reason": "创新药+右酮洛芬+抗感染镇痛+原料药获上市批件",
-        "amount": 422455424.0,
-        "turnover_rate": 11.114709,
-        "first_limit_up_time": "10:36:06",
-        "last_limit_up_time": "10:36:06",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000815",
-        "name": "美利云",
-        "reason": "算电协同+东数西算+扭亏为盈+央企",
-        "amount": 1411694290.0,
-        "turnover_rate": 10.076782,
-        "first_limit_up_time": "09:41:40",
-        "last_limit_up_time": "09:41:40",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002083",
-        "name": "孚日股份",
-        "reason": "锂电池添加剂+涂层材料+地方国企",
-        "amount": 927873546.0,
-        "turnover_rate": 7.865007,
-        "first_limit_up_time": "10:51:44",
-        "last_limit_up_time": "10:51:44",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002269",
-        "name": "美邦服饰",
-        "reason": "10亿采购合同+潮流户外+5.0新零售+童装品牌",
-        "amount": 264392262.0,
-        "turnover_rate": 5.720592,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002306",
-        "name": "*ST云网",
-        "reason": "退市风险博弈",
-        "amount": 51017661.6,
-        "turnover_rate": 2.64992,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "10:13:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002408",
-        "name": "齐翔腾达",
-        "reason": "环氧丙烷涨价+甲乙酮龙头+山东国资",
-        "amount": 640283097.0,
-        "turnover_rate": 3.695172,
-        "first_limit_up_time": "13:26:05",
-        "last_limit_up_time": "13:26:05",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002432",
-        "name": "九安医疗",
-        "reason": "AI投资+AI医疗+CGM上市",
-        "amount": 1100034050.0,
-        "turnover_rate": 3.174217,
-        "first_limit_up_time": "09:32:50",
-        "last_limit_up_time": "09:32:50",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002528",
-        "name": "ST英飞拓",
-        "reason": "庭外重组+深圳国资+智慧城市",
-        "amount": 4251734.5,
-        "turnover_rate": 0.101719,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002558",
-        "name": "巨人网络",
-        "reason": "AI游戏+征途IP+回购注销",
-        "amount": 1874729900.0,
-        "turnover_rate": 2.944178,
-        "first_limit_up_time": "13:31:41",
-        "last_limit_up_time": "13:31:41",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002560",
-        "name": "通达股份",
-        "reason": "年报高增+特高压线缆+航空零部件+机器人电缆",
-        "amount": 981085558.0,
-        "turnover_rate": 18.461548,
-        "first_limit_up_time": "09:33:20",
-        "last_limit_up_time": "09:33:20",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002579",
-        "name": "中京电子",
-        "reason": "PCB+存储芯片+AI算力",
-        "amount": 551767588.0,
-        "turnover_rate": 7.823275,
-        "first_limit_up_time": "09:37:48",
-        "last_limit_up_time": "09:39:35",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002624",
-        "name": "完美世界",
-        "reason": "AI游戏+《异环》即将上线+业绩预计扭亏",
-        "amount": 1329948910.0,
-        "turnover_rate": 3.872434,
-        "first_limit_up_time": "10:59:04",
-        "last_limit_up_time": "10:59:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002639",
-        "name": "雪人集团",
-        "reason": "可控核聚变+商业航天+氢能装备+压缩机",
-        "amount": 2182407160.0,
-        "turnover_rate": 18.644299,
-        "first_limit_up_time": "14:37:22",
-        "last_limit_up_time": "14:37:22",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002645",
-        "name": "华宏科技",
-        "reason": "稀土永磁+机器人+汽车拆解+扭亏为盈",
-        "amount": 566129220.0,
-        "turnover_rate": 5.614064,
-        "first_limit_up_time": "09:50:40",
-        "last_limit_up_time": "09:50:40",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002713",
-        "name": "*ST东易",
-        "reason": "算力中心+家装AI+重整完成",
-        "amount": 475176763.0,
-        "turnover_rate": 7.278444,
-        "first_limit_up_time": "09:31:20",
-        "last_limit_up_time": "14:06:44",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002821",
-        "name": "凯莱英",
-        "reason": "年报增长+创新药CDMO+境外订单",
-        "amount": 2237369420.0,
-        "turnover_rate": 6.033252,
-        "first_limit_up_time": "10:32:21",
-        "last_limit_up_time": "10:34:06",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002902",
-        "name": "铭普光磁",
-        "reason": "800G光模块+AI算力+车载磁性元器件",
-        "amount": 460811036.0,
-        "turnover_rate": 9.01547,
-        "first_limit_up_time": "09:30:05",
-        "last_limit_up_time": "09:30:05",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002923",
-        "name": "润都股份",
-        "reason": "创新药+尼古丁+原料药",
-        "amount": 145534193.0,
-        "turnover_rate": 3.331706,
-        "first_limit_up_time": "09:36:07",
-        "last_limit_up_time": "09:36:07",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002940",
-        "name": "昂利康",
-        "reason": "创新药+原料药+定增+年报预增",
-        "amount": 727249671.0,
-        "turnover_rate": 11.707435,
-        "first_limit_up_time": "10:06:04",
-        "last_limit_up_time": "10:06:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300149",
-        "name": "睿智医药",
-        "reason": "AI制药+ADC/CDMO+扭亏预增",
-        "amount": 834996578.0,
-        "turnover_rate": 14.886271,
-        "first_limit_up_time": "10:15:19",
-        "last_limit_up_time": "10:15:19",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300436",
-        "name": "广生堂",
-        "reason": "乙肝创新药+III期临床试验+中药布局",
-        "amount": 1774743510.0,
-        "turnover_rate": 11.763448,
-        "first_limit_up_time": "11:00:34",
-        "last_limit_up_time": "11:00:34",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300834",
-        "name": "星辉环材",
-        "reason": "股权转让+聚苯乙烯+回购完成",
-        "amount": 647199218.0,
-        "turnover_rate": 9.318871,
-        "first_limit_up_time": "09:30:05",
-        "last_limit_up_time": "13:28:09",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "301188",
-        "name": "力诺药包",
-        "reason": "医药包装+海外拓展+中硼硅模制瓶",
-        "amount": 727073982.0,
-        "turnover_rate": 14.332616,
-        "first_limit_up_time": "14:54:23",
-        "last_limit_up_time": "14:54:23",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301312",
-        "name": "智立方",
-        "reason": "CPO设备+半导体设备+机器人",
-        "amount": 1070995770.0,
-        "turnover_rate": 18.043114,
-        "first_limit_up_time": "13:25:32",
-        "last_limit_up_time": "13:25:32",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301392",
-        "name": "汇成真空",
-        "reason": "真空镀膜+苹果链+半导体应用",
-        "amount": 1071630080.0,
-        "turnover_rate": 21.534042,
-        "first_limit_up_time": "13:15:14",
-        "last_limit_up_time": "14:54:23",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600105",
-        "name": "永鼎股份",
-        "reason": "光通信+超导带材+可控核聚变+业绩预增",
-        "amount": 6972947480.0,
-        "turnover_rate": 16.102192,
-        "first_limit_up_time": "13:41:56",
-        "last_limit_up_time": "13:41:56",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600107",
-        "name": "ST尔雅",
-        "reason": "出售资产保壳+服装+储能",
-        "amount": 66149762.0,
-        "turnover_rate": 2.84245,
-        "first_limit_up_time": "10:29:50",
-        "last_limit_up_time": "14:52:29",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600249",
-        "name": "两面针",
-        "reason": "广西国资委入主+复牌+中药牙膏",
-        "amount": 50153410.0,
-        "turnover_rate": 1.300827,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600488",
-        "name": "津药药业",
-        "reason": "创新药+原料药+出口",
-        "amount": 212279370.0,
-        "turnover_rate": 3.378961,
-        "first_limit_up_time": "09:30:20",
-        "last_limit_up_time": "09:30:20",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "600545",
-        "name": "卓郎智能",
-        "reason": "玻璃纤维纱线+AI智慧工厂+纺织机械+回购注销",
-        "amount": 316850288.0,
-        "turnover_rate": 4.514879,
-        "first_limit_up_time": "09:36:54",
-        "last_limit_up_time": "09:36:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600581",
-        "name": "*ST八钢",
-        "reason": "昨日复牌+特钢+中亚出口+央企",
-        "amount": 33914949.0,
-        "turnover_rate": 0.75511,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600594",
-        "name": "益佰制药",
-        "reason": "阿扎胞苷获批+抗肿瘤药+民营医院",
-        "amount": 397303379.0,
-        "turnover_rate": 11.751498,
-        "first_limit_up_time": "10:14:19",
-        "last_limit_up_time": "10:22:50",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600643",
-        "name": "爱建集团",
-        "reason": "多元金融+香港牌照+信托",
-        "amount": 331773965.0,
-        "turnover_rate": 4.173036,
-        "first_limit_up_time": "10:08:34",
-        "last_limit_up_time": "10:08:34",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600666",
-        "name": "奥瑞德",
-        "reason": "算力租赁+扭亏为盈+蓝宝石",
-        "amount": 1625808850.0,
-        "turnover_rate": 10.923578,
-        "first_limit_up_time": "09:33:20",
-        "last_limit_up_time": "09:33:20",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600724",
-        "name": "宁波富达",
-        "reason": "商业地产+并购转型+国企改革",
-        "amount": 266116084.0,
-        "turnover_rate": 2.803627,
-        "first_limit_up_time": "09:34:56",
-        "last_limit_up_time": "10:43:29",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600851",
-        "name": "海欣股份",
-        "reason": "医药制造+投资并购",
-        "amount": 146515927.0,
-        "turnover_rate": 2.372404,
-        "first_limit_up_time": "10:17:49",
-        "last_limit_up_time": "10:17:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601083",
-        "name": "锦江航运",
-        "reason": "年报增长+航运+东南亚航线扩张+上海国资",
-        "amount": 243764099.0,
-        "turnover_rate": 9.739691,
-        "first_limit_up_time": "09:31:05",
-        "last_limit_up_time": "09:33:50",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601133",
-        "name": "柏诚股份",
-        "reason": "半导体洁净室+存储芯片+海外扩张",
-        "amount": 307568919.0,
-        "turnover_rate": 11.121661,
-        "first_limit_up_time": "09:43:02",
-        "last_limit_up_time": "09:43:02",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601515",
-        "name": "衢州东峰",
-        "reason": "固态电池+提前终止减持+回购+衢州国资",
-        "amount": 343980391.0,
-        "turnover_rate": 4.079752,
-        "first_limit_up_time": "14:07:44",
-        "last_limit_up_time": "14:07:44",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601579",
-        "name": "会稽山",
-        "reason": "年报增长+黄酒+高端化+年轻化",
-        "amount": 345448299.0,
-        "turnover_rate": 4.00209,
-        "first_limit_up_time": "10:10:19",
-        "last_limit_up_time": "10:10:19",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601872",
-        "name": "招商轮船",
-        "reason": "VLCC油运+地缘溢价+央企",
-        "amount": 3523412680.0,
-        "turnover_rate": 2.437836,
-        "first_limit_up_time": "09:34:09",
-        "last_limit_up_time": "14:04:13",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603121",
-        "name": "华培动力",
-        "reason": "人形机器人+传感器+氢能",
-        "amount": 159660918.0,
-        "turnover_rate": 2.717871,
-        "first_limit_up_time": "13:03:42",
-        "last_limit_up_time": "13:03:42",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603158",
-        "name": "腾龙股份",
-        "reason": "液冷服务器+新能源车热管理+大众供货",
-        "amount": 411961449.0,
-        "turnover_rate": 7.064622,
-        "first_limit_up_time": "13:07:59",
-        "last_limit_up_time": "13:07:59",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603193",
-        "name": "润本股份",
-        "reason": "驱蚊产品+婴童护理+广州智造基地",
-        "amount": 274688808.0,
-        "turnover_rate": 11.170338,
-        "first_limit_up_time": "13:02:57",
-        "last_limit_up_time": "13:13:44",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603248",
-        "name": "锡华科技",
-        "reason": "风电齿轮箱+大兆瓦产品",
-        "amount": 521539976.0,
-        "turnover_rate": 25.410973,
-        "first_limit_up_time": "09:39:18",
-        "last_limit_up_time": "09:48:09",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603296",
-        "name": "华勤技术",
-        "reason": "H股聆讯+算力服务器+人形机器人",
-        "amount": 1891828220.0,
-        "turnover_rate": 3.831549,
-        "first_limit_up_time": "09:47:54",
-        "last_limit_up_time": "10:06:34",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603429",
-        "name": "*ST集友",
-        "reason": "固态电池+烟草包装+ST摘帽博弈",
-        "amount": 88783107.0,
-        "turnover_rate": 1.634171,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:53:07",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603517",
-        "name": "ST绝味",
-        "reason": "卤味龙头+冷链物流+ST摘帽预期",
-        "amount": 86870779.0,
-        "turnover_rate": 1.186,
-        "first_limit_up_time": "13:52:13",
-        "last_limit_up_time": "13:52:13",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603687",
-        "name": "大胜达",
-        "reason": "拟投GPU+钙钛矿设备+参股曲速科技+纸包装",
-        "amount": 1266264270.0,
-        "turnover_rate": 14.201321,
-        "first_limit_up_time": "09:32:20",
-        "last_limit_up_time": "13:10:44",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603727",
-        "name": "博迈科",
-        "reason": "FPSO南美大单+油气开采及服务+圭亚那项目",
-        "amount": 266365066.0,
-        "turnover_rate": 4.679692,
-        "first_limit_up_time": "10:50:59",
-        "last_limit_up_time": "10:50:59",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603778",
-        "name": "国晟科技",
-        "reason": "异质结光伏+储能+固态电池",
-        "amount": 2980853180.0,
-        "turnover_rate": 17.440728,
-        "first_limit_up_time": "10:53:31",
-        "last_limit_up_time": "13:27:53",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603803",
-        "name": "瑞斯康达",
-        "reason": "CPO+智算中心+高速光模块",
-        "amount": 1154856590.0,
-        "turnover_rate": 20.041812,
-        "first_limit_up_time": "09:32:35",
-        "last_limit_up_time": "13:30:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603822",
-        "name": "ST嘉澳",
-        "reason": "生物航煤+出口白名单+预计扭亏",
-        "amount": 120661432.0,
-        "turnover_rate": 1.780178,
-        "first_limit_up_time": "14:24:11",
-        "last_limit_up_time": "14:24:11",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603912",
-        "name": "佳力图",
-        "reason": "液冷+算力+东数西算",
-        "amount": 552659365.0,
-        "turnover_rate": 10.387363,
-        "first_limit_up_time": "09:58:44",
-        "last_limit_up_time": "10:07:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603937",
-        "name": "丽岛新材",
-        "reason": "电池铝箔扩建+锂电池概念+彩涂铝",
-        "amount": 247326770.0,
-        "turnover_rate": 8.080153,
-        "first_limit_up_time": "10:37:36",
-        "last_limit_up_time": "10:37:36",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603949",
-        "name": "雪龙集团",
-        "reason": "新能源电动风扇+汽车热管理+间接投资宇树科技",
-        "amount": 336645585.0,
-        "turnover_rate": 8.863479,
-        "first_limit_up_time": "09:48:09",
-        "last_limit_up_time": "14:35:36",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603985",
-        "name": "恒润股份",
-        "reason": "算力租赁+风电轴承+扭亏为盈+国企",
-        "amount": 991399164.0,
-        "turnover_rate": 11.329415,
-        "first_limit_up_time": "13:20:14",
-        "last_limit_up_time": "13:20:14",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605006",
-        "name": "山东玻纤",
-        "reason": "玻纤涨价+风电纱+山东国资",
-        "amount": 162975657.0,
-        "turnover_rate": 2.823862,
-        "first_limit_up_time": "09:33:35",
-        "last_limit_up_time": "09:33:35",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605162",
-        "name": "新中港",
-        "reason": "热电联产+储能+回购",
-        "amount": 664231363.0,
-        "turnover_rate": 13.68742,
-        "first_limit_up_time": "10:23:05",
-        "last_limit_up_time": "14:08:14",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "605199",
-        "name": "ST葫芦娃",
-        "reason": "创新药+儿科药+推进内控缺陷整改",
-        "amount": 80438071.0,
-        "turnover_rate": 2.841052,
-        "first_limit_up_time": "10:11:49",
-        "last_limit_up_time": "10:37:53",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "605287",
-        "name": "德才股份",
-        "reason": "AI漫剧+城市更新+扭亏为盈",
-        "amount": 341347929.0,
-        "turnover_rate": 5.557957,
-        "first_limit_up_time": "10:33:36",
-        "last_limit_up_time": "10:57:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605289",
-        "name": "罗曼股份",
-        "reason": "算力订单+液冷服务器+AR/VR+风电EPC",
-        "amount": 457101400.0,
-        "turnover_rate": 4.13091,
-        "first_limit_up_time": "09:40:55",
-        "last_limit_up_time": "10:04:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688488",
-        "name": "艾迪药业",
-        "reason": "抗HIV新药+人源蛋白+国际化",
-        "amount": 484695870.0,
-        "turnover_rate": 6.800871,
-        "first_limit_up_time": "13:11:59",
-        "last_limit_up_time": "14:27:38",
-        "consecutive_boards": 1
-      }
-    ],
     "2026-04-02": [
       {
         "code": "000155",
@@ -1380,6 +728,708 @@
         "turnover_rate": 23.805562,
         "first_limit_up_time": "10:36:06",
         "last_limit_up_time": "11:02:36",
+        "consecutive_boards": 1
+      }
+    ],
+    "2026-04-07": [
+      {
+        "code": "002873",
+        "name": "新天药业",
+        "reason": "创新药+心脑血管+独家品种",
+        "amount": 386221690.0,
+        "turnover_rate": 13.865,
+        "first_limit_up_time": "09:32:09",
+        "last_limit_up_time": "09:45:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002491",
+        "name": "通鼎互联",
+        "reason": "光纤光缆+数据中心+储能消防",
+        "amount": 2313634000.0,
+        "turnover_rate": 14.45,
+        "first_limit_up_time": "09:32:33",
+        "last_limit_up_time": "09:56:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002193",
+        "name": "如意集团",
+        "reason": "跨境电商+数字化智造+外销回暖+减亏",
+        "amount": 59346236.0,
+        "turnover_rate": 3.968,
+        "first_limit_up_time": "09:52:12",
+        "last_limit_up_time": "09:52:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000990",
+        "name": "诚志股份",
+        "reason": "甲醇+氢能源+POE新材料+青岛国资",
+        "amount": 383702650.0,
+        "turnover_rate": 3.176,
+        "first_limit_up_time": "10:03:21",
+        "last_limit_up_time": "10:03:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000019",
+        "name": "深粮控股",
+        "reason": "粮食储备+预制菜+深圳国资",
+        "amount": 135591030.0,
+        "turnover_rate": 4.35,
+        "first_limit_up_time": "10:36:51",
+        "last_limit_up_time": "10:36:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603477",
+        "name": "巨星农牧",
+        "reason": "生猪养殖+成本领先+定增获批",
+        "amount": 578522833.3,
+        "turnover_rate": 6.454,
+        "first_limit_up_time": "11:02:03",
+        "last_limit_up_time": "11:25:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000766",
+        "name": "通化金马",
+        "reason": "阿尔茨海默+创新药+临近获批",
+        "amount": 542771870.0,
+        "turnover_rate": 2.76,
+        "first_limit_up_time": "10:43:45",
+        "last_limit_up_time": "10:43:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002840",
+        "name": "华统股份",
+        "reason": "猪肉+绿色电力",
+        "amount": 923235030.0,
+        "turnover_rate": 9.185,
+        "first_limit_up_time": "10:25:09",
+        "last_limit_up_time": "10:44:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000890",
+        "name": "法尔胜",
+        "reason": "光纤概念+钢帘线剥离+环保设备",
+        "amount": 808317320.0,
+        "turnover_rate": 10.98,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:33:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600691",
+        "name": "潞化科技",
+        "reason": "煤化工+氢能装备+山西国资",
+        "amount": 231360332.09,
+        "turnover_rate": 3.016,
+        "first_limit_up_time": "10:30:15",
+        "last_limit_up_time": "10:30:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000720",
+        "name": "新能泰山",
+        "reason": "光缆+电缆+实控人中国华能+央企",
+        "amount": 480716600.0,
+        "turnover_rate": 5.875,
+        "first_limit_up_time": "09:30:03",
+        "last_limit_up_time": "09:30:03",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "600370",
+        "name": "三房巷",
+        "reason": "瓶级聚酯切片+PTA龙头+机器人概念",
+        "amount": 198309296.57,
+        "turnover_rate": 2.021,
+        "first_limit_up_time": "09:59:11",
+        "last_limit_up_time": "09:59:11",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603988",
+        "name": "中电电机",
+        "reason": "电机+风光电储+黄金",
+        "amount": 392462307.86,
+        "turnover_rate": 6.325,
+        "first_limit_up_time": "10:07:20",
+        "last_limit_up_time": "11:00:56",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600955",
+        "name": "维远股份",
+        "reason": "环氧丙烷+化工新材料+电解液溶剂",
+        "amount": 162407062.0,
+        "turnover_rate": 1.686,
+        "first_limit_up_time": "10:25:15",
+        "last_limit_up_time": "10:25:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300821",
+        "name": "东岳硅材",
+        "reason": "一季度预增+有机硅龙头+新能源应用",
+        "amount": 705169350.0,
+        "turnover_rate": 4.393,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600227",
+        "name": "赤天化",
+        "reason": "煤化工+甲醇+尿素",
+        "amount": 709844368.78,
+        "turnover_rate": 15.013,
+        "first_limit_up_time": "10:11:11",
+        "last_limit_up_time": "10:32:35",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603002",
+        "name": "宏昌电子",
+        "reason": "先进封装+英伟达链+环氧树脂+覆铜板",
+        "amount": 325132252.0,
+        "turnover_rate": 2.736,
+        "first_limit_up_time": "09:37:24",
+        "last_limit_up_time": "09:37:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600195",
+        "name": "中牧股份",
+        "reason": "养殖业+动物保健品+央企",
+        "amount": 529589013.24,
+        "turnover_rate": 6.14,
+        "first_limit_up_time": "10:17:57",
+        "last_limit_up_time": "10:30:16",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600527",
+        "name": "江南高纤",
+        "reason": "复合短纤维+涤纶毛条",
+        "amount": 251493045.56,
+        "turnover_rate": 5.933,
+        "first_limit_up_time": "09:34:27",
+        "last_limit_up_time": "09:49:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002310",
+        "name": "东方新能",
+        "reason": "风光电站+重大资产重组+北京国资",
+        "amount": 591895160.0,
+        "turnover_rate": 4.698,
+        "first_limit_up_time": "09:42:24",
+        "last_limit_up_time": "09:42:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603327",
+        "name": "福蓉科技",
+        "reason": "苹果折叠屏+铝结构件+国企改革",
+        "amount": 52453176.0,
+        "turnover_rate": 0.514,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002631",
+        "name": "德尔未来",
+        "reason": "石墨烯+柔性屏+家居",
+        "amount": 83963186.0,
+        "turnover_rate": 1.61,
+        "first_limit_up_time": "10:16:42",
+        "last_limit_up_time": "10:16:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000586",
+        "name": "汇源通信",
+        "reason": "光纤+特种光缆+车载电子+定增推进",
+        "amount": 25364693.0,
+        "turnover_rate": 0.632,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "603778",
+        "name": "国晟科技",
+        "reason": "异质结光伏+储能+固态电池",
+        "amount": 2405176043.63,
+        "turnover_rate": 12.17,
+        "first_limit_up_time": "10:01:50",
+        "last_limit_up_time": "10:08:32",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600722",
+        "name": "金牛化工",
+        "reason": "甲醇涨价+风电项目+河北国资",
+        "amount": 1209782194.89,
+        "turnover_rate": 12.686,
+        "first_limit_up_time": "10:10:29",
+        "last_limit_up_time": "10:18:05",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600810",
+        "name": "神马股份",
+        "reason": "尼龙66+回购+河南国资",
+        "amount": 336485105.6,
+        "turnover_rate": 3.467,
+        "first_limit_up_time": "10:06:19",
+        "last_limit_up_time": "10:06:19",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000695",
+        "name": "滨海能源",
+        "reason": "固态电池+负极材料+绿电降本",
+        "amount": 347462130.0,
+        "turnover_rate": 12.554,
+        "first_limit_up_time": "10:41:21",
+        "last_limit_up_time": "10:41:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300165",
+        "name": "天瑞仪器",
+        "reason": "锂电池+半导体+摘帽",
+        "amount": 270479540.0,
+        "turnover_rate": 12.468,
+        "first_limit_up_time": "10:47:12",
+        "last_limit_up_time": "11:06:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000912",
+        "name": "泸天化",
+        "reason": "化肥+电子化学品+国企",
+        "amount": 352013610.0,
+        "turnover_rate": 4.413,
+        "first_limit_up_time": "10:42:30",
+        "last_limit_up_time": "10:42:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603421",
+        "name": "鼎信通讯",
+        "reason": "智能电网+液流储能+南网恢复",
+        "amount": 248426236.6,
+        "turnover_rate": 4.382,
+        "first_limit_up_time": "09:35:49",
+        "last_limit_up_time": "09:35:49",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603637",
+        "name": "镇海股份",
+        "reason": "控制权拟变更+石化工程+氢能源+地方国企",
+        "amount": 87243882.28,
+        "turnover_rate": 2.895,
+        "first_limit_up_time": "09:31:25",
+        "last_limit_up_time": "09:31:25",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603255",
+        "name": "鼎际得",
+        "reason": "POE投产+光伏封装+机器人材料",
+        "amount": 66116652.0,
+        "turnover_rate": 3.79,
+        "first_limit_up_time": "10:46:20",
+        "last_limit_up_time": "10:46:20",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002427",
+        "name": "尤夫股份",
+        "reason": "涤纶工业丝+海工装备+扭亏为盈+陕西国资",
+        "amount": 163169380.0,
+        "turnover_rate": 2.73,
+        "first_limit_up_time": "09:51:21",
+        "last_limit_up_time": "09:51:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000909",
+        "name": "*ST数源",
+        "reason": "智慧交通+国企改革+ST博弈",
+        "amount": 25372318.0,
+        "turnover_rate": 0.986,
+        "first_limit_up_time": "10:44:39",
+        "last_limit_up_time": "10:51:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605589",
+        "name": "圣泉集团",
+        "reason": "电子材料+光刻胶+硅碳负极+军工材料",
+        "amount": 1304039167.97,
+        "turnover_rate": 4.367,
+        "first_limit_up_time": "09:36:42",
+        "last_limit_up_time": "09:39:03",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600488",
+        "name": "津药药业",
+        "reason": "原料药出口+甾体激素+非理性炒作",
+        "amount": 1270152581.85,
+        "turnover_rate": 15.524,
+        "first_limit_up_time": "09:30:59",
+        "last_limit_up_time": "09:55:05",
+        "consecutive_boards": 7
+      },
+      {
+        "code": "603813",
+        "name": "*ST原尚",
+        "reason": "退市博弈+氢能物流+电商物流",
+        "amount": 12682630.0,
+        "turnover_rate": 0.534,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603968",
+        "name": "醋化股份",
+        "reason": "精细化工+境外营收高+减亏",
+        "amount": 158554802.9,
+        "turnover_rate": 5.666,
+        "first_limit_up_time": "10:38:15",
+        "last_limit_up_time": "10:38:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688098",
+        "name": "申联生物",
+        "reason": "动保龙头+创新药+年报减亏",
+        "amount": 333907183.38,
+        "turnover_rate": 7.682,
+        "first_limit_up_time": "10:09:07",
+        "last_limit_up_time": "10:09:07",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600654",
+        "name": "中安科",
+        "reason": "算力中心+智慧安防+三季报暴增",
+        "amount": 1001957189.59,
+        "turnover_rate": 10.894,
+        "first_limit_up_time": "09:33:34",
+        "last_limit_up_time": "10:29:34",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600423",
+        "name": "柳化股份",
+        "reason": "双氧水扩产+电子级双氧水+国企改革",
+        "amount": 178397305.9,
+        "turnover_rate": 6.356,
+        "first_limit_up_time": "10:17:02",
+        "last_limit_up_time": "10:43:56",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000703",
+        "name": "恒逸石化",
+        "reason": "PTA+石油化工+文莱二期",
+        "amount": 444806580.0,
+        "turnover_rate": 0.844,
+        "first_limit_up_time": "09:46:12",
+        "last_limit_up_time": "09:49:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002470",
+        "name": "金正大",
+        "reason": "化肥+磷化工+缓控释肥+国企改革",
+        "amount": 992653320.0,
+        "turnover_rate": 10.433,
+        "first_limit_up_time": "10:42:36",
+        "last_limit_up_time": "10:42:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301373",
+        "name": "凌玮科技",
+        "reason": "球形硅微粉+纳米二氧化硅+人形机器人",
+        "amount": 575263990.0,
+        "turnover_rate": 19.111,
+        "first_limit_up_time": "10:01:42",
+        "last_limit_up_time": "10:01:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600664",
+        "name": "哈药股份",
+        "reason": "创新药+保健品+仿制药一致性评价",
+        "amount": 676476509.68,
+        "turnover_rate": 7.125,
+        "first_limit_up_time": "11:05:40",
+        "last_limit_up_time": "11:13:10",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000919",
+        "name": "金陵药业",
+        "reason": "医药制造+创新药+国企",
+        "amount": 282586800.0,
+        "turnover_rate": 5.8,
+        "first_limit_up_time": "10:05:48",
+        "last_limit_up_time": "10:05:48",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002181",
+        "name": "粤传媒",
+        "reason": "AI营销+全运会IP+广州国资+年报增长",
+        "amount": 990741990.0,
+        "turnover_rate": 7.554,
+        "first_limit_up_time": "09:46:54",
+        "last_limit_up_time": "10:31:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002431",
+        "name": "棕榈股份",
+        "reason": "农业+乡村振兴+河南国资",
+        "amount": 208217580.0,
+        "turnover_rate": 4.309,
+        "first_limit_up_time": "10:41:21",
+        "last_limit_up_time": "10:41:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603688",
+        "name": "石英股份",
+        "reason": "石英砂+半导体材料+存储芯片+光纤概念",
+        "amount": 674502145.88,
+        "turnover_rate": 2.752,
+        "first_limit_up_time": "09:44:56",
+        "last_limit_up_time": "09:44:56",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "003042",
+        "name": "中农联合",
+        "reason": "草甘膦+农药原药+供销社",
+        "amount": 174639440.0,
+        "turnover_rate": 7.823,
+        "first_limit_up_time": "10:30:12",
+        "last_limit_up_time": "10:30:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301630",
+        "name": "同宇新材",
+        "reason": "PCB概念+电子树脂+国产替代",
+        "amount": 509328270.0,
+        "turnover_rate": 24.257,
+        "first_limit_up_time": "09:32:09",
+        "last_limit_up_time": "09:41:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002442",
+        "name": "龙星科技",
+        "reason": "炭黑+白炭黑+产能扩张",
+        "amount": 87351154.0,
+        "turnover_rate": 3.033,
+        "first_limit_up_time": "09:43:45",
+        "last_limit_up_time": "09:43:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002119",
+        "name": "康强电子",
+        "reason": "引线框架+半导体封装+10亿扩产+年报增长",
+        "amount": 558037350.0,
+        "turnover_rate": 7.211,
+        "first_limit_up_time": "11:19:06",
+        "last_limit_up_time": "11:19:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600149",
+        "name": "廊坊发展",
+        "reason": "供热+京津冀一体化+国企",
+        "amount": 207901078.0,
+        "turnover_rate": 9.039,
+        "first_limit_up_time": "09:50:21",
+        "last_limit_up_time": "09:50:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600596",
+        "name": "新安股份",
+        "reason": "草甘膦+有机硅+硅能源+人形机器人",
+        "amount": 287948045.13,
+        "turnover_rate": 1.887,
+        "first_limit_up_time": "09:46:33",
+        "last_limit_up_time": "09:46:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000062",
+        "name": "深圳华强",
+        "reason": "存储芯片+华为昇腾+电子分销",
+        "amount": 1363597100.0,
+        "turnover_rate": 4.914,
+        "first_limit_up_time": "09:56:09",
+        "last_limit_up_time": "10:00:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603822",
+        "name": "ST嘉澳",
+        "reason": "生物航煤+扭亏+出口白名单",
+        "amount": 28490247.0,
+        "turnover_rate": 0.426,
+        "first_limit_up_time": "09:35:43",
+        "last_limit_up_time": "09:35:43",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603042",
+        "name": "华脉科技",
+        "reason": "光通信+光纤概念+芯片投资",
+        "amount": 553445771.74,
+        "turnover_rate": 15.372,
+        "first_limit_up_time": "09:33:26",
+        "last_limit_up_time": "09:42:11",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002109",
+        "name": "兴化股份",
+        "reason": "甲醇涨价+煤化工+陕西国资",
+        "amount": 271918960.0,
+        "turnover_rate": 4.938,
+        "first_limit_up_time": "10:08:21",
+        "last_limit_up_time": "10:08:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603123",
+        "name": "翠微股份",
+        "reason": "跨境支付+数字货币+百货零售+北京国资",
+        "amount": 638138569.6,
+        "turnover_rate": 7.557,
+        "first_limit_up_time": "09:30:59",
+        "last_limit_up_time": "09:33:32",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002348",
+        "name": "高乐股份",
+        "reason": "定增募资+潮玩玩具",
+        "amount": 148982540.0,
+        "turnover_rate": 2.067,
+        "first_limit_up_time": "09:31:36",
+        "last_limit_up_time": "09:37:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000652",
+        "name": "泰达股份",
+        "reason": "重大资产重组+资源循环+天津国资",
+        "amount": 142103180.0,
+        "turnover_rate": 2.325,
+        "first_limit_up_time": "09:41:27",
+        "last_limit_up_time": "09:41:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002408",
+        "name": "齐翔腾达",
+        "reason": "环氧丙烷涨价+甲乙酮龙头+山东国资",
+        "amount": 523898980.0,
+        "turnover_rate": 2.961,
+        "first_limit_up_time": "10:12:27",
+        "last_limit_up_time": "10:12:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603260",
+        "name": "合盛硅业",
+        "reason": "有机硅+碳化硅+定增热电",
+        "amount": 493006813.73,
+        "turnover_rate": 0.991,
+        "first_limit_up_time": "10:01:55",
+        "last_limit_up_time": "10:01:55",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301024",
+        "name": "霍普股份",
+        "reason": "绿能+储能+光储充一体化",
+        "amount": 102801413.0,
+        "turnover_rate": 4.819,
+        "first_limit_up_time": "11:04:27",
+        "last_limit_up_time": "11:04:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002528",
+        "name": "ST英飞拓",
+        "reason": "庭外重组+深圳国资+智慧城市",
+        "amount": 44511270.0,
+        "turnover_rate": 1.026,
+        "first_limit_up_time": "09:32:12",
+        "last_limit_up_time": "09:32:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603186",
+        "name": "华正新材",
+        "reason": "覆铜板+AI算力+定增扩产",
+        "amount": 626584781.76,
+        "turnover_rate": 6.005,
+        "first_limit_up_time": "10:09:09",
+        "last_limit_up_time": "10:09:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603687",
+        "name": "大胜达",
+        "reason": "拟投GPU+钙钛矿设备+参股曲速科技+纸包装",
+        "amount": 975692994.0,
+        "turnover_rate": 11.199,
+        "first_limit_up_time": "09:47:48",
+        "last_limit_up_time": "09:48:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002788",
+        "name": "鹭燕医药",
+        "reason": "中药饮片+医药分销+海峡两岸",
+        "amount": 1576480500.0,
+        "turnover_rate": 22.666,
+        "first_limit_up_time": "10:29:21",
+        "last_limit_up_time": "10:34:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002132",
+        "name": "恒星科技",
+        "reason": "有机硅+人形机器人+特高压",
+        "amount": 234885950.0,
+        "turnover_rate": 4.234,
+        "first_limit_up_time": "10:02:48",
+        "last_limit_up_time": "10:02:48",
         "consecutive_boards": 1
       }
     ]
