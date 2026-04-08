@@ -1,9 +1,11 @@
 const generatedAtEl = document.getElementById("generatedAt");
 const refreshBtnEl = document.getElementById("refreshBtn");
 const limitChartEl = document.getElementById("limitChart");
-const upDownChartEl = document.getElementById("upDownChart");
+const upDownChartEl = document.getElementById("updownChart");
 const tabBarEl = document.getElementById("tabBar");
 const tabContentEl = document.getElementById("tabContent");
+let limitChartIns = null;
+let upDownChartIns = null;
 
 const SLOT_COLORS = [
   "#e60012",
@@ -141,76 +143,105 @@ function sortRows(rows, sortState) {
   return list;
 }
 
-function drawLineChart(svgEl, labels, series) {
-  const width = 620;
-  const height = 280;
-  const padding = { top: 20, right: 20, bottom: 40, left: 44 };
-  const innerW = width - padding.left - padding.right;
-  const innerH = height - padding.top - padding.bottom;
-
-  const allValues = series.flatMap((s) => s.values).filter((x) => Number.isFinite(x));
-  if (!allValues.length) {
-    svgEl.innerHTML = '<text x="20" y="40" fill="#6b7280" font-size="14">暂无可绘制数据</text>';
+function renderCharts() {
+  if (!window.echarts) {
+    limitChartEl.innerHTML = '<div class="note">未加载 ECharts</div>';
+    upDownChartEl.innerHTML = '<div class="note">未加载 ECharts</div>';
     return;
   }
-
-  const minVal = Math.min(...allValues);
-  const maxVal = Math.max(...allValues);
-  const yMin = Math.min(0, minVal);
-  const yMax = maxVal === yMin ? yMin + 1 : maxVal;
-
-  const xPos = (idx) => {
-    if (labels.length === 1) return padding.left + innerW / 2;
-    return padding.left + (idx / (labels.length - 1)) * innerW;
-  };
-  const yPos = (val) => padding.top + ((yMax - val) / (yMax - yMin)) * innerH;
-
-  let html = "";
-  html += `<line x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${padding.top + innerH}" stroke="#d9d9d9" />`;
-  html += `<line x1="${padding.left}" y1="${padding.top + innerH}" x2="${padding.left + innerW}" y2="${padding.top + innerH}" stroke="#d9d9d9" />`;
-
-  labels.forEach((label, idx) => {
-    html += `<text x="${xPos(idx)}" y="${height - 12}" text-anchor="middle" fill="#8c8c8c" font-size="12">${String(label).slice(5)}</text>`;
-  });
-
-  series.forEach((s) => {
-    const points = s.values
-      .map((v, idx) => (Number.isFinite(v) ? `${xPos(idx)},${yPos(v)}` : null))
-      .filter(Boolean)
-      .join(" ");
-    html += `<polyline fill="none" stroke="${s.color}" stroke-width="2.6" points="${points}" />`;
-    s.values.forEach((v, idx) => {
-      if (!Number.isFinite(v)) return;
-      const x = xPos(idx);
-      const y = yPos(v);
-      html += `<circle cx="${x}" cy="${y}" r="3.5" fill="${s.color}" />`;
-      html += `<text x="${x}" y="${y - 8}" text-anchor="middle" fill="${s.color}" font-size="11">${v}</text>`;
-    });
-  });
-
-  series.forEach((s, idx) => {
-    const lx = padding.left + idx * 130;
-    const ly = 14;
-    html += `<line x1="${lx}" y1="${ly}" x2="${lx + 20}" y2="${ly}" stroke="${s.color}" stroke-width="3" />`;
-    html += `<text x="${lx + 25}" y="${ly + 4}" fill="#595959" font-size="12">${s.label}</text>`;
-  });
-
-  svgEl.innerHTML = html;
-}
-
-function renderCharts() {
   const ordered = [...state.summary].sort((a, b) => a.date.localeCompare(b.date));
-  const labels = ordered.map((x) => x.date);
+  const labels = ordered.map((x) => String(x.date));
+  const limitUp = ordered.map((x) => Number(x.limit_up_count) || 0);
+  const limitDown = ordered.map((x) => Number(x.limit_down_count) || 0);
+  const up = ordered.map((x) => Number(x.up_count) || 0);
+  const down = ordered.map((x) => Number(x.down_count) || 0);
 
-  drawLineChart(limitChartEl, labels, [
-    { label: "涨停家数", color: "#e60012", values: ordered.map((x) => Number(x.limit_up_count)) },
-    { label: "跌停家数", color: "#13c2c2", values: ordered.map((x) => Number(x.limit_down_count)) }
-  ]);
+  if (!limitChartIns) limitChartIns = window.echarts.init(limitChartEl);
+  if (!upDownChartIns) upDownChartIns = window.echarts.init(upDownChartEl);
 
-  drawLineChart(upDownChartEl, labels, [
-    { label: "上涨家数", color: "#e60012", values: ordered.map((x) => Number(x.up_count)) },
-    { label: "下跌家数", color: "#52c41a", values: ordered.map((x) => Number(x.down_count)) }
-  ]);
+  limitChartIns.setOption({
+    tooltip: { trigger: "axis", axisPointer: { type: "cross" } },
+    legend: { data: ["涨停家数", "跌停家数"], bottom: 0 },
+    grid: { left: "3%", right: "4%", bottom: "12%", top: "8%", containLabel: true },
+    xAxis: { type: "category", data: labels, axisLabel: { fontSize: 13, fontWeight: "bold" } },
+    yAxis: { type: "value", name: "家数", axisLabel: { fontSize: 12 } },
+    series: [
+      {
+        name: "涨停家数",
+        type: "line",
+        data: limitUp,
+        smooth: true,
+        symbol: "circle",
+        symbolSize: 10,
+        lineStyle: { width: 3, color: "#e60012" },
+        itemStyle: { color: "#e60012" },
+        areaStyle: {
+          color: new window.echarts.graphic.LinearGradient(0, 0, 0, 1, [
+            { offset: 0, color: "rgba(230,0,18,0.25)" },
+            { offset: 1, color: "rgba(230,0,18,0.02)" }
+          ])
+        }
+      },
+      {
+        name: "跌停家数",
+        type: "line",
+        data: limitDown,
+        smooth: true,
+        symbol: "circle",
+        symbolSize: 10,
+        lineStyle: { width: 3, color: "#13c2c2" },
+        itemStyle: { color: "#13c2c2" },
+        areaStyle: {
+          color: new window.echarts.graphic.LinearGradient(0, 0, 0, 1, [
+            { offset: 0, color: "rgba(19,194,194,0.2)" },
+            { offset: 1, color: "rgba(19,194,194,0.02)" }
+          ])
+        }
+      }
+    ]
+  });
+
+  upDownChartIns.setOption({
+    tooltip: { trigger: "axis", axisPointer: { type: "cross" } },
+    legend: { data: ["上涨家数", "下跌家数"], bottom: 0 },
+    grid: { left: "3%", right: "4%", bottom: "12%", top: "8%", containLabel: true },
+    xAxis: { type: "category", data: labels, axisLabel: { fontSize: 13, fontWeight: "bold" } },
+    yAxis: { type: "value", name: "家数", axisLabel: { fontSize: 12 } },
+    series: [
+      {
+        name: "上涨家数",
+        type: "line",
+        data: up,
+        smooth: true,
+        symbol: "diamond",
+        symbolSize: 10,
+        lineStyle: { width: 3, color: "#e60012" },
+        itemStyle: { color: "#e60012", borderColor: "#fff", borderWidth: 2 },
+        areaStyle: {
+          color: new window.echarts.graphic.LinearGradient(0, 0, 0, 1, [
+            { offset: 0, color: "rgba(230,0,18,0.18)" },
+            { offset: 1, color: "rgba(230,0,18,0.02)" }
+          ])
+        }
+      },
+      {
+        name: "下跌家数",
+        type: "line",
+        data: down,
+        smooth: true,
+        symbol: "diamond",
+        symbolSize: 10,
+        lineStyle: { width: 3, color: "#52c41a" },
+        itemStyle: { color: "#52c41a", borderColor: "#fff", borderWidth: 2 },
+        areaStyle: {
+          color: new window.echarts.graphic.LinearGradient(0, 0, 0, 1, [
+            { offset: 0, color: "rgba(82,196,26,0.15)" },
+            { offset: 1, color: "rgba(82,196,26,0.02)" }
+          ])
+        }
+      }
+    ]
+  });
 }
 
 function findSummary(date) {
@@ -239,12 +270,12 @@ function renderStatsCards(summary, rows) {
   const totalAmountYi = rows.reduce((sum, x) => sum + (Number(x.amount) || 0), 0) / 1e8;
   return `
     <section class="stats">
-      <article class="stat-card"><div class="stat-num up">${summary.up_count ?? "-"}</div><div class="stat-label">上涨家数</div></article>
-      <article class="stat-card"><div class="stat-num down">${summary.down_count ?? "-"}</div><div class="stat-label">下跌家数</div></article>
-      <article class="stat-card"><div class="stat-num up">${summary.limit_up_count ?? "-"}</div><div class="stat-label">涨停家数</div></article>
-      <article class="stat-card"><div class="stat-num cyan">${summary.limit_down_count ?? "-"}</div><div class="stat-label">跌停家数</div></article>
-      <article class="stat-card"><div class="stat-num">${rows.length}</div><div class="stat-label">涨停明细数</div></article>
-      <article class="stat-card"><div class="stat-num" style="font-size:20px">${totalAmountYi.toFixed(2)}<span style="font-size:13px">亿</span></div><div class="stat-label">总成交额</div></article>
+      <article class="stat-card"><div class="num" style="color:#e60012">${summary.up_count ?? "-"}</div><div class="label">上涨家数</div></article>
+      <article class="stat-card"><div class="num" style="color:#52c41a">${summary.down_count ?? "-"}</div><div class="label">下跌家数</div></article>
+      <article class="stat-card"><div class="num" style="color:#ff4d4f">${summary.limit_up_count ?? "-"}</div><div class="label">涨停家数</div></article>
+      <article class="stat-card"><div class="num" style="color:#13c2c2">${summary.limit_down_count ?? "-"}</div><div class="label">跌停家数</div></article>
+      <article class="stat-card"><div class="num">${rows.length}</div><div class="label">涨停总数</div></article>
+      <article class="stat-card"><div class="num" style="color:#52c41a;font-size:20px">${totalAmountYi.toFixed(2)}<span style="font-size:13px">亿</span></div><div class="label">总成交额</div></article>
     </section>
   `;
 }
@@ -301,8 +332,8 @@ function renderConceptTable(group, date, idx) {
     .join("");
 
   return `
-    <article class="concept-card" data-concept="${group.concept}">
-      <header class="concept-head" style="border-left-color:${color};background:${color}12;">
+    <article class="card" data-concept="${group.concept}">
+      <header class="card-head" style="border-left:4px solid ${color};background:${color}12;">
         <span style="color:${color}">${group.concept}</span>
         <span class="concept-meta">${group.count}只 | 成交额 ${toYi(group.amount)}亿</span>
       </header>
@@ -312,9 +343,9 @@ function renderConceptTable(group, date, idx) {
             <tr>
               <th class="idx-col">序号</th>
               <th>名称/代码</th>
-              <th class="sort-th" data-date="${date}" data-concept="${group.concept}" data-sort-key="amount">成交额(亿)</th>
+              <th class="sort-th" data-dir="${sortState.key === "amount" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="amount">成交额(亿)<span class="sort-arrow"></span></th>
               <th>换手率(%)</th>
-              <th class="sort-th" data-date="${date}" data-concept="${group.concept}" data-sort-key="time">首封时间</th>
+              <th class="sort-th" data-dir="${sortState.key === "time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="time">首封时间<span class="sort-arrow"></span></th>
               <th>末封时间</th>
               <th>连板数</th>
               <th>涨停原因</th>
@@ -402,4 +433,8 @@ async function loadData() {
 }
 
 refreshBtnEl.addEventListener("click", loadData);
+window.addEventListener("resize", () => {
+  if (limitChartIns) limitChartIns.resize();
+  if (upDownChartIns) upDownChartIns.resize();
+});
 loadData();

@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>A股涨停日报看板</title>
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
@@ -17,11 +18,11 @@
     <section class="chart-row">
       <article class="chart-wrap">
         <h2 class="section-title">涨停/跌停家数趋势</h2>
-        <svg id="limitChart" viewBox="0 0 620 280" preserveAspectRatio="none"></svg>
+        <div id="limitChart"></div>
       </article>
       <article class="chart-wrap">
         <h2 class="section-title">上涨/下跌家数趋势</h2>
-        <svg id="upDownChart" viewBox="0 0 620 280" preserveAspectRatio="none"></svg>
+        <div id="updownChart"></div>
       </article>
     </section>
 
