@@ -3,82 +3,31 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>A 股涨停看板</title>
+  <title>A股涨停日报看板</title>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-  <header class="page-header">
-    <h1>A 股涨停看板</h1>
-    <p id="generatedAt" class="muted">数据加载中...</p>
-    <button id="refreshBtn" type="button" class="btn">手动刷新数据</button>
-  </header>
+  <div class="wrap">
+    <header class="header">
+      <h1>A股涨停日报对比</h1>
+      <p id="generatedAt" class="sub">数据加载中...</p>
+      <button id="refreshBtn" type="button" class="refresh-btn">刷新数据</button>
+    </header>
 
-  <main class="container">
-    <section>
-      <h2>最近 3 个交易日概览</h2>
-      <div id="summaryCards" class="summary-grid"></div>
+    <section class="chart-row">
+      <article class="chart-wrap">
+        <h2 class="section-title">涨停/跌停家数趋势</h2>
+        <svg id="limitChart" viewBox="0 0 620 280" preserveAspectRatio="none"></svg>
+      </article>
+      <article class="chart-wrap">
+        <h2 class="section-title">上涨/下跌家数趋势</h2>
+        <svg id="upDownChart" viewBox="0 0 620 280" preserveAspectRatio="none"></svg>
+      </article>
     </section>
 
-    <section>
-      <h2>最近 3 天曲线图</h2>
-      <div class="chart-grid">
-        <div class="chart-card">
-          <h3>涨跌家数</h3>
-          <svg id="upDownChart" class="chart-svg" viewBox="0 0 620 260" preserveAspectRatio="none"></svg>
-        </div>
-        <div class="chart-card">
-          <h3>涨跌停家数</h3>
-          <svg id="limitChart" class="chart-svg" viewBox="0 0 620 260" preserveAspectRatio="none"></svg>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <h2>涨停概念分类</h2>
-      <div class="filters">
-        <label>
-          日期
-          <select id="dateFilter"></select>
-        </label>
-      </div>
-      <div id="reasonStats" class="reason-grid"></div>
-    </section>
-
-    <section>
-      <h2>涨停个股明细</h2>
-      <div class="filters">
-        <label>
-          日期
-          <select id="dateFilterTable"></select>
-        </label>
-        <label>
-          概念分类
-          <select id="reasonFilter"></select>
-        </label>
-        <label class="checkbox-label">
-          <input id="top3Only" type="checkbox">
-          仅看概念Top3
-        </label>
-      </div>
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th data-sort-key="name" class="sortable">名称</th>
-              <th data-sort-key="primary_concept" class="sortable">概念分类</th>
-              <th data-sort-key="reason" class="sortable">涨停原因</th>
-              <th data-sort-key="amount" class="sortable">成交额(亿)</th>
-              <th data-sort-key="turnover_rate" class="sortable">换手率(%)</th>
-              <th data-sort-key="first_limit_up_time" class="sortable">首封时间</th>
-              <th data-sort-key="last_limit_up_time" class="sortable">末封时间</th>
-              <th data-sort-key="consecutive_boards" class="sortable">连板数</th>
-            </tr>
-          </thead>
-          <tbody id="detailTableBody"></tbody>
-        </table>
-      </div>
-    </section>
-  </main>
+    <nav id="tabBar" class="tab-bar"></nav>
+    <main id="tabContent" class="tab-content"></main>
+  </div>
 
   <script src="assets/app.js"></script>
 </body>

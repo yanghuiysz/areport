@@ -72,6 +72,13 @@ def _to_int_count(value: Any) -> int | None:
     return int(number)
 
 
+def _is_st_stock(name: Any) -> bool:
+    if name is None:
+        return False
+    normalized = str(name).strip().upper().replace(" ", "")
+    return "ST" in normalized
+
+
 def _extract_ds_from_columns(columns: list[Any]) -> str | None:
     for col in columns:
         match = re.search(r"\[(\d{8})\]", str(col))
@@ -174,10 +181,13 @@ def fetch_limit_up_details_wencai(trade_date: str) -> tuple[list[dict[str, Any]]
 
     rows: list[dict[str, Any]] = []
     for _, row in df.iterrows():
+        stock_name = str(row[name_col]).strip() if name_col and pd.notna(row[name_col]) else None
+        if _is_st_stock(stock_name):
+            continue
         reason_text = row[reason_col] if reason_col and pd.notna(row[reason_col]) else "其他"
         item = {
             "code": str(row[code_col]).split(".")[0] if code_col and pd.notna(row[code_col]) else None,
-            "name": str(row[name_col]).strip() if name_col and pd.notna(row[name_col]) else None,
+            "name": stock_name,
             "reason": str(reason_text).strip(),
             "amount": _to_number(row[amount_col]) if amount_col else None,
             "turnover_rate": _to_number(row[turnover_col]) if turnover_col else None,
@@ -211,6 +221,8 @@ def fetch_limit_up_details_em(trade_date: str) -> tuple[list[dict[str, Any]], bo
             "last_limit_up_time": _normalize_time(_pick_value(row, ["最后封板时间", "末次封板时间"])),
             "consecutive_boards": _pick_value(row, ["连板数", "连板天数"]),
         }
+        if _is_st_stock(item.get("name")):
+            continue
         rows.append(item)
 
     return rows, True
