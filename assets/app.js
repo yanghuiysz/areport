@@ -48,6 +48,12 @@ function toYi(amount) {
   return (n / 1e8).toFixed(2);
 }
 
+function formatPct(value) {
+  const n = Number(value);
+  if (!Number.isFinite(n)) return "-";
+  return n.toFixed(2);
+}
+
 function normalizeTime(time) {
   if (!time) return "-";
   const text = String(time).trim();
@@ -135,8 +141,14 @@ function sortRows(rows, sortState) {
     if (sortState.key === "amount") {
       return ((Number(a.amount) || 0) - (Number(b.amount) || 0)) * dirMul;
     }
-    if (sortState.key === "time") {
+    if (sortState.key === "turnover_rate") {
+      return ((Number(a.turnover_rate) || 0) - (Number(b.turnover_rate) || 0)) * dirMul;
+    }
+    if (sortState.key === "time" || sortState.key === "first_time") {
       return (parseTimeNumber(a.first_limit_up_time) - parseTimeNumber(b.first_limit_up_time)) * dirMul;
+    }
+    if (sortState.key === "last_time") {
+      return (parseTimeNumber(a.last_limit_up_time) - parseTimeNumber(b.last_limit_up_time)) * dirMul;
     }
     return String(a.name || "").localeCompare(String(b.name || ""), "zh-CN") * dirMul;
   });
@@ -321,7 +333,7 @@ function renderConceptTable(group, date, idx) {
             <div class="code-text">${market}${code}</div>
           </td>
           <td>${toYi(row.amount)}</td>
-          <td>${row.turnover_rate ?? "-"}</td>
+          <td>${formatPct(row.turnover_rate)}</td>
           <td>${firstTime}</td>
           <td>${lastTime}</td>
           <td>${row.consecutive_boards ?? "-"}</td>
@@ -344,9 +356,9 @@ function renderConceptTable(group, date, idx) {
               <th class="idx-col">序号</th>
               <th>名称/代码</th>
               <th class="sort-th" data-dir="${sortState.key === "amount" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="amount">成交额(亿)<span class="sort-arrow"></span></th>
-              <th>换手率(%)</th>
-              <th class="sort-th" data-dir="${sortState.key === "time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="time">首封时间<span class="sort-arrow"></span></th>
-              <th>末封时间</th>
+              <th class="sort-th" data-dir="${sortState.key === "turnover_rate" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="turnover_rate">换手率(%)<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "first_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="first_time">首封时间<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "last_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="last_time">末封时间<span class="sort-arrow"></span></th>
               <th>连板数</th>
               <th>涨停原因</th>
             </tr>

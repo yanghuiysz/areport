@@ -72,6 +72,12 @@ def _to_int_count(value: Any) -> int | None:
     return int(number)
 
 
+def _round_2(value: float | None) -> float | None:
+    if value is None:
+        return None
+    return round(value, 2)
+
+
 def _is_st_stock(name: Any) -> bool:
     if name is None:
         return False
@@ -190,7 +196,7 @@ def fetch_limit_up_details_wencai(trade_date: str) -> tuple[list[dict[str, Any]]
             "name": stock_name,
             "reason": str(reason_text).strip(),
             "amount": _to_number(row[amount_col]) if amount_col else None,
-            "turnover_rate": _to_number(row[turnover_col]) if turnover_col else None,
+            "turnover_rate": _round_2(_to_number(row[turnover_col])) if turnover_col else None,
             "first_limit_up_time": _normalize_time(row[first_col]) if first_col else None,
             "last_limit_up_time": _normalize_time(row[last_col]) if last_col else None,
             "consecutive_boards": _to_int_count(row[boards_col]) if boards_col else None,
@@ -216,7 +222,7 @@ def fetch_limit_up_details_em(trade_date: str) -> tuple[list[dict[str, Any]], bo
             "name": _pick_value(row, ["名称", "股票简称"]),
             "reason": str(reason).strip() if reason is not None else "其他",
             "amount": _to_number(_pick_value(row, ["成交额", "成交金额"])),
-            "turnover_rate": _to_number(_pick_value(row, ["换手率"])),
+            "turnover_rate": _round_2(_to_number(_pick_value(row, ["换手率"]))),
             "first_limit_up_time": _normalize_time(_pick_value(row, ["首次封板时间", "首封时间", "首次涨停时间"])),
             "last_limit_up_time": _normalize_time(_pick_value(row, ["最后封板时间", "末次封板时间"])),
             "consecutive_boards": _pick_value(row, ["连板数", "连板天数"]),
