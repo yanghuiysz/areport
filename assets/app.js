@@ -54,13 +54,6 @@ function formatPct(value) {
   return n.toFixed(2);
 }
 
-function clamp01(value) {
-  if (!Number.isFinite(value)) return 0;
-  if (value < 0) return 0;
-  if (value > 1) return 1;
-  return value;
-}
-
 function normalizeTime(time) {
   if (!time) return "-";
   const text = String(time).trim();
@@ -145,9 +138,6 @@ function sortRows(rows, sortState) {
   const list = [...rows];
   const dirMul = sortState.dir === "asc" ? 1 : -1;
   list.sort((a, b) => {
-    if (sortState.key === "lead_score") {
-      return ((Number(a._lead_score) || 0) - (Number(b._lead_score) || 0)) * dirMul;
-    }
     if (sortState.key === "amount") {
       return ((Number(a.amount) || 0) - (Number(b.amount) || 0)) * dirMul;
     }
@@ -163,59 +153,6 @@ function sortRows(rows, sortState) {
     return String(a.name || "").localeCompare(String(b.name || ""), "zh-CN") * dirMul;
   });
   return list;
-}
-
-function calculateLeadScores(rows) {
-  const validFirstTimes = rows.map((r) => parseTimeNumber(r.first_limit_up_time)).filter((x) => x >= 0);
-  const validLastTimes = rows.map((r) => parseTimeNumber(r.last_limit_up_time)).filter((x) => x >= 0);
-  const validAmounts = rows.map((r) => Number(r.amount) || 0);
-  const validBoards = rows.map((r) => Number(r.consecutive_boards) || 0);
-
-  const minFirst = validFirstTimes.length ? Math.min(...validFirstTimes) : 0;
-  const maxFirst = validFirstTimes.length ? Math.max(...validFirstTimes) : 1;
-  const minLast = validLastTimes.length ? Math.min(...validLastTimes) : 0;
-  const maxLast = validLastTimes.length ? Math.max(...validLastTimes) : 1;
-  const minAmt = validAmounts.length ? Math.min(...validAmounts) : 0;
-  const maxAmt = validAmounts.length ? Math.max(...validAmounts) : 1;
-  const minBoards = validBoards.length ? Math.min(...validBoards) : 0;
-  const maxBoards = validBoards.length ? Math.max(...validBoards) : 1;
-
-  return rows.map((row) => {
-    const firstTime = parseTimeNumber(row.first_limit_up_time);
-    const lastTime = parseTimeNumber(row.last_limit_up_time);
-    const amount = Number(row.amount) || 0;
-    const boards = Number(row.consecutive_boards) || 0;
-    const turnover = Number(row.turnover_rate);
-
-    const earlyScore = (maxFirst === minFirst || firstTime < 0)
-      ? 0.5
-      : clamp01((maxFirst - firstTime) / (maxFirst - minFirst));
-    const amountScore = (maxAmt === minAmt)
-      ? 0.5
-      : clamp01((amount - minAmt) / (maxAmt - minAmt));
-    const boardScore = (maxBoards === minBoards)
-      ? clamp01(boards / 6)
-      : clamp01((boards - minBoards) / (maxBoards - minBoards));
-    const closeScore = (maxLast === minLast || lastTime < 0)
-      ? 0.5
-      : clamp01((lastTime - minLast) / (maxLast - minLast));
-    const turnoverScore = Number.isFinite(turnover)
-      ? clamp01(1 - Math.abs(turnover - 8) / 8)
-      : 0.4;
-
-    const total = (
-      earlyScore * 0.35 +
-      boardScore * 0.25 +
-      amountScore * 0.2 +
-      closeScore * 0.1 +
-      turnoverScore * 0.1
-    ) * 100;
-
-    return {
-      ...row,
-      _lead_score: Number(total.toFixed(1))
-    };
-  });
 }
 
 function renderCharts() {
@@ -380,8 +317,7 @@ function sortStateFor(date, concept) {
 function renderConceptTable(group, date, idx) {
   const color = SLOT_COLORS[idx % SLOT_COLORS.length];
   const sortState = sortStateFor(date, group.concept);
-  const rowsWithScore = calculateLeadScores(group.rows);
-  const rows = sortRows(rowsWithScore, sortState);
+  const rows = sortRows(group.rows, sortState);
 
   const tableRows = rows
     .map((row, i) => {
@@ -401,7 +337,6 @@ function renderConceptTable(group, date, idx) {
           <td>${firstTime}</td>
           <td>${lastTime}</td>
           <td>${row.consecutive_boards ?? "-"}</td>
-          <td style="font-weight:700;color:#e60012">${row._lead_score ?? "-"}</td>
           <td>${row.reason || "-"}</td>
         </tr>
       `;
@@ -425,7 +360,6 @@ function renderConceptTable(group, date, idx) {
               <th class="sort-th" data-dir="${sortState.key === "first_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="first_time">首封时间<span class="sort-arrow"></span></th>
               <th class="sort-th" data-dir="${sortState.key === "last_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="last_time">末封时间<span class="sort-arrow"></span></th>
               <th>连板数</th>
-              <th class="sort-th" data-dir="${sortState.key === "lead_score" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="lead_score">带动性分数<span class="sort-arrow"></span></th>
               <th>涨停原因</th>
             </tr>
           </thead>
