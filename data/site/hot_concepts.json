@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10 04:36:52",
+  "generated_at": "2026-04-10 06:14:55",
   "latest_trade_date": "2026-04-10",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -14,54 +14,94 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "人形机器人",
-      "concept_code": null,
-      "plate_code": "886069",
-      "heat_score": 81.98,
-      "change_pct": 1.67,
-      "net_inflow_yi": 63.34,
-      "change_rank": 21,
-      "flow_rank": 1,
-      "change_score": 67.25,
-      "flow_score": 100.0,
-      "limit_up_count": 2,
+      "name": "动力电池回收",
+      "concept_code": "307822",
+      "plate_code": "885944",
+      "heat_score": 91.73,
+      "change_pct": 3.13,
+      "net_inflow_yi": 67.46,
+      "change_rank": 1,
+      "flow_rank": 5,
+      "change_score": 100.0,
+      "flow_score": 81.62,
+      "limit_up_count": 5,
       "limit_up_stocks": [
         {
-          "code": "603933",
-          "name": "睿能科技",
-          "reason": "复牌+拟收购博泰智能+精密传动+IC分销",
+          "code": "002580",
+          "name": "圣阳股份",
+          "reason": "储能电池+液冷+山东国资",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:03",
-          "last_limit_up_time": "09:37:39",
-          "turnover_rate": 7.56,
-          "amount": 382608603.28
+          "first_limit_up_time": "10:14:30",
+          "last_limit_up_time": "13:51:36",
+          "turnover_rate": 41.35,
+          "amount": 3447142100.0
         },
         {
-          "code": "688573",
-          "name": "信宇人",
-          "reason": "锂电设备+固态电池",
+          "code": "002074",
+          "name": "国轩高科",
+          "reason": "固态电池+储能订单+动力电池",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:28",
-          "last_limit_up_time": "09:38:28",
-          "turnover_rate": 8.96,
-          "amount": 107173318.11
+          "first_limit_up_time": "09:36:36",
+          "last_limit_up_time": "13:15:36",
+          "turnover_rate": 5.84,
+          "amount": 3902779800.0
+        },
+        {
+          "code": "002418",
+          "name": "康盛股份",
+          "reason": "液冷+算力租赁+家电制冷",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:36:48",
+          "last_limit_up_time": "09:36:48",
+          "turnover_rate": 8.15,
+          "amount": 514018080.0
+        },
+        {
+          "code": "603088",
+          "name": "宁波精达",
+          "reason": "液冷+机器人+换热器+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:47:23",
+          "last_limit_up_time": "10:42:44",
+          "turnover_rate": 10.44,
+          "amount": 602116280.54
+        },
+        {
+          "code": "002733",
+          "name": "雄韬股份",
+          "reason": "算力UPS+氢能+固态电池",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:15",
+          "last_limit_up_time": "14:00:15",
+          "turnover_rate": 11.15,
+          "amount": 1192565060.0
         }
       ]
     },
     {
       "rank": 2,
-      "name": "中船系",
-      "concept_code": "301713",
-      "plate_code": "885860",
-      "heat_score": 81.73,
-      "change_pct": 3.18,
-      "net_inflow_yi": -7.89,
-      "change_rank": 1,
-      "flow_rank": 239,
-      "change_score": 100.0,
-      "flow_score": 59.4,
-      "limit_up_count": 1,
+      "name": "钠离子电池",
+      "concept_code": "301096",
+      "plate_code": "885928",
+      "heat_score": 83.45,
+      "change_pct": 2.76,
+      "net_inflow_yi": 53.32,
+      "change_rank": 4,
+      "flow_rank": 10,
+      "change_score": 91.53,
+      "flow_score": 73.58,
+      "limit_up_count": 5,
       "limit_up_stocks": [
+        {
+          "code": "002580",
+          "name": "圣阳股份",
+          "reason": "储能电池+液冷+山东国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:14:30",
+          "last_limit_up_time": "13:51:36",
+          "turnover_rate": 41.35,
+          "amount": 3447142100.0
+        },
         {
           "code": "600482",
           "name": "中国动力",
@@ -69,95 +109,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:30:44",
           "last_limit_up_time": "09:30:44",
-          "turnover_rate": 1.51,
-          "amount": 1386889834.42
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "动力电池回收",
-      "concept_code": "307822",
-      "plate_code": "885944",
-      "heat_score": 81.61,
-      "change_pct": 2.48,
-      "net_inflow_yi": 24.21,
-      "change_rank": 2,
-      "flow_rank": 22,
-      "change_score": 84.82,
-      "flow_score": 77.7,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "002074",
-          "name": "国轩高科",
-          "reason": "固态电池+储能订单+动力电池",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:36",
-          "last_limit_up_time": "11:18:00",
-          "turnover_rate": 4.38,
-          "amount": 2918033900.0
-        },
-        {
-          "code": "002418",
-          "name": "康盛股份",
-          "reason": "液冷+算力租赁+家电制冷",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:48",
-          "last_limit_up_time": "09:36:48",
-          "turnover_rate": 7.83,
-          "amount": 493692830.0
-        },
-        {
-          "code": "603088",
-          "name": "宁波精达",
-          "reason": "液冷+机器人+换热器+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:23",
-          "last_limit_up_time": "10:42:44",
-          "turnover_rate": 10.06,
-          "amount": 579464235.74
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "AI眼镜",
-      "concept_code": null,
-      "plate_code": "886085",
-      "heat_score": 78.43,
-      "change_pct": 1.57,
-      "net_inflow_yi": 54.13,
-      "change_rank": 30,
-      "flow_rank": 2,
-      "change_score": 65.08,
-      "flow_score": 94.75,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 5,
-      "name": "两轮车",
-      "concept_code": "301248",
-      "plate_code": "885974",
-      "heat_score": 77.74,
-      "change_pct": 2.47,
-      "net_inflow_yi": 9.57,
-      "change_rank": 3,
-      "flow_rank": 44,
-      "change_score": 84.6,
-      "flow_score": 69.35,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "002364",
-          "name": "中恒电气",
-          "reason": "宁德时代入股+HVDC+数据中心电源",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
-          "turnover_rate": 0.51,
-          "amount": 99032430.0
+          "turnover_rate": 1.82,
+          "amount": 1666764923.98
         },
         {
           "code": "002074",
@@ -165,111 +118,9 @@
           "reason": "固态电池+储能订单+动力电池",
           "consecutive_boards": 1,
           "first_limit_up_time": "09:36:36",
-          "last_limit_up_time": "11:18:00",
-          "turnover_rate": 4.38,
-          "amount": 2918033900.0
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "存储芯片",
-      "concept_code": null,
-      "plate_code": "886042",
-      "heat_score": 76.87,
-      "change_pct": 1.7,
-      "net_inflow_yi": 42.01,
-      "change_rank": 20,
-      "flow_rank": 8,
-      "change_score": 67.9,
-      "flow_score": 87.84,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "603933",
-          "name": "睿能科技",
-          "reason": "复牌+拟收购博泰智能+精密传动+IC分销",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:03",
-          "last_limit_up_time": "09:37:39",
-          "turnover_rate": 7.56,
-          "amount": 382608603.28
-        },
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "玻璃基板+CPO+商业航天",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:05:48",
-          "last_limit_up_time": "10:20:06",
-          "turnover_rate": 13.33,
-          "amount": 1255133214.5
-        },
-        {
-          "code": "000670",
-          "name": "盈方微",
-          "reason": "存储芯片+重大资产重组+半导体分销",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:31:33",
-          "last_limit_up_time": "09:34:03",
-          "turnover_rate": 9.23,
-          "amount": 613536120.0
-        },
-        {
-          "code": "688573",
-          "name": "信宇人",
-          "reason": "锂电设备+固态电池",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:28",
-          "last_limit_up_time": "09:38:28",
-          "turnover_rate": 8.96,
-          "amount": 107173318.11
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "液冷服务器",
-      "concept_code": null,
-      "plate_code": "886044",
-      "heat_score": 75.95,
-      "change_pct": 1.76,
-      "net_inflow_yi": 35.64,
-      "change_rank": 17,
-      "flow_rank": 12,
-      "change_score": 69.2,
-      "flow_score": 84.21,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "002328",
-          "name": "新朋股份",
-          "reason": "液冷服务器+汽车零部件+特斯拉+回购",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:31:12",
-          "last_limit_up_time": "09:34:12",
-          "turnover_rate": 12.35,
-          "amount": 703622000.0
-        },
-        {
-          "code": "002418",
-          "name": "康盛股份",
-          "reason": "液冷+算力租赁+家电制冷",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:48",
-          "last_limit_up_time": "09:36:48",
-          "turnover_rate": 7.83,
-          "amount": 493692830.0
-        },
-        {
-          "code": "603088",
-          "name": "宁波精达",
-          "reason": "液冷+机器人+换热器+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:23",
-          "last_limit_up_time": "10:42:44",
-          "turnover_rate": 10.06,
-          "amount": 579464235.74
+          "last_limit_up_time": "13:15:36",
+          "turnover_rate": 5.84,
+          "amount": 3902779800.0
         },
         {
           "code": "603200",
@@ -278,73 +129,63 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:02:46",
           "last_limit_up_time": "10:02:46",
-          "turnover_rate": 4.66,
-          "amount": 491202143.05
+          "turnover_rate": 4.81,
+          "amount": 507678713.05
         },
         {
-          "code": "605060",
-          "name": "联德股份",
-          "reason": "燃气轮机+液冷+精密零部件+年报增长",
+          "code": "002733",
+          "name": "雄韬股份",
+          "reason": "算力UPS+氢能+固态电池",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:06:37",
-          "last_limit_up_time": "10:06:37",
-          "turnover_rate": 2.84,
-          "amount": 390082920.0
-        },
-        {
-          "code": "600156",
-          "name": "华升股份",
-          "reason": "算力租赁+拟收购易信科技+湖南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:37:24",
-          "last_limit_up_time": "10:37:24",
-          "turnover_rate": 3.99,
-          "amount": 127435248.47
+          "first_limit_up_time": "14:00:15",
+          "last_limit_up_time": "14:00:15",
+          "turnover_rate": 11.15,
+          "amount": 1192565060.0
         }
       ]
     },
     {
-      "rank": 8,
-      "name": "AI PC",
-      "concept_code": null,
-      "plate_code": "886071",
-      "heat_score": 75.55,
-      "change_pct": 1.82,
-      "net_inflow_yi": 31.29,
-      "change_rank": 13,
-      "flow_rank": 16,
-      "change_score": 70.5,
-      "flow_score": 81.73,
+      "rank": 3,
+      "name": "同花顺漂亮100",
+      "concept_code": "308718",
+      "plate_code": "885916",
+      "heat_score": 79.61,
+      "change_pct": 1.51,
+      "net_inflow_yi": 99.78,
+      "change_rank": 55,
+      "flow_rank": 1,
+      "change_score": 62.93,
+      "flow_score": 100.0,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
-      "rank": 9,
-      "name": "英伟达概念",
-      "concept_code": null,
-      "plate_code": "886048",
-      "heat_score": 75.5,
-      "change_pct": 1.56,
-      "net_inflow_yi": 43.19,
-      "change_rank": 31,
-      "flow_rank": 7,
-      "change_score": 64.86,
-      "flow_score": 88.51,
+      "rank": 4,
+      "name": "同花顺果指数",
+      "concept_code": "309136",
+      "plate_code": "886082",
+      "heat_score": 78.27,
+      "change_pct": 2.42,
+      "net_inflow_yi": 49.78,
+      "change_rank": 8,
+      "flow_rank": 14,
+      "change_score": 83.75,
+      "flow_score": 71.57,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
-      "rank": 10,
+      "rank": 5,
       "name": "同花顺出海50",
-      "concept_code": null,
+      "concept_code": "309127",
       "plate_code": "886075",
-      "heat_score": 75.49,
-      "change_pct": 1.45,
-      "net_inflow_yi": 48.27,
-      "change_rank": 40,
-      "flow_rank": 4,
-      "change_score": 62.47,
-      "flow_score": 91.41,
+      "heat_score": 76.34,
+      "change_pct": 1.72,
+      "net_inflow_yi": 76.68,
+      "change_rank": 39,
+      "flow_rank": 2,
+      "change_score": 67.73,
+      "flow_score": 86.86,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -354,11 +195,158 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:31:22",
           "last_limit_up_time": "09:33:10",
-          "turnover_rate": 1.07,
-          "amount": 1348264305.08
+          "turnover_rate": 1.35,
+          "amount": 1705711919.88
         }
       ]
+    },
+    {
+      "rank": 6,
+      "name": "AI眼镜",
+      "concept_code": "309152",
+      "plate_code": "886085",
+      "heat_score": 75.55,
+      "change_pct": 1.78,
+      "net_inflow_yi": 70.62,
+      "change_rank": 36,
+      "flow_rank": 4,
+      "change_score": 69.11,
+      "flow_score": 83.42,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "300131",
+          "name": "英唐智控",
+          "reason": "拟收购光隆集成+OCS光开关+车载芯片+存储分销",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:03:27",
+          "last_limit_up_time": "14:03:27",
+          "turnover_rate": 21.81,
+          "amount": 3310232400.0
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "存储芯片",
+      "concept_code": "307940",
+      "plate_code": "886042",
+      "heat_score": 75.53,
+      "change_pct": 2.05,
+      "net_inflow_yi": 57.28,
+      "change_rank": 17,
+      "flow_rank": 6,
+      "change_score": 75.29,
+      "flow_score": 75.83,
+      "limit_up_count": 6,
+      "limit_up_stocks": [
+        {
+          "code": "603933",
+          "name": "睿能科技",
+          "reason": "复牌+拟收购博泰智能+精密传动+IC分销",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:25:03",
+          "last_limit_up_time": "09:37:39",
+          "turnover_rate": 7.7,
+          "amount": 389516251.28
+        },
+        {
+          "code": "603773",
+          "name": "沃格光电",
+          "reason": "玻璃基板+CPO+商业航天",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:05:48",
+          "last_limit_up_time": "10:20:06",
+          "turnover_rate": 13.67,
+          "amount": 1287816164.78
+        },
+        {
+          "code": "000670",
+          "name": "盈方微",
+          "reason": "存储芯片+重大资产重组+半导体分销",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:31:33",
+          "last_limit_up_time": "09:34:03",
+          "turnover_rate": 9.45,
+          "amount": 628212640.0
+        },
+        {
+          "code": "688478",
+          "name": "晶升股份",
+          "reason": "碳化硅+半导体级单晶炉+并购为准智能",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:36:17",
+          "last_limit_up_time": "13:57:05",
+          "turnover_rate": 8.92,
+          "amount": 314572665.62
+        },
+        {
+          "code": "001309",
+          "name": "德明利",
+          "reason": "存储芯片+业绩暴增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:37:06",
+          "last_limit_up_time": "13:45:42",
+          "turnover_rate": 12.76,
+          "amount": 8984495400.0
+        },
+        {
+          "code": "300131",
+          "name": "英唐智控",
+          "reason": "拟收购光隆集成+OCS光开关+车载芯片+存储分销",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:03:27",
+          "last_limit_up_time": "14:03:27",
+          "turnover_rate": 21.81,
+          "amount": 3310232400.0
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "数字货币",
+      "concept_code": "301997",
+      "plate_code": "885866",
+      "heat_score": 74.56,
+      "change_pct": 2.79,
+      "net_inflow_yi": 17.1,
+      "change_rank": 3,
+      "flow_rank": 34,
+      "change_score": 92.22,
+      "flow_score": 52.98,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 9,
+      "name": "苹果概念",
+      "concept_code": "300309",
+      "plate_code": "885376",
+      "heat_score": 73.02,
+      "change_pct": 1.51,
+      "net_inflow_yi": 74.02,
+      "change_rank": 55,
+      "flow_rank": 3,
+      "change_score": 62.93,
+      "flow_score": 85.35,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 10,
+      "name": "AI PC",
+      "concept_code": "309121",
+      "plate_code": "886071",
+      "heat_score": 72.95,
+      "change_pct": 2.17,
+      "net_inflow_yi": 41.31,
+      "change_rank": 12,
+      "flow_rank": 17,
+      "change_score": 78.03,
+      "flow_score": 66.75,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
-  "all_count": 317
+  "all_count": 299
 }
