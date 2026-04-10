@@ -4,42 +4,26 @@ const limitChartEl = document.getElementById("limitChart");
 const upDownChartEl = document.getElementById("updownChart");
 const tabBarEl = document.getElementById("tabBar");
 const tabContentEl = document.getElementById("tabContent");
+
 let limitChartIns = null;
 let upDownChartIns = null;
 
-const SLOT_COLORS = [
-  "#e60012",
-  "#ff7a00",
-  "#1890ff",
-  "#722ed1",
-  "#52c41a",
-  "#13c2c2",
-  "#eb2f96",
-  "#fa8c16",
-  "#2f54eb",
-  "#a0d911"
-];
-
-const CONCEPT_RULES = [
-  { concept: "算力", keywords: ["算力", "服务器", "AIDC", "数据中心", "东数西算", "液冷"] },
-  { concept: "通信", keywords: ["通信", "光模块", "光通信", "光纤", "CPO", "5G", "卫星"] },
-  { concept: "芯片", keywords: ["芯片", "半导体", "集成电路", "SiC", "IGBT"] },
-  { concept: "机器人", keywords: ["机器人", "自动化", "人形机器人"] },
-  { concept: "医药", keywords: ["医药", "创新药", "制药", "原料药", "医疗"] },
-  { concept: "新能源", keywords: ["储能", "光伏", "风电", "锂电", "固态电池", "充电"] },
-  { concept: "汽车", keywords: ["汽车", "智驾", "无人驾驶", "车路协同", "汽配"] },
-  { concept: "化工", keywords: ["化工", "化学", "化纤", "农药", "染料", "新材料"] },
-  { concept: "国企改革", keywords: ["国企", "央企", "国资"] },
-  { concept: "其他", keywords: [] }
-];
+const SLOT_COLORS = ["#e60012", "#ff7a00", "#1890ff", "#52c41a", "#fa8c16", "#722ed1", "#13c2c2", "#eb2f96"];
 
 const state = {
   generatedAt: "",
+  latestTradeDate: "",
   summary: [],
   detailsByDate: {},
+  conceptGroupsByDate: {},
   activeDate: "",
   loading: false,
-  tableSortByDateConcept: {}
+  tableSortByDateConcept: {},
+  hotConceptsGeneratedAt: "",
+  hotConceptsLatestTradeDate: "",
+  hotConceptsTop: [],
+  hotConceptsAllCount: 0,
+  hotConceptsMethod: null
 };
 
 function toYi(amount) {
@@ -54,27 +38,31 @@ function formatPct(value) {
   return n.toFixed(2);
 }
 
+function formatScore(value) {
+  const n = Number(value);
+  if (!Number.isFinite(n)) return "-";
+  return n.toFixed(2);
+}
+
 function normalizeTime(time) {
   if (!time) return "-";
   const text = String(time).trim();
   if (!text) return "-";
-  if (text.length >= 5) return text.slice(0, 5);
-  return text;
+  return text.length >= 5 ? text.slice(0, 5) : text;
 }
 
 function parseTimeNumber(time) {
-  const text = String(time || "");
-  const parts = text.split(":").map((x) => Number(x));
-  if (parts.length < 2 || parts.some((x) => Number.isNaN(x))) return -1;
-  const h = parts[0] || 0;
-  const m = parts[1] || 0;
-  const s = parts[2] || 0;
-  return h * 3600 + m * 60 + s;
+  const parts = String(time || "")
+    .split(":")
+    .map((item) => Number(item));
+  if (parts.length < 2 || parts.some((item) => Number.isNaN(item))) return -1;
+  return (parts[0] || 0) * 3600 + (parts[1] || 0) * 60 + (parts[2] || 0);
 }
 
 function getMarketPrefix(code) {
-  const t = String(code || "");
-  if (t.startsWith("6") || t.startsWith("9")) return "SH";
+  const text = String(code || "");
+  if (text.startsWith("6") || text.startsWith("9")) return "SH";
+  if (text.startsWith("8") || text.startsWith("4")) return "BJ";
   return "SZ";
 }
 
@@ -85,53 +73,21 @@ function stockLink(code) {
   return `https://quote.eastmoney.com/concept/${prefix}${codeText}.html`;
 }
 
-function splitReasonTags(reason) {
-  if (!reason) return [];
-  return String(reason)
-    .split(/[+,，、;；|/\s]+/)
-    .map((x) => x.trim())
-    .filter(Boolean);
+function findSummary(date) {
+  return state.summary.find((item) => item.date === date) || {};
 }
 
-function mergeReasonTag(tag) {
-  const lower = String(tag || "").toLowerCase();
-  for (const rule of CONCEPT_RULES) {
-    if (rule.keywords.some((kw) => lower.includes(String(kw).toLowerCase()))) {
-      return rule.concept;
-    }
-  }
-  return tag || "其他";
+function getRowsByDate(date) {
+  return state.detailsByDate[date] || [];
 }
 
-function getConcepts(row) {
-  const tags = splitReasonTags(row.reason);
-  if (!tags.length) return ["其他"];
-  const merged = new Set();
-  for (const tag of tags) merged.add(mergeReasonTag(tag));
-  return [...merged];
+function getConceptGroupsByDate(date) {
+  return state.conceptGroupsByDate[date] || [];
 }
 
-function getPrimaryConcept(row) {
-  return getConcepts(row)[0] || "其他";
-}
-
-function groupByConcept(rows) {
-  const groups = {};
-  for (const row of rows) {
-    const concepts = getConcepts(row);
-    for (const concept of concepts) {
-      if (!groups[concept]) groups[concept] = [];
-      groups[concept].push(row);
-    }
-  }
-  return Object.entries(groups)
-    .map(([name, list]) => ({
-      concept: name,
-      rows: list,
-      count: list.length,
-      amount: list.reduce((sum, item) => sum + (Number(item.amount) || 0), 0)
-    }))
-    .sort((a, b) => b.count - a.count || b.amount - a.amount);
+function getHotConceptBoards(date) {
+  if (date !== state.hotConceptsLatestTradeDate) return [];
+  return state.hotConceptsTop || [];
 }
 
 function sortRows(rows, sortState) {
@@ -144,11 +100,14 @@ function sortRows(rows, sortState) {
     if (sortState.key === "turnover_rate") {
       return ((Number(a.turnover_rate) || 0) - (Number(b.turnover_rate) || 0)) * dirMul;
     }
-    if (sortState.key === "time" || sortState.key === "first_time") {
+    if (sortState.key === "first_time") {
       return (parseTimeNumber(a.first_limit_up_time) - parseTimeNumber(b.first_limit_up_time)) * dirMul;
     }
     if (sortState.key === "last_time") {
       return (parseTimeNumber(a.last_limit_up_time) - parseTimeNumber(b.last_limit_up_time)) * dirMul;
+    }
+    if (sortState.key === "boards") {
+      return ((Number(a.consecutive_boards) || 0) - (Number(b.consecutive_boards) || 0)) * dirMul;
     }
     return String(a.name || "").localeCompare(String(b.name || ""), "zh-CN") * dirMul;
   });
@@ -161,12 +120,13 @@ function renderCharts() {
     upDownChartEl.innerHTML = '<div class="note">未加载 ECharts</div>';
     return;
   }
+
   const ordered = [...state.summary].sort((a, b) => a.date.localeCompare(b.date));
-  const labels = ordered.map((x) => String(x.date));
-  const limitUp = ordered.map((x) => Number(x.limit_up_count) || 0);
-  const limitDown = ordered.map((x) => Number(x.limit_down_count) || 0);
-  const up = ordered.map((x) => Number(x.up_count) || 0);
-  const down = ordered.map((x) => Number(x.down_count) || 0);
+  const labels = ordered.map((item) => item.date);
+  const limitUp = ordered.map((item) => Number(item.limit_up_count) || 0);
+  const limitDown = ordered.map((item) => Number(item.limit_down_count) || 0);
+  const up = ordered.map((item) => Number(item.up_count) || 0);
+  const down = ordered.map((item) => Number(item.down_count) || 0);
 
   if (!limitChartIns) limitChartIns = window.echarts.init(limitChartEl);
   if (!upDownChartIns) upDownChartIns = window.echarts.init(upDownChartEl);
@@ -256,10 +216,6 @@ function renderCharts() {
   });
 }
 
-function findSummary(date) {
-  return state.summary.find((x) => x.date === date) || {};
-}
-
 function renderTabs() {
   tabBarEl.innerHTML = "";
   state.summary.forEach((item, idx) => {
@@ -267,7 +223,7 @@ function renderTabs() {
     btn.className = `tab-btn${state.activeDate === item.date ? " active" : ""}`;
     btn.type = "button";
     btn.dataset.date = item.date;
-    btn.innerHTML = `${item.date}<span style="font-size:11px;opacity:.75"> ${item.limit_up_count ?? "-"}只</span>`;
+    btn.innerHTML = `${item.date}<span class="tab-meta">${item.limit_up_count ?? "-"}板</span>`;
     btn.addEventListener("click", () => {
       state.activeDate = item.date;
       renderTabs();
@@ -278,30 +234,111 @@ function renderTabs() {
   });
 }
 
-function renderStatsCards(summary, rows) {
-  const totalAmountYi = rows.reduce((sum, x) => sum + (Number(x.amount) || 0), 0) / 1e8;
+function renderStatsCards(summary, rows, groups, hotBoards) {
+  const totalAmountYi = rows.reduce((sum, item) => sum + (Number(item.amount) || 0), 0) / 1e8;
+  const boardLimitUps = hotBoards.reduce((sum, item) => sum + (Number(item.limit_up_count) || 0), 0);
   return `
     <section class="stats">
       <article class="stat-card"><div class="num" style="color:#e60012">${summary.up_count ?? "-"}</div><div class="label">上涨家数</div></article>
       <article class="stat-card"><div class="num" style="color:#52c41a">${summary.down_count ?? "-"}</div><div class="label">下跌家数</div></article>
       <article class="stat-card"><div class="num" style="color:#ff4d4f">${summary.limit_up_count ?? "-"}</div><div class="label">涨停家数</div></article>
       <article class="stat-card"><div class="num" style="color:#13c2c2">${summary.limit_down_count ?? "-"}</div><div class="label">跌停家数</div></article>
-      <article class="stat-card"><div class="num">${rows.length}</div><div class="label">涨停总数</div></article>
-      <article class="stat-card"><div class="num" style="color:#52c41a;font-size:20px">${totalAmountYi.toFixed(2)}<span style="font-size:13px">亿</span></div><div class="label">总成交额</div></article>
+      <article class="stat-card"><div class="num">${hotBoards.length || groups.length}</div><div class="label">${hotBoards.length ? "热门板块数" : "涨停概念数"}</div></article>
+      <article class="stat-card"><div class="num" style="color:#722ed1;font-size:20px">${hotBoards.length ? boardLimitUps : totalAmountYi.toFixed(2)}<span class="unit">${hotBoards.length ? "只" : "亿"}</span></div><div class="label">${hotBoards.length ? "热门板块涨停股" : "涨停成交额"}</div></article>
     </section>
   `;
 }
 
-function renderTagCloud(groups) {
-  const tags = groups.slice(0, 10).map((group, idx) => {
-    const color = SLOT_COLORS[idx % SLOT_COLORS.length];
-    const size = Math.max(13, Math.min(20, 12 + group.count));
-    return `<span class="hot-tag" style="font-size:${size}px;color:${color};border-color:${color}40;background:${color}12">${group.concept} (${group.count})</span>`;
-  });
+function renderHotBoardSummary(date, hotBoards) {
+  if (!hotBoards.length) return "";
+
+  const rows = hotBoards
+    .map((item) => {
+      return `
+        <tr>
+          <td class="idx-col">${item.rank}</td>
+          <td>
+            <div class="board-name">${item.name || "-"}</div>
+            <div class="code-text">概念代码 ${item.concept_code || "-"} / 板块代码 ${item.plate_code || "-"}</div>
+          </td>
+          <td class="score-text">${formatScore(item.heat_score)}</td>
+          <td class="up-text">${formatPct(item.change_pct)}%</td>
+          <td>${item.net_inflow_yi == null ? "-" : `${formatPct(item.net_inflow_yi)} 亿`}</td>
+          <td>${item.limit_up_count ?? 0}</td>
+        </tr>
+      `;
+    })
+    .join("");
+
+  const method = state.hotConceptsMethod?.formula || "-";
   return `
     <section>
-      <h2 class="section-title">热门涨停概念</h2>
-      <div class="tag-cloud-wrap">${tags.join("") || "暂无概念数据"}</div>
+      <div class="section-head">
+        <h2 class="section-title">热门板块前 ${hotBoards.length}</h2>
+        <div class="section-sub">交易日 ${date} | 全量概念 ${state.hotConceptsAllCount || 0} | 评分公式 ${method}</div>
+      </div>
+      <div class="table-wrap board-summary-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th class="idx-col">排名</th>
+              <th>热门板块</th>
+              <th>Heat Score</th>
+              <th>涨幅</th>
+              <th>资金流向</th>
+              <th>涨停数</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    </section>
+  `;
+}
+
+function renderHotConcepts(groups, date, hotBoards) {
+  if (hotBoards.length) {
+    const tags = hotBoards.map((group, idx) => {
+      const color = SLOT_COLORS[idx % SLOT_COLORS.length];
+      return `<span class="hot-tag" style="color:${color};border-color:${color}40;background:${color}12">${group.name} | ${formatScore(group.heat_score)} | ${group.limit_up_count}涨停</span>`;
+    });
+
+    return `
+      <section>
+        <div class="section-head">
+          <h2 class="section-title">热门板块热度分布</h2>
+          <div class="section-sub">按公开网页字段推导的概念热度前10</div>
+        </div>
+        <div class="tag-cloud-wrap">${tags.join("")}</div>
+      </section>
+    `;
+  }
+
+  if (!groups.length) {
+    return `
+      <section>
+        <h2 class="section-title">涨停概念分布</h2>
+        <div class="empty-block">暂无概念分组数据</div>
+      </section>
+    `;
+  }
+
+  const tags = groups.slice(0, 24).map((group, idx) => {
+    const color = SLOT_COLORS[idx % SLOT_COLORS.length];
+    const suffix =
+      date === state.latestTradeDate && Number.isFinite(Number(group.change_pct))
+        ? ` | ${formatPct(group.change_pct)}%`
+        : "";
+    return `<span class="hot-tag" style="color:${color};border-color:${color}40;background:${color}12">${group.concept} (${group.count})${suffix}</span>`;
+  });
+
+  return `
+    <section>
+      <div class="section-head">
+        <h2 class="section-title">涨停概念分布</h2>
+        <div class="section-sub">按同花顺概念归类涨停个股</div>
+      </div>
+      <div class="tag-cloud-wrap">${tags.join("")}</div>
     </section>
   `;
 }
@@ -314,28 +351,27 @@ function sortStateFor(date, concept) {
   return state.tableSortByDateConcept[key];
 }
 
-function renderConceptTable(group, date, idx) {
+function renderConceptTable(group, date, idx, hotMode) {
   const color = SLOT_COLORS[idx % SLOT_COLORS.length];
-  const sortState = sortStateFor(date, group.concept);
-  const rows = sortRows(group.rows, sortState);
+  const conceptLabel = hotMode ? group.name : group.concept;
+  const rows = hotMode ? group.limit_up_stocks || [] : group.rows || [];
+  const sortState = sortStateFor(date, conceptLabel);
+  const sortedRows = sortRows(rows, sortState);
 
-  const tableRows = rows
+  const tableRows = sortedRows
     .map((row, i) => {
       const code = String(row.code || "");
-      const market = getMarketPrefix(code);
-      const firstTime = normalizeTime(row.first_limit_up_time);
-      const lastTime = normalizeTime(row.last_limit_up_time);
       return `
         <tr>
           <td class="idx-col">${i + 1}</td>
           <td class="name-col">
             <div><a class="name-link" href="${stockLink(code)}" target="_blank" rel="noreferrer">${row.name || "-"}</a></div>
-            <div class="code-text">${market}${code}</div>
+            <div class="code-text">${getMarketPrefix(code)}${code}</div>
           </td>
           <td>${toYi(row.amount)}</td>
           <td>${formatPct(row.turnover_rate)}</td>
-          <td>${firstTime}</td>
-          <td>${lastTime}</td>
+          <td>${normalizeTime(row.first_limit_up_time)}</td>
+          <td>${normalizeTime(row.last_limit_up_time)}</td>
           <td>${row.consecutive_boards ?? "-"}</td>
           <td>${row.reason || "-"}</td>
         </tr>
@@ -343,27 +379,49 @@ function renderConceptTable(group, date, idx) {
     })
     .join("");
 
+  const metaItems = hotMode
+    ? [
+        `Heat ${formatScore(group.heat_score)}`,
+        `资金流向 ${group.net_inflow_yi == null ? "-" : `${formatPct(group.net_inflow_yi)} 亿`}`,
+        `涨幅 ${formatPct(group.change_pct)}%`,
+        `涨停 ${group.limit_up_count ?? 0}`
+      ]
+    : [`涨停 ${group.count}`];
+
+  if (!hotMode && group.amount) metaItems.push(`成交额 ${toYi(group.amount)} 亿`);
+  if (!hotMode && date === state.latestTradeDate && Number.isFinite(Number(group.change_pct))) {
+    metaItems.push(`今日涨幅 ${formatPct(group.change_pct)}%`);
+  }
+
   return `
-    <article class="card" data-concept="${group.concept}">
+    <article class="card" data-concept="${conceptLabel}">
       <header class="card-head" style="border-left:4px solid ${color};background:${color}12;">
-        <span style="color:${color}">${group.concept}</span>
-        <span class="concept-meta">${group.count}只 | 成交额 ${toYi(group.amount)}亿</span>
+        <span style="color:${color}">${conceptLabel}</span>
+        <span class="concept-meta">${metaItems.join(" | ")}</span>
       </header>
+      ${hotMode ? `
+        <div class="metric-strip">
+          <span class="metric-pill"><strong>Heat Score</strong>${formatScore(group.heat_score)}</span>
+          <span class="metric-pill"><strong>资金流向</strong>${group.net_inflow_yi == null ? "-" : `${formatPct(group.net_inflow_yi)} 亿`}</span>
+          <span class="metric-pill"><strong>涨停数</strong>${group.limit_up_count ?? 0}</span>
+          <span class="metric-pill"><strong>涨幅</strong>${formatPct(group.change_pct)}%</span>
+        </div>
+      ` : ""}
       <div class="table-wrap">
         <table>
           <thead>
             <tr>
               <th class="idx-col">序号</th>
               <th>名称/代码</th>
-              <th class="sort-th" data-dir="${sortState.key === "amount" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="amount">成交额(亿)<span class="sort-arrow"></span></th>
-              <th class="sort-th" data-dir="${sortState.key === "turnover_rate" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="turnover_rate">换手率(%)<span class="sort-arrow"></span></th>
-              <th class="sort-th" data-dir="${sortState.key === "first_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="first_time">首封时间<span class="sort-arrow"></span></th>
-              <th class="sort-th" data-dir="${sortState.key === "last_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${group.concept}" data-sort-key="last_time">末封时间<span class="sort-arrow"></span></th>
-              <th>连板数</th>
+              <th class="sort-th" data-dir="${sortState.key === "amount" ? sortState.dir : ""}" data-date="${date}" data-concept="${conceptLabel}" data-sort-key="amount">成交额(亿)<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "turnover_rate" ? sortState.dir : ""}" data-date="${date}" data-concept="${conceptLabel}" data-sort-key="turnover_rate">换手率(%)<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "first_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${conceptLabel}" data-sort-key="first_time">首封时间<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "last_time" ? sortState.dir : ""}" data-date="${date}" data-concept="${conceptLabel}" data-sort-key="last_time">末封时间<span class="sort-arrow"></span></th>
+              <th class="sort-th" data-dir="${sortState.key === "boards" ? sortState.dir : ""}" data-date="${date}" data-concept="${conceptLabel}" data-sort-key="boards">连板数<span class="sort-arrow"></span></th>
               <th>涨停原因</th>
             </tr>
           </thead>
-          <tbody>${tableRows}</tbody>
+          <tbody>${tableRows || '<tr><td colspan="8" class="empty-row">暂无涨停个股</td></tr>'}</tbody>
         </table>
       </div>
     </article>
@@ -373,15 +431,18 @@ function renderConceptTable(group, date, idx) {
 function renderActivePanel() {
   const date = state.activeDate;
   const summary = findSummary(date);
-  const rows = state.detailsByDate[date] || [];
-  const groups = groupByConcept(rows);
+  const rows = getRowsByDate(date);
+  const groups = getConceptGroupsByDate(date);
+  const hotBoards = getHotConceptBoards(date);
+  const useHotBoards = hotBoards.length > 0;
 
   let html = "";
-  html += renderStatsCards(summary, rows);
-  html += renderTagCloud(groups);
-  html += '<section><h2 class="section-title">按概念分类详情</h2>';
-  html += groups.map((group, idx) => renderConceptTable(group, date, idx)).join("");
-  html += `<p class="note">数据源：data/latest.json | 生成时间：${state.generatedAt || "-"}</p>`;
+  html += renderStatsCards(summary, rows, groups, hotBoards);
+  html += renderHotBoardSummary(date, hotBoards);
+  html += renderHotConcepts(groups, date, hotBoards);
+  html += `<section><h2 class="section-title">${useHotBoards ? "按热门板块展示涨停个股" : "按概念分类详情"}</h2>`;
+  html += (useHotBoards ? hotBoards : groups).map((group, idx) => renderConceptTable(group, date, idx, useHotBoards)).join("");
+  html += `<p class="note">数据源: data/site/latest.json${useHotBoards ? " + data/site/hot_concepts.json" : ""} | 生成时间: ${state.generatedAt || "-"}${state.hotConceptsGeneratedAt ? ` / 热门板块: ${state.hotConceptsGeneratedAt}` : ""}</p>`;
   html += "</section>";
   tabContentEl.innerHTML = html;
 
@@ -391,15 +452,13 @@ function renderActivePanel() {
 function bindSortEvents() {
   tabContentEl.querySelectorAll(".sort-th").forEach((th) => {
     th.addEventListener("click", () => {
-      const date = th.dataset.date;
-      const concept = th.dataset.concept;
-      const key = th.dataset.sortKey;
-      const stateRef = sortStateFor(date, concept);
-      if (stateRef.key === key) {
-        stateRef.dir = stateRef.dir === "desc" ? "asc" : "desc";
+      const { date, concept, sortKey } = th.dataset;
+      const sortState = sortStateFor(date, concept);
+      if (sortState.key === sortKey) {
+        sortState.dir = sortState.dir === "desc" ? "asc" : "desc";
       } else {
-        stateRef.key = key;
-        stateRef.dir = "desc";
+        sortState.key = sortKey;
+        sortState.dir = "desc";
       }
       renderActivePanel();
     });
@@ -413,27 +472,44 @@ async function loadData() {
   refreshBtnEl.textContent = "刷新中...";
 
   try {
-    const url = `data/latest.json?t=${Date.now()}`;
-    const response = await fetch(url);
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    const data = await response.json();
+    const [latestResponse, hotConceptResponse] = await Promise.all([
+      fetch(`data/site/latest.json?t=${Date.now()}`),
+      fetch(`data/site/hot_concepts.json?t=${Date.now()}`)
+    ]);
+
+    if (!latestResponse.ok) throw new Error(`data/site/latest.json HTTP ${latestResponse.status}`);
+    if (!hotConceptResponse.ok) throw new Error(`data/site/hot_concepts.json HTTP ${hotConceptResponse.status}`);
+
+    const [data, hotConceptData] = await Promise.all([
+      latestResponse.json(),
+      hotConceptResponse.json()
+    ]);
 
     state.generatedAt = data.generated_at || "";
-    state.summary = (data.summary || []).map((x) => ({ ...x }));
+    state.latestTradeDate = data.latest_trade_date || "";
+    state.summary = (data.summary || []).map((item) => ({ ...item }));
     state.detailsByDate = data.limit_up_details_by_date || {};
+    state.conceptGroupsByDate = data.limit_up_concepts_by_date || {};
+
+    state.hotConceptsGeneratedAt = hotConceptData.generated_at || "";
+    state.hotConceptsLatestTradeDate = hotConceptData.latest_trade_date || "";
+    state.hotConceptsTop = hotConceptData.top_concepts || [];
+    state.hotConceptsAllCount = hotConceptData.all_count || 0;
+    state.hotConceptsMethod = hotConceptData.method || null;
+
     if (!state.activeDate && state.summary.length) {
       state.activeDate = state.summary[0].date;
     }
-    if (state.activeDate && !state.summary.some((x) => x.date === state.activeDate)) {
+    if (state.activeDate && !state.summary.some((item) => item.date === state.activeDate)) {
       state.activeDate = state.summary[0]?.date || "";
     }
 
-    generatedAtEl.textContent = `数据更新时间：${state.generatedAt || "-"}`;
+    generatedAtEl.textContent = `数据更新时间: ${state.generatedAt || "-"}${state.hotConceptsGeneratedAt ? ` | 热门板块: ${state.hotConceptsGeneratedAt}` : ""}`;
     renderCharts();
     renderTabs();
     renderActivePanel();
   } catch (error) {
-    generatedAtEl.textContent = "数据加载失败，请检查 data/latest.json 是否存在";
+    generatedAtEl.textContent = "数据加载失败，请检查 data/site/latest.json 和 data/site/hot_concepts.json 是否存在";
     tabBarEl.innerHTML = "";
     tabContentEl.innerHTML = "";
     console.error(error);
@@ -449,4 +525,5 @@ window.addEventListener("resize", () => {
   if (limitChartIns) limitChartIns.resize();
   if (upDownChartIns) upDownChartIns.resize();
 });
+
 loadData();

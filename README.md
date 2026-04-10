@@ -1,59 +1,77 @@
-# A 股涨停数据看板（GitHub Pages）
+# A股涨停看板
 
-这是一个可直接部署到 GitHub Pages 的静态页面，用于展示最近 3 个交易日的：
+这是一个静态页面项目，用来展示最近 3 个交易日的市场概览，并在最新交易日按热门板块维度展示涨停个股。
 
-- 涨跌家数
-- 涨停 / 跌停家数
-- 涨停个股明细（涨停原因、成交额、换手率、涨停时间、连板数）
-- 按涨停原因分类统计与筛选
+## 当前功能
 
-说明：涨停原因优先来自同花顺问财，东方财富接口作为兜底；涨跌家数与涨跌停家数按最近 3 个交易日抓取。
+- 最近 3 个交易日的上涨 / 下跌家数
+- 最近 3 个交易日的涨停 / 跌停家数
+- 最新交易日的热门板块前 10
+- 每个热门板块的 `heat_score`、资金流向、涨停数、涨幅
+- 每个热门板块下对应的涨停个股明细
 
 ## 目录结构
 
-- `index.html`: 页面入口
-- `assets/app.js`: 前端逻辑
-- `assets/styles.css`: 页面样式
-- `data/latest.json`: 前端读取的数据文件（由脚本自动更新）
-- `scripts/fetch_data.py`: 抓取并生成 `data/latest.json`
-- `.github/workflows/update-data.yml`: 自动更新数据的 GitHub Actions
+```text
+.
+├─ index.html
+├─ assets/
+│  ├─ app.js
+│  └─ styles.css
+├─ data/
+│  └─ site/
+│     ├─ latest.json
+│     └─ hot_concepts.json
+├─ scripts/
+│  ├─ build_site_data.py
+│  ├─ fetch_data.py
+│  ├─ fetch_hot_concepts.py
+│  └─ lib/
+│     ├─ hot_concepts.py
+│     ├─ market_data.py
+│     └─ site_paths.py
+└─ .github/workflows/
+```
+
+## 数据流
+
+1. `scripts/fetch_data.py` 生成 `data/site/latest.json`
+2. `scripts/fetch_hot_concepts.py` 生成 `data/site/hot_concepts.json`
+3. `scripts/build_site_data.py` 作为统一入口，顺序执行上面两步
+4. 前端从 `data/site/` 读取 JSON 渲染页面
 
 ## 本地运行
 
-1. 安装依赖：
+安装依赖：
+
 ```bash
 pip install -r requirements.txt
 ```
-2. 更新数据：
+
+生成页面数据：
+
 ```bash
-python scripts/fetch_data.py
+python -m scripts.build_site_data
 ```
-3. 启动任意静态服务器预览（例如 `python -m http.server`）。
 
-## GitHub Pages 部署
+启动静态服务预览：
 
-1. 推送仓库到 GitHub。
-2. 进入仓库 `Settings -> Pages`。
-3. `Build and deployment` 选择 `Deploy from a branch`。
-4. 分支选择 `main`，目录选择 `/ (root)`。
-5. 保存后等待页面发布。
+```bash
+python -m http.server
+```
 
-## 自动更新数据
+## GitHub Actions
 
-工作流文件已配置：
+工作流文件在 [update-data.yml](D:\github\areport\.github\workflows\update-data.yml)。
 
-- 每个工作日自动执行（北京时间约 09:35 / 12:05 / 15:05 / 18:30）
-- 支持 `Actions` 页面手动触发
+默认行为：
 
-页面内也提供“手动刷新数据”按钮（只是重新拉取 `data/latest.json`，不会主动触发抓数任务）。
+- 工作日定时更新
+- 支持手动触发
+- 统一执行 `python -m scripts.build_site_data`
+- 自动提交 `data/site/` 下的新数据
 
-首次启用时请确认仓库允许 Actions 写入：
+## 说明
 
-- `Settings -> Actions -> General -> Workflow permissions`
-- 选择 `Read and write permissions`
-
-## 绑定自定义域名
-
-1. 在 `Settings -> Pages` 填写自定义域名。
-2. 在域名服务商处添加 CNAME 记录指向 `<你的 GitHub 用户名>.github.io`。
-3. 等待 DNS 生效后访问即可。
+- 热门板块不是同花顺官方原始热榜分数，而是基于公开网页字段计算的近似综合热度
+- 页面会在最新交易日优先显示热门板块视角，历史交易日仍保留按概念分组的涨停明细

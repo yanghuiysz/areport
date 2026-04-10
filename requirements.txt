@@ -1,3 +1,4 @@
 akshare==1.17.17
 pandas==2.3.0
 pywencai==0.13.1
+requests==2.32.3
