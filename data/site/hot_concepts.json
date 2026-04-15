@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15 04:36:34",
+  "generated_at": "2026-04-15 06:11:08",
   "latest_trade_date": "2026-04-15",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,13 +17,13 @@
       "name": "科创次新股",
       "concept_code": "308699",
       "plate_code": "885907",
-      "heat_score": 97.31,
-      "change_pct": 4.66,
-      "net_inflow_yi": 12.91,
+      "heat_score": 94.45,
+      "change_pct": 3.66,
+      "net_inflow_yi": 10.49,
       "change_rank": 1,
-      "flow_rank": 6,
+      "flow_rank": 9,
       "change_score": 100.0,
-      "flow_score": 94.03,
+      "flow_score": 87.66,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -33,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:52:47",
           "last_limit_up_time": "09:52:47",
-          "turnover_rate": 28.08,
-          "amount": 485041813.22
+          "turnover_rate": 29.09,
+          "amount": 503306587.42
         }
       ]
     },
@@ -43,14 +43,14 @@
       "name": "医药电商",
       "concept_code": "301565",
       "plate_code": "885661",
-      "heat_score": 76.55,
-      "change_pct": 2.0,
-      "net_inflow_yi": 21.35,
-      "change_rank": 3,
+      "heat_score": 86.4,
+      "change_pct": 2.27,
+      "net_inflow_yi": 35.72,
+      "change_rank": 2,
       "flow_rank": 1,
-      "change_score": 57.37,
+      "change_score": 75.27,
       "flow_score": 100.0,
-      "limit_up_count": 5,
+      "limit_up_count": 8,
       "limit_up_stocks": [
         {
           "code": "600664",
@@ -59,8 +59,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:59:12",
           "last_limit_up_time": "10:09:30",
-          "turnover_rate": 17.74,
-          "amount": 1926609747.45
+          "turnover_rate": 18.02,
+          "amount": 1958313456.45
         },
         {
           "code": "002589",
@@ -69,8 +69,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:34:39",
           "last_limit_up_time": "09:34:39",
-          "turnover_rate": 6.48,
-          "amount": 311782210.0
+          "turnover_rate": 6.69,
+          "amount": 322387170.0
         },
         {
           "code": "600267",
@@ -79,8 +79,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:54:39",
           "last_limit_up_time": "09:57:54",
-          "turnover_rate": 3.77,
-          "amount": 500924066.76
+          "turnover_rate": 3.98,
+          "amount": 529692928.76
         },
         {
           "code": "002788",
@@ -89,8 +89,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:19:12",
           "last_limit_up_time": "11:19:12",
-          "turnover_rate": 18.05,
-          "amount": 1051154430.0
+          "turnover_rate": 18.49,
+          "amount": 1078304520.0
         },
         {
           "code": "002038",
@@ -99,90 +99,54 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:21:12",
           "last_limit_up_time": "11:21:12",
-          "turnover_rate": 15.91,
-          "amount": 1035798580.0
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
+        },
+        {
+          "code": "000788",
+          "name": "北大医药",
+          "reason": "创新药+右酮洛芬+帕利哌酮获批",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:21:57",
+          "last_limit_up_time": "13:21:57",
+          "turnover_rate": 19.12,
+          "amount": 730948170.0
+        },
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
+        },
+        {
+          "code": "301408",
+          "name": "华人健康",
+          "reason": "AI医疗+医药零售+创新药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:33",
+          "last_limit_up_time": "13:27:33",
+          "turnover_rate": 27.92,
+          "amount": 1248023050.0
         }
       ]
     },
     {
       "rank": 3,
-      "name": "流感",
-      "concept_code": "300038",
-      "plate_code": "885879",
-      "heat_score": 74.03,
-      "change_pct": 1.83,
-      "net_inflow_yi": 18.12,
-      "change_rank": 6,
-      "flow_rank": 2,
-      "change_score": 54.65,
-      "flow_score": 97.72,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "002980",
-          "name": "华盛昌",
-          "reason": "光通信测试+拟收购伽蓝特+AI眼镜+仪器仪表",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:31:18",
-          "last_limit_up_time": "10:00:12",
-          "turnover_rate": 10.28,
-          "amount": 729418130.0
-        },
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "创新药+保健品+仿制药一致性评价",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:59:12",
-          "last_limit_up_time": "10:09:30",
-          "turnover_rate": 17.74,
-          "amount": 1926609747.45
-        },
-        {
-          "code": "600267",
-          "name": "海正药业",
-          "reason": "创新药+合成生物+浙江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:39",
-          "last_limit_up_time": "09:57:54",
-          "turnover_rate": 3.77,
-          "amount": 500924066.76
-        },
-        {
-          "code": "002038",
-          "name": "双鹭药业",
-          "reason": "GLP-1+创新药+硝酸甘油喷雾剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:21:12",
-          "last_limit_up_time": "11:21:12",
-          "turnover_rate": 15.91,
-          "amount": 1035798580.0
-        },
-        {
-          "code": "688166",
-          "name": "博瑞医药",
-          "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:13",
-          "last_limit_up_time": "11:22:13",
-          "turnover_rate": 5.55,
-          "amount": 1238291859.5
-        }
-      ]
-    },
-    {
-      "rank": 4,
       "name": "仿制药一致性评价",
       "concept_code": "308572",
       "plate_code": "885856",
-      "heat_score": 73.26,
-      "change_pct": 1.88,
-      "net_inflow_yi": 14.33,
-      "change_rank": 5,
-      "flow_rank": 3,
-      "change_score": 55.45,
-      "flow_score": 95.04,
-      "limit_up_count": 5,
+      "heat_score": 84.34,
+      "change_pct": 2.24,
+      "net_inflow_yi": 27.71,
+      "change_rank": 3,
+      "flow_rank": 2,
+      "change_score": 74.73,
+      "flow_score": 96.08,
+      "limit_up_count": 8,
       "limit_up_stocks": [
         {
           "code": "600664",
@@ -191,8 +155,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:59:12",
           "last_limit_up_time": "10:09:30",
-          "turnover_rate": 17.74,
-          "amount": 1926609747.45
+          "turnover_rate": 18.02,
+          "amount": 1958313456.45
         },
         {
           "code": "600267",
@@ -201,8 +165,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:54:39",
           "last_limit_up_time": "09:57:54",
-          "turnover_rate": 3.77,
-          "amount": 500924066.76
+          "turnover_rate": 3.98,
+          "amount": 529692928.76
         },
         {
           "code": "000919",
@@ -211,8 +175,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:55:30",
           "last_limit_up_time": "09:55:30",
-          "turnover_rate": 11.69,
-          "amount": 577888150.0
+          "turnover_rate": 11.86,
+          "amount": 586633010.0
         },
         {
           "code": "002038",
@@ -221,8 +185,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:21:12",
           "last_limit_up_time": "11:21:12",
-          "turnover_rate": 15.91,
-          "amount": 1035798580.0
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
         },
         {
           "code": "688166",
@@ -230,122 +194,150 @@
           "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:22:13",
-          "last_limit_up_time": "11:22:13",
-          "turnover_rate": 5.55,
-          "amount": 1238291859.5
+          "last_limit_up_time": "13:11:04",
+          "turnover_rate": 6.61,
+          "amount": 1496145055.75
+        },
+        {
+          "code": "000788",
+          "name": "北大医药",
+          "reason": "创新药+右酮洛芬+帕利哌酮获批",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:21:57",
+          "last_limit_up_time": "13:21:57",
+          "turnover_rate": 19.12,
+          "amount": 730948170.0
+        },
+        {
+          "code": "600488",
+          "name": "津药药业",
+          "reason": "甾体激素+原料药出口",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:23:29",
+          "last_limit_up_time": "13:45:53",
+          "turnover_rate": 21.85,
+          "amount": 1542568994.27
+        },
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "流感",
+      "concept_code": "300038",
+      "plate_code": "885879",
+      "heat_score": 82.68,
+      "change_pct": 2.1,
+      "net_inflow_yi": 26.39,
+      "change_rank": 5,
+      "flow_rank": 3,
+      "change_score": 72.24,
+      "flow_score": 95.44,
+      "limit_up_count": 8,
+      "limit_up_stocks": [
+        {
+          "code": "002980",
+          "name": "华盛昌",
+          "reason": "光通信测试+拟收购伽蓝特+AI眼镜+仪器仪表",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "09:31:18",
+          "last_limit_up_time": "13:55:03",
+          "turnover_rate": 20.44,
+          "amount": 1452909900.0
+        },
+        {
+          "code": "600664",
+          "name": "哈药股份",
+          "reason": "创新药+保健品+仿制药一致性评价",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:59:12",
+          "last_limit_up_time": "10:09:30",
+          "turnover_rate": 18.02,
+          "amount": 1958313456.45
+        },
+        {
+          "code": "600267",
+          "name": "海正药业",
+          "reason": "创新药+合成生物+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:54:39",
+          "last_limit_up_time": "09:57:54",
+          "turnover_rate": 3.98,
+          "amount": 529692928.76
+        },
+        {
+          "code": "002038",
+          "name": "双鹭药业",
+          "reason": "GLP-1+创新药+硝酸甘油喷雾剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:21:12",
+          "last_limit_up_time": "11:21:12",
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
+        },
+        {
+          "code": "688166",
+          "name": "博瑞医药",
+          "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:22:13",
+          "last_limit_up_time": "13:11:04",
+          "turnover_rate": 6.61,
+          "amount": 1496145055.75
+        },
+        {
+          "code": "000788",
+          "name": "北大医药",
+          "reason": "创新药+右酮洛芬+帕利哌酮获批",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:21:57",
+          "last_limit_up_time": "13:21:57",
+          "turnover_rate": 19.12,
+          "amount": 730948170.0
+        },
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
+        },
+        {
+          "code": "301408",
+          "name": "华人健康",
+          "reason": "AI医疗+医药零售+创新药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:33",
+          "last_limit_up_time": "13:27:33",
+          "turnover_rate": 27.92,
+          "amount": 1248023050.0
         }
       ]
     },
     {
       "rank": 5,
-      "name": "注册制次新股",
-      "concept_code": "308697",
-      "plate_code": "885905",
-      "heat_score": 72.89,
-      "change_pct": 1.9,
-      "net_inflow_yi": 12.62,
-      "change_rank": 4,
-      "flow_rank": 7,
-      "change_score": 55.77,
-      "flow_score": 93.83,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "603459",
-          "name": "红板科技",
-          "reason": "1.6T光模块+HDI板+商业航天",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:34:53",
-          "last_limit_up_time": "09:50:11",
-          "turnover_rate": 31.53,
-          "amount": 1660891476.1
-        },
-        {
-          "code": "688805",
-          "name": "健信超导",
-          "reason": "医疗设备+无液氦超导+业绩高增+全球化",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:52:47",
-          "last_limit_up_time": "09:52:47",
-          "turnover_rate": 28.08,
-          "amount": 485041813.22
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "新股与次新股",
-      "concept_code": "300870",
-      "plate_code": "885598",
-      "heat_score": 72.28,
-      "change_pct": 1.83,
-      "net_inflow_yi": 12.62,
-      "change_rank": 6,
-      "flow_rank": 7,
-      "change_score": 54.65,
-      "flow_score": 93.83,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "603459",
-          "name": "红板科技",
-          "reason": "1.6T光模块+HDI板+商业航天",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:34:53",
-          "last_limit_up_time": "09:50:11",
-          "turnover_rate": 31.53,
-          "amount": 1660891476.1
-        },
-        {
-          "code": "688805",
-          "name": "健信超导",
-          "reason": "医疗设备+无液氦超导+业绩高增+全球化",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:52:47",
-          "last_limit_up_time": "09:52:47",
-          "turnover_rate": 28.08,
-          "amount": 485041813.22
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "重组蛋白",
-      "concept_code": "308822",
-      "plate_code": "885955",
-      "heat_score": 71.05,
-      "change_pct": 2.01,
-      "net_inflow_yi": 3.79,
-      "change_rank": 2,
-      "flow_rank": 21,
-      "change_score": 57.53,
-      "flow_score": 87.58,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "688166",
-          "name": "博瑞医药",
-          "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:13",
-          "last_limit_up_time": "11:22:13",
-          "turnover_rate": 5.55,
-          "amount": 1238291859.5
-        }
-      ]
-    },
-    {
-      "rank": 8,
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 70.39,
-      "change_pct": 1.8,
-      "net_inflow_yi": 7.51,
-      "change_rank": 7,
-      "flow_rank": 14,
-      "change_score": 54.17,
-      "flow_score": 90.21,
+      "heat_score": 79.69,
+      "change_pct": 2.07,
+      "net_inflow_yi": 14.14,
+      "change_rank": 6,
+      "flow_rank": 5,
+      "change_score": 71.71,
+      "flow_score": 89.45,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -355,8 +347,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:54:39",
           "last_limit_up_time": "09:57:54",
-          "turnover_rate": 3.77,
-          "amount": 500924066.76
+          "turnover_rate": 3.98,
+          "amount": 529692928.76
         },
         {
           "code": "002038",
@@ -365,8 +357,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:21:12",
           "last_limit_up_time": "11:21:12",
-          "turnover_rate": 15.91,
-          "amount": 1035798580.0
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
         },
         {
           "code": "688166",
@@ -374,40 +366,97 @@
           "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:22:13",
-          "last_limit_up_time": "11:22:13",
-          "turnover_rate": 5.55,
-          "amount": 1238291859.5
+          "last_limit_up_time": "13:11:04",
+          "turnover_rate": 6.61,
+          "amount": 1496145055.75
         }
       ]
     },
     {
-      "rank": 9,
-      "name": "云游戏",
-      "concept_code": "308624",
-      "plate_code": "885874",
-      "heat_score": 68.87,
-      "change_pct": 1.46,
-      "net_inflow_yi": 12.15,
-      "change_rank": 12,
-      "flow_rank": 8,
-      "change_score": 48.72,
-      "flow_score": 93.49,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "rank": 6,
+      "name": "重组蛋白",
+      "concept_code": "308822",
+      "plate_code": "885955",
+      "heat_score": 79.4,
+      "change_pct": 2.23,
+      "net_inflow_yi": 5.7,
+      "change_rank": 4,
+      "flow_rank": 17,
+      "change_score": 74.56,
+      "flow_score": 85.32,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "688166",
+          "name": "博瑞医药",
+          "reason": "GLP-1+原料药-制剂一体化+港股上市预期",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:22:13",
+          "last_limit_up_time": "13:11:04",
+          "turnover_rate": 6.61,
+          "amount": 1496145055.75
+        }
+      ]
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "name": "幽门螺杆菌概念",
+      "concept_code": "308818",
+      "plate_code": "885952",
+      "heat_score": 76.4,
+      "change_pct": 1.81,
+      "net_inflow_yi": 10.77,
+      "change_rank": 8,
+      "flow_rank": 8,
+      "change_score": 67.08,
+      "flow_score": 87.8,
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "002038",
+          "name": "双鹭药业",
+          "reason": "GLP-1+创新药+硝酸甘油喷雾剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:21:12",
+          "last_limit_up_time": "11:21:12",
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
+        },
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
+        },
+        {
+          "code": "605388",
+          "name": "均瑶健康",
+          "reason": "益生菌+扭亏预期+CVS渠道",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:03:24",
+          "last_limit_up_time": "14:03:24",
+          "turnover_rate": 5.97,
+          "amount": 251465471.9
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "name": "阿尔茨海默概念",
       "concept_code": "308614",
       "plate_code": "886056",
-      "heat_score": 68.44,
-      "change_pct": 1.74,
-      "net_inflow_yi": 3.07,
-      "change_rank": 8,
-      "flow_rank": 26,
-      "change_score": 53.21,
-      "flow_score": 87.07,
-      "limit_up_count": 1,
+      "heat_score": 75.21,
+      "change_pct": 1.85,
+      "net_inflow_yi": 3.55,
+      "change_rank": 7,
+      "flow_rank": 24,
+      "change_score": 67.79,
+      "flow_score": 84.27,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "600267",
@@ -416,8 +465,80 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:54:39",
           "last_limit_up_time": "09:57:54",
-          "turnover_rate": 3.77,
-          "amount": 500924066.76
+          "turnover_rate": 3.98,
+          "amount": 529692928.76
+        },
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "辅助生殖",
+      "concept_code": "308708",
+      "plate_code": "885909",
+      "heat_score": 73.6,
+      "change_pct": 1.49,
+      "net_inflow_yi": 12.28,
+      "change_rank": 10,
+      "flow_rank": 7,
+      "change_score": 61.39,
+      "flow_score": 88.54,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002038",
+          "name": "双鹭药业",
+          "reason": "GLP-1+创新药+硝酸甘油喷雾剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:21:12",
+          "last_limit_up_time": "11:21:12",
+          "turnover_rate": 16.48,
+          "amount": 1074799920.0
+        },
+        {
+          "code": "600488",
+          "name": "津药药业",
+          "reason": "甾体激素+原料药出口",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:23:29",
+          "last_limit_up_time": "13:45:53",
+          "turnover_rate": 21.85,
+          "amount": 1542568994.27
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "毛发医疗",
+      "concept_code": "308893",
+      "plate_code": "885985",
+      "heat_score": 73.47,
+      "change_pct": 1.67,
+      "net_inflow_yi": 3.67,
+      "change_rank": 9,
+      "flow_rank": 23,
+      "change_score": 64.59,
+      "flow_score": 84.33,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600572",
+          "name": "康恩贝",
+          "reason": "创新药+中药大健康+浙江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:27:22",
+          "last_limit_up_time": "13:27:22",
+          "turnover_rate": 7.91,
+          "amount": 931445238.83
         }
       ]
     }
