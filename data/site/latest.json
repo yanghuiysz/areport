@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20 09:17:24",
+  "generated_at": "2026-04-20 11:53:07",
   "latest_trade_date": "2026-04-20",
   "summary": [
     {
       "date": "2026-04-20",
       "up_count": 3424,
-      "down_count": 1898,
+      "down_count": 1890,
       "flat_count": 179,
       "limit_up_count": 75,
       "limit_down_count": 17
