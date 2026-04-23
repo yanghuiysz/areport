@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23 06:20:15",
+  "generated_at": "2026-04-23 09:03:15",
   "latest_trade_date": "2026-04-23",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -18,8 +18,8 @@
       "concept_code": "301713",
       "plate_code": "885860",
       "heat_score": 100.0,
-      "change_pct": 2.03,
-      "net_inflow_yi": 15.35,
+      "change_pct": 1.95,
+      "net_inflow_yi": 17.94,
       "change_rank": 1,
       "flow_rank": 1,
       "change_score": 100.0,
@@ -29,16 +29,31 @@
     },
     {
       "rank": 2,
+      "name": "可燃冰",
+      "concept_code": "300277",
+      "plate_code": "885748",
+      "heat_score": 89.54,
+      "change_pct": 1.28,
+      "net_inflow_yi": -1.93,
+      "change_rank": 2,
+      "flow_rank": 26,
+      "change_score": 87.68,
+      "flow_score": 91.8,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 3,
       "name": "环氧丙烷",
       "concept_code": "308202",
       "plate_code": "885903",
-      "heat_score": 84.63,
-      "change_pct": 0.88,
-      "net_inflow_yi": -5.35,
-      "change_rank": 2,
-      "flow_rank": 56,
-      "change_score": 79.17,
-      "flow_score": 91.3,
+      "heat_score": 86.69,
+      "change_pct": 1.06,
+      "net_inflow_yi": -5.26,
+      "change_rank": 3,
+      "flow_rank": 52,
+      "change_score": 83.64,
+      "flow_score": 90.43,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -48,8 +63,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 16.15,
-          "amount": 393591320.0
+          "turnover_rate": 16.34,
+          "amount": 398272620.0
         },
         {
           "code": "003022",
@@ -58,23 +73,23 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:29:42",
           "last_limit_up_time": "10:29:42",
-          "turnover_rate": 2.88,
-          "amount": 933883570.0
+          "turnover_rate": 2.92,
+          "amount": 946184650.0
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "煤炭概念",
       "concept_code": "308716",
       "plate_code": "885914",
-      "heat_score": 83.87,
-      "change_pct": 0.58,
-      "net_inflow_yi": 6.43,
+      "heat_score": 86.38,
+      "change_pct": 0.82,
+      "net_inflow_yi": 6.13,
       "change_rank": 4,
-      "flow_rank": 3,
-      "change_score": 73.73,
-      "flow_score": 96.25,
+      "flow_rank": 4,
+      "change_score": 79.23,
+      "flow_score": 95.13,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -84,8 +99,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:33:40",
           "last_limit_up_time": "10:03:55",
-          "turnover_rate": 3.92,
-          "amount": 524586607.48
+          "turnover_rate": 3.94,
+          "amount": 527597532.28
         },
         {
           "code": "600726",
@@ -94,34 +109,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:34:58",
           "last_limit_up_time": "10:34:58",
-          "turnover_rate": 4.65,
-          "amount": 1777745867.17
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "白酒概念",
-      "concept_code": "301496",
-      "plate_code": "885525",
-      "heat_score": 83.28,
-      "change_pct": 0.66,
-      "net_inflow_yi": -0.86,
-      "change_rank": 3,
-      "flow_rank": 17,
-      "change_score": 75.18,
-      "flow_score": 93.19,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "603198",
-          "name": "迎驾贡酒",
-          "reason": "Q1业绩回暖+白酒+洞藏系列+高分红",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:45:11",
-          "last_limit_up_time": "09:45:11",
-          "turnover_rate": 2.06,
-          "amount": 637538005.5
+          "turnover_rate": 4.68,
+          "amount": 1791719799.17
         }
       ]
     },
@@ -130,13 +119,13 @@
       "name": "青蒿素",
       "concept_code": "301794",
       "plate_code": "885852",
-      "heat_score": 82.28,
-      "change_pct": 0.56,
-      "net_inflow_yi": -0.92,
+      "heat_score": 83.89,
+      "change_pct": 0.71,
+      "net_inflow_yi": -1.29,
       "change_rank": 5,
-      "flow_rank": 18,
-      "change_score": 73.37,
-      "flow_score": 93.16,
+      "flow_rank": 21,
+      "change_score": 77.21,
+      "flow_score": 92.07,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -146,53 +135,64 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:04:27",
           "last_limit_up_time": "10:12:15",
-          "turnover_rate": 8.66,
-          "amount": 590299450.0
+          "turnover_rate": 8.75,
+          "amount": 596914200.0
         }
       ]
     },
     {
       "rank": 6,
-      "name": "芬太尼",
-      "concept_code": "308438",
-      "plate_code": "885805",
-      "heat_score": 82.07,
-      "change_pct": 0.53,
-      "net_inflow_yi": -0.42,
+      "name": "白酒概念",
+      "concept_code": "301496",
+      "plate_code": "885525",
+      "heat_score": 83.39,
+      "change_pct": 0.64,
+      "net_inflow_yi": -0.21,
       "change_rank": 6,
-      "flow_rank": 13,
-      "change_score": 72.83,
-      "flow_score": 93.37,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "flow_rank": 15,
+      "change_score": 75.92,
+      "flow_score": 92.51,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "603198",
+          "name": "迎驾贡酒",
+          "reason": "Q1业绩回暖+白酒+洞藏系列+高分红",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:45:11",
+          "last_limit_up_time": "09:45:11",
+          "turnover_rate": 2.14,
+          "amount": 661652365.5
+        }
+      ]
     },
     {
       "rank": 7,
-      "name": "可燃冰",
-      "concept_code": "300277",
-      "plate_code": "885748",
-      "heat_score": 82.03,
-      "change_pct": 0.56,
-      "net_inflow_yi": -2.22,
-      "change_rank": 5,
-      "flow_rank": 27,
-      "change_score": 73.37,
-      "flow_score": 92.61,
+      "name": "生物质能发电",
+      "concept_code": "308989",
+      "plate_code": "886005",
+      "heat_score": 82.43,
+      "change_pct": 0.61,
+      "net_inflow_yi": -3.7,
+      "change_rank": 7,
+      "flow_rank": 40,
+      "change_score": 75.37,
+      "flow_score": 91.07,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
       "rank": 8,
-      "name": "丙烯酸",
-      "concept_code": "305376",
-      "plate_code": "885829",
-      "heat_score": 79.96,
-      "change_pct": 0.33,
-      "net_inflow_yi": -1.04,
-      "change_rank": 9,
-      "flow_rank": 19,
-      "change_score": 69.2,
-      "flow_score": 93.11,
+      "name": "芬太尼",
+      "concept_code": "308438",
+      "plate_code": "885805",
+      "heat_score": 82.41,
+      "change_pct": 0.55,
+      "net_inflow_yi": -0.56,
+      "change_rank": 8,
+      "flow_rank": 16,
+      "change_score": 74.26,
+      "flow_score": 92.37,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
@@ -201,13 +201,13 @@
       "name": "染料",
       "concept_code": "301292",
       "plate_code": "885633",
-      "heat_score": 79.92,
-      "change_pct": 0.46,
-      "net_inflow_yi": -8.1,
+      "heat_score": 81.59,
+      "change_pct": 0.61,
+      "net_inflow_yi": -8.22,
       "change_rank": 7,
-      "flow_rank": 75,
-      "change_score": 71.56,
-      "flow_score": 90.14,
+      "flow_rank": 72,
+      "change_score": 75.37,
+      "flow_score": 89.21,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -217,8 +217,8 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
-          "turnover_rate": 3.19,
-          "amount": 217122770.0
+          "turnover_rate": 3.45,
+          "amount": 235304420.0
         },
         {
           "code": "300721",
@@ -227,25 +227,66 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 16.15,
-          "amount": 393591320.0
+          "turnover_rate": 16.34,
+          "amount": 398272620.0
         }
       ]
     },
     {
       "rank": 10,
-      "name": "生物质能发电",
-      "concept_code": "308989",
-      "plate_code": "886005",
-      "heat_score": 79.84,
-      "change_pct": 0.4,
-      "net_inflow_yi": -5.36,
-      "change_rank": 8,
-      "flow_rank": 57,
-      "change_score": 70.47,
-      "flow_score": 91.29,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "name": "天然气",
+      "concept_code": "300358",
+      "plate_code": "885430",
+      "heat_score": 81.48,
+      "change_pct": 0.34,
+      "net_inflow_yi": 5.86,
+      "change_rank": 12,
+      "flow_rank": 5,
+      "change_score": 70.4,
+      "flow_score": 95.02,
+      "limit_up_count": 4,
+      "limit_up_stocks": [
+        {
+          "code": "603318",
+          "name": "水发燃气",
+          "reason": "氦气+燃气轮机掺氢+氢能应用+山东国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:25:02",
+          "last_limit_up_time": "09:25:02",
+          "turnover_rate": 2.87,
+          "amount": 136479095.1
+        },
+        {
+          "code": "000593",
+          "name": "德龙汇能",
+          "reason": "燃气+氢能中心+控制权变更完成",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:04:27",
+          "last_limit_up_time": "10:12:15",
+          "turnover_rate": 8.75,
+          "amount": 596914200.0
+        },
+        {
+          "code": "002490",
+          "name": "山东墨龙",
+          "reason": "油气装备+寿光国资+海外订单+业绩增长",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:11:51",
+          "last_limit_up_time": "11:11:51",
+          "turnover_rate": 15.81,
+          "amount": 803180210.0
+        },
+        {
+          "code": "002971",
+          "name": "和远气体",
+          "reason": "电子特气+硅基新材料+国产替代",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:49:30",
+          "last_limit_up_time": "13:49:30",
+          "turnover_rate": 9.97,
+          "amount": 511738090.0
+        }
+      ]
     }
   ],
   "all_count": 298
