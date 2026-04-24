@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24 04:45:50",
+  "generated_at": "2026-04-24 06:23:32",
   "latest_trade_date": "2026-04-24",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,14 +17,14 @@
       "name": "盐湖提锂",
       "concept_code": "307904",
       "plate_code": "885922",
-      "heat_score": 96.97,
-      "change_pct": 1.11,
-      "net_inflow_yi": 20.12,
+      "heat_score": 98.72,
+      "change_pct": 2.83,
+      "net_inflow_yi": 67.51,
       "change_rank": 1,
-      "flow_rank": 5,
+      "flow_rank": 3,
       "change_score": 100.0,
-      "flow_score": 93.28,
-      "limit_up_count": 2,
+      "flow_score": 97.15,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "000546",
@@ -32,9 +32,9 @@
           "reason": "盐湖提锂+锂矿布局+金属镍+固废回收",
           "consecutive_boards": 1,
           "first_limit_up_time": "10:27:45",
-          "last_limit_up_time": "11:29:24",
-          "turnover_rate": 15.31,
-          "amount": 742089360.0
+          "last_limit_up_time": "13:45:06",
+          "turnover_rate": 23.26,
+          "amount": 1134601210.0
         },
         {
           "code": "600499",
@@ -43,38 +43,43 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:37:18",
           "last_limit_up_time": "10:37:18",
-          "turnover_rate": 3.11,
-          "amount": 1159109111.14
+          "turnover_rate": 3.24,
+          "amount": 1206619434.14
+        },
+        {
+          "code": "600338",
+          "name": "西藏珠峰",
+          "reason": "盐湖提锂+铅锌矿+业绩高增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:41:53",
+          "last_limit_up_time": "14:13:47",
+          "turnover_rate": 19.74,
+          "amount": 3914761190.32
+        },
+        {
+          "code": "002240",
+          "name": "盛新锂能",
+          "reason": "锂盐产能释放+木绒锂矿获批+津巴布韦出口",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:01:45",
+          "last_limit_up_time": "14:01:45",
+          "turnover_rate": 7.0,
+          "amount": 3117744300.0
         }
       ]
     },
     {
       "rank": 2,
-      "name": "国家大基金持股",
-      "concept_code": "307816",
-      "plate_code": "885893",
-      "heat_score": 92.0,
-      "change_pct": 0.71,
-      "net_inflow_yi": 21.18,
-      "change_rank": 3,
-      "flow_rank": 4,
-      "change_score": 90.5,
-      "flow_score": 93.84,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 3,
       "name": "化肥",
       "concept_code": "301104",
       "plate_code": "885967",
-      "heat_score": 90.94,
-      "change_pct": 0.69,
-      "net_inflow_yi": 17.86,
-      "change_rank": 4,
+      "heat_score": 87.85,
+      "change_pct": 2.22,
+      "net_inflow_yi": 48.89,
+      "change_rank": 3,
       "flow_rank": 6,
-      "change_score": 90.02,
-      "flow_score": 92.07,
+      "change_score": 87.87,
+      "flow_score": 87.82,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -84,40 +89,61 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:52:57",
           "last_limit_up_time": "09:53:36",
-          "turnover_rate": 8.71,
-          "amount": 223576270.0
+          "turnover_rate": 9.21,
+          "amount": 236625080.0
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "PVDF概念",
+      "concept_code": "308742",
+      "plate_code": "885931",
+      "heat_score": 85.27,
+      "change_pct": 2.54,
+      "net_inflow_yi": 21.94,
+      "change_rank": 2,
+      "flow_rank": 13,
+      "change_score": 94.23,
+      "flow_score": 74.31,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "一季报暴增+大圆柱电池+六氟磷酸锂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:12",
+          "last_limit_up_time": "14:07:12",
+          "turnover_rate": 17.73,
+          "amount": 6079893700.0
         }
       ]
     },
     {
       "rank": 4,
-      "name": "科创次新股",
-      "concept_code": "308699",
-      "plate_code": "885907",
-      "heat_score": 86.77,
-      "change_pct": 0.78,
-      "net_inflow_yi": -4.38,
-      "change_rank": 2,
-      "flow_rank": 101,
-      "change_score": 92.16,
-      "flow_score": 80.18,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 5,
       "name": "氟化工概念",
       "concept_code": "300085",
       "plate_code": "885551",
-      "heat_score": 86.57,
-      "change_pct": 0.61,
-      "net_inflow_yi": 4.03,
-      "change_rank": 5,
-      "flow_rank": 20,
-      "change_score": 88.12,
-      "flow_score": 84.68,
-      "limit_up_count": 1,
+      "heat_score": 84.84,
+      "change_pct": 2.22,
+      "net_inflow_yi": 35.58,
+      "change_rank": 3,
+      "flow_rank": 9,
+      "change_score": 87.87,
+      "flow_score": 81.14,
+      "limit_up_count": 3,
       "limit_up_stocks": [
+        {
+          "code": "688268",
+          "name": "华特气体",
+          "reason": "氦气涨价+光刻气+国产替代",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:35:52",
+          "last_limit_up_time": "14:01:34",
+          "turnover_rate": 12.84,
+          "amount": 2649219106.99
+        },
         {
           "code": "603520",
           "name": "司太立",
@@ -125,101 +151,85 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:33:12",
           "last_limit_up_time": "10:44:30",
-          "turnover_rate": 11.0,
-          "amount": 545367839.76
+          "turnover_rate": 11.55,
+          "amount": 573272411.76
+        },
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "一季报暴增+大圆柱电池+六氟磷酸锂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:12",
+          "last_limit_up_time": "14:07:12",
+          "turnover_rate": 17.73,
+          "amount": 6079893700.0
         }
       ]
     },
     {
+      "rank": 5,
+      "name": "磷化工",
+      "concept_code": "300098",
+      "plate_code": "885863",
+      "heat_score": 81.59,
+      "change_pct": 2.02,
+      "net_inflow_yi": 30.85,
+      "change_rank": 4,
+      "flow_rank": 12,
+      "change_score": 83.9,
+      "flow_score": 78.77,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
       "rank": 6,
-      "name": "汽车芯片",
-      "concept_code": "308725",
-      "plate_code": "885945",
-      "heat_score": 86.24,
-      "change_pct": 0.54,
-      "net_inflow_yi": 6.43,
-      "change_rank": 6,
-      "flow_rank": 13,
-      "change_score": 86.46,
-      "flow_score": 85.96,
+      "name": "动力电池回收",
+      "concept_code": "307822",
+      "plate_code": "885944",
+      "heat_score": 81.26,
+      "change_pct": 1.2,
+      "net_inflow_yi": 69.14,
+      "change_rank": 12,
+      "flow_rank": 2,
+      "change_score": 67.59,
+      "flow_score": 97.97,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "600770",
-          "name": "综艺股份",
-          "reason": "参股CPU+功率半导体+吉莱微并购+芯片设计",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:02",
-          "last_limit_up_time": "09:33:41",
-          "turnover_rate": 6.71,
-          "amount": 607693572.76
+          "code": "300422",
+          "name": "博世科",
+          "reason": "一季报扭亏+工业环境治理+海外订单+广西国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:31:24",
+          "last_limit_up_time": "09:31:24",
+          "turnover_rate": 7.02,
+          "amount": 199785790.0
         },
         {
-          "code": "300613",
-          "name": "富瀚微",
-          "reason": "一季报暴增+AI算力芯片+车载AI芯片+机器人芯片",
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "一季报暴增+大圆柱电池+六氟磷酸锂",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:31:51",
-          "last_limit_up_time": "11:10:36",
-          "turnover_rate": 11.21,
-          "amount": 1377546800.0
+          "first_limit_up_time": "14:07:12",
+          "last_limit_up_time": "14:07:12",
+          "turnover_rate": 17.73,
+          "amount": 6079893700.0
         }
       ]
     },
     {
       "rank": 7,
-      "name": "PVDF概念",
-      "concept_code": "308742",
-      "plate_code": "885931",
-      "heat_score": 85.08,
-      "change_pct": 0.46,
-      "net_inflow_yi": 5.97,
-      "change_rank": 8,
-      "flow_rank": 15,
-      "change_score": 84.56,
-      "flow_score": 85.72,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
-      "name": "存储芯片",
-      "concept_code": "307940",
-      "plate_code": "886042",
-      "heat_score": 84.98,
-      "change_pct": -0.04,
-      "net_inflow_yi": 32.7,
-      "change_rank": 17,
-      "flow_rank": 1,
-      "change_score": 72.68,
-      "flow_score": 100.0,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "000062",
-          "name": "深圳华强",
-          "reason": "华为昇腾+分销龙头+存储芯片+一季报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:48:21",
-          "last_limit_up_time": "10:55:00",
-          "turnover_rate": 7.88,
-          "amount": 2708262900.0
-        }
-      ]
-    },
-    {
-      "rank": 9,
       "name": "钠离子电池",
       "concept_code": "301096",
       "plate_code": "885928",
-      "heat_score": 83.64,
-      "change_pct": -0.1,
-      "net_inflow_yi": 30.39,
-      "change_rank": 22,
-      "flow_rank": 2,
-      "change_score": 71.26,
-      "flow_score": 98.77,
-      "limit_up_count": 1,
+      "heat_score": 80.65,
+      "change_pct": 1.06,
+      "net_inflow_yi": 73.2,
+      "change_rank": 17,
+      "flow_rank": 1,
+      "change_score": 64.81,
+      "flow_score": 100.0,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
           "code": "600152",
@@ -228,34 +238,155 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:36:07",
           "last_limit_up_time": "09:40:01",
-          "turnover_rate": 13.01,
-          "amount": 874368909.78
+          "turnover_rate": 13.44,
+          "amount": 903906045.78
+        },
+        {
+          "code": "603876",
+          "name": "鼎胜新材",
+          "reason": "电池铝箔+钠电池+全球布局+业绩预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:25:41",
+          "last_limit_up_time": "13:25:41",
+          "turnover_rate": 5.56,
+          "amount": 1345262190.38
+        },
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "一季报暴增+大圆柱电池+六氟磷酸锂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:12",
+          "last_limit_up_time": "14:07:12",
+          "turnover_rate": 17.73,
+          "amount": 6079893700.0
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "国家大基金持股",
+      "concept_code": "307816",
+      "plate_code": "885893",
+      "heat_score": 78.25,
+      "change_pct": 1.64,
+      "net_inflow_yi": 34.48,
+      "change_rank": 6,
+      "flow_rank": 10,
+      "change_score": 76.34,
+      "flow_score": 80.59,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 9,
+      "name": "小金属概念",
+      "concept_code": "300809",
+      "plate_code": "885552",
+      "heat_score": 77.12,
+      "change_pct": 1.08,
+      "net_inflow_yi": 56.58,
+      "change_rank": 15,
+      "flow_rank": 5,
+      "change_score": 65.21,
+      "flow_score": 91.67,
+      "limit_up_count": 4,
+      "limit_up_stocks": [
+        {
+          "code": "000546",
+          "name": "金圆股份",
+          "reason": "盐湖提锂+锂矿布局+金属镍+固废回收",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:27:45",
+          "last_limit_up_time": "13:45:06",
+          "turnover_rate": 23.26,
+          "amount": 1134601210.0
+        },
+        {
+          "code": "002176",
+          "name": "江特电机",
+          "reason": "锂矿+机器人+低空经济",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:36:09",
+          "last_limit_up_time": "10:36:09",
+          "turnover_rate": 10.34,
+          "amount": 2314590400.0
+        },
+        {
+          "code": "600338",
+          "name": "西藏珠峰",
+          "reason": "盐湖提锂+铅锌矿+业绩高增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:41:53",
+          "last_limit_up_time": "14:13:47",
+          "turnover_rate": 19.74,
+          "amount": 3914761190.32
+        },
+        {
+          "code": "002240",
+          "name": "盛新锂能",
+          "reason": "锂盐产能释放+木绒锂矿获批+津巴布韦出口",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:01:45",
+          "last_limit_up_time": "14:01:45",
+          "turnover_rate": 7.0,
+          "amount": 3117744300.0
         }
       ]
     },
     {
       "rank": 10,
-      "name": "足球概念",
-      "concept_code": "301100",
-      "plate_code": "885580",
-      "heat_score": 83.63,
-      "change_pct": 0.47,
-      "net_inflow_yi": -0.61,
-      "change_rank": 7,
-      "flow_rank": 42,
-      "change_score": 84.8,
-      "flow_score": 82.2,
-      "limit_up_count": 1,
+      "name": "存储芯片",
+      "concept_code": "307940",
+      "plate_code": "886042",
+      "heat_score": 76.29,
+      "change_pct": 0.95,
+      "net_inflow_yi": 59.23,
+      "change_rank": 22,
+      "flow_rank": 4,
+      "change_score": 62.62,
+      "flow_score": 93.0,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
-          "code": "605299",
-          "name": "舒华体育",
-          "reason": "足球概念+体育产业+健身器材+外销",
+          "code": "688268",
+          "name": "华特气体",
+          "reason": "氦气涨价+光刻气+国产替代",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:32:56",
-          "last_limit_up_time": "10:32:56",
-          "turnover_rate": 10.14,
-          "amount": 872023718.4
+          "first_limit_up_time": "09:35:52",
+          "last_limit_up_time": "14:01:34",
+          "turnover_rate": 12.84,
+          "amount": 2649219106.99
+        },
+        {
+          "code": "000062",
+          "name": "深圳华强",
+          "reason": "华为昇腾+分销龙头+存储芯片+一季报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:48:21",
+          "last_limit_up_time": "10:55:00",
+          "turnover_rate": 8.62,
+          "amount": 2972708700.0
+        },
+        {
+          "code": "002990",
+          "name": "盛视科技",
+          "reason": "算力采购+人形机器人+智慧口岸",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:39:54",
+          "last_limit_up_time": "14:03:00",
+          "turnover_rate": 15.51,
+          "amount": 1094123980.0
+        },
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "一季报暴增+大圆柱电池+六氟磷酸锂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:12",
+          "last_limit_up_time": "14:07:12",
+          "turnover_rate": 17.73,
+          "amount": 6079893700.0
         }
       ]
     }
