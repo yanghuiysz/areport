@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30 11:59:23",
-  "latest_trade_date": "2026-04-30",
+  "generated_at": "2026-05-01 05:30:49",
+  "latest_trade_date": "2026-05-01",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -31,10 +31,10 @@
           "name": "芯原股份",
           "reason": "AI算力订单+半导体IP+Chiplet",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:09:04",
-          "last_limit_up_time": "11:09:04",
+          "first_limit_up_time": "11:09:07",
+          "last_limit_up_time": "11:09:07",
           "turnover_rate": 7.78,
-          "amount": 11123816473.2
+          "amount": 11123816500.0
         }
       ]
     },
@@ -57,8 +57,8 @@
           "name": "高新发展",
           "reason": "功率半导体+华鲲振宇并购预期+成都国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:51:45",
-          "last_limit_up_time": "10:51:45",
+          "first_limit_up_time": "10:52:06",
+          "last_limit_up_time": "10:52:06",
           "turnover_rate": 9.7,
           "amount": 1172085030.0
         },
@@ -67,30 +67,30 @@
           "name": "芯原股份",
           "reason": "AI算力订单+半导体IP+Chiplet",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:09:04",
-          "last_limit_up_time": "11:09:04",
+          "first_limit_up_time": "11:09:07",
+          "last_limit_up_time": "11:09:07",
           "turnover_rate": 7.78,
-          "amount": 11123816473.2
+          "amount": 11123816500.0
         },
         {
           "code": "603375",
           "name": "盛景微",
           "reason": "电子雷管+芯片概念+低空经济+分红",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:40:33",
-          "last_limit_up_time": "13:50:51",
+          "first_limit_up_time": "13:40:36",
+          "last_limit_up_time": "13:51:35",
           "turnover_rate": 9.64,
-          "amount": 270164567.61
+          "amount": 270164568.0
         },
         {
           "code": "688256",
           "name": "寒武纪",
           "reason": "一季报大增+AI芯片+算力需求",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:44:38",
-          "last_limit_up_time": "13:44:38",
+          "first_limit_up_time": "13:44:52",
+          "last_limit_up_time": "13:44:52",
           "turnover_rate": 4.24,
-          "amount": 28465682090.79
+          "amount": 28465682100.0
         }
       ]
     },
@@ -128,10 +128,10 @@
           "name": "中体产业",
           "reason": "体育产业+一季报减亏+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:31:32",
-          "last_limit_up_time": "09:34:11",
+          "first_limit_up_time": "09:31:45",
+          "last_limit_up_time": "09:34:24",
           "turnover_rate": 7.03,
-          "amount": 795994314.69
+          "amount": 795994315.0
         }
       ]
     },
@@ -154,40 +154,40 @@
           "name": "盛视科技",
           "reason": "算力采购+人形机器人+智慧口岸",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:34:03",
-          "last_limit_up_time": "09:42:06",
+          "first_limit_up_time": "09:34:09",
+          "last_limit_up_time": "09:42:14",
           "turnover_rate": 8.54,
-          "amount": 624391360.0
+          "amount": 624391356.0
         },
         {
           "code": "600246",
           "name": "万通发展",
           "reason": "PCIe5.0芯片+商业航天+科技转型+房地产",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:17:50",
-          "last_limit_up_time": "13:12:26",
+          "first_limit_up_time": "10:19:05",
+          "last_limit_up_time": "11:00:56",
           "turnover_rate": 8.67,
-          "amount": 1812369546.84
+          "amount": 1812369550.0
         },
         {
           "code": "603360",
           "name": "百傲化学",
           "reason": "半导体设备+工业杀菌剂+减持终止+回购",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:28",
-          "last_limit_up_time": "13:02:28",
+          "first_limit_up_time": "13:02:38",
+          "last_limit_up_time": "13:02:38",
           "turnover_rate": 6.08,
-          "amount": 931755422.97
+          "amount": 931755423.0
         },
         {
           "code": "603375",
           "name": "盛景微",
           "reason": "电子雷管+芯片概念+低空经济+分红",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:40:33",
-          "last_limit_up_time": "13:50:51",
+          "first_limit_up_time": "13:40:36",
+          "last_limit_up_time": "13:51:35",
           "turnover_rate": 9.64,
-          "amount": 270164567.61
+          "amount": 270164568.0
         }
       ]
     },
@@ -240,10 +240,10 @@
           "name": "芯原股份",
           "reason": "AI算力订单+半导体IP+Chiplet",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:09:04",
-          "last_limit_up_time": "11:09:04",
+          "first_limit_up_time": "11:09:07",
+          "last_limit_up_time": "11:09:07",
           "turnover_rate": 7.78,
-          "amount": 11123816473.2
+          "amount": 11123816500.0
         }
       ]
     },
@@ -266,38 +266,38 @@
           "name": "光莆股份",
           "reason": "光通信+机器人+光电集成封测",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:00",
-          "last_limit_up_time": "09:30:00",
+          "first_limit_up_time": "09:30:15",
+          "last_limit_up_time": "09:30:15",
           "turnover_rate": 16.65,
-          "amount": 901096200.0
+          "amount": 901096197.0
         },
         {
           "code": "920125",
           "name": "鸿仕达",
           "reason": "一季报增长+先进封装+果链+北交所次新股",
           "consecutive_boards": 2,
-          "first_limit_up_time": "10:49:18",
-          "last_limit_up_time": "10:49:18",
+          "first_limit_up_time": "10:49:26",
+          "last_limit_up_time": "10:49:26",
           "turnover_rate": 29.7,
-          "amount": 380802493.07
+          "amount": 380802493.0
         },
         {
           "code": "688699",
           "name": "明微电子",
           "reason": "一季报扭亏+Micro LED+芯片设计+封装测试",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:38",
-          "last_limit_up_time": "09:37:38",
+          "first_limit_up_time": "09:37:48",
+          "last_limit_up_time": "09:37:48",
           "turnover_rate": 5.29,
-          "amount": 315061344.84
+          "amount": 315061345.0
         },
         {
           "code": "603726",
           "name": "朗迪集团",
           "reason": "一季报增长+机器人关节+先进封装+空调风叶",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:01",
-          "last_limit_up_time": "09:47:01",
+          "first_limit_up_time": "09:47:23",
+          "last_limit_up_time": "09:47:23",
           "turnover_rate": 4.22,
           "amount": 190548120.0
         },
@@ -306,20 +306,20 @@
           "name": "芯原股份",
           "reason": "AI算力订单+半导体IP+Chiplet",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:09:04",
-          "last_limit_up_time": "11:09:04",
+          "first_limit_up_time": "11:09:07",
+          "last_limit_up_time": "11:09:07",
           "turnover_rate": 7.78,
-          "amount": 11123816473.2
+          "amount": 11123816500.0
         },
         {
           "code": "688256",
           "name": "寒武纪",
           "reason": "一季报大增+AI芯片+算力需求",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:44:38",
-          "last_limit_up_time": "13:44:38",
+          "first_limit_up_time": "13:44:52",
+          "last_limit_up_time": "13:44:52",
           "turnover_rate": 4.24,
-          "amount": 28465682090.79
+          "amount": 28465682100.0
         }
       ]
     },
@@ -342,38 +342,38 @@
           "name": "舒华体育",
           "reason": "一季报增长+体育产业+健身器材",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:14",
-          "last_limit_up_time": "09:39:23",
+          "first_limit_up_time": "09:34:24",
+          "last_limit_up_time": "09:37:48",
           "turnover_rate": 5.66,
-          "amount": 593108662.36
+          "amount": 593108662.0
         },
         {
           "code": "605099",
           "name": "共创草坪",
           "reason": "业绩增长+体育产业+人造草坪",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:42:30",
-          "last_limit_up_time": "09:50:54",
+          "first_limit_up_time": "09:42:47",
+          "last_limit_up_time": "09:44:26",
           "turnover_rate": 1.83,
-          "amount": 348438434.99
+          "amount": 348438435.0
         },
         {
           "code": "600158",
           "name": "中体产业",
           "reason": "体育产业+一季报减亏+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:31:32",
-          "last_limit_up_time": "09:34:11",
+          "first_limit_up_time": "09:31:45",
+          "last_limit_up_time": "09:34:24",
           "turnover_rate": 7.03,
-          "amount": 795994314.69
+          "amount": 795994315.0
         },
         {
           "code": "002181",
           "name": "粤传媒",
           "reason": "AI应用+世界杯+广州国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:52:45",
-          "last_limit_up_time": "09:52:45",
+          "first_limit_up_time": "09:54:17",
+          "last_limit_up_time": "09:54:17",
           "turnover_rate": 6.64,
           "amount": 1202389440.0
         }
