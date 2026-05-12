@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12 06:50:00",
+  "generated_at": "2026-05-12 09:50:36",
   "latest_trade_date": "2026-05-12",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,13 +17,13 @@
       "name": "兵装重组概念",
       "concept_code": "309185",
       "plate_code": "886101",
-      "heat_score": 97.81,
-      "change_pct": 2.19,
-      "net_inflow_yi": -1.83,
+      "heat_score": 97.74,
+      "change_pct": 2.01,
+      "net_inflow_yi": -1.9,
       "change_rank": 1,
       "flow_rank": 9,
       "change_score": 100.0,
-      "flow_score": 95.14,
+      "flow_score": 94.97,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
@@ -32,13 +32,13 @@
       "name": "柔性直流输电",
       "concept_code": "308810",
       "plate_code": "885948",
-      "heat_score": 87.01,
-      "change_pct": 1.46,
-      "net_inflow_yi": -16.44,
+      "heat_score": 89.74,
+      "change_pct": 1.54,
+      "net_inflow_yi": -15.69,
       "change_rank": 3,
-      "flow_rank": 105,
-      "change_score": 86.25,
-      "flow_score": 87.93,
+      "flow_rank": 103,
+      "change_score": 90.91,
+      "flow_score": 88.31,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -48,8 +48,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:39:54",
-          "turnover_rate": 3.01,
-          "amount": 1495243374.83
+          "turnover_rate": 3.03,
+          "amount": 1501734150.83
         },
         {
           "code": "300265",
@@ -58,8 +58,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:53:33",
           "last_limit_up_time": "09:56:42",
-          "turnover_rate": 21.35,
-          "amount": 2187337200.0
+          "turnover_rate": 21.42,
+          "amount": 2194958000.0
         },
         {
           "code": "002560",
@@ -68,8 +68,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:00:09",
           "last_limit_up_time": "13:00:21",
-          "turnover_rate": 25.75,
-          "amount": 1865361800.0
+          "turnover_rate": 25.83,
+          "amount": 1871557500.0
         },
         {
           "code": "002498",
@@ -78,8 +78,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:17:00",
           "last_limit_up_time": "10:17:00",
-          "turnover_rate": 8.8,
-          "amount": 2825186200.0
+          "turnover_rate": 8.86,
+          "amount": 2846162200.0
         }
       ]
     },
@@ -88,14 +88,14 @@
       "name": "光纤概念",
       "concept_code": "309151",
       "plate_code": "886084",
-      "heat_score": 84.15,
-      "change_pct": 1.7,
-      "net_inflow_yi": -40.51,
+      "heat_score": 87.32,
+      "change_pct": 1.78,
+      "net_inflow_yi": -38.54,
       "change_rank": 2,
-      "flow_rank": 211,
-      "change_score": 90.77,
-      "flow_score": 76.06,
-      "limit_up_count": 6,
+      "flow_rank": 207,
+      "change_score": 95.55,
+      "flow_score": 77.27,
+      "limit_up_count": 8,
       "limit_up_stocks": [
         {
           "code": "002491",
@@ -104,8 +104,8 @@
           "consecutive_boards": 4,
           "first_limit_up_time": "09:39:54",
           "last_limit_up_time": "13:04:09",
-          "turnover_rate": 10.85,
-          "amount": 3117040800.0
+          "turnover_rate": 10.88,
+          "amount": 3125535800.0
         },
         {
           "code": "600869",
@@ -114,8 +114,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:39:54",
-          "turnover_rate": 3.01,
-          "amount": 1495243374.83
+          "turnover_rate": 3.03,
+          "amount": 1501734150.83
         },
         {
           "code": "002522",
@@ -124,8 +124,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:43:21",
           "last_limit_up_time": "09:46:15",
-          "turnover_rate": 8.9,
-          "amount": 603445010.0
+          "turnover_rate": 8.96,
+          "amount": 607568960.0
         },
         {
           "code": "300265",
@@ -134,8 +134,18 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:53:33",
           "last_limit_up_time": "09:56:42",
-          "turnover_rate": 21.35,
-          "amount": 2187337200.0
+          "turnover_rate": 21.42,
+          "amount": 2194958000.0
+        },
+        {
+          "code": "301196",
+          "name": "唯科科技",
+          "reason": "MPO+光纤连接头+机器人+精密模具",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:09:00",
+          "last_limit_up_time": "14:56:30",
+          "turnover_rate": 17.42,
+          "amount": 2106329600.0
         },
         {
           "code": "002254",
@@ -144,8 +154,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:16:57",
           "last_limit_up_time": "13:16:57",
-          "turnover_rate": 7.69,
-          "amount": 837307270.0
+          "turnover_rate": 7.76,
+          "amount": 844488580.0
         },
         {
           "code": "603688",
@@ -154,38 +164,33 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:21:13",
           "last_limit_up_time": "13:54:46",
-          "turnover_rate": 7.43,
-          "amount": 2783714751.83
+          "turnover_rate": 7.45,
+          "amount": 2792788002.83
+        },
+        {
+          "code": "002428",
+          "name": "云南锗业",
+          "reason": "磷化铟扩产+光纤级锗产品+光伏锗+商业航天",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:51:30",
+          "last_limit_up_time": "14:51:30",
+          "turnover_rate": 17.27,
+          "amount": 10764440700.0
         }
       ]
     },
     {
       "rank": 4,
-      "name": "赛马概念",
-      "concept_code": "301602",
-      "plate_code": "885792",
-      "heat_score": 83.18,
-      "change_pct": 0.73,
-      "net_inflow_yi": 0.36,
-      "change_rank": 6,
-      "flow_rank": 6,
-      "change_score": 72.5,
-      "flow_score": 96.22,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 5,
       "name": "PET铜箔",
       "concept_code": "309030",
       "plate_code": "886020",
-      "heat_score": 82.88,
-      "change_pct": 0.98,
-      "net_inflow_yi": -12.66,
+      "heat_score": 84.35,
+      "change_pct": 0.99,
+      "net_inflow_yi": -13.59,
       "change_rank": 5,
-      "flow_rank": 75,
-      "change_score": 77.21,
-      "flow_score": 89.8,
+      "flow_rank": 83,
+      "change_score": 80.27,
+      "flow_score": 89.33,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -195,74 +200,38 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:39:54",
-          "turnover_rate": 3.01,
-          "amount": 1495243374.83
+          "turnover_rate": 3.03,
+          "amount": 1501734150.83
         }
       ]
     },
     {
-      "rank": 6,
-      "name": "光刻机",
-      "concept_code": "309085",
-      "plate_code": "886054",
-      "heat_score": 80.2,
-      "change_pct": 0.53,
-      "net_inflow_yi": -3.74,
-      "change_rank": 11,
-      "flow_rank": 21,
-      "change_score": 68.74,
-      "flow_score": 94.2,
+      "rank": 5,
+      "name": "赛马概念",
+      "concept_code": "301602",
+      "plate_code": "885792",
+      "heat_score": 84.08,
+      "change_pct": 0.68,
+      "net_inflow_yi": 0.37,
+      "change_rank": 7,
+      "flow_rank": 6,
+      "change_score": 74.27,
+      "flow_score": 96.07,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
-      "rank": 7,
-      "name": "深圳国企改革",
-      "concept_code": "301171",
-      "plate_code": "885697",
-      "heat_score": 79.7,
-      "change_pct": 0.54,
-      "net_inflow_yi": -6.46,
-      "change_rank": 10,
-      "flow_rank": 35,
-      "change_score": 68.93,
-      "flow_score": 92.86,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "000029",
-          "name": "深深房A",
-          "reason": "房地产+深圳国资+新房成交激增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:10:54",
-          "last_limit_up_time": "14:20:09",
-          "turnover_rate": 2.86,
-          "amount": 661700760.0
-        },
-        {
-          "code": "000006",
-          "name": "深振业A",
-          "reason": "地产开发+城中村改造+深圳国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:00:24",
-          "last_limit_up_time": "10:43:33",
-          "turnover_rate": 6.01,
-          "amount": 828788890.0
-        }
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "name": "抽水蓄能",
       "concept_code": "308753",
       "plate_code": "885935",
-      "heat_score": 79.66,
-      "change_pct": 0.58,
-      "net_inflow_yi": -8.49,
-      "change_rank": 9,
-      "flow_rank": 52,
-      "change_score": 69.68,
-      "flow_score": 91.86,
+      "heat_score": 81.95,
+      "change_pct": 0.63,
+      "net_inflow_yi": -6.99,
+      "change_rank": 8,
+      "flow_rank": 40,
+      "change_score": 73.31,
+      "flow_score": 92.51,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -272,8 +241,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:34:57",
           "last_limit_up_time": "09:35:27",
-          "turnover_rate": 6.85,
-          "amount": 570272470.0
+          "turnover_rate": 6.89,
+          "amount": 574133020.0
         },
         {
           "code": "002498",
@@ -282,8 +251,59 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:17:00",
           "last_limit_up_time": "10:17:00",
-          "turnover_rate": 8.8,
-          "amount": 2825186200.0
+          "turnover_rate": 8.86,
+          "amount": 2846162200.0
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "光刻机",
+      "concept_code": "309085",
+      "plate_code": "886054",
+      "heat_score": 81.85,
+      "change_pct": 0.52,
+      "net_inflow_yi": -2.05,
+      "change_rank": 10,
+      "flow_rank": 10,
+      "change_score": 71.18,
+      "flow_score": 94.9,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 8,
+      "name": "深圳国企改革",
+      "concept_code": "301171",
+      "plate_code": "885697",
+      "heat_score": 80.71,
+      "change_pct": 0.51,
+      "net_inflow_yi": -6.81,
+      "change_rank": 11,
+      "flow_rank": 38,
+      "change_score": 70.99,
+      "flow_score": 92.6,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "000029",
+          "name": "深深房A",
+          "reason": "房地产+深圳国资+新房成交激增",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:10:54",
+          "last_limit_up_time": "14:20:09",
+          "turnover_rate": 2.87,
+          "amount": 663194790.0
+        },
+        {
+          "code": "000006",
+          "name": "深振业A",
+          "reason": "地产开发+城中村改造+深圳国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:00:24",
+          "last_limit_up_time": "10:43:33",
+          "turnover_rate": 6.03,
+          "amount": 831437630.0
         }
       ]
     },
@@ -292,13 +312,13 @@
       "name": "特高压",
       "concept_code": "300353",
       "plate_code": "885425",
-      "heat_score": 78.07,
-      "change_pct": 1.01,
-      "net_inflow_yi": -35.72,
+      "heat_score": 80.66,
+      "change_pct": 1.07,
+      "net_inflow_yi": -34.47,
       "change_rank": 4,
-      "flow_rank": 191,
-      "change_score": 77.78,
-      "flow_score": 78.42,
+      "flow_rank": 189,
+      "change_score": 81.82,
+      "flow_score": 79.24,
       "limit_up_count": 6,
       "limit_up_stocks": [
         {
@@ -308,8 +328,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:39:54",
-          "turnover_rate": 3.01,
-          "amount": 1495243374.83
+          "turnover_rate": 3.03,
+          "amount": 1501734150.83
         },
         {
           "code": "002300",
@@ -318,8 +338,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:51:15",
           "last_limit_up_time": "09:51:15",
-          "turnover_rate": 9.96,
-          "amount": 749850000.0
+          "turnover_rate": 10.04,
+          "amount": 756058880.0
         },
         {
           "code": "300265",
@@ -328,8 +348,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:53:33",
           "last_limit_up_time": "09:56:42",
-          "turnover_rate": 21.35,
-          "amount": 2187337200.0
+          "turnover_rate": 21.42,
+          "amount": 2194958000.0
         },
         {
           "code": "002560",
@@ -338,8 +358,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:00:09",
           "last_limit_up_time": "13:00:21",
-          "turnover_rate": 25.75,
-          "amount": 1865361800.0
+          "turnover_rate": 25.83,
+          "amount": 1871557500.0
         },
         {
           "code": "002498",
@@ -348,8 +368,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:17:00",
           "last_limit_up_time": "10:17:00",
-          "turnover_rate": 8.8,
-          "amount": 2825186200.0
+          "turnover_rate": 8.86,
+          "amount": 2846162200.0
         },
         {
           "code": "002606",
@@ -358,54 +378,44 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:17:06",
           "last_limit_up_time": "10:17:06",
-          "turnover_rate": 11.92,
-          "amount": 822599190.0
+          "turnover_rate": 11.94,
+          "amount": 823869690.0
         }
       ]
     },
     {
       "rank": 10,
-      "name": "超超临界发电",
-      "concept_code": "308969",
-      "plate_code": "885996",
-      "heat_score": 77.83,
-      "change_pct": 0.05,
-      "net_inflow_yi": 8.02,
-      "change_rank": 22,
-      "flow_rank": 1,
-      "change_score": 59.7,
-      "flow_score": 100.0,
-      "limit_up_count": 3,
+      "name": "租售同权",
+      "concept_code": "302034",
+      "plate_code": "885758",
+      "heat_score": 79.27,
+      "change_pct": 0.36,
+      "net_inflow_yi": -6.09,
+      "change_rank": 14,
+      "flow_rank": 33,
+      "change_score": 68.09,
+      "flow_score": 92.95,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "603269",
-          "name": "海鸥股份",
-          "reason": "液冷服务器+核电冷却塔+订单高增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:31:44",
-          "last_limit_up_time": "09:31:44",
-          "turnover_rate": 4.68,
-          "amount": 291316696.52
-        },
-        {
-          "code": "600396",
-          "name": "华电辽能",
-          "reason": "其他",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "14:42:35",
-          "last_limit_up_time": "14:42:35",
-          "turnover_rate": 22.26,
-          "amount": 4686624308.31
-        },
-        {
-          "code": "000767",
-          "name": "晋控电力",
-          "reason": "山西最大电力+国企背景",
+          "code": "603682",
+          "name": "锦和商管",
+          "reason": "城市更新+出租率修复+轻资产运营",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:11:06",
-          "last_limit_up_time": "10:13:42",
-          "turnover_rate": 9.0,
-          "amount": 1165150720.0
+          "first_limit_up_time": "09:31:11",
+          "last_limit_up_time": "13:26:56",
+          "turnover_rate": 5.76,
+          "amount": 256990869.0
+        },
+        {
+          "code": "002208",
+          "name": "合肥城建",
+          "reason": "间接持有长鑫科技+房地产+合肥国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:51:06",
+          "last_limit_up_time": "13:51:06",
+          "turnover_rate": 10.78,
+          "amount": 1349021000.0
         }
       ]
     }
