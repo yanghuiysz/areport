@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13 05:36:31",
+  "generated_at": "2026-05-13 06:59:11",
   "latest_trade_date": "2026-05-13",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,14 +17,14 @@
       "name": "算力租赁",
       "concept_code": "309068",
       "plate_code": "886050",
-      "heat_score": 93.82,
-      "change_pct": 2.9,
-      "net_inflow_yi": 205.14,
-      "change_rank": 5,
+      "heat_score": 91.17,
+      "change_pct": 3.32,
+      "net_inflow_yi": 239.44,
+      "change_rank": 7,
       "flow_rank": 1,
-      "change_score": 88.77,
+      "change_score": 83.94,
       "flow_score": 100.0,
-      "limit_up_count": 11,
+      "limit_up_count": 12,
       "limit_up_stocks": [
         {
           "code": "000925",
@@ -33,8 +33,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "10:10:21",
           "last_limit_up_time": "10:25:30",
-          "turnover_rate": 31.27,
-          "amount": 2383899700.0
+          "turnover_rate": 32.62,
+          "amount": 2491492100.0
         },
         {
           "code": "600156",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:03",
           "last_limit_up_time": "09:25:03",
-          "turnover_rate": 3.52,
-          "amount": 182743257.6
+          "turnover_rate": 3.6,
+          "amount": 186467487.6
         },
         {
           "code": "002929",
@@ -53,8 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:36:51",
           "last_limit_up_time": "10:16:27",
-          "turnover_rate": 13.03,
-          "amount": 2379294600.0
+          "turnover_rate": 13.16,
+          "amount": 2404040400.0
         },
         {
           "code": "603110",
@@ -63,8 +63,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:04",
           "last_limit_up_time": "09:38:04",
-          "turnover_rate": 4.04,
-          "amount": 208101048.68
+          "turnover_rate": 4.09,
+          "amount": 210597314.32
         },
         {
           "code": "002015",
@@ -73,8 +73,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:44:18",
           "last_limit_up_time": "09:44:18",
-          "turnover_rate": 7.78,
-          "amount": 2870747200.0
+          "turnover_rate": 7.92,
+          "amount": 2923191100.0
         },
         {
           "code": "603629",
@@ -83,8 +83,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:48:56",
           "last_limit_up_time": "13:03:08",
-          "turnover_rate": 15.29,
-          "amount": 6674000186.25
+          "turnover_rate": 15.56,
+          "amount": 6794275602.96
         },
         {
           "code": "603887",
@@ -93,8 +93,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:15:59",
           "last_limit_up_time": "10:15:59",
-          "turnover_rate": 5.94,
-          "amount": 544539192.81
+          "turnover_rate": 6.21,
+          "amount": 569488520.79
         },
         {
           "code": "600666",
@@ -103,8 +103,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:31:41",
           "last_limit_up_time": "10:31:41",
-          "turnover_rate": 11.11,
-          "amount": 1623996414.64
+          "turnover_rate": 11.36,
+          "amount": 1661707625.04
         },
         {
           "code": "000889",
@@ -113,8 +113,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:43:36",
           "last_limit_up_time": "10:43:36",
-          "turnover_rate": 17.74,
-          "amount": 820034810.0
+          "turnover_rate": 17.98,
+          "amount": 831516480.0
         },
         {
           "code": "601138",
@@ -123,8 +123,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:06:14",
           "last_limit_up_time": "13:06:14",
-          "turnover_rate": 2.01,
-          "amount": 27395498070.86
+          "turnover_rate": 2.05,
+          "amount": 28005559541.34
         },
         {
           "code": "605168",
@@ -133,80 +133,34 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:09:16",
           "last_limit_up_time": "13:09:16",
-          "turnover_rate": 5.86,
-          "amount": 719697425.82
+          "turnover_rate": 5.95,
+          "amount": 731297543.13
+        },
+        {
+          "code": "003007",
+          "name": "直真科技",
+          "reason": "算力租赁+商业航天+OSS",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:12",
+          "last_limit_up_time": "13:57:12",
+          "turnover_rate": 11.29,
+          "amount": 419134060.0
         }
       ]
     },
     {
       "rank": 2,
-      "name": "英伟达概念",
-      "concept_code": "309065",
-      "plate_code": "886048",
-      "heat_score": 86.39,
-      "change_pct": 2.74,
-      "net_inflow_yi": 160.18,
-      "change_rank": 9,
-      "flow_rank": 3,
-      "change_score": 85.96,
-      "flow_score": 86.9,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "002015",
-          "name": "协鑫能科",
-          "reason": "算电协同+虚拟电厂+储能",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:44:18",
-          "last_limit_up_time": "09:44:18",
-          "turnover_rate": 7.78,
-          "amount": 2870747200.0
-        },
-        {
-          "code": "603629",
-          "name": "利通电子",
-          "reason": "算力租赁+业绩暴增+高送转",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:48:56",
-          "last_limit_up_time": "13:03:08",
-          "turnover_rate": 15.29,
-          "amount": 6674000186.25
-        },
-        {
-          "code": "601138",
-          "name": "工业富联",
-          "reason": "鸿海“提前供货”英伟达全光CPO机柜+AI服务器",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:06:14",
-          "last_limit_up_time": "13:06:14",
-          "turnover_rate": 2.01,
-          "amount": 27395498070.86
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "reason": "英伟达AI电源+算力基础设施+储能",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:15:27",
-          "last_limit_up_time": "13:29:06",
-          "turnover_rate": 6.02,
-          "amount": 3661747600.0
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "name": "存储芯片",
       "concept_code": "307940",
       "plate_code": "886042",
-      "heat_score": 84.49,
-      "change_pct": 3.03,
-      "net_inflow_yi": 124.37,
+      "heat_score": 88.94,
+      "change_pct": 3.63,
+      "net_inflow_yi": 194.22,
       "change_rank": 3,
       "flow_rank": 4,
-      "change_score": 91.05,
-      "flow_score": 76.46,
-      "limit_up_count": 9,
+      "change_score": 88.82,
+      "flow_score": 89.09,
+      "limit_up_count": 10,
       "limit_up_stocks": [
         {
           "code": "603203",
@@ -215,8 +169,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "10:24:36",
           "last_limit_up_time": "10:35:15",
-          "turnover_rate": 4.85,
-          "amount": 711647686.45
+          "turnover_rate": 4.92,
+          "amount": 721621699.45
         },
         {
           "code": "002008",
@@ -225,8 +179,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:40:15",
           "last_limit_up_time": "10:24:12",
-          "turnover_rate": 4.47,
-          "amount": 6248376100.0
+          "turnover_rate": 4.58,
+          "amount": 6404534800.0
         },
         {
           "code": "603938",
@@ -235,8 +189,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:53:49",
           "last_limit_up_time": "09:53:49",
-          "turnover_rate": 4.56,
-          "amount": 708862038.04
+          "turnover_rate": 4.69,
+          "amount": 730226438.68
         },
         {
           "code": "605589",
@@ -245,8 +199,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:18:50",
           "last_limit_up_time": "10:18:50",
-          "turnover_rate": 6.23,
-          "amount": 2149020611.2
+          "turnover_rate": 6.32,
+          "amount": 2181011431.2
         },
         {
           "code": "600183",
@@ -255,8 +209,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:40:57",
           "last_limit_up_time": "11:12:42",
-          "turnover_rate": 2.93,
-          "amount": 6441353123.56
+          "turnover_rate": 2.99,
+          "amount": 6571101989.98
         },
         {
           "code": "603936",
@@ -265,8 +219,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:05:35",
           "last_limit_up_time": "11:14:47",
-          "turnover_rate": 11.6,
-          "amount": 1562598948.55
+          "turnover_rate": 11.85,
+          "amount": 1597456945.99
         },
         {
           "code": "002409",
@@ -275,8 +229,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:00",
           "last_limit_up_time": "13:02:00",
-          "turnover_rate": 6.74,
-          "amount": 2109968800.0
+          "turnover_rate": 7.42,
+          "amount": 2333154000.0
         },
         {
           "code": "002654",
@@ -285,33 +239,205 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:05:45",
           "last_limit_up_time": "13:21:06",
-          "turnover_rate": 13.44,
-          "amount": 1852172700.0
+          "turnover_rate": 13.93,
+          "amount": 1921581600.0
         },
         {
           "code": "001309",
           "name": "德明利",
-          "reason": "其他",
+          "reason": "存储芯片+企业级SSD+涨价周期",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:26:33",
-          "last_limit_up_time": "13:26:33",
-          "turnover_rate": 9.28,
-          "amount": 9543471300.0
+          "last_limit_up_time": "13:51:24",
+          "turnover_rate": 10.44,
+          "amount": 10806575200.0
+        },
+        {
+          "code": "002183",
+          "name": "怡亚通",
+          "reason": "AI算力+存储芯片+深圳国资+出海",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:26:21",
+          "last_limit_up_time": "14:26:21",
+          "turnover_rate": 10.22,
+          "amount": 1919574100.0
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "英伟达概念",
+      "concept_code": "309065",
+      "plate_code": "886048",
+      "heat_score": 85.02,
+      "change_pct": 3.13,
+      "net_inflow_yi": 197.95,
+      "change_rank": 11,
+      "flow_rank": 3,
+      "change_score": 80.94,
+      "flow_score": 89.99,
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "002015",
+          "name": "协鑫能科",
+          "reason": "算电协同+虚拟电厂+储能",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:44:18",
+          "last_limit_up_time": "09:44:18",
+          "turnover_rate": 7.92,
+          "amount": 2923191100.0
+        },
+        {
+          "code": "603629",
+          "name": "利通电子",
+          "reason": "算力租赁+业绩暴增+高送转",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:48:56",
+          "last_limit_up_time": "13:03:08",
+          "turnover_rate": 15.56,
+          "amount": 6794275602.96
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "reason": "鸿海“提前供货”英伟达全光CPO机柜+AI服务器",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:06:14",
+          "last_limit_up_time": "13:06:14",
+          "turnover_rate": 2.05,
+          "amount": 28005559541.34
+        },
+        {
+          "code": "002851",
+          "name": "麦格米特",
+          "reason": "英伟达AI电源+算力基础设施+储能",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:15:27",
+          "last_limit_up_time": "13:29:06",
+          "turnover_rate": 6.24,
+          "amount": 3802751800.0
+        },
+        {
+          "code": "688003",
+          "name": "天准科技",
+          "reason": "人形机器人+PCB+具身大脑",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:41:48",
+          "last_limit_up_time": "14:14:09",
+          "turnover_rate": 5.36,
+          "amount": 904123971.27
         }
       ]
     },
     {
       "rank": 4,
+      "name": "先进封装",
+      "concept_code": "309004",
+      "plate_code": "886009",
+      "heat_score": 81.25,
+      "change_pct": 3.25,
+      "net_inflow_yi": 153.7,
+      "change_rank": 9,
+      "flow_rank": 6,
+      "change_score": 82.83,
+      "flow_score": 79.32,
+      "limit_up_count": 8,
+      "limit_up_stocks": [
+        {
+          "code": "000925",
+          "name": "众合科技",
+          "reason": "磷化铟+算力租赁+商业航天",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:10:21",
+          "last_limit_up_time": "10:25:30",
+          "turnover_rate": 32.62,
+          "amount": 2491492100.0
+        },
+        {
+          "code": "603203",
+          "name": "快克智能",
+          "reason": "先进封装+TCB设备+光模块+AI芯片",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:24:36",
+          "last_limit_up_time": "10:35:15",
+          "turnover_rate": 4.92,
+          "amount": 721621699.45
+        },
+        {
+          "code": "002008",
+          "name": "大族激光",
+          "reason": "PCB设备+商业航天+3D打印",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:40:15",
+          "last_limit_up_time": "10:24:12",
+          "turnover_rate": 4.58,
+          "amount": 6404534800.0
+        },
+        {
+          "code": "605589",
+          "name": "圣泉集团",
+          "reason": "先进电子材料+硅碳负极+军工材料",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:18:50",
+          "last_limit_up_time": "10:18:50",
+          "turnover_rate": 6.32,
+          "amount": 2181011431.2
+        },
+        {
+          "code": "600183",
+          "name": "生益科技",
+          "reason": "覆铜板+AI服务器+业绩高增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:40:57",
+          "last_limit_up_time": "11:12:42",
+          "turnover_rate": 2.99,
+          "amount": 6571101989.98
+        },
+        {
+          "code": "603936",
+          "name": "博敏电子",
+          "reason": "800G光模块+AI算力+AMB陶瓷衬板",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:05:35",
+          "last_limit_up_time": "11:14:47",
+          "turnover_rate": 11.85,
+          "amount": 1597456945.99
+        },
+        {
+          "code": "688003",
+          "name": "天准科技",
+          "reason": "人形机器人+PCB+具身大脑",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:41:48",
+          "last_limit_up_time": "14:14:09",
+          "turnover_rate": 5.36,
+          "amount": 904123971.27
+        },
+        {
+          "code": "688323",
+          "name": "瑞华泰",
+          "reason": "PI薄膜+AI服务器上游+商业航天+国产替代",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:12:39",
+          "last_limit_up_time": "14:12:39",
+          "turnover_rate": 11.84,
+          "amount": 615431559.66
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "name": "共封装光学(CPO)",
       "concept_code": "309049",
       "plate_code": "886033",
-      "heat_score": 80.69,
-      "change_pct": 1.88,
-      "net_inflow_yi": 180.0,
-      "change_rank": 30,
+      "heat_score": 79.87,
+      "change_pct": 2.18,
+      "net_inflow_yi": 226.3,
+      "change_rank": 28,
       "flow_rank": 2,
-      "change_score": 70.88,
-      "flow_score": 92.67,
+      "change_score": 65.98,
+      "flow_score": 96.83,
       "limit_up_count": 7,
       "limit_up_stocks": [
         {
@@ -321,8 +447,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:25:03",
           "last_limit_up_time": "09:25:03",
-          "turnover_rate": 1.81,
-          "amount": 356774104.68
+          "turnover_rate": 1.82,
+          "amount": 359555997.26
         },
         {
           "code": "603203",
@@ -331,8 +457,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "10:24:36",
           "last_limit_up_time": "10:35:15",
-          "turnover_rate": 4.85,
-          "amount": 711647686.45
+          "turnover_rate": 4.92,
+          "amount": 721621699.45
         },
         {
           "code": "600183",
@@ -341,8 +467,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:40:57",
           "last_limit_up_time": "11:12:42",
-          "turnover_rate": 2.93,
-          "amount": 6441353123.56
+          "turnover_rate": 2.99,
+          "amount": 6571101989.98
         },
         {
           "code": "603936",
@@ -351,8 +477,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:05:35",
           "last_limit_up_time": "11:14:47",
-          "turnover_rate": 11.6,
-          "amount": 1562598948.55
+          "turnover_rate": 11.85,
+          "amount": 1597456945.99
         },
         {
           "code": "002938",
@@ -361,8 +487,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:29:18",
           "last_limit_up_time": "11:29:18",
-          "turnover_rate": 1.7,
-          "amount": 3288123600.0
+          "turnover_rate": 1.74,
+          "amount": 3367714400.0
         },
         {
           "code": "601138",
@@ -371,145 +497,84 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:06:14",
           "last_limit_up_time": "13:06:14",
-          "turnover_rate": 2.01,
-          "amount": 27395498070.86
+          "turnover_rate": 2.05,
+          "amount": 28005559541.34
         },
         {
           "code": "001309",
           "name": "德明利",
-          "reason": "其他",
+          "reason": "存储芯片+企业级SSD+涨价周期",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:26:33",
-          "last_limit_up_time": "13:26:33",
-          "turnover_rate": 9.28,
-          "amount": 9543471300.0
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "先进封装",
-      "concept_code": "309004",
-      "plate_code": "886009",
-      "heat_score": 77.67,
-      "change_pct": 2.82,
-      "net_inflow_yi": 87.82,
-      "change_rank": 7,
-      "flow_rank": 9,
-      "change_score": 87.37,
-      "flow_score": 65.81,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "000925",
-          "name": "众合科技",
-          "reason": "磷化铟+算力租赁+商业航天",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:10:21",
-          "last_limit_up_time": "10:25:30",
-          "turnover_rate": 31.27,
-          "amount": 2383899700.0
-        },
-        {
-          "code": "603203",
-          "name": "快克智能",
-          "reason": "先进封装+TCB设备+光模块+AI芯片",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:24:36",
-          "last_limit_up_time": "10:35:15",
-          "turnover_rate": 4.85,
-          "amount": 711647686.45
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "PCB设备+商业航天+3D打印",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:15",
-          "last_limit_up_time": "10:24:12",
-          "turnover_rate": 4.47,
-          "amount": 6248376100.0
-        },
-        {
-          "code": "605589",
-          "name": "圣泉集团",
-          "reason": "先进电子材料+硅碳负极+军工材料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:18:50",
-          "last_limit_up_time": "10:18:50",
-          "turnover_rate": 6.23,
-          "amount": 2149020611.2
-        },
-        {
-          "code": "600183",
-          "name": "生益科技",
-          "reason": "覆铜板+AI服务器+业绩高增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:40:57",
-          "last_limit_up_time": "11:12:42",
-          "turnover_rate": 2.93,
-          "amount": 6441353123.56
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "800G光模块+AI算力+AMB陶瓷衬板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:05:35",
-          "last_limit_up_time": "11:14:47",
-          "turnover_rate": 11.6,
-          "amount": 1562598948.55
+          "last_limit_up_time": "13:51:24",
+          "turnover_rate": 10.44,
+          "amount": 10806575200.0
         }
       ]
     },
     {
       "rank": 6,
-      "name": "同花顺果指数",
-      "concept_code": "309136",
-      "plate_code": "886082",
-      "heat_score": 77.17,
-      "change_pct": 2.79,
-      "net_inflow_yi": 86.21,
-      "change_rank": 8,
-      "flow_rank": 10,
-      "change_score": 86.84,
-      "flow_score": 65.34,
+      "name": "中国AI 50",
+      "concept_code": "309187",
+      "plate_code": "886102",
+      "heat_score": 77.2,
+      "change_pct": 2.82,
+      "net_inflow_yi": 150.7,
+      "change_rank": 15,
+      "flow_rank": 7,
+      "change_score": 76.06,
+      "flow_score": 78.59,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 7,
+      "name": "中船系",
+      "concept_code": "301713",
+      "plate_code": "885860",
+      "heat_score": 75.11,
+      "change_pct": 4.34,
+      "net_inflow_yi": 10.11,
+      "change_rank": 1,
+      "flow_rank": 114,
+      "change_score": 100.0,
+      "flow_score": 44.68,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "002938",
-          "name": "鹏鼎控股",
-          "reason": "PCB龙头+AI服务器+人形机器人+淮安HD园区动工",
+          "code": "600482",
+          "name": "中国动力",
+          "reason": "燃气轮机+船用柴油机+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:29:18",
-          "last_limit_up_time": "11:29:18",
-          "turnover_rate": 1.7,
-          "amount": 3288123600.0
+          "first_limit_up_time": "10:37:24",
+          "last_limit_up_time": "10:37:24",
+          "turnover_rate": 2.73,
+          "amount": 2477728998.11
         },
         {
-          "code": "601138",
-          "name": "工业富联",
-          "reason": "鸿海“提前供货”英伟达全光CPO机柜+AI服务器",
+          "code": "688146",
+          "name": "中船特气",
+          "reason": "六氟化钨+存储上游+电子特气+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:06:14",
-          "last_limit_up_time": "13:06:14",
-          "turnover_rate": 2.01,
-          "amount": 27395498070.86
+          "first_limit_up_time": "14:03:57",
+          "last_limit_up_time": "14:06:09",
+          "turnover_rate": 20.5,
+          "amount": 3075410615.11
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "培育钻石",
       "concept_code": "308774",
       "plate_code": "885937",
-      "heat_score": 75.22,
-      "change_pct": 3.54,
-      "net_inflow_yi": 16.16,
-      "change_rank": 1,
-      "flow_rank": 82,
-      "change_score": 100.0,
-      "flow_score": 44.93,
+      "heat_score": 74.96,
+      "change_pct": 4.21,
+      "net_inflow_yi": 19.14,
+      "change_rank": 2,
+      "flow_rank": 80,
+      "change_score": 97.95,
+      "flow_score": 46.86,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -518,106 +583,35 @@
           "reason": "重大突破+金刚石散热+培育钻石+半导体",
           "consecutive_boards": 3,
           "first_limit_up_time": "11:06:09",
-          "last_limit_up_time": "13:35:57",
-          "turnover_rate": 25.08,
-          "amount": 3676374745.04
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "EDR概念",
-      "concept_code": "308803",
-      "plate_code": "885943",
-      "heat_score": 74.53,
-      "change_pct": 3.27,
-      "net_inflow_yi": 30.74,
-      "change_rank": 2,
-      "flow_rank": 49,
-      "change_score": 95.26,
-      "flow_score": 49.18,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "603023",
-          "name": "威帝股份",
-          "reason": "乘用车拓展+精密金属零部件+重大资产重组+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:34:35",
-          "last_limit_up_time": "10:34:35",
-          "turnover_rate": 5.96,
-          "amount": 171495233.12
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "800G光模块+AI算力+AMB陶瓷衬板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:05:35",
-          "last_limit_up_time": "11:14:47",
-          "turnover_rate": 11.6,
-          "amount": 1562598948.55
+          "last_limit_up_time": "13:37:33",
+          "turnover_rate": 25.82,
+          "amount": 3789056685.4
         }
       ]
     },
     {
       "rank": 9,
-      "name": "中国AI 50",
-      "concept_code": "309187",
-      "plate_code": "886102",
-      "heat_score": 74.01,
-      "change_pct": 2.43,
-      "net_inflow_yi": 88.61,
-      "change_rank": 15,
-      "flow_rank": 8,
-      "change_score": 80.53,
-      "flow_score": 66.04,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 10,
-      "name": "中芯国际概念",
-      "concept_code": "308690",
-      "plate_code": "885897",
-      "heat_score": 73.16,
-      "change_pct": 2.9,
-      "net_inflow_yi": 47.52,
-      "change_rank": 5,
-      "flow_rank": 25,
-      "change_score": 88.77,
-      "flow_score": 54.07,
-      "limit_up_count": 5,
+      "name": "国家大基金持股",
+      "concept_code": "307816",
+      "plate_code": "885893",
+      "heat_score": 74.52,
+      "change_pct": 3.37,
+      "net_inflow_yi": 82.07,
+      "change_rank": 6,
+      "flow_rank": 15,
+      "change_score": 84.72,
+      "flow_score": 62.04,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
-          "code": "603203",
-          "name": "快克智能",
-          "reason": "先进封装+TCB设备+光模块+AI芯片",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:24:36",
-          "last_limit_up_time": "10:35:15",
-          "turnover_rate": 4.85,
-          "amount": 711647686.45
-        },
-        {
-          "code": "002658",
-          "name": "雪迪龙",
-          "reason": "碳监测+CCER系统过审+商业航天",
+          "code": "688187",
+          "name": "时代电气",
+          "reason": "H股回购+功率半导体+智能电网大功率模块",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:57",
-          "last_limit_up_time": "09:56:36",
-          "turnover_rate": 10.08,
-          "amount": 348066150.0
-        },
-        {
-          "code": "000533",
-          "name": "顺钠股份",
-          "reason": "干式变压器+数据中心+储能+核电",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:56:48",
-          "last_limit_up_time": "09:59:24",
-          "turnover_rate": 12.54,
-          "amount": 1230556490.0
+          "first_limit_up_time": "11:29:52",
+          "last_limit_up_time": "13:32:31",
+          "turnover_rate": 3.22,
+          "amount": 1547846602.02
         },
         {
           "code": "002409",
@@ -626,18 +620,54 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:00",
           "last_limit_up_time": "13:02:00",
-          "turnover_rate": 6.74,
-          "amount": 2109968800.0
+          "turnover_rate": 7.42,
+          "amount": 2333154000.0
         },
         {
-          "code": "001309",
-          "name": "德明利",
-          "reason": "其他",
+          "code": "688146",
+          "name": "中船特气",
+          "reason": "六氟化钨+存储上游+电子特气+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:26:33",
-          "last_limit_up_time": "13:26:33",
-          "turnover_rate": 9.28,
-          "amount": 9543471300.0
+          "first_limit_up_time": "14:03:57",
+          "last_limit_up_time": "14:06:09",
+          "turnover_rate": 20.5,
+          "amount": 3075410615.11
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "同花顺果指数",
+      "concept_code": "309136",
+      "plate_code": "886082",
+      "heat_score": 73.16,
+      "change_pct": 3.15,
+      "net_inflow_yi": 87.16,
+      "change_rank": 10,
+      "flow_rank": 13,
+      "change_score": 81.26,
+      "flow_score": 63.27,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002938",
+          "name": "鹏鼎控股",
+          "reason": "PCB龙头+AI服务器+人形机器人+淮安HD园区动工",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:29:18",
+          "last_limit_up_time": "11:29:18",
+          "turnover_rate": 1.74,
+          "amount": 3367714400.0
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "reason": "鸿海“提前供货”英伟达全光CPO机柜+AI服务器",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:06:14",
+          "last_limit_up_time": "13:06:14",
+          "turnover_rate": 2.05,
+          "amount": 28005559541.34
         }
       ]
     }
