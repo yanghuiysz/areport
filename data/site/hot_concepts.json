@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14 06:56:18",
+  "generated_at": "2026-05-14 09:42:18",
   "latest_trade_date": "2026-05-14",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -18,8 +18,8 @@
       "concept_code": "300451",
       "plate_code": "885573",
       "heat_score": 100.0,
-      "change_pct": 2.72,
-      "net_inflow_yi": 8.32,
+      "change_pct": 2.64,
+      "net_inflow_yi": 7.6,
       "change_rank": 1,
       "flow_rank": 1,
       "change_score": 100.0,
@@ -33,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:08:45",
           "last_limit_up_time": "10:08:45",
-          "turnover_rate": 8.98,
-          "amount": 208511439.2
+          "turnover_rate": 9.5,
+          "amount": 220875368.2
         },
         {
           "code": "002124",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:13:15",
           "last_limit_up_time": "11:09:09",
-          "turnover_rate": 15.43,
-          "amount": 907511600.0
+          "turnover_rate": 15.46,
+          "amount": 909577220.0
         },
         {
           "code": "605296",
@@ -53,8 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:18:21",
           "last_limit_up_time": "13:18:21",
-          "turnover_rate": 1.45,
-          "amount": 227089680.24
+          "turnover_rate": 1.46,
+          "amount": 228870859.64
         },
         {
           "code": "002840",
@@ -63,8 +63,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:26:12",
           "last_limit_up_time": "13:26:12",
-          "turnover_rate": 5.51,
-          "amount": 467647720.0
+          "turnover_rate": 5.53,
+          "amount": 468779140.0
         }
       ]
     },
@@ -73,13 +73,13 @@
       "name": "环氧丙烷",
       "concept_code": "308202",
       "plate_code": "885903",
-      "heat_score": 95.31,
-      "change_pct": 2.51,
-      "net_inflow_yi": -8.84,
+      "heat_score": 95.09,
+      "change_pct": 2.39,
+      "net_inflow_yi": -9.66,
       "change_rank": 2,
-      "flow_rank": 42,
-      "change_score": 96.78,
-      "flow_score": 93.51,
+      "flow_rank": 48,
+      "change_score": 96.29,
+      "flow_score": 93.63,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -89,8 +89,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:46:57",
           "last_limit_up_time": "10:18:27",
-          "turnover_rate": 17.87,
-          "amount": 1197275800.0
+          "turnover_rate": 17.92,
+          "amount": 1200123780.0
         },
         {
           "code": "002809",
@@ -99,8 +99,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:22:33",
           "last_limit_up_time": "10:22:33",
-          "turnover_rate": 15.1,
-          "amount": 285119630.0
+          "turnover_rate": 15.18,
+          "amount": 286572760.0
         },
         {
           "code": "003022",
@@ -109,8 +109,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:46:03",
           "last_limit_up_time": "13:46:03",
-          "turnover_rate": 4.39,
-          "amount": 1557990100.0
+          "turnover_rate": 4.43,
+          "amount": 1571411000.0
         }
       ]
     },
@@ -119,13 +119,13 @@
       "name": "养鸡",
       "concept_code": "301576",
       "plate_code": "885808",
-      "heat_score": 94.32,
-      "change_pct": 2.13,
-      "net_inflow_yi": 4.16,
+      "heat_score": 94.4,
+      "change_pct": 2.03,
+      "net_inflow_yi": 3.87,
       "change_rank": 3,
       "flow_rank": 2,
-      "change_score": 90.96,
-      "flow_score": 98.43,
+      "change_score": 90.94,
+      "flow_score": 98.62,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -135,8 +135,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:26:12",
           "last_limit_up_time": "13:26:12",
-          "turnover_rate": 5.51,
-          "amount": 467647720.0
+          "turnover_rate": 5.53,
+          "amount": 468779140.0
         }
       ]
     },
@@ -145,13 +145,13 @@
       "name": "白酒概念",
       "concept_code": "301496",
       "plate_code": "885525",
-      "heat_score": 81.21,
-      "change_pct": 0.84,
-      "net_inflow_yi": -9.04,
+      "heat_score": 81.28,
+      "change_pct": 0.69,
+      "net_inflow_yi": -9.2,
       "change_rank": 5,
-      "flow_rank": 46,
-      "change_score": 71.21,
-      "flow_score": 93.44,
+      "flow_rank": 45,
+      "change_score": 71.03,
+      "flow_score": 93.8,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -161,8 +161,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:25:01",
-          "turnover_rate": 0.54,
-          "amount": 16066117.32
+          "turnover_rate": 0.55,
+          "amount": 16317775.32
         }
       ]
     },
@@ -171,13 +171,13 @@
       "name": "光刻机",
       "concept_code": "309085",
       "plate_code": "886054",
-      "heat_score": 81.08,
-      "change_pct": 0.57,
-      "net_inflow_yi": 3.57,
+      "heat_score": 79.94,
+      "change_pct": 0.29,
+      "net_inflow_yi": 2.45,
       "change_rank": 6,
       "flow_rank": 3,
-      "change_score": 67.08,
-      "flow_score": 98.2,
+      "change_score": 65.08,
+      "flow_score": 98.1,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -187,8 +187,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:33:49",
           "last_limit_up_time": "13:04:10",
-          "turnover_rate": 18.53,
-          "amount": 3753163817.01
+          "turnover_rate": 18.6,
+          "amount": 3767654583.09
         },
         {
           "code": "003031",
@@ -197,8 +197,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:52:36",
           "last_limit_up_time": "13:52:36",
-          "turnover_rate": 4.84,
-          "amount": 2674825900.0
+          "turnover_rate": 4.94,
+          "amount": 2729871800.0
         }
       ]
     },
@@ -207,13 +207,13 @@
       "name": "NMN概念",
       "concept_code": "308692",
       "plate_code": "885900",
-      "heat_score": 77.73,
-      "change_pct": 0.27,
-      "net_inflow_yi": -1.3,
-      "change_rank": 8,
-      "flow_rank": 8,
-      "change_score": 62.48,
-      "flow_score": 96.36,
+      "heat_score": 76.99,
+      "change_pct": 0.01,
+      "net_inflow_yi": -1.52,
+      "change_rank": 9,
+      "flow_rank": 7,
+      "change_score": 60.92,
+      "flow_score": 96.64,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -223,23 +223,38 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:22:39",
           "last_limit_up_time": "13:22:39",
-          "turnover_rate": 4.95,
-          "amount": 442525370.0
+          "turnover_rate": 4.98,
+          "amount": 445656780.0
         }
       ]
     },
     {
       "rank": 7,
+      "name": "举牌",
+      "concept_code": "300269",
+      "plate_code": "885587",
+      "heat_score": 75.74,
+      "change_pct": -0.07,
+      "net_inflow_yi": -5.15,
+      "change_rank": 10,
+      "flow_rank": 24,
+      "change_score": 59.73,
+      "flow_score": 95.3,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 8,
       "name": "有机硅概念",
       "concept_code": "301279",
       "plate_code": "885912",
-      "heat_score": 76.73,
-      "change_pct": 0.44,
-      "net_inflow_yi": -15.59,
+      "heat_score": 75.67,
+      "change_pct": 0.15,
+      "net_inflow_yi": -16.37,
       "change_rank": 7,
       "flow_rank": 80,
-      "change_score": 65.08,
-      "flow_score": 90.96,
+      "change_score": 63.0,
+      "flow_score": 91.16,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -249,8 +264,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:34:45",
           "last_limit_up_time": "09:48:06",
-          "turnover_rate": 10.44,
-          "amount": 602839160.0
+          "turnover_rate": 10.5,
+          "amount": 606420340.0
         },
         {
           "code": "605366",
@@ -259,8 +274,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:45:05",
           "last_limit_up_time": "09:45:05",
-          "turnover_rate": 4.29,
-          "amount": 399624479.59
+          "turnover_rate": 4.31,
+          "amount": 401097005.59
         },
         {
           "code": "605399",
@@ -269,24 +284,24 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:47:15",
           "last_limit_up_time": "09:47:15",
-          "turnover_rate": 2.6,
-          "amount": 120411183.96
+          "turnover_rate": 2.62,
+          "amount": 121561815.96
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "第三代半导体",
       "concept_code": "308700",
       "plate_code": "885908",
-      "heat_score": 75.83,
-      "change_pct": 1.12,
-      "net_inflow_yi": -54.56,
+      "heat_score": 75.66,
+      "change_pct": 0.84,
+      "net_inflow_yi": -50.42,
       "change_rank": 4,
-      "flow_rank": 199,
-      "change_score": 75.5,
-      "flow_score": 76.23,
-      "limit_up_count": 7,
+      "flow_rank": 190,
+      "change_score": 73.25,
+      "flow_score": 78.6,
+      "limit_up_count": 6,
       "limit_up_stocks": [
         {
           "code": "688478",
@@ -295,8 +310,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:55",
           "last_limit_up_time": "09:38:55",
-          "turnover_rate": 4.78,
-          "amount": 438501936.32
+          "turnover_rate": 4.82,
+          "amount": 441901347.02
         },
         {
           "code": "920580",
@@ -305,8 +320,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:39:48",
           "last_limit_up_time": "11:29:54",
-          "turnover_rate": 40.43,
-          "amount": 394857594.61
+          "turnover_rate": 40.78,
+          "amount": 398440868.29
         },
         {
           "code": "600509",
@@ -315,8 +330,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:40:17",
           "last_limit_up_time": "10:45:22",
-          "turnover_rate": 6.89,
-          "amount": 962405180.11
+          "turnover_rate": 6.94,
+          "amount": 970402666.11
         },
         {
           "code": "002617",
@@ -325,18 +340,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:15:48",
           "last_limit_up_time": "13:15:48",
-          "turnover_rate": 18.03,
-          "amount": 3156109500.0
-        },
-        {
-          "code": "688596",
-          "name": "正帆科技",
-          "reason": "第三代半导体+半导体设备+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:19:41",
-          "last_limit_up_time": "14:36:50",
-          "turnover_rate": 15.66,
-          "amount": 1987853487.09
+          "turnover_rate": 18.3,
+          "amount": 3204554200.0
         },
         {
           "code": "002277",
@@ -345,8 +350,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:22:39",
           "last_limit_up_time": "13:22:39",
-          "turnover_rate": 4.95,
-          "amount": 442525370.0
+          "turnover_rate": 4.98,
+          "amount": 445656780.0
         },
         {
           "code": "003031",
@@ -355,38 +360,23 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:52:36",
           "last_limit_up_time": "13:52:36",
-          "turnover_rate": 4.84,
-          "amount": 2674825900.0
+          "turnover_rate": 4.94,
+          "amount": 2729871800.0
         }
       ]
-    },
-    {
-      "rank": 9,
-      "name": "举牌",
-      "concept_code": "300269",
-      "plate_code": "885587",
-      "heat_score": 75.28,
-      "change_pct": 0.05,
-      "net_inflow_yi": -4.8,
-      "change_rank": 9,
-      "flow_rank": 21,
-      "change_score": 59.11,
-      "flow_score": 95.04,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
     },
     {
       "rank": 10,
       "name": "PVDF概念",
       "concept_code": "308742",
       "plate_code": "885931",
-      "heat_score": 75.17,
-      "change_pct": 0.27,
-      "net_inflow_yi": -16.32,
+      "heat_score": 74.74,
+      "change_pct": 0.04,
+      "net_inflow_yi": -16.59,
       "change_rank": 8,
       "flow_rank": 83,
-      "change_score": 62.48,
-      "flow_score": 90.69,
+      "change_score": 61.37,
+      "flow_score": 91.08,
       "limit_up_count": 0,
       "limit_up_stocks": []
     }
