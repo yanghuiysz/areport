@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15 07:34:49",
+  "generated_at": "2026-05-15 09:54:53",
   "latest_trade_date": "2026-05-15",
   "summary": [
     {
@@ -287,7 +287,7 @@
         "turnover_rate": 3.49,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 0
+        "consecutive_boards": 2
       },
       {
         "code": "001259",
