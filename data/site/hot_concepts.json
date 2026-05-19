@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19 07:58:59",
+  "generated_at": "2026-05-19 10:44:16",
   "latest_trade_date": "2026-05-19",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -29,7 +29,7 @@
         {
           "code": "600353",
           "name": "旭光电子",
-          "reason": "可控核聚变+氮化铝+人形机器人+电力设备",
+          "reason": "光刻机+氮化铝+可控核聚变+电力设备",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:01:16",
           "last_limit_up_time": "13:01:16",
