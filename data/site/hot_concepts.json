@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20 07:58:33",
+  "generated_at": "2026-05-20 10:33:46",
   "latest_trade_date": "2026-05-20",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,7 +24,7 @@
       "flow_rank": 1,
       "change_score": 85.21,
       "flow_score": 100.0,
-      "limit_up_count": 9,
+      "limit_up_count": 10,
       "limit_up_stocks": [
         {
           "code": "603938",
@@ -45,6 +45,16 @@
           "last_limit_up_time": "09:31:54",
           "turnover_rate": 5.53,
           "amount": 358398264.99
+        },
+        {
+          "code": "301013",
+          "name": "利和兴",
+          "reason": "半导体测试+华为合作+MLCC",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:47:42",
+          "last_limit_up_time": "10:30:51",
+          "turnover_rate": 33.28,
+          "amount": 2211565300.0
         },
         {
           "code": "603353",
