@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22 07:56:05",
+  "generated_at": "2026-05-22 10:31:42",
   "latest_trade_date": "2026-05-22",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -29,7 +29,7 @@
         {
           "code": "002036",
           "name": "联创电子",
-          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+机器视觉",
+          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+光学器件",
           "consecutive_boards": 2,
           "first_limit_up_time": "13:52:15",
           "last_limit_up_time": "13:59:15",
@@ -347,7 +347,7 @@
         {
           "code": "002036",
           "name": "联创电子",
-          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+机器视觉",
+          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+光学器件",
           "consecutive_boards": 2,
           "first_limit_up_time": "13:52:15",
           "last_limit_up_time": "13:59:15",
@@ -625,7 +625,7 @@
         {
           "code": "002036",
           "name": "联创电子",
-          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+机器视觉",
+          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+光学器件",
           "consecutive_boards": 2,
           "first_limit_up_time": "13:52:15",
           "last_limit_up_time": "13:59:15",
@@ -767,7 +767,7 @@
         {
           "code": "002036",
           "name": "联创电子",
-          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+机器视觉",
+          "reason": "特斯拉监督版FSD入华+无人驾驶+车载光学+光学器件",
           "consecutive_boards": 2,
           "first_limit_up_time": "13:52:15",
           "last_limit_up_time": "13:59:15",
