@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27 06:03:31",
+  "generated_at": "2026-05-27 08:14:52",
   "latest_trade_date": "2026-05-27",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,34 +17,24 @@
       "name": "白酒概念",
       "concept_code": "301496",
       "plate_code": "885525",
-      "heat_score": 98.5,
-      "change_pct": 0.73,
-      "net_inflow_yi": 0.99,
+      "heat_score": 97.13,
+      "change_pct": 0.55,
+      "net_inflow_yi": -1.71,
       "change_rank": 1,
-      "flow_rank": 8,
+      "flow_rank": 14,
       "change_score": 100.0,
-      "flow_score": 96.66,
-      "limit_up_count": 2,
+      "flow_score": 93.62,
+      "limit_up_count": 1,
       "limit_up_stocks": [
         {
           "code": "600779",
           "name": "水井坊",
-          "reason": "白酒+梁朝伟代言+外资控股",
+          "reason": "白酒+新零售渠道+外资控股",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:11:03",
           "last_limit_up_time": "13:33:06",
-          "turnover_rate": 2.85,
-          "amount": 458353359.31
-        },
-        {
-          "code": "600702",
-          "name": "舍得酒业",
-          "reason": "酒糟资源化+白酒+分红",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "13:42:48",
-          "last_limit_up_time": "14:02:57",
-          "turnover_rate": 4.94,
-          "amount": 700263793.11
+          "turnover_rate": 3.04,
+          "amount": 488806804.93
         }
       ]
     },
@@ -53,13 +43,13 @@
       "name": "超级电容",
       "concept_code": "300926",
       "plate_code": "885886",
-      "heat_score": 90.09,
-      "change_pct": -0.14,
-      "net_inflow_yi": 9.18,
-      "change_rank": 3,
-      "flow_rank": 2,
-      "change_score": 82.7,
-      "flow_score": 99.12,
+      "heat_score": 95.5,
+      "change_pct": 0.18,
+      "net_inflow_yi": 11.98,
+      "change_rank": 2,
+      "flow_rank": 1,
+      "change_score": 91.81,
+      "flow_score": 100.0,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -69,8 +59,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
-          "turnover_rate": 1.45,
-          "amount": 803081170.0
+          "turnover_rate": 1.71,
+          "amount": 946820340.0
         },
         {
           "code": "002012",
@@ -79,119 +69,53 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:07:12",
           "last_limit_up_time": "13:07:42",
-          "turnover_rate": 15.26,
-          "amount": 654269070.0
+          "turnover_rate": 16.3,
+          "amount": 701307060.0
         }
       ]
     },
     {
       "rank": 3,
-      "name": "超级品牌",
-      "concept_code": "306750",
-      "plate_code": "885761",
-      "heat_score": 88.37,
-      "change_pct": 0.07,
-      "net_inflow_yi": -20.49,
-      "change_rank": 2,
-      "flow_rank": 159,
-      "change_score": 86.88,
-      "flow_score": 90.19,
+      "name": "同花顺果指数",
+      "concept_code": "309136",
+      "plate_code": "886082",
+      "heat_score": 93.76,
+      "change_pct": 0.04,
+      "net_inflow_yi": 11.81,
+      "change_rank": 4,
+      "flow_rank": 2,
+      "change_score": 88.72,
+      "flow_score": 99.92,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
       "rank": 4,
-      "name": "同花顺果指数",
-      "concept_code": "309136",
-      "plate_code": "886082",
-      "heat_score": 86.8,
-      "change_pct": -0.38,
-      "net_inflow_yi": 4.24,
-      "change_rank": 5,
-      "flow_rank": 5,
-      "change_score": 77.93,
-      "flow_score": 97.64,
+      "name": "芬太尼",
+      "concept_code": "308438",
+      "plate_code": "885805",
+      "heat_score": 90.51,
+      "change_pct": -0.01,
+      "net_inflow_yi": -0.77,
+      "change_rank": 6,
+      "flow_rank": 11,
+      "change_score": 87.61,
+      "flow_score": 94.06,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
       "rank": 5,
-      "name": "免税店",
-      "concept_code": "308657",
-      "plate_code": "885898",
-      "heat_score": 85.95,
-      "change_pct": -0.3,
-      "net_inflow_yi": -8.48,
-      "change_rank": 4,
-      "flow_rank": 71,
-      "change_score": 79.52,
-      "flow_score": 93.8,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "002251",
-          "name": "步步高",
-          "reason": "零售+胖东来调改+摘帽",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "11:18:42",
-          "last_limit_up_time": "11:18:42",
-          "turnover_rate": 12.83,
-          "amount": 1185428720.0
-        },
-        {
-          "code": "000759",
-          "name": "中百集团",
-          "reason": "百货零售+新零售+国企改革",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "11:25:45",
-          "last_limit_up_time": "13:46:30",
-          "turnover_rate": 20.12,
-          "amount": 758592920.0
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "芬太尼",
-      "concept_code": "308438",
-      "plate_code": "885805",
-      "heat_score": 85.89,
-      "change_pct": -0.4,
-      "net_inflow_yi": -0.87,
-      "change_rank": 7,
-      "flow_rank": 10,
-      "change_score": 77.53,
-      "flow_score": 96.1,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 7,
-      "name": "乳业",
-      "concept_code": "300983",
-      "plate_code": "885462",
-      "heat_score": 85.3,
-      "change_pct": -0.41,
-      "net_inflow_yi": -4.4,
-      "change_rank": 8,
-      "flow_rank": 35,
-      "change_score": 77.34,
-      "flow_score": 95.03,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
       "name": "超超临界发电",
       "concept_code": "308969",
       "plate_code": "885996",
-      "heat_score": 85.15,
-      "change_pct": -0.39,
-      "net_inflow_yi": -7.14,
-      "change_rank": 6,
-      "flow_rank": 56,
-      "change_score": 77.73,
-      "flow_score": 94.21,
+      "heat_score": 88.27,
+      "change_pct": 0.0,
+      "net_inflow_yi": -12.03,
+      "change_rank": 5,
+      "flow_rank": 101,
+      "change_score": 87.83,
+      "flow_score": 88.81,
       "limit_up_count": 5,
       "limit_up_stocks": [
         {
@@ -201,8 +125,8 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "09:35:54",
           "last_limit_up_time": "09:35:54",
-          "turnover_rate": 1.68,
-          "amount": 1032151477.32
+          "turnover_rate": 1.72,
+          "amount": 1056065404.32
         },
         {
           "code": "600744",
@@ -211,8 +135,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:43:58",
           "last_limit_up_time": "09:51:58",
-          "turnover_rate": 8.05,
-          "amount": 1389029297.72
+          "turnover_rate": 8.32,
+          "amount": 1436152034.52
         },
         {
           "code": "600863",
@@ -221,8 +145,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:27",
           "last_limit_up_time": "13:02:27",
-          "turnover_rate": 5.9,
-          "amount": 2442350232.75
+          "turnover_rate": 6.13,
+          "amount": 2543200264.56
         },
         {
           "code": "600396",
@@ -231,8 +155,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:56",
           "last_limit_up_time": "13:02:56",
-          "turnover_rate": 16.1,
-          "amount": 4240330102.31
+          "turnover_rate": 16.39,
+          "amount": 4318292533.31
         },
         {
           "code": "000539",
@@ -241,8 +165,74 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:05:15",
           "last_limit_up_time": "13:05:15",
-          "turnover_rate": 6.66,
-          "amount": 1206012360.0
+          "turnover_rate": 6.88,
+          "amount": 1247563370.0
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "超级品牌",
+      "concept_code": "306750",
+      "plate_code": "885761",
+      "heat_score": 88.17,
+      "change_pct": 0.17,
+      "net_inflow_yi": -22.37,
+      "change_rank": 3,
+      "flow_rank": 159,
+      "change_score": 91.59,
+      "flow_score": 84.0,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 7,
+      "name": "乳业",
+      "concept_code": "300983",
+      "plate_code": "885462",
+      "heat_score": 87.59,
+      "change_pct": -0.19,
+      "net_inflow_yi": -4.28,
+      "change_rank": 8,
+      "flow_rank": 35,
+      "change_score": 83.63,
+      "flow_score": 92.42,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 8,
+      "name": "免税店",
+      "concept_code": "308657",
+      "plate_code": "885898",
+      "heat_score": 87.36,
+      "change_pct": -0.12,
+      "net_inflow_yi": -9.4,
+      "change_rank": 7,
+      "flow_rank": 79,
+      "change_score": 85.18,
+      "flow_score": 90.04,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002251",
+          "name": "步步高",
+          "reason": "零售+胖东来调改+摘帽",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "11:18:42",
+          "last_limit_up_time": "11:18:42",
+          "turnover_rate": 13.25,
+          "amount": 1226781060.0
+        },
+        {
+          "code": "000759",
+          "name": "中百集团",
+          "reason": "百货零售+新零售+国企改革",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "11:25:45",
+          "last_limit_up_time": "13:46:30",
+          "turnover_rate": 20.64,
+          "amount": 779076660.0
         }
       ]
     },
@@ -251,13 +241,13 @@
       "name": "预制菜",
       "concept_code": "308814",
       "plate_code": "885951",
-      "heat_score": 82.7,
-      "change_pct": -0.55,
-      "net_inflow_yi": -12.28,
-      "change_rank": 10,
-      "flow_rank": 106,
-      "change_score": 74.55,
-      "flow_score": 92.66,
+      "heat_score": 85.3,
+      "change_pct": -0.24,
+      "net_inflow_yi": -12.29,
+      "change_rank": 9,
+      "flow_rank": 105,
+      "change_score": 82.52,
+      "flow_score": 88.69,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -267,8 +257,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "11:18:42",
           "last_limit_up_time": "11:18:42",
-          "turnover_rate": 12.83,
-          "amount": 1185428720.0
+          "turnover_rate": 13.25,
+          "amount": 1226781060.0
         },
         {
           "code": "000759",
@@ -277,8 +267,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "11:25:45",
           "last_limit_up_time": "13:46:30",
-          "turnover_rate": 20.12,
-          "amount": 758592920.0
+          "turnover_rate": 20.64,
+          "amount": 779076660.0
         },
         {
           "code": "605300",
@@ -287,8 +277,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:08:56",
           "last_limit_up_time": "13:11:32",
-          "turnover_rate": 2.1,
-          "amount": 100860003.22
+          "turnover_rate": 2.25,
+          "amount": 107785732.42
         }
       ]
     },
@@ -297,16 +287,16 @@
       "name": "啤酒概念",
       "concept_code": "301497",
       "plate_code": "885780",
-      "heat_score": 82.24,
-      "change_pct": -0.68,
-      "net_inflow_yi": -5.17,
-      "change_rank": 11,
-      "flow_rank": 41,
-      "change_score": 71.97,
-      "flow_score": 94.8,
+      "heat_score": 83.57,
+      "change_pct": -0.5,
+      "net_inflow_yi": -5.46,
+      "change_rank": 14,
+      "flow_rank": 45,
+      "change_score": 76.77,
+      "flow_score": 91.87,
       "limit_up_count": 0,
       "limit_up_stocks": []
     }
   ],
-  "all_count": 300
+  "all_count": 296
 }
