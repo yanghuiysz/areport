@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01 12:48:24",
+  "generated_at": "2026-06-01 16:28:20",
   "latest_trade_date": "2026-06-01",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -31,80 +31,80 @@
           "name": "天地在线",
           "reason": "AI营销+字节概念+持股中书艺莲+VR文旅",
           "consecutive_boards": 3,
-          "first_limit_up_time": "10:11:09",
-          "last_limit_up_time": "10:11:09",
+          "first_limit_up_time": "10:11:16",
+          "last_limit_up_time": "10:11:16",
           "turnover_rate": 26.41,
-          "amount": 708236070.0
+          "amount": 708236075.0
         },
         {
           "code": "600797",
           "name": "浙大网新",
           "reason": "阿里合作+算力+AI应用",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:13",
-          "last_limit_up_time": "09:33:13",
+          "first_limit_up_time": "09:32:15",
+          "last_limit_up_time": "09:33:30",
           "turnover_rate": 2.3,
-          "amount": 182304036.92
+          "amount": 182304037.0
         },
         {
           "code": "002229",
           "name": "鸿博股份",
           "reason": "算力+彩票印刷龙头+债务解除",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:18",
-          "last_limit_up_time": "09:54:45",
+          "first_limit_up_time": "09:41:30",
+          "last_limit_up_time": "09:54:47",
           "turnover_rate": 9.17,
-          "amount": 637124610.0
+          "amount": 637124607.0
         },
         {
           "code": "301236",
           "name": "软通动力",
           "reason": "AI PC+算力租赁+Token工厂+中标大单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:03",
-          "last_limit_up_time": "09:43:03",
+          "first_limit_up_time": "09:43:15",
+          "last_limit_up_time": "09:43:15",
           "turnover_rate": 4.83,
-          "amount": 1447335000.0
+          "amount": 1447335040.0
         },
         {
           "code": "002181",
           "name": "粤传媒",
           "reason": "世界杯+AI视频/短剧+国企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:09",
-          "last_limit_up_time": "14:44:51",
+          "first_limit_up_time": "09:47:15",
+          "last_limit_up_time": "14:45:05",
           "turnover_rate": 13.13,
-          "amount": 2644759200.0
+          "amount": 2644759190.0
         },
         {
           "code": "002657",
           "name": "中科金财",
           "reason": "AI应用+算力服务+金融科技",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:11:48",
+          "first_limit_up_time": "10:12:05",
           "last_limit_up_time": "10:22:36",
           "turnover_rate": 4.79,
-          "amount": 303412820.0
+          "amount": 303412819.0
         },
         {
           "code": "603598",
           "name": "引力传媒",
           "reason": "短剧商业化+AI营销+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:08",
-          "last_limit_up_time": "13:03:32",
+          "first_limit_up_time": "10:38:28",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 15.64,
-          "amount": 981820849.2
+          "amount": 981820849.0
         },
         {
           "code": "603808",
           "name": "歌力思",
           "reason": "AI应用+高端女装+业绩增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:47:22",
-          "last_limit_up_time": "13:47:22",
+          "first_limit_up_time": "13:47:34",
+          "last_limit_up_time": "13:47:34",
           "turnover_rate": 3.38,
-          "amount": 118726696.88
+          "amount": 118726697.0
         }
       ]
     },
@@ -127,80 +127,80 @@
           "name": "浙大网新",
           "reason": "阿里合作+算力+AI应用",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:13",
-          "last_limit_up_time": "09:33:13",
+          "first_limit_up_time": "09:32:15",
+          "last_limit_up_time": "09:33:30",
           "turnover_rate": 2.3,
-          "amount": 182304036.92
+          "amount": 182304037.0
         },
         {
           "code": "603533",
           "name": "掌阅科技",
           "reason": "AI短剧+字节概念+海外扩张",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:59",
-          "last_limit_up_time": "09:44:32",
+          "first_limit_up_time": "09:40:00",
+          "last_limit_up_time": "09:44:45",
           "turnover_rate": 5.15,
-          "amount": 585274590.6
+          "amount": 585274591.0
         },
         {
           "code": "603171",
           "name": "税友股份",
           "reason": "财税AI+AI智能体+一季报增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:02",
-          "last_limit_up_time": "09:40:02",
+          "first_limit_up_time": "09:40:15",
+          "last_limit_up_time": "09:40:15",
           "turnover_rate": 0.98,
-          "amount": 203993996.38
+          "amount": 203993996.0
         },
         {
           "code": "002279",
           "name": "久其软件",
           "reason": "AI智能体+数字政务+软件+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:54",
-          "last_limit_up_time": "11:19:09",
+          "first_limit_up_time": "09:41:00",
+          "last_limit_up_time": "11:19:22",
           "turnover_rate": 8.74,
-          "amount": 503439570.0
+          "amount": 503439575.0
         },
         {
           "code": "002229",
           "name": "鸿博股份",
           "reason": "算力+彩票印刷龙头+债务解除",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:18",
-          "last_limit_up_time": "09:54:45",
+          "first_limit_up_time": "09:41:30",
+          "last_limit_up_time": "09:54:47",
           "turnover_rate": 9.17,
-          "amount": 637124610.0
+          "amount": 637124607.0
         },
         {
           "code": "301236",
           "name": "软通动力",
           "reason": "AI PC+算力租赁+Token工厂+中标大单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:03",
-          "last_limit_up_time": "09:43:03",
+          "first_limit_up_time": "09:43:15",
+          "last_limit_up_time": "09:43:15",
           "turnover_rate": 4.83,
-          "amount": 1447335000.0
+          "amount": 1447335040.0
         },
         {
           "code": "002657",
           "name": "中科金财",
           "reason": "AI应用+算力服务+金融科技",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:11:48",
+          "first_limit_up_time": "10:12:05",
           "last_limit_up_time": "10:22:36",
           "turnover_rate": 4.79,
-          "amount": 303412820.0
+          "amount": 303412819.0
         },
         {
           "code": "600588",
           "name": "用友网络",
           "reason": "AI应用+用友BIP+营收增长+亏损收窄",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:03:35",
-          "last_limit_up_time": "13:03:35",
+          "first_limit_up_time": "13:03:45",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 2.94,
-          "amount": 1107603651.62
+          "amount": 1107603650.0
         }
       ]
     },
@@ -223,48 +223,48 @@
           "name": "合锻智能",
           "reason": "光模块结构件+CCL/PCB层压设备+高端成形机床",
           "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:09",
-          "last_limit_up_time": "09:33:33",
+          "first_limit_up_time": "09:31:15",
+          "last_limit_up_time": "09:33:45",
           "turnover_rate": 6.99,
-          "amount": 936701220.53
+          "amount": 936701221.0
         },
         {
           "code": "600121",
           "name": "郑州煤电",
           "reason": "煤炭+机器人+算力中心+郑州国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:46",
-          "last_limit_up_time": "10:38:46",
+          "first_limit_up_time": "10:38:51",
+          "last_limit_up_time": "10:38:51",
           "turnover_rate": 10.11,
-          "amount": 558317781.67
+          "amount": 558317782.0
         },
         {
           "code": "601101",
           "name": "昊华能源",
           "reason": "煤炭+甲醇涨价+北京国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:52",
-          "last_limit_up_time": "10:38:52",
+          "first_limit_up_time": "10:39:18",
+          "last_limit_up_time": "10:39:18",
           "turnover_rate": 3.66,
-          "amount": 667900285.63
+          "amount": 667900286.0
         },
         {
           "code": "601699",
           "name": "潞安环能",
           "reason": "喷吹煤龙头+上马煤矿+山西国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:52:25",
-          "last_limit_up_time": "13:16:25",
-          "turnover_rate": 2.23,
-          "amount": 1139486201.82
+          "first_limit_up_time": "10:52:26",
+          "last_limit_up_time": "13:16:54",
+          "turnover_rate": 2.24,
+          "amount": 1139486200.0
         },
         {
           "code": "600403",
           "name": "大有能源",
           "reason": "煤炭+河南国资重组+国企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:57:07",
-          "last_limit_up_time": "11:01:19",
+          "first_limit_up_time": "10:57:08",
+          "last_limit_up_time": "11:01:39",
           "turnover_rate": 1.84,
           "amount": 237944300.0
         },
@@ -273,20 +273,20 @@
           "name": "晋控煤业",
           "reason": "煤炭+资产注入预期+山西国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:14",
-          "last_limit_up_time": "11:03:14",
+          "first_limit_up_time": "11:03:25",
+          "last_limit_up_time": "11:03:25",
           "turnover_rate": 2.25,
-          "amount": 732218851.08
+          "amount": 732218851.0
         },
         {
           "code": "601918",
           "name": "新集能源",
           "reason": "煤电一体化+电力+央企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:59:31",
-          "last_limit_up_time": "13:59:31",
+          "first_limit_up_time": "13:59:46",
+          "last_limit_up_time": "13:59:46",
           "turnover_rate": 5.67,
-          "amount": 1585301344.43
+          "amount": 1585301340.0
         },
         {
           "code": "600546",
@@ -294,29 +294,29 @@
           "reason": "煤炭+山西国资+业绩增长",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:17:51",
-          "last_limit_up_time": "14:55:33",
-          "turnover_rate": 3.96,
-          "amount": 1133101838.67
+          "last_limit_up_time": "14:56:06",
+          "turnover_rate": 3.97,
+          "amount": 1133101840.0
         },
         {
           "code": "600188",
           "name": "兖矿能源",
           "reason": "煤炭+煤化工+国资增持+山东国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "14:34:27",
-          "last_limit_up_time": "14:34:27",
+          "first_limit_up_time": "14:34:53",
+          "last_limit_up_time": "14:34:53",
           "turnover_rate": 1.74,
-          "amount": 2390328664.85
+          "amount": 2390328670.0
         },
         {
           "code": "600758",
           "name": "辽宁能源",
           "reason": "电力+煤炭+辽宁国企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "14:47:47",
-          "last_limit_up_time": "14:47:47",
+          "first_limit_up_time": "14:48:18",
+          "last_limit_up_time": "14:48:18",
           "turnover_rate": 15.68,
-          "amount": 1000493189.25
+          "amount": 1000493190.0
         }
       ]
     },
@@ -339,40 +339,40 @@
           "name": "天地在线",
           "reason": "AI营销+字节概念+持股中书艺莲+VR文旅",
           "consecutive_boards": 3,
-          "first_limit_up_time": "10:11:09",
-          "last_limit_up_time": "10:11:09",
+          "first_limit_up_time": "10:11:16",
+          "last_limit_up_time": "10:11:16",
           "turnover_rate": 26.41,
-          "amount": 708236070.0
+          "amount": 708236075.0
         },
         {
           "code": "002279",
           "name": "久其软件",
           "reason": "AI智能体+数字政务+软件+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:54",
-          "last_limit_up_time": "11:19:09",
+          "first_limit_up_time": "09:41:00",
+          "last_limit_up_time": "11:19:22",
           "turnover_rate": 8.74,
-          "amount": 503439570.0
+          "amount": 503439575.0
         },
         {
           "code": "603598",
           "name": "引力传媒",
           "reason": "短剧商业化+AI营销+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:08",
-          "last_limit_up_time": "13:03:32",
+          "first_limit_up_time": "10:38:28",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 15.64,
-          "amount": 981820849.2
+          "amount": 981820849.0
         },
         {
           "code": "600539",
           "name": "狮头股份",
           "reason": "拟收购利柏科技+AI应用+机器视觉+锂电池订单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:09",
-          "last_limit_up_time": "13:01:09",
+          "first_limit_up_time": "13:01:37",
+          "last_limit_up_time": "13:01:37",
           "turnover_rate": 10.62,
-          "amount": 371872230.9
+          "amount": 371872231.0
         }
       ]
     },
@@ -395,20 +395,20 @@
           "name": "软通动力",
           "reason": "AI PC+算力租赁+Token工厂+中标大单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:03",
-          "last_limit_up_time": "09:43:03",
+          "first_limit_up_time": "09:43:15",
+          "last_limit_up_time": "09:43:15",
           "turnover_rate": 4.83,
-          "amount": 1447335000.0
+          "amount": 1447335040.0
         },
         {
           "code": "600588",
           "name": "用友网络",
           "reason": "AI应用+用友BIP+营收增长+亏损收窄",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:03:35",
-          "last_limit_up_time": "13:03:35",
+          "first_limit_up_time": "13:03:45",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 2.94,
-          "amount": 1107603651.62
+          "amount": 1107603650.0
         }
       ]
     },
@@ -431,28 +431,28 @@
           "name": "天地在线",
           "reason": "AI营销+字节概念+持股中书艺莲+VR文旅",
           "consecutive_boards": 3,
-          "first_limit_up_time": "10:11:09",
-          "last_limit_up_time": "10:11:09",
+          "first_limit_up_time": "10:11:16",
+          "last_limit_up_time": "10:11:16",
           "turnover_rate": 26.41,
-          "amount": 708236070.0
+          "amount": 708236075.0
         },
         {
           "code": "002235",
           "name": "安妮股份",
           "reason": "防伪溯源+商务信息用纸+控制权变更+区块链",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:39",
-          "last_limit_up_time": "09:37:39",
+          "first_limit_up_time": "09:37:45",
+          "last_limit_up_time": "09:37:45",
           "turnover_rate": 4.18,
-          "amount": 248889650.0
+          "amount": 248889654.0
         },
         {
           "code": "000048",
           "name": "京基智农",
           "reason": "生猪养殖+养鸡+人形机器人",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:45",
-          "last_limit_up_time": "09:37:45",
+          "first_limit_up_time": "09:38:00",
+          "last_limit_up_time": "09:38:00",
           "turnover_rate": 1.56,
           "amount": 110866196.0
         },
@@ -461,8 +461,8 @@
           "name": "视觉中国",
           "reason": "AI语料+MiniMax概念",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:24",
-          "last_limit_up_time": "09:39:24",
+          "first_limit_up_time": "09:39:30",
+          "last_limit_up_time": "09:39:30",
           "turnover_rate": 6.88,
           "amount": 1034602840.0
         },
@@ -471,40 +471,40 @@
           "name": "掌阅科技",
           "reason": "AI短剧+字节概念+海外扩张",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:59",
-          "last_limit_up_time": "09:44:32",
+          "first_limit_up_time": "09:40:00",
+          "last_limit_up_time": "09:44:45",
           "turnover_rate": 5.15,
-          "amount": 585274590.6
+          "amount": 585274591.0
         },
         {
           "code": "002279",
           "name": "久其软件",
           "reason": "AI智能体+数字政务+软件+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:54",
-          "last_limit_up_time": "11:19:09",
+          "first_limit_up_time": "09:41:00",
+          "last_limit_up_time": "11:19:22",
           "turnover_rate": 8.74,
-          "amount": 503439570.0
+          "amount": 503439575.0
         },
         {
           "code": "002181",
           "name": "粤传媒",
           "reason": "世界杯+AI视频/短剧+国企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:09",
-          "last_limit_up_time": "14:44:51",
+          "first_limit_up_time": "09:47:15",
+          "last_limit_up_time": "14:45:05",
           "turnover_rate": 13.13,
-          "amount": 2644759200.0
+          "amount": 2644759190.0
         },
         {
           "code": "603598",
           "name": "引力传媒",
           "reason": "短剧商业化+AI营销+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:08",
-          "last_limit_up_time": "13:03:32",
+          "first_limit_up_time": "10:38:28",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 15.64,
-          "amount": 981820849.2
+          "amount": 981820849.0
         }
       ]
     },
@@ -527,70 +527,70 @@
           "name": "天地在线",
           "reason": "AI营销+字节概念+持股中书艺莲+VR文旅",
           "consecutive_boards": 3,
-          "first_limit_up_time": "10:11:09",
-          "last_limit_up_time": "10:11:09",
+          "first_limit_up_time": "10:11:16",
+          "last_limit_up_time": "10:11:16",
           "turnover_rate": 26.41,
-          "amount": 708236070.0
+          "amount": 708236075.0
         },
         {
           "code": "603171",
           "name": "税友股份",
           "reason": "财税AI+AI智能体+一季报增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:02",
-          "last_limit_up_time": "09:40:02",
+          "first_limit_up_time": "09:40:15",
+          "last_limit_up_time": "09:40:15",
           "turnover_rate": 0.98,
-          "amount": 203993996.38
+          "amount": 203993996.0
         },
         {
           "code": "002279",
           "name": "久其软件",
           "reason": "AI智能体+数字政务+软件+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:54",
-          "last_limit_up_time": "11:19:09",
+          "first_limit_up_time": "09:41:00",
+          "last_limit_up_time": "11:19:22",
           "turnover_rate": 8.74,
-          "amount": 503439570.0
+          "amount": 503439575.0
         },
         {
           "code": "301236",
           "name": "软通动力",
           "reason": "AI PC+算力租赁+Token工厂+中标大单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:03",
-          "last_limit_up_time": "09:43:03",
+          "first_limit_up_time": "09:43:15",
+          "last_limit_up_time": "09:43:15",
           "turnover_rate": 4.83,
-          "amount": 1447335000.0
+          "amount": 1447335040.0
         },
         {
           "code": "002657",
           "name": "中科金财",
           "reason": "AI应用+算力服务+金融科技",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:11:48",
+          "first_limit_up_time": "10:12:05",
           "last_limit_up_time": "10:22:36",
           "turnover_rate": 4.79,
-          "amount": 303412820.0
+          "amount": 303412819.0
         },
         {
           "code": "600588",
           "name": "用友网络",
           "reason": "AI应用+用友BIP+营收增长+亏损收窄",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:03:35",
-          "last_limit_up_time": "13:03:35",
+          "first_limit_up_time": "13:03:45",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 2.94,
-          "amount": 1107603651.62
+          "amount": 1107603650.0
         },
         {
           "code": "603039",
           "name": "泛微网络",
           "reason": "AI智能体+信创+一季报增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:32",
-          "last_limit_up_time": "13:10:32",
+          "first_limit_up_time": "13:10:45",
+          "last_limit_up_time": "13:10:45",
           "turnover_rate": 4.27,
-          "amount": 512103346.1
+          "amount": 512103346.0
         }
       ]
     },
@@ -613,28 +613,28 @@
           "name": "天地在线",
           "reason": "AI营销+字节概念+持股中书艺莲+VR文旅",
           "consecutive_boards": 3,
-          "first_limit_up_time": "10:11:09",
-          "last_limit_up_time": "10:11:09",
+          "first_limit_up_time": "10:11:16",
+          "last_limit_up_time": "10:11:16",
           "turnover_rate": 26.41,
-          "amount": 708236070.0
+          "amount": 708236075.0
         },
         {
           "code": "002580",
           "name": "圣阳股份",
           "reason": "算力+液冷储能+电池+山东国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:39",
-          "last_limit_up_time": "09:36:39",
+          "first_limit_up_time": "09:36:45",
+          "last_limit_up_time": "09:36:45",
           "turnover_rate": 12.24,
-          "amount": 1445251100.0
+          "amount": 1445251130.0
         },
         {
           "code": "000681",
           "name": "视觉中国",
           "reason": "AI语料+MiniMax概念",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:24",
-          "last_limit_up_time": "09:39:24",
+          "first_limit_up_time": "09:39:30",
+          "last_limit_up_time": "09:39:30",
           "turnover_rate": 6.88,
           "amount": 1034602840.0
         },
@@ -643,20 +643,20 @@
           "name": "久其软件",
           "reason": "AI智能体+数字政务+软件+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:54",
-          "last_limit_up_time": "11:19:09",
+          "first_limit_up_time": "09:41:00",
+          "last_limit_up_time": "11:19:22",
           "turnover_rate": 8.74,
-          "amount": 503439570.0
+          "amount": 503439575.0
         },
         {
           "code": "603598",
           "name": "引力传媒",
           "reason": "短剧商业化+AI营销+业绩扭亏",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:08",
-          "last_limit_up_time": "13:03:32",
+          "first_limit_up_time": "10:38:28",
+          "last_limit_up_time": "13:03:45",
           "turnover_rate": 15.64,
-          "amount": 981820849.2
+          "amount": 981820849.0
         }
       ]
     },
@@ -679,20 +679,20 @@
           "name": "软通动力",
           "reason": "AI PC+算力租赁+Token工厂+中标大单",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:03",
-          "last_limit_up_time": "09:43:03",
+          "first_limit_up_time": "09:43:15",
+          "last_limit_up_time": "09:43:15",
           "turnover_rate": 4.83,
-          "amount": 1447335000.0
+          "amount": 1447335040.0
         },
         {
           "code": "002647",
           "name": "仁东控股",
           "reason": "第三方支付+AI芯片+券商首次覆盖",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:06:06",
-          "last_limit_up_time": "13:06:06",
+          "first_limit_up_time": "13:06:17",
+          "last_limit_up_time": "13:06:17",
           "turnover_rate": 5.22,
-          "amount": 661139700.0
+          "amount": 661139701.0
         }
       ]
     },
@@ -715,50 +715,50 @@
           "name": "巨化股份",
           "reason": "高纯PFA+制冷剂+液冷+国企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:08:43",
-          "last_limit_up_time": "10:52:40",
+          "first_limit_up_time": "10:09:12",
+          "last_limit_up_time": "10:52:52",
           "turnover_rate": 3.07,
-          "amount": 2980028852.05
+          "amount": 2980028850.0
         },
         {
           "code": "601101",
           "name": "昊华能源",
           "reason": "煤炭+甲醇涨价+北京国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:52",
-          "last_limit_up_time": "10:38:52",
+          "first_limit_up_time": "10:39:18",
+          "last_limit_up_time": "10:39:18",
           "turnover_rate": 3.66,
-          "amount": 667900285.63
+          "amount": 667900286.0
         },
         {
           "code": "601699",
           "name": "潞安环能",
           "reason": "喷吹煤龙头+上马煤矿+山西国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:52:25",
-          "last_limit_up_time": "13:16:25",
-          "turnover_rate": 2.23,
-          "amount": 1139486201.82
+          "first_limit_up_time": "10:52:26",
+          "last_limit_up_time": "13:16:54",
+          "turnover_rate": 2.24,
+          "amount": 1139486200.0
         },
         {
           "code": "601918",
           "name": "新集能源",
           "reason": "煤电一体化+电力+央企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:59:31",
-          "last_limit_up_time": "13:59:31",
+          "first_limit_up_time": "13:59:46",
+          "last_limit_up_time": "13:59:46",
           "turnover_rate": 5.67,
-          "amount": 1585301344.43
+          "amount": 1585301340.0
         },
         {
           "code": "600188",
           "name": "兖矿能源",
           "reason": "煤炭+煤化工+国资增持+山东国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "14:34:27",
-          "last_limit_up_time": "14:34:27",
+          "first_limit_up_time": "14:34:53",
+          "last_limit_up_time": "14:34:53",
           "turnover_rate": 1.74,
-          "amount": 2390328664.85
+          "amount": 2390328670.0
         }
       ]
     }
