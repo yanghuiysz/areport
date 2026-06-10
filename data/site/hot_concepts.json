@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10 06:09:37",
+  "generated_at": "2026-06-10 08:19:25",
   "latest_trade_date": "2026-06-10",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -14,52 +14,16 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "兵装重组概念",
-      "concept_code": "309185",
-      "plate_code": "886101",
-      "heat_score": 96.55,
-      "change_pct": 3.57,
-      "net_inflow_yi": -1.77,
-      "change_rank": 1,
-      "flow_rank": 35,
-      "change_score": 100.0,
-      "flow_score": 92.33,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "600698",
-          "name": "湖南天雁",
-          "reason": "涡轮增压器+电子水泵+兵装重组+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:21",
-          "last_limit_up_time": "09:37:21",
-          "turnover_rate": 1.81,
-          "amount": 101997811.3
-        },
-        {
-          "code": "600178",
-          "name": "东安动力",
-          "reason": "兵装重组+增程动力+华为合作+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:15:39",
-          "last_limit_up_time": "10:15:39",
-          "turnover_rate": 3.11,
-          "amount": 136598066.42
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "name": "环氧丙烷",
       "concept_code": "308202",
       "plate_code": "885903",
-      "heat_score": 95.36,
-      "change_pct": 3.46,
-      "net_inflow_yi": -5.48,
-      "change_rank": 2,
-      "flow_rank": 70,
-      "change_score": 98.62,
-      "flow_score": 91.39,
+      "heat_score": 95.99,
+      "change_pct": 3.84,
+      "net_inflow_yi": -5.01,
+      "change_rank": 1,
+      "flow_rank": 67,
+      "change_score": 100.0,
+      "flow_score": 91.1,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -69,8 +33,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:25:01",
-          "turnover_rate": 0.85,
-          "amount": 200670319.5
+          "turnover_rate": 0.88,
+          "amount": 205924402.0
         },
         {
           "code": "002165",
@@ -79,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:35:09",
           "last_limit_up_time": "09:35:09",
-          "turnover_rate": 5.77,
-          "amount": 301598030.0
+          "turnover_rate": 5.93,
+          "amount": 310255830.0
         },
         {
           "code": "601678",
@@ -89,8 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:03:11",
           "last_limit_up_time": "10:24:53",
-          "turnover_rate": 5.71,
-          "amount": 639960220.77
+          "turnover_rate": 5.92,
+          "amount": 663702820.27
         },
         {
           "code": "300721",
@@ -99,8 +63,44 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:19:45",
           "last_limit_up_time": "11:19:45",
-          "turnover_rate": 21.48,
-          "amount": 964331100.0
+          "turnover_rate": 21.67,
+          "amount": 973672340.0
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "兵装重组概念",
+      "concept_code": "309185",
+      "plate_code": "886101",
+      "heat_score": 94.94,
+      "change_pct": 3.63,
+      "net_inflow_yi": -1.92,
+      "change_rank": 2,
+      "flow_rank": 44,
+      "change_score": 97.39,
+      "flow_score": 91.93,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "600698",
+          "name": "湖南天雁",
+          "reason": "涡轮增压器+电子水泵+兵装重组+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:21",
+          "last_limit_up_time": "09:37:21",
+          "turnover_rate": 1.86,
+          "amount": 104702709.3
+        },
+        {
+          "code": "600178",
+          "name": "东安动力",
+          "reason": "兵装重组+增程动力+华为合作+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:15:39",
+          "last_limit_up_time": "10:15:39",
+          "turnover_rate": 3.17,
+          "amount": 139132223.42
         }
       ]
     },
@@ -109,54 +109,28 @@
       "name": "青蒿素",
       "concept_code": "301794",
       "plate_code": "885852",
-      "heat_score": 81.26,
-      "change_pct": 1.34,
-      "net_inflow_yi": -0.55,
-      "change_rank": 3,
-      "flow_rank": 20,
-      "change_score": 71.95,
-      "flow_score": 92.64,
+      "heat_score": 81.25,
+      "change_pct": 1.6,
+      "net_inflow_yi": -0.39,
+      "change_rank": 4,
+      "flow_rank": 24,
+      "change_score": 72.17,
+      "flow_score": 92.35,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
       "rank": 4,
-      "name": "啤酒概念",
-      "concept_code": "301497",
-      "plate_code": "885780",
-      "heat_score": 78.49,
-      "change_pct": 0.87,
-      "net_inflow_yi": 3.72,
-      "change_rank": 7,
-      "flow_rank": 7,
-      "change_score": 66.04,
-      "flow_score": 93.72,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600573",
-          "name": "惠泉啤酒",
-          "reason": "啤酒高端化+一季报增长+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:51:05",
-          "last_limit_up_time": "09:51:05",
-          "turnover_rate": 9.11,
-          "amount": 288292211.82
-        }
-      ]
-    },
-    {
-      "rank": 5,
       "name": "丙烯酸",
       "concept_code": "305376",
       "plate_code": "885829",
-      "heat_score": 77.72,
-      "change_pct": 1.06,
-      "net_inflow_yi": -14.58,
-      "change_rank": 4,
-      "flow_rank": 123,
-      "change_score": 68.43,
-      "flow_score": 89.08,
+      "heat_score": 81.13,
+      "change_pct": 1.83,
+      "net_inflow_yi": -14.24,
+      "change_rank": 3,
+      "flow_rank": 127,
+      "change_score": 75.03,
+      "flow_score": 88.59,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -166,65 +140,24 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:25:02",
           "last_limit_up_time": "09:25:02",
-          "turnover_rate": 2.03,
-          "amount": 1031372734.4
+          "turnover_rate": 2.11,
+          "amount": 1073491235.1
         }
       ]
     },
     {
-      "rank": 6,
-      "name": "养鸡",
-      "concept_code": "301576",
-      "plate_code": "885808",
-      "heat_score": 77.46,
-      "change_pct": 0.83,
-      "net_inflow_yi": -2.9,
-      "change_rank": 8,
-      "flow_rank": 46,
-      "change_score": 65.53,
-      "flow_score": 92.04,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "000048",
-          "name": "京基智农",
-          "reason": "协议转让+生猪养殖+猪价反弹+机器人",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:30",
-          "last_limit_up_time": "10:13:39",
-          "turnover_rate": 5.52,
-          "amount": 517192440.0
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "动物疫苗",
-      "concept_code": "308537",
-      "plate_code": "885846",
-      "heat_score": 77.03,
-      "change_pct": 0.71,
-      "net_inflow_yi": 0.6,
-      "change_rank": 10,
-      "flow_rank": 13,
-      "change_score": 64.03,
-      "flow_score": 92.93,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "name": "PVDF概念",
       "concept_code": "308742",
       "plate_code": "885931",
-      "heat_score": 76.51,
-      "change_pct": 0.77,
-      "net_inflow_yi": -7.62,
-      "change_rank": 9,
+      "heat_score": 79.01,
+      "change_pct": 1.39,
+      "net_inflow_yi": -7.04,
+      "change_rank": 6,
       "flow_rank": 85,
-      "change_score": 64.78,
-      "flow_score": 90.85,
-      "limit_up_count": 1,
+      "change_score": 69.57,
+      "flow_score": 90.54,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "600378",
@@ -233,8 +166,125 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:37:14",
           "last_limit_up_time": "09:51:50",
-          "turnover_rate": 5.76,
-          "amount": 3528336549.14
+          "turnover_rate": 5.8,
+          "amount": 3549849381.14
+        },
+        {
+          "code": "603375",
+          "name": "盛景微",
+          "reason": "电子雷管+存储芯片+低空经济+汽车科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:43",
+          "last_limit_up_time": "14:49:43",
+          "turnover_rate": 6.74,
+          "amount": 204585761.0
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "动物疫苗",
+      "concept_code": "308537",
+      "plate_code": "885846",
+      "heat_score": 78.58,
+      "change_pct": 1.18,
+      "net_inflow_yi": 1.18,
+      "change_rank": 8,
+      "flow_rank": 16,
+      "change_score": 66.96,
+      "flow_score": 92.78,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 7,
+      "name": "啤酒概念",
+      "concept_code": "301497",
+      "plate_code": "885780",
+      "heat_score": 77.86,
+      "change_pct": 1.02,
+      "net_inflow_yi": 4.27,
+      "change_rank": 9,
+      "flow_rank": 6,
+      "change_score": 64.97,
+      "flow_score": 93.62,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600573",
+          "name": "惠泉啤酒",
+          "reason": "啤酒高端化+一季报增长+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:51:05",
+          "last_limit_up_time": "09:51:05",
+          "turnover_rate": 9.21,
+          "amount": 291603256.82
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "光刻胶",
+      "concept_code": "308582",
+      "plate_code": "885864",
+      "heat_score": 77.54,
+      "change_pct": 1.51,
+      "net_inflow_yi": -25.71,
+      "change_rank": 5,
+      "flow_rank": 172,
+      "change_score": 71.06,
+      "flow_score": 85.47,
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "605589",
+          "name": "圣泉集团",
+          "reason": "PPO树脂+PCB上游+先进封装",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:25:02",
+          "last_limit_up_time": "09:25:02",
+          "turnover_rate": 2.11,
+          "amount": 1073491235.1
+        },
+        {
+          "code": "603155",
+          "name": "新亚强",
+          "reason": "半导体材料+高纯四氯化硅+光纤概念+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:45:13",
+          "last_limit_up_time": "09:45:13",
+          "turnover_rate": 3.55,
+          "amount": 250156817.54
+        },
+        {
+          "code": "603823",
+          "name": "百合花",
+          "reason": "光刻胶颜料+PEEK材料+有机颜料龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:56:24",
+          "last_limit_up_time": "10:48:21",
+          "turnover_rate": 5.18,
+          "amount": 812674208.34
+        },
+        {
+          "code": "002409",
+          "name": "雅克科技",
+          "reason": "半导体前驱体+HBM+存储芯片",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:00:51",
+          "last_limit_up_time": "13:51:00",
+          "turnover_rate": 10.5,
+          "amount": 3919264500.0
+        },
+        {
+          "code": "300721",
+          "name": "怡达股份",
+          "reason": "湿电子化学品+芯片概念+环氧丙烷",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:19:45",
+          "last_limit_up_time": "11:19:45",
+          "turnover_rate": 21.67,
+          "amount": 973672340.0
         }
       ]
     },
@@ -243,13 +293,13 @@
       "name": "期货概念",
       "concept_code": "300220",
       "plate_code": "885570",
-      "heat_score": 75.6,
-      "change_pct": 0.22,
-      "net_inflow_yi": 17.77,
+      "heat_score": 77.24,
+      "change_pct": 0.58,
+      "net_inflow_yi": 23.77,
       "change_rank": 17,
       "flow_rank": 3,
-      "change_score": 57.86,
-      "flow_score": 97.28,
+      "change_score": 59.5,
+      "flow_score": 98.91,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -259,8 +309,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:04:09",
           "last_limit_up_time": "10:04:09",
-          "turnover_rate": 8.81,
-          "amount": 598921600.0
+          "turnover_rate": 9.03,
+          "amount": 614013020.0
         },
         {
           "code": "600981",
@@ -269,25 +319,36 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:48:06",
           "last_limit_up_time": "10:49:21",
-          "turnover_rate": 2.57,
-          "amount": 149299924.37
+          "turnover_rate": 2.65,
+          "amount": 154363288.37
         }
       ]
     },
     {
       "rank": 10,
-      "name": "超级品牌",
-      "concept_code": "306750",
-      "plate_code": "885761",
-      "heat_score": 75.29,
-      "change_pct": 0.28,
-      "net_inflow_yi": 11.38,
-      "change_rank": 14,
-      "flow_rank": 4,
-      "change_score": 58.62,
-      "flow_score": 95.66,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "name": "养鸡",
+      "concept_code": "301576",
+      "plate_code": "885808",
+      "heat_score": 76.32,
+      "change_pct": 0.93,
+      "net_inflow_yi": -3.28,
+      "change_rank": 10,
+      "flow_rank": 59,
+      "change_score": 63.85,
+      "flow_score": 91.57,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "000048",
+          "name": "京基智农",
+          "reason": "协议转让+生猪养殖+猪价反弹+机器人",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:30:30",
+          "last_limit_up_time": "10:13:39",
+          "turnover_rate": 5.6,
+          "amount": 524874140.0
+        }
+      ]
     }
   ],
   "all_count": 294
