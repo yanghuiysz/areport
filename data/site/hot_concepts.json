@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12 08:43:45",
+  "generated_at": "2026-06-12 11:09:48",
   "latest_trade_date": "2026-06-12",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -91,7 +91,7 @@
           "name": "新威凌",
           "reason": "金属锌+铅锌+军工应用",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:01:05",
+          "first_limit_up_time": "11:01:10",
           "last_limit_up_time": "14:52:05",
           "turnover_rate": 17.49,
           "amount": 134797025.81
