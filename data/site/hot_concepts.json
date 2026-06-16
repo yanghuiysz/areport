@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16 07:08:19",
+  "generated_at": "2026-06-16 09:37:22",
   "latest_trade_date": "2026-06-16",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -545,7 +545,7 @@
         {
           "code": "300964",
           "name": "本川智能",
-          "reason": "CIPB+AI服务器电源+机器人+高送转",
+          "reason": "AI服务器电源+PCB+机器人",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:11:27",
           "last_limit_up_time": "14:11:27",
