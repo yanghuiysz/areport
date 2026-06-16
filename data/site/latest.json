@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-16 12:21:51",
+  "generated_at": "2026-06-16 15:29:05",
   "latest_trade_date": "2026-06-16",
   "summary": [
     {
       "date": "2026-06-16",
       "up_count": 2730,
       "down_count": 2677,
-      "flat_count": 111,
+      "flat_count": 106,
       "limit_up_count": 117,
       "limit_down_count": 11
     },
