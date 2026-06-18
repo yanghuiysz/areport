@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 11:17:21",
+  "generated_at": "2026-06-18 13:49:51",
   "latest_trade_date": "2026-06-18",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -59,7 +59,7 @@
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
           "turnover_rate": 3.73,
-          "amount": 456136205.24
+          "amount": 456136210.0
         },
         {
           "code": "301580",
@@ -69,7 +69,7 @@
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
           "turnover_rate": 3.45,
-          "amount": 219880240.9
+          "amount": 219880240.0
         },
         {
           "code": "603407",
@@ -105,7 +105,7 @@
           "first_limit_up_time": "09:32:12",
           "last_limit_up_time": "09:35:00",
           "turnover_rate": 12.15,
-          "amount": 1422120962.59
+          "amount": 1422121000.0
         },
         {
           "code": "002897",
@@ -115,7 +115,7 @@
           "first_limit_up_time": "09:55:54",
           "last_limit_up_time": "13:00:51",
           "turnover_rate": 7.13,
-          "amount": 1225820498.7
+          "amount": 1225820500.0
         },
         {
           "code": "603011",
@@ -135,7 +135,7 @@
           "first_limit_up_time": "10:51:48",
           "last_limit_up_time": "10:51:48",
           "turnover_rate": 5.25,
-          "amount": 10477798877.02
+          "amount": 10477798900.0
         },
         {
           "code": "300319",
@@ -145,7 +145,7 @@
           "first_limit_up_time": "13:10:18",
           "last_limit_up_time": "13:10:18",
           "turnover_rate": 21.19,
-          "amount": 4580026079.0
+          "amount": 4580026100.0
         },
         {
           "code": "003031",
@@ -155,7 +155,7 @@
           "first_limit_up_time": "13:15:12",
           "last_limit_up_time": "13:52:51",
           "turnover_rate": 4.66,
-          "amount": 2693468293.51
+          "amount": 2693468300.0
         }
       ]
     },
@@ -233,7 +233,7 @@
           "first_limit_up_time": "09:55:54",
           "last_limit_up_time": "13:00:51",
           "turnover_rate": 7.13,
-          "amount": 1225820498.7
+          "amount": 1225820500.0
         },
         {
           "code": "002281",
@@ -243,7 +243,7 @@
           "first_limit_up_time": "10:51:48",
           "last_limit_up_time": "10:51:48",
           "turnover_rate": 5.25,
-          "amount": 10477798877.02
+          "amount": 10477798900.0
         }
       ]
     },
@@ -269,7 +269,7 @@
           "first_limit_up_time": "09:55:54",
           "last_limit_up_time": "13:00:51",
           "turnover_rate": 7.13,
-          "amount": 1225820498.7
+          "amount": 1225820500.0
         },
         {
           "code": "688515",
@@ -289,7 +289,7 @@
           "first_limit_up_time": "13:07:27",
           "last_limit_up_time": "14:54:03",
           "turnover_rate": 36.6,
-          "amount": 1000859893.03
+          "amount": 1000859890.0
         }
       ]
     },
@@ -330,7 +330,7 @@
           "first_limit_up_time": "09:42:18",
           "last_limit_up_time": "14:00:54",
           "turnover_rate": 20.56,
-          "amount": 3292499349.99
+          "amount": 3292499300.0
         }
       ]
     },
@@ -356,7 +356,7 @@
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
           "turnover_rate": 3.73,
-          "amount": 456136205.24
+          "amount": 456136210.0
         },
         {
           "code": "603663",
