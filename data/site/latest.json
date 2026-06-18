@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18 08:57:59",
+  "generated_at": "2026-06-18 11:17:07",
   "latest_trade_date": "2026-06-18",
   "summary": [
     {
@@ -929,7 +929,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "turnover_rate": 21.78,
         "first_limit_up_time": "13:01:06",
         "last_limit_up_time": "13:18:06",
@@ -966,7 +966,7 @@
           "融资融券",
           "深股通"
         ],
-        "amount": 4580026100.0,
+        "amount": 4580026079.0,
         "turnover_rate": 21.19,
         "first_limit_up_time": "13:10:18",
         "last_limit_up_time": "13:10:18",
@@ -1055,7 +1055,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 219880240.0,
+        "amount": 219880240.9,
         "turnover_rate": 3.45,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
@@ -1166,7 +1166,7 @@
           "新股与次新股",
           "融资融券"
         ],
-        "amount": 920927270.0,
+        "amount": 920927267.44,
         "turnover_rate": 40.48,
         "first_limit_up_time": "13:11:30",
         "last_limit_up_time": "13:17:54",
@@ -1196,7 +1196,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1000859890.0,
+        "amount": 1000859893.03,
         "turnover_rate": 36.6,
         "first_limit_up_time": "13:07:27",
         "last_limit_up_time": "14:54:03",
@@ -1237,7 +1237,7 @@
           "储能",
           "股权转让(并购重组)"
         ],
-        "amount": 895876330.0,
+        "amount": 895876329.22,
         "turnover_rate": 18.66,
         "first_limit_up_time": "10:03:42",
         "last_limit_up_time": "10:03:42",
@@ -1255,7 +1255,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1057526740.0,
+        "amount": 1057526741.46,
         "turnover_rate": 10.6,
         "first_limit_up_time": "09:40:09",
         "last_limit_up_time": "10:08:51",
@@ -1295,7 +1295,7 @@
           "小米概念",
           "互联网金融"
         ],
-        "amount": 185238790.0,
+        "amount": 185238793.6,
         "turnover_rate": 5.3,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:37:54",
@@ -1375,7 +1375,7 @@
           "横琴新区",
           "摘帽"
         ],
-        "amount": 257761540.0,
+        "amount": 257761541.0,
         "turnover_rate": 5.39,
         "first_limit_up_time": "09:31:09",
         "last_limit_up_time": "09:31:09",
@@ -1391,7 +1391,7 @@
           "阿里巴巴概念",
           "京津冀一体化"
         ],
-        "amount": 210061020.0,
+        "amount": 210061016.14,
         "turnover_rate": 8.08,
         "first_limit_up_time": "10:37:57",
         "last_limit_up_time": "10:37:57",
@@ -1413,7 +1413,7 @@
           "高股息精选",
           "融资融券"
         ],
-        "amount": 471664380.0,
+        "amount": 471664379.0,
         "turnover_rate": 4.3,
         "first_limit_up_time": "09:38:24",
         "last_limit_up_time": "09:50:42",
@@ -1443,7 +1443,7 @@
           "深股通",
           "多模态AI"
         ],
-        "amount": 251251850.0,
+        "amount": 251251848.1,
         "turnover_rate": 2.31,
         "first_limit_up_time": "09:58:18",
         "last_limit_up_time": "09:58:18",
@@ -1486,7 +1486,7 @@
           "特色小镇",
           "国企改革"
         ],
-        "amount": 156366080.0,
+        "amount": 156366083.0,
         "turnover_rate": 8.11,
         "first_limit_up_time": "13:30:39",
         "last_limit_up_time": "13:30:39",
@@ -1508,7 +1508,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 456136210.0,
+        "amount": 456136205.24,
         "turnover_rate": 3.73,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
@@ -1562,7 +1562,7 @@
           "固废处理",
           "海峡两岸"
         ],
-        "amount": 406183480.0,
+        "amount": 406183482.9,
         "turnover_rate": 7.97,
         "first_limit_up_time": "10:31:24",
         "last_limit_up_time": "13:00:54",
@@ -1624,7 +1624,7 @@
           "养老概念",
           "深股通"
         ],
-        "amount": 1422121000.0,
+        "amount": 1422120962.59,
         "turnover_rate": 12.15,
         "first_limit_up_time": "09:32:12",
         "last_limit_up_time": "09:35:00",
@@ -1765,7 +1765,7 @@
           "国企改革",
           "深股通"
         ],
-        "amount": 761291000.0,
+        "amount": 761290999.31,
         "turnover_rate": 11.37,
         "first_limit_up_time": "09:48:39",
         "last_limit_up_time": "10:16:15",
@@ -1833,7 +1833,7 @@
           "燃料电池",
           "深股通"
         ],
-        "amount": 1881426200.0,
+        "amount": 1881426189.4,
         "turnover_rate": 18.81,
         "first_limit_up_time": "14:11:18",
         "last_limit_up_time": "14:12:33",
@@ -1875,7 +1875,7 @@
           "国企改革",
           "融资融券"
         ],
-        "amount": 3292499300.0,
+        "amount": 3292499349.99,
         "turnover_rate": 20.56,
         "first_limit_up_time": "09:42:18",
         "last_limit_up_time": "14:00:54",
@@ -1926,7 +1926,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 2578064700.0,
+        "amount": 2578064708.19,
         "turnover_rate": 9.32,
         "first_limit_up_time": "10:14:54",
         "last_limit_up_time": "10:14:54",
@@ -1944,7 +1944,7 @@
           "页岩气",
           "3D打印"
         ],
-        "amount": 191930710.0,
+        "amount": 191930706.47,
         "turnover_rate": 12.42,
         "first_limit_up_time": "10:32:06",
         "last_limit_up_time": "14:53:45",
@@ -1979,7 +1979,7 @@
           "金属铜",
           "光伏概念"
         ],
-        "amount": 3870358300.0,
+        "amount": 3870358327.7,
         "turnover_rate": 32.65,
         "first_limit_up_time": "14:21:33",
         "last_limit_up_time": "14:55:57",
@@ -2003,7 +2003,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 2498105400.0,
+        "amount": 2498105433.16,
         "turnover_rate": 6.46,
         "first_limit_up_time": "13:37:54",
         "last_limit_up_time": "13:51:06",
@@ -2074,7 +2074,7 @@
           "融资融券",
           "深股通"
         ],
-        "amount": 2693468300.0,
+        "amount": 2693468293.51,
         "turnover_rate": 4.66,
         "first_limit_up_time": "13:15:12",
         "last_limit_up_time": "13:52:51",
@@ -2143,7 +2143,7 @@
           "人形机器人",
           "深股通"
         ],
-        "amount": 966307670.0,
+        "amount": 966307671.55,
         "turnover_rate": 6.22,
         "first_limit_up_time": "09:43:39",
         "last_limit_up_time": "09:46:06",
@@ -2233,7 +2233,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1942304600.0,
+        "amount": 1942304619.32,
         "turnover_rate": 3.55,
         "first_limit_up_time": "10:00:45",
         "last_limit_up_time": "11:02:54",
@@ -2292,7 +2292,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1225820500.0,
+        "amount": 1225820498.7,
         "turnover_rate": 7.13,
         "first_limit_up_time": "09:55:54",
         "last_limit_up_time": "13:00:51",
@@ -2324,7 +2324,7 @@
           "融资融券",
           "股权转让(并购重组)"
         ],
-        "amount": 10477798900.0,
+        "amount": 10477798877.02,
         "turnover_rate": 5.25,
         "first_limit_up_time": "10:51:48",
         "last_limit_up_time": "10:51:48",
@@ -2344,7 +2344,7 @@
           "超级电容",
           "融资融券"
         ],
-        "amount": 350338770.0,
+        "amount": 350338773.33,
         "turnover_rate": 4.7,
         "first_limit_up_time": "09:58:06",
         "last_limit_up_time": "09:58:06",
@@ -2382,7 +2382,7 @@
           "摘帽",
           "股权转让(并购重组)"
         ],
-        "amount": 301289520.0,
+        "amount": 301289515.44,
         "turnover_rate": 5.5,
         "first_limit_up_time": "10:36:51",
         "last_limit_up_time": "10:36:51",
@@ -2414,7 +2414,7 @@
           "新股与次新股",
           "融资融券"
         ],
-        "amount": 491055010.0,
+        "amount": 491055010.15,
         "turnover_rate": 19.92,
         "first_limit_up_time": "13:52:09",
         "last_limit_up_time": "13:57:15",
@@ -2471,7 +2471,7 @@
           "中字头股票",
           "融资融券"
         ],
-        "amount": 8568252000.0,
+        "amount": 8568251961.26,
         "turnover_rate": 6.29,
         "first_limit_up_time": "13:59:09",
         "last_limit_up_time": "13:59:09",
@@ -2496,7 +2496,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1725393300.0,
+        "amount": 1725393304.39,
         "turnover_rate": 4.71,
         "first_limit_up_time": "09:30:57",
         "last_limit_up_time": "09:30:57",
@@ -2567,7 +2567,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 1576711100.0,
+        "amount": 1576711059.92,
         "turnover_rate": 4.78,
         "first_limit_up_time": "10:26:18",
         "last_limit_up_time": "10:26:18",
@@ -2635,7 +2635,7 @@
           "冰雪产业",
           "深股通"
         ],
-        "amount": 170190290.0,
+        "amount": 170190287.67,
         "turnover_rate": 0.43,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
@@ -2699,7 +2699,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 648667860.0,
+        "amount": 648667856.52,
         "turnover_rate": 4.09,
         "first_limit_up_time": "10:01:15",
         "last_limit_up_time": "10:09:45",
@@ -2793,7 +2793,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 700657060.0,
+        "amount": 700657064.62,
         "turnover_rate": 3.96,
         "first_limit_up_time": "11:06:06",
         "last_limit_up_time": "11:22:06",
@@ -2825,7 +2825,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 678129800.0,
+        "amount": 678129800.9,
         "turnover_rate": 4.06,
         "first_limit_up_time": "11:04:24",
         "last_limit_up_time": "11:04:24",
@@ -2855,7 +2855,7 @@
           "元宇宙",
           "一带一路"
         ],
-        "amount": 1615779700.0,
+        "amount": 1615779707.5,
         "turnover_rate": 10.52,
         "first_limit_up_time": "09:36:45",
         "last_limit_up_time": "13:16:51",
@@ -2930,7 +2930,7 @@
           "参股券商",
           "深股通"
         ],
-        "amount": 310591650.0,
+        "amount": 310591653.48,
         "turnover_rate": 3.11,
         "first_limit_up_time": "09:59:15",
         "last_limit_up_time": "09:59:15",
@@ -2997,7 +2997,7 @@
           "专精特新",
           "融资融券"
         ],
-        "amount": 828417910.0,
+        "amount": 828417907.3,
         "turnover_rate": 11.12,
         "first_limit_up_time": "09:31:18",
         "last_limit_up_time": "10:42:48",
@@ -3047,7 +3047,7 @@
           "人民币贬值受益",
           "深股通"
         ],
-        "amount": 210473410.0,
+        "amount": 210473414.62,
         "turnover_rate": 5.19,
         "first_limit_up_time": "13:24:06",
         "last_limit_up_time": "13:24:06",
@@ -3103,7 +3103,7 @@
           "深股通",
           "融资融券"
         ],
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "turnover_rate": 23.03,
         "first_limit_up_time": "10:19:09",
         "last_limit_up_time": "13:18:36",
@@ -9739,7 +9739,7 @@
         "change_pct": 0.25,
         "net_inflow_yi": -104.2,
         "count": 11,
-        "amount": 37857502833.97,
+        "amount": 37857502840.97,
         "rows": [
           {
             "code": "002167",
@@ -9757,7 +9757,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 456136210.0,
+            "amount": 456136205.24,
             "turnover_rate": 3.73,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -9834,7 +9834,7 @@
               "金属铜",
               "光伏概念"
             ],
-            "amount": 3870358300.0,
+            "amount": 3870358327.7,
             "turnover_rate": 32.65,
             "first_limit_up_time": "14:21:33",
             "last_limit_up_time": "14:55:57",
@@ -9884,7 +9884,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -9941,7 +9941,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -9988,7 +9988,7 @@
               "参股券商",
               "深股通"
             ],
-            "amount": 310591650.0,
+            "amount": 310591653.48,
             "turnover_rate": 3.11,
             "first_limit_up_time": "09:59:15",
             "last_limit_up_time": "09:59:15",
@@ -10002,7 +10002,7 @@
         "change_pct": 0.38,
         "net_inflow_yi": -18.48,
         "count": 7,
-        "amount": 15739285039.96,
+        "amount": 15739285035.08,
         "rows": [
           {
             "code": "301310",
@@ -10028,7 +10028,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1000859890.0,
+            "amount": 1000859893.03,
             "turnover_rate": 36.6,
             "first_limit_up_time": "13:07:27",
             "last_limit_up_time": "14:54:03",
@@ -10092,7 +10092,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2498105400.0,
+            "amount": 2498105433.16,
             "turnover_rate": 6.46,
             "first_limit_up_time": "13:37:54",
             "last_limit_up_time": "13:51:06",
@@ -10185,7 +10185,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -10229,7 +10229,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -10243,7 +10243,7 @@
         "change_pct": 2.14,
         "net_inflow_yi": 64.93,
         "count": 6,
-        "amount": 22427622723.37,
+        "amount": 22427622634.190002,
         "rows": [
           {
             "code": "300319",
@@ -10276,7 +10276,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 4580026100.0,
+            "amount": 4580026079.0,
             "turnover_rate": 21.19,
             "first_limit_up_time": "13:10:18",
             "last_limit_up_time": "13:10:18",
@@ -10338,7 +10338,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -10412,7 +10412,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -10449,7 +10449,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -10481,7 +10481,7 @@
               "融资融券",
               "股权转让(并购重组)"
             ],
-            "amount": 10477798900.0,
+            "amount": 10477798877.02,
             "turnover_rate": 5.25,
             "first_limit_up_time": "10:51:48",
             "last_limit_up_time": "10:51:48",
@@ -10495,7 +10495,7 @@
         "change_pct": 1.84,
         "net_inflow_yi": 2.65,
         "count": 6,
-        "amount": 17175895130.66,
+        "amount": 17175895072.25,
         "rows": [
           {
             "code": "300319",
@@ -10528,7 +10528,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 4580026100.0,
+            "amount": 4580026079.0,
             "turnover_rate": 21.19,
             "first_limit_up_time": "13:10:18",
             "last_limit_up_time": "13:10:18",
@@ -10633,7 +10633,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -10688,7 +10688,7 @@
         "change_pct": 0.95,
         "net_inflow_yi": 7.51,
         "count": 6,
-        "amount": 9251532105.23,
+        "amount": 9251532080.97,
         "rows": [
           {
             "code": "300166",
@@ -10747,7 +10747,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -10797,7 +10797,7 @@
               "小米概念",
               "互联网金融"
             ],
-            "amount": 185238790.0,
+            "amount": 185238793.6,
             "turnover_rate": 5.3,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:37:54",
@@ -10843,7 +10843,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -10943,7 +10943,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -10957,7 +10957,7 @@
         "change_pct": 0.07,
         "net_inflow_yi": -55.52,
         "count": 5,
-        "amount": 24777400276.9,
+        "amount": 24777400285.18,
         "rows": [
           {
             "code": "600362",
@@ -10991,7 +10991,7 @@
               "金属铜",
               "光伏概念"
             ],
-            "amount": 3870358300.0,
+            "amount": 3870358327.7,
             "turnover_rate": 32.65,
             "first_limit_up_time": "14:21:33",
             "last_limit_up_time": "14:55:57",
@@ -11018,7 +11018,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -11075,7 +11075,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -11089,7 +11089,7 @@
         "change_pct": 1.68,
         "net_inflow_yi": -15.48,
         "count": 5,
-        "amount": 11907639331.2,
+        "amount": 11907639293.79,
         "rows": [
           {
             "code": "002579",
@@ -11147,7 +11147,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -11259,7 +11259,7 @@
         "change_pct": 1.7,
         "net_inflow_yi": 2.14,
         "count": 5,
-        "amount": 7679314305.07,
+        "amount": 7679314351.58,
         "rows": [
           {
             "code": "600399",
@@ -11339,7 +11339,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -11396,7 +11396,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 648667860.0,
+            "amount": 648667856.52,
             "turnover_rate": 4.09,
             "first_limit_up_time": "10:01:15",
             "last_limit_up_time": "10:09:45",
@@ -11410,7 +11410,7 @@
         "change_pct": 1.34,
         "net_inflow_yi": -45.71,
         "count": 5,
-        "amount": 6956509802.33,
+        "amount": 6956509800.46,
         "rows": [
           {
             "code": "688478",
@@ -11528,7 +11528,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -11555,7 +11555,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 700657060.0,
+            "amount": 700657064.62,
             "turnover_rate": 3.96,
             "first_limit_up_time": "11:06:06",
             "last_limit_up_time": "11:22:06",
@@ -11569,7 +11569,7 @@
         "change_pct": 1.66,
         "net_inflow_yi": 14.38,
         "count": 4,
-        "amount": 15819208700.0,
+        "amount": 15819208631.82,
         "rows": [
           {
             "code": "002579",
@@ -11627,7 +11627,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -11661,7 +11661,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -11698,7 +11698,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -11730,7 +11730,7 @@
               "融资融券",
               "股权转让(并购重组)"
             ],
-            "amount": 10477798900.0,
+            "amount": 10477798877.02,
             "turnover_rate": 5.25,
             "first_limit_up_time": "10:51:48",
             "last_limit_up_time": "10:51:48",
@@ -11744,7 +11744,7 @@
         "change_pct": 2.49,
         "net_inflow_yi": 9.14,
         "count": 4,
-        "amount": 14207727414.91,
+        "amount": 14207727410.15,
         "rows": [
           {
             "code": "002167",
@@ -11762,7 +11762,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 456136210.0,
+            "amount": 456136205.24,
             "turnover_rate": 3.73,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -11844,7 +11844,7 @@
         "change_pct": 0.96,
         "net_inflow_yi": 10.02,
         "count": 4,
-        "amount": 14071561783.54,
+        "amount": 14071561752.99,
         "rows": [
           {
             "code": "603011",
@@ -11910,7 +11910,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2578064700.0,
+            "amount": 2578064708.19,
             "turnover_rate": 9.32,
             "first_limit_up_time": "10:14:54",
             "last_limit_up_time": "10:14:54",
@@ -11963,7 +11963,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -11977,7 +11977,7 @@
         "change_pct": -1.02,
         "net_inflow_yi": -81.05,
         "count": 4,
-        "amount": 7819636969.45,
+        "amount": 7819636940.039999,
         "rows": [
           {
             "code": "300166",
@@ -12036,7 +12036,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -12170,7 +12170,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -12184,7 +12184,7 @@
         "change_pct": 0.36,
         "net_inflow_yi": -34.42,
         "count": 4,
-        "amount": 7494046547.4,
+        "amount": 7494046599.879999,
         "rows": [
           {
             "code": "600226",
@@ -12226,7 +12226,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2498105400.0,
+            "amount": 2498105433.16,
             "turnover_rate": 6.46,
             "first_limit_up_time": "13:37:54",
             "last_limit_up_time": "13:51:06",
@@ -12272,7 +12272,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -12286,7 +12286,7 @@
         "change_pct": -1.25,
         "net_inflow_yi": -80.37,
         "count": 4,
-        "amount": 7181260993.67,
+        "amount": 7181261000.15,
         "rows": [
           {
             "code": "002159",
@@ -12303,7 +12303,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -12349,7 +12349,7 @@
               "参股券商",
               "深股通"
             ],
-            "amount": 310591650.0,
+            "amount": 310591653.48,
             "turnover_rate": 3.11,
             "first_limit_up_time": "09:59:15",
             "last_limit_up_time": "09:59:15",
@@ -12386,7 +12386,7 @@
         "change_pct": 0.41,
         "net_inflow_yi": -29.37,
         "count": 4,
-        "amount": 6885623499.57,
+        "amount": 6885623461.17,
         "rows": [
           {
             "code": "300166",
@@ -12445,7 +12445,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -12491,7 +12491,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -12516,7 +12516,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -12574,7 +12574,7 @@
         "change_pct": 0.24,
         "net_inflow_yi": 15.36,
         "count": 4,
-        "amount": 6713978210.860001,
+        "amount": 6713978179.549999,
         "rows": [
           {
             "code": "300166",
@@ -12633,7 +12633,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -12663,7 +12663,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -12760,7 +12760,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -12774,7 +12774,7 @@
         "change_pct": 1.64,
         "net_inflow_yi": -14.2,
         "count": 4,
-        "amount": 6292109123.37,
+        "amount": 6292109092.16,
         "rows": [
           {
             "code": "002579",
@@ -12832,7 +12832,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -12909,7 +12909,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -12939,7 +12939,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -12953,7 +12953,7 @@
         "change_pct": 1.73,
         "net_inflow_yi": 8.42,
         "count": 4,
-        "amount": 5115265209.360001,
+        "amount": 5115265201.570001,
         "rows": [
           {
             "code": "688478",
@@ -13025,7 +13025,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -13062,7 +13062,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -13076,7 +13076,7 @@
         "change_pct": 1.06,
         "net_inflow_yi": -49.66,
         "count": 4,
-        "amount": 4461083625.75,
+        "amount": 4461083623.42,
         "rows": [
           {
             "code": "688729",
@@ -13157,7 +13157,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -13193,7 +13193,7 @@
         "change_pct": 0.72,
         "net_inflow_yi": -5.07,
         "count": 4,
-        "amount": 4410594701.110001,
+        "amount": 4410594747.62,
         "rows": [
           {
             "code": "600399",
@@ -13233,7 +13233,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -13275,7 +13275,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 648667860.0,
+            "amount": 648667856.52,
             "turnover_rate": 4.09,
             "first_limit_up_time": "10:01:15",
             "last_limit_up_time": "10:09:45",
@@ -13289,7 +13289,7 @@
         "change_pct": 1.31,
         "net_inflow_yi": -5.94,
         "count": 4,
-        "amount": 3951754256.17,
+        "amount": 3951754253.76,
         "rows": [
           {
             "code": "301687",
@@ -13312,7 +13312,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 920927270.0,
+            "amount": 920927267.44,
             "turnover_rate": 40.48,
             "first_limit_up_time": "13:11:30",
             "last_limit_up_time": "13:17:54",
@@ -13383,7 +13383,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 491055010.0,
+            "amount": 491055010.15,
             "turnover_rate": 19.92,
             "first_limit_up_time": "13:52:09",
             "last_limit_up_time": "13:57:15",
@@ -13397,7 +13397,7 @@
         "change_pct": 1.64,
         "net_inflow_yi": -5.94,
         "count": 4,
-        "amount": 3951754256.17,
+        "amount": 3951754253.76,
         "rows": [
           {
             "code": "301687",
@@ -13420,7 +13420,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 920927270.0,
+            "amount": 920927267.44,
             "turnover_rate": 40.48,
             "first_limit_up_time": "13:11:30",
             "last_limit_up_time": "13:17:54",
@@ -13491,7 +13491,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 491055010.0,
+            "amount": 491055010.15,
             "turnover_rate": 19.92,
             "first_limit_up_time": "13:52:09",
             "last_limit_up_time": "13:57:15",
@@ -13505,7 +13505,7 @@
         "change_pct": 0.58,
         "net_inflow_yi": -6.46,
         "count": 4,
-        "amount": 3649573749.57,
+        "amount": 3649573753.61,
         "rows": [
           {
             "code": "000839",
@@ -13531,7 +13531,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -13577,7 +13577,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -13602,7 +13602,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -13660,7 +13660,7 @@
         "change_pct": -0.84,
         "net_inflow_yi": -29.1,
         "count": 4,
-        "amount": 2803988929.5099998,
+        "amount": 2803988928.8799996,
         "rows": [
           {
             "code": "002674",
@@ -13672,7 +13672,7 @@
               "固废处理",
               "海峡两岸"
             ],
-            "amount": 406183480.0,
+            "amount": 406183482.9,
             "turnover_rate": 7.97,
             "first_limit_up_time": "10:31:24",
             "last_limit_up_time": "13:00:54",
@@ -13750,7 +13750,7 @@
               "页岩气",
               "3D打印"
             ],
-            "amount": 191930710.0,
+            "amount": 191930706.47,
             "turnover_rate": 12.42,
             "first_limit_up_time": "10:32:06",
             "last_limit_up_time": "14:53:45",
@@ -13764,7 +13764,7 @@
         "change_pct": 1.35,
         "net_inflow_yi": 24.79,
         "count": 4,
-        "amount": 2799636180.83,
+        "amount": 2799636175.87,
         "rows": [
           {
             "code": "301580",
@@ -13781,7 +13781,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 219880240.0,
+            "amount": 219880240.9,
             "turnover_rate": 3.45,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -13799,7 +13799,7 @@
               "页岩气",
               "3D打印"
             ],
-            "amount": 191930710.0,
+            "amount": 191930706.47,
             "turnover_rate": 12.42,
             "first_limit_up_time": "10:32:06",
             "last_limit_up_time": "14:53:45",
@@ -13866,7 +13866,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -13880,7 +13880,7 @@
         "change_pct": -1.08,
         "net_inflow_yi": -26.67,
         "count": 4,
-        "amount": 1613501191.99,
+        "amount": 1613501185.53,
         "rows": [
           {
             "code": "600162",
@@ -13925,7 +13925,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -13943,7 +13943,7 @@
               "摘帽",
               "股权转让(并购重组)"
             ],
-            "amount": 301289520.0,
+            "amount": 301289515.44,
             "turnover_rate": 5.5,
             "first_limit_up_time": "10:36:51",
             "last_limit_up_time": "10:36:51",
@@ -13980,7 +13980,7 @@
         "change_pct": 3.17,
         "net_inflow_yi": 2.6,
         "count": 4,
-        "amount": 884164689.08,
+        "amount": 884164685.22,
         "rows": [
           {
             "code": "301580",
@@ -13997,7 +13997,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 219880240.0,
+            "amount": 219880240.9,
             "turnover_rate": 3.45,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -14019,7 +14019,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 456136210.0,
+            "amount": 456136205.24,
             "turnover_rate": 3.73,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -14074,7 +14074,7 @@
         "change_pct": 0.24,
         "net_inflow_yi": -27.07,
         "count": 3,
-        "amount": 16206309309.15,
+        "amount": 16206309271.869999,
         "rows": [
           {
             "code": "300861",
@@ -14088,7 +14088,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1057526740.0,
+            "amount": 1057526741.46,
             "turnover_rate": 10.6,
             "first_limit_up_time": "09:40:09",
             "last_limit_up_time": "10:08:51",
@@ -14145,7 +14145,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -14159,7 +14159,7 @@
         "change_pct": 0.28,
         "net_inflow_yi": -17.11,
         "count": 3,
-        "amount": 15676706107.75,
+        "amount": 15676706119.0,
         "rows": [
           {
             "code": "002297",
@@ -14179,7 +14179,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -14236,7 +14236,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -14250,7 +14250,7 @@
         "change_pct": -1.5,
         "net_inflow_yi": -74.41,
         "count": 3,
-        "amount": 15077675107.75,
+        "amount": 15077675062.52,
         "rows": [
           {
             "code": "003031",
@@ -14280,7 +14280,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -14337,7 +14337,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -14351,7 +14351,7 @@
         "change_pct": 0.91,
         "net_inflow_yi": -28.53,
         "count": 3,
-        "amount": 13039159502.55,
+        "amount": 13039159483.96,
         "rows": [
           {
             "code": "688485",
@@ -14396,7 +14396,7 @@
               "融资融券",
               "股权转让(并购重组)"
             ],
-            "amount": 10477798900.0,
+            "amount": 10477798877.02,
             "turnover_rate": 5.25,
             "first_limit_up_time": "10:51:48",
             "last_limit_up_time": "10:51:48",
@@ -14421,7 +14421,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -14435,7 +14435,7 @@
         "change_pct": 1.25,
         "net_inflow_yi": 16.12,
         "count": 3,
-        "amount": 10848085444.6,
+        "amount": 10848085449.54,
         "rows": [
           {
             "code": "301687",
@@ -14458,7 +14458,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 920927270.0,
+            "amount": 920927267.44,
             "turnover_rate": 40.48,
             "first_limit_up_time": "13:11:30",
             "last_limit_up_time": "13:17:54",
@@ -14509,7 +14509,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -14523,7 +14523,7 @@
         "change_pct": -0.56,
         "net_inflow_yi": -38.23,
         "count": 3,
-        "amount": 9056648766.58,
+        "amount": 9056648725.51,
         "rows": [
           {
             "code": "600835",
@@ -14575,7 +14575,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -14619,7 +14619,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -14633,7 +14633,7 @@
         "change_pct": 0.35,
         "net_inflow_yi": 22.97,
         "count": 3,
-        "amount": 7874383100.0,
+        "amount": 7874383078.09,
         "rows": [
           {
             "code": "300166",
@@ -14692,7 +14692,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -14722,7 +14722,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -14778,7 +14778,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -14792,7 +14792,7 @@
         "change_pct": 1.6,
         "net_inflow_yi": 17.51,
         "count": 3,
-        "amount": 6509855250.0,
+        "amount": 6509855218.69,
         "rows": [
           {
             "code": "300166",
@@ -14851,7 +14851,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -14881,7 +14881,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -14937,7 +14937,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -14951,7 +14951,7 @@
         "change_pct": 0.93,
         "net_inflow_yi": 20.62,
         "count": 3,
-        "amount": 6509855250.0,
+        "amount": 6509855218.69,
         "rows": [
           {
             "code": "300166",
@@ -15010,7 +15010,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -15040,7 +15040,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -15096,7 +15096,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -15110,7 +15110,7 @@
         "change_pct": -0.18,
         "net_inflow_yi": 1.08,
         "count": 3,
-        "amount": 4776333458.469999,
+        "amount": 4776333466.66,
         "rows": [
           {
             "code": "688671",
@@ -15203,7 +15203,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2578064700.0,
+            "amount": 2578064708.19,
             "turnover_rate": 9.32,
             "first_limit_up_time": "10:14:54",
             "last_limit_up_time": "10:14:54",
@@ -15217,7 +15217,7 @@
         "change_pct": 0.77,
         "net_inflow_yi": -3.39,
         "count": 3,
-        "amount": 4301774694.92,
+        "amount": 4301774650.58,
         "rows": [
           {
             "code": "300166",
@@ -15276,7 +15276,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -15372,7 +15372,7 @@
         "change_pct": 0.1,
         "net_inflow_yi": -4.41,
         "count": 3,
-        "amount": 4301774694.92,
+        "amount": 4301774650.58,
         "rows": [
           {
             "code": "300166",
@@ -15431,7 +15431,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -15527,7 +15527,7 @@
         "change_pct": 0.21,
         "net_inflow_yi": -30.68,
         "count": 3,
-        "amount": 3921582033.04,
+        "amount": 3921582036.0699997,
         "rows": [
           {
             "code": "688598",
@@ -15582,7 +15582,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1000859890.0,
+            "amount": 1000859893.03,
             "turnover_rate": 36.6,
             "first_limit_up_time": "13:07:27",
             "last_limit_up_time": "14:54:03",
@@ -15618,7 +15618,7 @@
         "change_pct": 2.3,
         "net_inflow_yi": 35.72,
         "count": 3,
-        "amount": 3841938088.12,
+        "amount": 3841938089.8499994,
         "rows": [
           {
             "code": "688515",
@@ -15672,7 +15672,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1000859890.0,
+            "amount": 1000859893.03,
             "turnover_rate": 36.6,
             "first_limit_up_time": "13:07:27",
             "last_limit_up_time": "14:54:03",
@@ -15709,7 +15709,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -15723,7 +15723,7 @@
         "change_pct": 0.59,
         "net_inflow_yi": 12.6,
         "count": 3,
-        "amount": 3363068566.0,
+        "amount": 3363068536.09,
         "rows": [
           {
             "code": "002579",
@@ -15781,7 +15781,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -15835,7 +15835,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -15849,7 +15849,7 @@
         "change_pct": -0.36,
         "net_inflow_yi": -7.03,
         "count": 3,
-        "amount": 3178919730.0,
+        "amount": 3178919746.0299997,
         "rows": [
           {
             "code": "000839",
@@ -15875,7 +15875,7 @@
               "深股通",
               "多模态AI"
             ],
-            "amount": 251251850.0,
+            "amount": 251251848.1,
             "turnover_rate": 2.31,
             "first_limit_up_time": "09:58:18",
             "last_limit_up_time": "09:58:18",
@@ -15896,7 +15896,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -15952,7 +15952,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -15966,7 +15966,7 @@
         "change_pct": 0.3,
         "net_inflow_yi": 1.31,
         "count": 3,
-        "amount": 3072620378.12,
+        "amount": 3072620379.82,
         "rows": [
           {
             "code": "688515",
@@ -16036,7 +16036,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -16068,7 +16068,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 491055010.0,
+            "amount": 491055010.15,
             "turnover_rate": 19.92,
             "first_limit_up_time": "13:52:09",
             "last_limit_up_time": "13:57:15",
@@ -16082,7 +16082,7 @@
         "change_pct": -0.75,
         "net_inflow_yi": -25.99,
         "count": 3,
-        "amount": 2971488436.0,
+        "amount": 2971488437.83,
         "rows": [
           {
             "code": "301687",
@@ -16105,7 +16105,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 920927270.0,
+            "amount": 920927267.44,
             "turnover_rate": 40.48,
             "first_limit_up_time": "13:11:30",
             "last_limit_up_time": "13:17:54",
@@ -16130,7 +16130,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -16168,7 +16168,7 @@
         "change_pct": -0.73,
         "net_inflow_yi": -76.95,
         "count": 3,
-        "amount": 2780654509.72,
+        "amount": 2780654507.0199995,
         "rows": [
           {
             "code": "688598",
@@ -16234,7 +16234,7 @@
               "专精特新",
               "融资融券"
             ],
-            "amount": 828417910.0,
+            "amount": 828417907.3,
             "turnover_rate": 11.12,
             "first_limit_up_time": "09:31:18",
             "last_limit_up_time": "10:42:48",
@@ -16248,7 +16248,7 @@
         "change_pct": 0.32,
         "net_inflow_yi": -0.21,
         "count": 3,
-        "amount": 2408558860.0,
+        "amount": 2408558820.82,
         "rows": [
           {
             "code": "002907",
@@ -16296,7 +16296,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1576711100.0,
+            "amount": 1576711059.92,
             "turnover_rate": 4.78,
             "first_limit_up_time": "10:26:18",
             "last_limit_up_time": "10:26:18",
@@ -16328,7 +16328,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -16342,7 +16342,7 @@
         "change_pct": -1.08,
         "net_inflow_yi": -43.34,
         "count": 3,
-        "amount": 2205123300.76,
+        "amount": 2205123287.83,
         "rows": [
           {
             "code": "002971",
@@ -16358,7 +16358,7 @@
               "燃料电池",
               "深股通"
             ],
-            "amount": 1881426200.0,
+            "amount": 1881426189.4,
             "turnover_rate": 18.81,
             "first_limit_up_time": "14:11:18",
             "last_limit_up_time": "14:12:33",
@@ -16402,7 +16402,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -16433,7 +16433,7 @@
         "change_pct": 0.22,
         "net_inflow_yi": -24.21,
         "count": 3,
-        "amount": 2144393271.0,
+        "amount": 2144393276.39,
         "rows": [
           {
             "code": "002141",
@@ -16450,7 +16450,7 @@
               "横琴新区",
               "摘帽"
             ],
-            "amount": 257761540.0,
+            "amount": 257761541.0,
             "turnover_rate": 5.39,
             "first_limit_up_time": "09:31:09",
             "last_limit_up_time": "09:31:09",
@@ -16496,7 +16496,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -16510,7 +16510,7 @@
         "change_pct": -0.64,
         "net_inflow_yi": -12.61,
         "count": 3,
-        "amount": 1292448364.0,
+        "amount": 1292448366.29,
         "rows": [
           {
             "code": "603082",
@@ -16573,7 +16573,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -16600,7 +16600,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 700657060.0,
+            "amount": 700657064.62,
             "turnover_rate": 3.96,
             "first_limit_up_time": "11:06:06",
             "last_limit_up_time": "11:22:06",
@@ -16614,7 +16614,7 @@
         "change_pct": -0.01,
         "net_inflow_yi": 3.62,
         "count": 3,
-        "amount": 1042321170.0,
+        "amount": 1042321175.52,
         "rows": [
           {
             "code": "002907",
@@ -16667,7 +16667,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -16685,7 +16685,7 @@
               "人民币贬值受益",
               "深股通"
             ],
-            "amount": 210473410.0,
+            "amount": 210473414.62,
             "turnover_rate": 5.19,
             "first_limit_up_time": "13:24:06",
             "last_limit_up_time": "13:24:06",
@@ -16699,7 +16699,7 @@
         "change_pct": 0.17,
         "net_inflow_yi": 7.72,
         "count": 3,
-        "amount": 965620454.52,
+        "amount": 965620455.42,
         "rows": [
           {
             "code": "002907",
@@ -16752,7 +16752,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -16789,7 +16789,7 @@
         "change_pct": -0.13,
         "net_inflow_yi": -1.35,
         "count": 3,
-        "amount": 965620454.52,
+        "amount": 965620455.42,
         "rows": [
           {
             "code": "002907",
@@ -16842,7 +16842,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -16879,7 +16879,7 @@
         "change_pct": -0.87,
         "net_inflow_yi": -15.27,
         "count": 3,
-        "amount": 800721782.78,
+        "amount": 800721783.4499999,
         "rows": [
           {
             "code": "002159",
@@ -16896,7 +16896,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -16940,7 +16940,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -16969,7 +16969,7 @@
         "change_pct": -0.62,
         "net_inflow_yi": -10.64,
         "count": 3,
-        "amount": 675629988.0,
+        "amount": 675629984.44,
         "rows": [
           {
             "code": "002141",
@@ -16986,7 +16986,7 @@
               "横琴新区",
               "摘帽"
             ],
-            "amount": 257761540.0,
+            "amount": 257761541.0,
             "turnover_rate": 5.39,
             "first_limit_up_time": "09:31:09",
             "last_limit_up_time": "09:31:09",
@@ -17026,7 +17026,7 @@
               "摘帽",
               "股权转让(并购重组)"
             ],
-            "amount": 301289520.0,
+            "amount": 301289515.44,
             "turnover_rate": 5.5,
             "first_limit_up_time": "10:36:51",
             "last_limit_up_time": "10:36:51",
@@ -17040,7 +17040,7 @@
         "change_pct": -0.56,
         "net_inflow_yi": -9.0,
         "count": 2,
-        "amount": 12384206807.75,
+        "amount": 12384206769.01,
         "rows": [
           {
             "code": "600259",
@@ -17093,7 +17093,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -17107,7 +17107,7 @@
         "change_pct": 2.09,
         "net_inflow_yi": 55.44,
         "count": 2,
-        "amount": 11703619400.0,
+        "amount": 11703619375.720001,
         "rows": [
           {
             "code": "002897",
@@ -17140,7 +17140,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -17172,7 +17172,7 @@
               "融资融券",
               "股权转让(并购重组)"
             ],
-            "amount": 10477798900.0,
+            "amount": 10477798877.02,
             "turnover_rate": 5.25,
             "first_limit_up_time": "10:51:48",
             "last_limit_up_time": "10:51:48",
@@ -17186,7 +17186,7 @@
         "change_pct": -0.56,
         "net_inflow_yi": -100.68,
         "count": 2,
-        "amount": 8832264554.41,
+        "amount": 8832264517.0,
         "rows": [
           {
             "code": "002579",
@@ -17244,7 +17244,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -17335,7 +17335,7 @@
         "change_pct": 0.57,
         "net_inflow_yi": 21.64,
         "count": 2,
-        "amount": 6258603400.0,
+        "amount": 6258603370.59,
         "rows": [
           {
             "code": "300166",
@@ -17394,7 +17394,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -17450,7 +17450,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -17464,7 +17464,7 @@
         "change_pct": 1.1,
         "net_inflow_yi": 25.21,
         "count": 2,
-        "amount": 6258603400.0,
+        "amount": 6258603370.59,
         "rows": [
           {
             "code": "300166",
@@ -17523,7 +17523,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -17579,7 +17579,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -17593,7 +17593,7 @@
         "change_pct": 0.59,
         "net_inflow_yi": 2.84,
         "count": 2,
-        "amount": 6002147100.0,
+        "amount": 6002147041.59,
         "rows": [
           {
             "code": "300319",
@@ -17626,7 +17626,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 4580026100.0,
+            "amount": 4580026079.0,
             "turnover_rate": 21.19,
             "first_limit_up_time": "13:10:18",
             "last_limit_up_time": "13:10:18",
@@ -17688,7 +17688,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -17702,7 +17702,7 @@
         "change_pct": 1.71,
         "net_inflow_yi": 26.26,
         "count": 2,
-        "amount": 5546333770.0,
+        "amount": 5546333750.55,
         "rows": [
           {
             "code": "300319",
@@ -17735,7 +17735,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 4580026100.0,
+            "amount": 4580026079.0,
             "turnover_rate": 21.19,
             "first_limit_up_time": "13:10:18",
             "last_limit_up_time": "13:10:18",
@@ -17781,7 +17781,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -17795,7 +17795,7 @@
         "change_pct": 1.65,
         "net_inflow_yi": -1.8,
         "count": 2,
-        "amount": 5212694900.0,
+        "amount": 5212694860.05,
         "rows": [
           {
             "code": "300166",
@@ -17854,7 +17854,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -17879,7 +17879,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1725393300.0,
+            "amount": 1725393304.39,
             "turnover_rate": 4.71,
             "first_limit_up_time": "09:30:57",
             "last_limit_up_time": "09:30:57",
@@ -17893,7 +17893,7 @@
         "change_pct": -0.35,
         "net_inflow_yi": -6.52,
         "count": 2,
-        "amount": 5067249083.58,
+        "amount": 5067249133.57,
         "rows": [
           {
             "code": "688598",
@@ -17942,7 +17942,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -18022,7 +18022,7 @@
         "change_pct": 2.1,
         "net_inflow_yi": 31.36,
         "count": 2,
-        "amount": 4909422600.0,
+        "amount": 4909422518.25,
         "rows": [
           {
             "code": "300166",
@@ -18081,7 +18081,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -18143,7 +18143,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -18157,7 +18157,7 @@
         "change_pct": 1.03,
         "net_inflow_yi": 15.11,
         "count": 2,
-        "amount": 4622062915.66,
+        "amount": 4622062871.32,
         "rows": [
           {
             "code": "300166",
@@ -18216,7 +18216,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -18259,7 +18259,7 @@
         "change_pct": -0.03,
         "net_inflow_yi": -28.11,
         "count": 2,
-        "amount": 4159939540.83,
+        "amount": 4159939560.1499996,
         "rows": [
           {
             "code": "605376",
@@ -18305,7 +18305,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -18319,7 +18319,7 @@
         "change_pct": 1.11,
         "net_inflow_yi": -8.31,
         "count": 2,
-        "amount": 4050378908.59,
+        "amount": 4050378902.1000004,
         "rows": [
           {
             "code": "600353",
@@ -18386,7 +18386,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 2693468300.0,
+            "amount": 2693468293.51,
             "turnover_rate": 4.66,
             "first_limit_up_time": "13:15:12",
             "last_limit_up_time": "13:52:51",
@@ -18400,7 +18400,7 @@
         "change_pct": -0.27,
         "net_inflow_yi": 8.04,
         "count": 2,
-        "amount": 3737609470.0,
+        "amount": 3737609486.4799995,
         "rows": [
           {
             "code": "001339",
@@ -18442,7 +18442,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -18498,7 +18498,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -18512,7 +18512,7 @@
         "change_pct": -0.39,
         "net_inflow_yi": -6.33,
         "count": 2,
-        "amount": 3595153765.35,
+        "amount": 3595153721.0099998,
         "rows": [
           {
             "code": "300166",
@@ -18571,7 +18571,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -18623,7 +18623,7 @@
         "change_pct": -0.05,
         "net_inflow_yi": -2.76,
         "count": 2,
-        "amount": 3409078228.0,
+        "amount": 3409078277.99,
         "rows": [
           {
             "code": "002297",
@@ -18643,7 +18643,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -18679,7 +18679,7 @@
         "change_pct": 1.41,
         "net_inflow_yi": 54.51,
         "count": 2,
-        "amount": 3037900700.0,
+        "amount": 3037900670.09,
         "rows": [
           {
             "code": "002579",
@@ -18737,7 +18737,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -18767,7 +18767,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -18781,7 +18781,7 @@
         "change_pct": 1.91,
         "net_inflow_yi": 49.95,
         "count": 2,
-        "amount": 3037900700.0,
+        "amount": 3037900670.09,
         "rows": [
           {
             "code": "002579",
@@ -18839,7 +18839,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -18869,7 +18869,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -18883,7 +18883,7 @@
         "change_pct": -0.8,
         "net_inflow_yi": -15.7,
         "count": 2,
-        "amount": 2927667880.0,
+        "amount": 2927667897.93,
         "rows": [
           {
             "code": "002159",
@@ -18900,7 +18900,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -18956,7 +18956,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -19026,7 +19026,7 @@
         "change_pct": 0.31,
         "net_inflow_yi": -14.3,
         "count": 2,
-        "amount": 2668295690.0,
+        "amount": 2668295720.83,
         "rows": [
           {
             "code": "002859",
@@ -19046,7 +19046,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2498105400.0,
+            "amount": 2498105433.16,
             "turnover_rate": 6.46,
             "first_limit_up_time": "13:37:54",
             "last_limit_up_time": "13:51:06",
@@ -19090,7 +19090,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -19104,7 +19104,7 @@
         "change_pct": 0.21,
         "net_inflow_yi": -3.11,
         "count": 2,
-        "amount": 2414540927.23,
+        "amount": 2414540928.23,
         "rows": [
           {
             "code": "002141",
@@ -19121,7 +19121,7 @@
               "横琴新区",
               "摘帽"
             ],
-            "amount": 257761540.0,
+            "amount": 257761541.0,
             "turnover_rate": 5.39,
             "first_limit_up_time": "09:31:09",
             "last_limit_up_time": "09:31:09",
@@ -19157,7 +19157,7 @@
         "change_pct": 1.01,
         "net_inflow_yi": -3.41,
         "count": 2,
-        "amount": 2106834710.0,
+        "amount": 2106834717.65,
         "rows": [
           {
             "code": "001365",
@@ -19185,7 +19185,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 491055010.0,
+            "amount": 491055010.15,
             "turnover_rate": 19.92,
             "first_limit_up_time": "13:52:09",
             "last_limit_up_time": "13:57:15",
@@ -19215,7 +19215,7 @@
               "元宇宙",
               "一带一路"
             ],
-            "amount": 1615779700.0,
+            "amount": 1615779707.5,
             "turnover_rate": 10.52,
             "first_limit_up_time": "09:36:45",
             "last_limit_up_time": "13:16:51",
@@ -19229,7 +19229,7 @@
         "change_pct": -1.37,
         "net_inflow_yi": -68.4,
         "count": 2,
-        "amount": 1990349480.0,
+        "amount": 1990349499.32,
         "rows": [
           {
             "code": "002203",
@@ -19252,7 +19252,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -19289,7 +19289,7 @@
         "change_pct": -0.93,
         "net_inflow_yi": -9.32,
         "count": 2,
-        "amount": 1679882540.0,
+        "amount": 1679882503.59,
         "rows": [
           {
             "code": "002141",
@@ -19306,7 +19306,7 @@
               "横琴新区",
               "摘帽"
             ],
-            "amount": 257761540.0,
+            "amount": 257761541.0,
             "turnover_rate": 5.39,
             "first_limit_up_time": "09:31:09",
             "last_limit_up_time": "09:31:09",
@@ -19368,7 +19368,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -19382,7 +19382,7 @@
         "change_pct": 0.35,
         "net_inflow_yi": -20.68,
         "count": 2,
-        "amount": 1661128689.2,
+        "amount": 1661128688.42,
         "rows": [
           {
             "code": "300522",
@@ -19398,7 +19398,7 @@
               "储能",
               "股权转让(并购重组)"
             ],
-            "amount": 895876330.0,
+            "amount": 895876329.22,
             "turnover_rate": 18.66,
             "first_limit_up_time": "10:03:42",
             "last_limit_up_time": "10:03:42",
@@ -19432,7 +19432,7 @@
         "change_pct": -0.14,
         "net_inflow_yi": 0.6,
         "count": 2,
-        "amount": 1632003980.0,
+        "amount": 1632003981.6,
         "rows": [
           {
             "code": "002674",
@@ -19444,7 +19444,7 @@
               "固废处理",
               "海峡两岸"
             ],
-            "amount": 406183480.0,
+            "amount": 406183482.9,
             "turnover_rate": 7.97,
             "first_limit_up_time": "10:31:24",
             "last_limit_up_time": "13:00:54",
@@ -19481,7 +19481,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -19695,7 +19695,7 @@
         "change_pct": -0.06,
         "net_inflow_yi": 19.8,
         "count": 2,
-        "amount": 1221279283.58,
+        "amount": 1221279286.61,
         "rows": [
           {
             "code": "301310",
@@ -19721,7 +19721,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1000859890.0,
+            "amount": 1000859893.03,
             "turnover_rate": 36.6,
             "first_limit_up_time": "13:07:27",
             "last_limit_up_time": "14:54:03",
@@ -19873,7 +19873,7 @@
         "change_pct": -0.97,
         "net_inflow_yi": -42.83,
         "count": 2,
-        "amount": 1048737290.72,
+        "amount": 1048737295.34,
         "rows": [
           {
             "code": "603616",
@@ -19917,7 +19917,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 700657060.0,
+            "amount": 700657064.62,
             "turnover_rate": 3.96,
             "first_limit_up_time": "11:06:06",
             "last_limit_up_time": "11:22:06",
@@ -19931,7 +19931,7 @@
         "change_pct": 0.01,
         "net_inflow_yi": -9.67,
         "count": 2,
-        "amount": 870847350.0,
+        "amount": 870847352.29,
         "rows": [
           {
             "code": "000811",
@@ -19971,7 +19971,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -19998,7 +19998,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 700657060.0,
+            "amount": 700657064.62,
             "turnover_rate": 3.96,
             "first_limit_up_time": "11:06:06",
             "last_limit_up_time": "11:22:06",
@@ -20012,7 +20012,7 @@
         "change_pct": 1.87,
         "net_inflow_yi": 14.0,
         "count": 2,
-        "amount": 831847760.0,
+        "amount": 831847760.9,
         "rows": [
           {
             "code": "002907",
@@ -20065,7 +20065,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -20079,7 +20079,7 @@
         "change_pct": 0.08,
         "net_inflow_yi": -3.63,
         "count": 2,
-        "amount": 831847760.0,
+        "amount": 831847760.9,
         "rows": [
           {
             "code": "002907",
@@ -20132,7 +20132,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -20146,7 +20146,7 @@
         "change_pct": 1.25,
         "net_inflow_yi": 2.29,
         "count": 2,
-        "amount": 831847760.0,
+        "amount": 831847760.9,
         "rows": [
           {
             "code": "002907",
@@ -20199,7 +20199,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -20213,7 +20213,7 @@
         "change_pct": 0.18,
         "net_inflow_yi": 0.44,
         "count": 2,
-        "amount": 831847760.0,
+        "amount": 831847760.9,
         "rows": [
           {
             "code": "002907",
@@ -20266,7 +20266,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -20280,7 +20280,7 @@
         "change_pct": 0.88,
         "net_inflow_yi": 11.01,
         "count": 2,
-        "amount": 801615808.0,
+        "amount": 801615808.9,
         "rows": [
           {
             "code": "002317",
@@ -20308,7 +20308,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -20337,7 +20337,7 @@
         "change_pct": 0.71,
         "net_inflow_yi": 27.14,
         "count": 2,
-        "amount": 789870856.5799999,
+        "amount": 789870855.5799999,
         "rows": [
           {
             "code": "002283",
@@ -20355,7 +20355,7 @@
               "高股息精选",
               "融资融券"
             ],
-            "amount": 471664380.0,
+            "amount": 471664379.0,
             "turnover_rate": 4.3,
             "first_limit_up_time": "09:38:24",
             "last_limit_up_time": "09:50:42",
@@ -20391,7 +20391,7 @@
         "change_pct": -1.21,
         "net_inflow_yi": -39.33,
         "count": 2,
-        "amount": 754263710.72,
+        "amount": 754263713.62,
         "rows": [
           {
             "code": "603616",
@@ -20424,7 +20424,7 @@
               "固废处理",
               "海峡两岸"
             ],
-            "amount": 406183480.0,
+            "amount": 406183482.9,
             "turnover_rate": 7.97,
             "first_limit_up_time": "10:31:24",
             "last_limit_up_time": "13:00:54",
@@ -20438,7 +20438,7 @@
         "change_pct": 1.03,
         "net_inflow_yi": -0.48,
         "count": 2,
-        "amount": 663440263.11,
+        "amount": 663440266.59,
         "rows": [
           {
             "code": "600399",
@@ -20477,7 +20477,7 @@
               "参股券商",
               "深股通"
             ],
-            "amount": 310591650.0,
+            "amount": 310591653.48,
             "turnover_rate": 3.11,
             "first_limit_up_time": "09:59:15",
             "last_limit_up_time": "09:59:15",
@@ -20534,7 +20534,7 @@
         "change_pct": -0.83,
         "net_inflow_yi": -10.72,
         "count": 2,
-        "amount": 480781940.0,
+        "amount": 480781941.15,
         "rows": [
           {
             "code": "000811",
@@ -20574,7 +20574,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -20597,7 +20597,7 @@
               "参股券商",
               "深股通"
             ],
-            "amount": 310591650.0,
+            "amount": 310591653.48,
             "turnover_rate": 3.11,
             "first_limit_up_time": "09:59:15",
             "last_limit_up_time": "09:59:15",
@@ -20611,7 +20611,7 @@
         "change_pct": -0.87,
         "net_inflow_yi": -8.5,
         "count": 2,
-        "amount": 326556370.0,
+        "amount": 326556370.66999996,
         "rows": [
           {
             "code": "002159",
@@ -20628,7 +20628,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -20672,7 +20672,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -20686,7 +20686,7 @@
         "change_pct": 0.09,
         "net_inflow_yi": 23.94,
         "count": 1,
-        "amount": 10477798900.0,
+        "amount": 10477798877.02,
         "rows": [
           {
             "code": "002281",
@@ -20714,7 +20714,7 @@
               "融资融券",
               "股权转让(并购重组)"
             ],
-            "amount": 10477798900.0,
+            "amount": 10477798877.02,
             "turnover_rate": 5.25,
             "first_limit_up_time": "10:51:48",
             "last_limit_up_time": "10:51:48",
@@ -20728,7 +20728,7 @@
         "change_pct": 0.17,
         "net_inflow_yi": -22.0,
         "count": 1,
-        "amount": 8568252000.0,
+        "amount": 8568251961.26,
         "rows": [
           {
             "code": "000657",
@@ -20758,7 +20758,7 @@
               "中字头股票",
               "融资融券"
             ],
-            "amount": 8568252000.0,
+            "amount": 8568251961.26,
             "turnover_rate": 6.29,
             "first_limit_up_time": "13:59:09",
             "last_limit_up_time": "13:59:09",
@@ -20867,7 +20867,7 @@
         "change_pct": -0.32,
         "net_inflow_yi": 0.09,
         "count": 1,
-        "amount": 4580026100.0,
+        "amount": 4580026079.0,
         "rows": [
           {
             "code": "300319",
@@ -20900,7 +20900,7 @@
               "融资融券",
               "深股通"
             ],
-            "amount": 4580026100.0,
+            "amount": 4580026079.0,
             "turnover_rate": 21.19,
             "first_limit_up_time": "13:10:18",
             "last_limit_up_time": "13:10:18",
@@ -20914,7 +20914,7 @@
         "change_pct": 1.8,
         "net_inflow_yi": 9.66,
         "count": 1,
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "rows": [
           {
             "code": "300166",
@@ -20973,7 +20973,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -20987,7 +20987,7 @@
         "change_pct": -1.03,
         "net_inflow_yi": -47.97,
         "count": 1,
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "rows": [
           {
             "code": "300166",
@@ -21046,7 +21046,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -21060,7 +21060,7 @@
         "change_pct": -0.19,
         "net_inflow_yi": 0.91,
         "count": 1,
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "rows": [
           {
             "code": "300166",
@@ -21119,7 +21119,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -21133,7 +21133,7 @@
         "change_pct": 0.8,
         "net_inflow_yi": 4.56,
         "count": 1,
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "rows": [
           {
             "code": "300166",
@@ -21192,7 +21192,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -21206,7 +21206,7 @@
         "change_pct": -0.05,
         "net_inflow_yi": 11.24,
         "count": 1,
-        "amount": 3487301600.0,
+        "amount": 3487301555.66,
         "rows": [
           {
             "code": "300166",
@@ -21265,7 +21265,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 3487301600.0,
+            "amount": 3487301555.66,
             "turnover_rate": 21.78,
             "first_limit_up_time": "13:01:06",
             "last_limit_up_time": "13:18:06",
@@ -21279,7 +21279,7 @@
         "change_pct": 2.81,
         "net_inflow_yi": -12.72,
         "count": 1,
-        "amount": 3292499300.0,
+        "amount": 3292499349.99,
         "rows": [
           {
             "code": "002297",
@@ -21299,7 +21299,7 @@
               "国企改革",
               "融资融券"
             ],
-            "amount": 3292499300.0,
+            "amount": 3292499349.99,
             "turnover_rate": 20.56,
             "first_limit_up_time": "09:42:18",
             "last_limit_up_time": "14:00:54",
@@ -21313,7 +21313,7 @@
         "change_pct": 1.17,
         "net_inflow_yi": 16.37,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21365,7 +21365,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21379,7 +21379,7 @@
         "change_pct": 0.4,
         "net_inflow_yi": 11.57,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21431,7 +21431,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21445,7 +21445,7 @@
         "change_pct": 0.2,
         "net_inflow_yi": -4.33,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21497,7 +21497,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21511,7 +21511,7 @@
         "change_pct": 0.76,
         "net_inflow_yi": 2.26,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21563,7 +21563,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21577,7 +21577,7 @@
         "change_pct": 0.17,
         "net_inflow_yi": 7.63,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21629,7 +21629,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21643,7 +21643,7 @@
         "change_pct": -0.15,
         "net_inflow_yi": -0.49,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21695,7 +21695,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21709,7 +21709,7 @@
         "change_pct": -0.57,
         "net_inflow_yi": -7.89,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21761,7 +21761,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21775,7 +21775,7 @@
         "change_pct": 0.31,
         "net_inflow_yi": 11.76,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21827,7 +21827,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -21841,7 +21841,7 @@
         "change_pct": 0.36,
         "net_inflow_yi": 5.6,
         "count": 1,
-        "amount": 2771301800.0,
+        "amount": 2771301814.93,
         "rows": [
           {
             "code": "002354",
@@ -21893,7 +21893,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 2771301800.0,
+            "amount": 2771301814.93,
             "turnover_rate": 23.03,
             "first_limit_up_time": "10:19:09",
             "last_limit_up_time": "13:18:36",
@@ -22103,7 +22103,7 @@
         "change_pct": -0.46,
         "net_inflow_yi": -17.91,
         "count": 1,
-        "amount": 1942304600.0,
+        "amount": 1942304619.32,
         "rows": [
           {
             "code": "002203",
@@ -22126,7 +22126,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1942304600.0,
+            "amount": 1942304619.32,
             "turnover_rate": 3.55,
             "first_limit_up_time": "10:00:45",
             "last_limit_up_time": "11:02:54",
@@ -22140,7 +22140,7 @@
         "change_pct": -1.02,
         "net_inflow_yi": -25.05,
         "count": 1,
-        "amount": 1881426200.0,
+        "amount": 1881426189.4,
         "rows": [
           {
             "code": "002971",
@@ -22156,7 +22156,7 @@
               "燃料电池",
               "深股通"
             ],
-            "amount": 1881426200.0,
+            "amount": 1881426189.4,
             "turnover_rate": 18.81,
             "first_limit_up_time": "14:11:18",
             "last_limit_up_time": "14:12:33",
@@ -22170,7 +22170,7 @@
         "change_pct": -0.61,
         "net_inflow_yi": -54.97,
         "count": 1,
-        "amount": 1881426200.0,
+        "amount": 1881426189.4,
         "rows": [
           {
             "code": "002971",
@@ -22186,7 +22186,7 @@
               "燃料电池",
               "深股通"
             ],
-            "amount": 1881426200.0,
+            "amount": 1881426189.4,
             "turnover_rate": 18.81,
             "first_limit_up_time": "14:11:18",
             "last_limit_up_time": "14:12:33",
@@ -22277,7 +22277,7 @@
         "change_pct": 0.39,
         "net_inflow_yi": 1.27,
         "count": 1,
-        "amount": 1576711100.0,
+        "amount": 1576711059.92,
         "rows": [
           {
             "code": "002432",
@@ -22300,7 +22300,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1576711100.0,
+            "amount": 1576711059.92,
             "turnover_rate": 4.78,
             "first_limit_up_time": "10:26:18",
             "last_limit_up_time": "10:26:18",
@@ -22314,7 +22314,7 @@
         "change_pct": 0.94,
         "net_inflow_yi": 2.34,
         "count": 1,
-        "amount": 1576711100.0,
+        "amount": 1576711059.92,
         "rows": [
           {
             "code": "002432",
@@ -22337,7 +22337,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1576711100.0,
+            "amount": 1576711059.92,
             "turnover_rate": 4.78,
             "first_limit_up_time": "10:26:18",
             "last_limit_up_time": "10:26:18",
@@ -22351,7 +22351,7 @@
         "change_pct": -0.26,
         "net_inflow_yi": -46.96,
         "count": 1,
-        "amount": 1422121000.0,
+        "amount": 1422120962.59,
         "rows": [
           {
             "code": "002579",
@@ -22409,7 +22409,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -22423,7 +22423,7 @@
         "change_pct": 0.3,
         "net_inflow_yi": -16.81,
         "count": 1,
-        "amount": 1422121000.0,
+        "amount": 1422120962.59,
         "rows": [
           {
             "code": "002579",
@@ -22481,7 +22481,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -22495,7 +22495,7 @@
         "change_pct": 0.11,
         "net_inflow_yi": -35.98,
         "count": 1,
-        "amount": 1422121000.0,
+        "amount": 1422120962.59,
         "rows": [
           {
             "code": "002579",
@@ -22553,7 +22553,7 @@
               "养老概念",
               "深股通"
             ],
-            "amount": 1422121000.0,
+            "amount": 1422120962.59,
             "turnover_rate": 12.15,
             "first_limit_up_time": "09:32:12",
             "last_limit_up_time": "09:35:00",
@@ -22567,7 +22567,7 @@
         "change_pct": 1.44,
         "net_inflow_yi": 22.62,
         "count": 1,
-        "amount": 1225820500.0,
+        "amount": 1225820498.7,
         "rows": [
           {
             "code": "002897",
@@ -22600,7 +22600,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 1225820500.0,
+            "amount": 1225820498.7,
             "turnover_rate": 7.13,
             "first_limit_up_time": "09:55:54",
             "last_limit_up_time": "13:00:51",
@@ -22614,7 +22614,7 @@
         "change_pct": 0.02,
         "net_inflow_yi": -1.84,
         "count": 1,
-        "amount": 966307670.0,
+        "amount": 966307671.55,
         "rows": [
           {
             "code": "001339",
@@ -22656,7 +22656,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -22670,7 +22670,7 @@
         "change_pct": 0.79,
         "net_inflow_yi": -2.15,
         "count": 1,
-        "amount": 966307670.0,
+        "amount": 966307671.55,
         "rows": [
           {
             "code": "001339",
@@ -22712,7 +22712,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -22726,7 +22726,7 @@
         "change_pct": -0.16,
         "net_inflow_yi": 2.78,
         "count": 1,
-        "amount": 966307670.0,
+        "amount": 966307671.55,
         "rows": [
           {
             "code": "001339",
@@ -22768,7 +22768,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -22782,7 +22782,7 @@
         "change_pct": -0.11,
         "net_inflow_yi": 1.65,
         "count": 1,
-        "amount": 966307670.0,
+        "amount": 966307671.55,
         "rows": [
           {
             "code": "001339",
@@ -22824,7 +22824,7 @@
               "人形机器人",
               "深股通"
             ],
-            "amount": 966307670.0,
+            "amount": 966307671.55,
             "turnover_rate": 6.22,
             "first_limit_up_time": "09:43:39",
             "last_limit_up_time": "09:46:06",
@@ -22931,7 +22931,7 @@
         "change_pct": -1.9,
         "net_inflow_yi": -10.2,
         "count": 1,
-        "amount": 920927270.0,
+        "amount": 920927267.44,
         "rows": [
           {
             "code": "301687",
@@ -22954,7 +22954,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 920927270.0,
+            "amount": 920927267.44,
             "turnover_rate": 40.48,
             "first_limit_up_time": "13:11:30",
             "last_limit_up_time": "13:17:54",
@@ -22968,7 +22968,7 @@
         "change_pct": -0.28,
         "net_inflow_yi": -2.8,
         "count": 1,
-        "amount": 895876330.0,
+        "amount": 895876329.22,
         "rows": [
           {
             "code": "300522",
@@ -22984,7 +22984,7 @@
               "储能",
               "股权转让(并购重组)"
             ],
-            "amount": 895876330.0,
+            "amount": 895876329.22,
             "turnover_rate": 18.66,
             "first_limit_up_time": "10:03:42",
             "last_limit_up_time": "10:03:42",
@@ -22998,7 +22998,7 @@
         "change_pct": -0.18,
         "net_inflow_yi": -13.53,
         "count": 1,
-        "amount": 895876330.0,
+        "amount": 895876329.22,
         "rows": [
           {
             "code": "300522",
@@ -23014,7 +23014,7 @@
               "储能",
               "股权转让(并购重组)"
             ],
-            "amount": 895876330.0,
+            "amount": 895876329.22,
             "turnover_rate": 18.66,
             "first_limit_up_time": "10:03:42",
             "last_limit_up_time": "10:03:42",
@@ -23028,7 +23028,7 @@
         "change_pct": -1.53,
         "net_inflow_yi": -27.21,
         "count": 1,
-        "amount": 828417910.0,
+        "amount": 828417907.3,
         "rows": [
           {
             "code": "002805",
@@ -23045,7 +23045,7 @@
               "专精特新",
               "融资融券"
             ],
-            "amount": 828417910.0,
+            "amount": 828417907.3,
             "turnover_rate": 11.12,
             "first_limit_up_time": "09:31:18",
             "last_limit_up_time": "10:42:48",
@@ -23113,7 +23113,7 @@
         "change_pct": -0.53,
         "net_inflow_yi": -0.53,
         "count": 1,
-        "amount": 678129800.0,
+        "amount": 678129800.9,
         "rows": [
           {
             "code": "002317",
@@ -23141,7 +23141,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -23155,7 +23155,7 @@
         "change_pct": -0.11,
         "net_inflow_yi": -1.82,
         "count": 1,
-        "amount": 678129800.0,
+        "amount": 678129800.9,
         "rows": [
           {
             "code": "002317",
@@ -23183,7 +23183,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -23197,7 +23197,7 @@
         "change_pct": 1.16,
         "net_inflow_yi": 8.52,
         "count": 1,
-        "amount": 678129800.0,
+        "amount": 678129800.9,
         "rows": [
           {
             "code": "002317",
@@ -23225,7 +23225,7 @@
               "深股通",
               "融资融券"
             ],
-            "amount": 678129800.0,
+            "amount": 678129800.9,
             "turnover_rate": 4.06,
             "first_limit_up_time": "11:04:24",
             "last_limit_up_time": "11:04:24",
@@ -23239,7 +23239,7 @@
         "change_pct": -0.96,
         "net_inflow_yi": -18.01,
         "count": 1,
-        "amount": 491055010.0,
+        "amount": 491055010.15,
         "rows": [
           {
             "code": "001365",
@@ -23267,7 +23267,7 @@
               "新股与次新股",
               "融资融券"
             ],
-            "amount": 491055010.0,
+            "amount": 491055010.15,
             "turnover_rate": 19.92,
             "first_limit_up_time": "13:52:09",
             "last_limit_up_time": "13:57:15",
@@ -23281,7 +23281,7 @@
         "change_pct": -0.81,
         "net_inflow_yi": -20.71,
         "count": 1,
-        "amount": 350338770.0,
+        "amount": 350338773.33,
         "rows": [
           {
             "code": "002068",
@@ -23297,7 +23297,7 @@
               "超级电容",
               "融资融券"
             ],
-            "amount": 350338770.0,
+            "amount": 350338773.33,
             "turnover_rate": 4.7,
             "first_limit_up_time": "09:58:06",
             "last_limit_up_time": "09:58:06",
@@ -23311,7 +23311,7 @@
         "change_pct": -0.53,
         "net_inflow_yi": -7.43,
         "count": 1,
-        "amount": 350338770.0,
+        "amount": 350338773.33,
         "rows": [
           {
             "code": "002068",
@@ -23327,7 +23327,7 @@
               "超级电容",
               "融资融券"
             ],
-            "amount": 350338770.0,
+            "amount": 350338773.33,
             "turnover_rate": 4.7,
             "first_limit_up_time": "09:58:06",
             "last_limit_up_time": "09:58:06",
@@ -23466,7 +23466,7 @@
         "change_pct": -1.57,
         "net_inflow_yi": -4.31,
         "count": 1,
-        "amount": 301289520.0,
+        "amount": 301289515.44,
         "rows": [
           {
             "code": "000608",
@@ -23480,7 +23480,7 @@
               "摘帽",
               "股权转让(并购重组)"
             ],
-            "amount": 301289520.0,
+            "amount": 301289515.44,
             "turnover_rate": 5.5,
             "first_limit_up_time": "10:36:51",
             "last_limit_up_time": "10:36:51",
@@ -23494,7 +23494,7 @@
         "change_pct": -0.33,
         "net_inflow_yi": -6.65,
         "count": 1,
-        "amount": 257761540.0,
+        "amount": 257761541.0,
         "rows": [
           {
             "code": "002141",
@@ -23511,7 +23511,7 @@
               "横琴新区",
               "摘帽"
             ],
-            "amount": 257761540.0,
+            "amount": 257761541.0,
             "turnover_rate": 5.39,
             "first_limit_up_time": "09:31:09",
             "last_limit_up_time": "09:31:09",
@@ -23525,7 +23525,7 @@
         "change_pct": 0.19,
         "net_inflow_yi": -1.49,
         "count": 1,
-        "amount": 210473410.0,
+        "amount": 210473414.62,
         "rows": [
           {
             "code": "002950",
@@ -23539,7 +23539,7 @@
               "人民币贬值受益",
               "深股通"
             ],
-            "amount": 210473410.0,
+            "amount": 210473414.62,
             "turnover_rate": 5.19,
             "first_limit_up_time": "13:24:06",
             "last_limit_up_time": "13:24:06",
@@ -23553,7 +23553,7 @@
         "change_pct": -1.82,
         "net_inflow_yi": -49.38,
         "count": 1,
-        "amount": 210061020.0,
+        "amount": 210061016.14,
         "rows": [
           {
             "code": "002442",
@@ -23565,7 +23565,7 @@
               "阿里巴巴概念",
               "京津冀一体化"
             ],
-            "amount": 210061020.0,
+            "amount": 210061016.14,
             "turnover_rate": 8.08,
             "first_limit_up_time": "10:37:57",
             "last_limit_up_time": "10:37:57",
@@ -23732,7 +23732,7 @@
         "change_pct": -0.65,
         "net_inflow_yi": -16.59,
         "count": 1,
-        "amount": 191930710.0,
+        "amount": 191930706.47,
         "rows": [
           {
             "code": "001296",
@@ -23746,7 +23746,7 @@
               "页岩气",
               "3D打印"
             ],
-            "amount": 191930710.0,
+            "amount": 191930706.47,
             "turnover_rate": 12.42,
             "first_limit_up_time": "10:32:06",
             "last_limit_up_time": "14:53:45",
@@ -23790,7 +23790,7 @@
         "change_pct": -0.4,
         "net_inflow_yi": -8.67,
         "count": 1,
-        "amount": 170190290.0,
+        "amount": 170190287.67,
         "rows": [
           {
             "code": "000811",
@@ -23830,7 +23830,7 @@
               "冰雪产业",
               "深股通"
             ],
-            "amount": 170190290.0,
+            "amount": 170190287.67,
             "turnover_rate": 0.43,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
@@ -23881,7 +23881,7 @@
         "change_pct": -0.98,
         "net_inflow_yi": -33.14,
         "count": 1,
-        "amount": 156366080.0,
+        "amount": 156366083.0,
         "rows": [
           {
             "code": "002159",
@@ -23898,7 +23898,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -23912,7 +23912,7 @@
         "change_pct": -1.11,
         "net_inflow_yi": -9.51,
         "count": 1,
-        "amount": 156366080.0,
+        "amount": 156366083.0,
         "rows": [
           {
             "code": "002159",
@@ -23929,7 +23929,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
@@ -23943,7 +23943,7 @@
         "change_pct": -0.61,
         "net_inflow_yi": -5.32,
         "count": 1,
-        "amount": 156366080.0,
+        "amount": 156366083.0,
         "rows": [
           {
             "code": "002159",
@@ -23960,7 +23960,7 @@
               "特色小镇",
               "国企改革"
             ],
-            "amount": 156366080.0,
+            "amount": 156366083.0,
             "turnover_rate": 8.11,
             "first_limit_up_time": "13:30:39",
             "last_limit_up_time": "13:30:39",
