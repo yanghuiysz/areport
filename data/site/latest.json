@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19 06:53:31",
+  "generated_at": "2026-06-19 09:13:44",
   "latest_trade_date": "2026-06-19",
   "summary": [
     {
@@ -16,7 +16,7 @@
       "down_count": 3395,
       "flat_count": 89,
       "limit_up_count": 91,
-      "limit_down_count": 3
+      "limit_down_count": 34
     },
     {
       "date": "2026-06-17",
