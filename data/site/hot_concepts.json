@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18 13:49:51",
-  "latest_trade_date": "2026-06-18",
+  "generated_at": "2026-06-19 06:53:47",
+  "latest_trade_date": "2026-06-19",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -46,8 +46,8 @@
           "name": "华瓷股份",
           "reason": "氧化锆粉体+齿科材料+高分红+定增完成",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
           "turnover_rate": 2.1,
           "amount": 48044880.0
         },
@@ -56,30 +56,30 @@
           "name": "东方锆业",
           "reason": "锆材料+固态电池+定增",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
           "turnover_rate": 3.73,
-          "amount": 456136210.0
+          "amount": 456136205.0
         },
         {
           "code": "301580",
           "name": "爱迪特",
           "reason": "氧化锆替代+口腔种植医保+外销龙头",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
           "turnover_rate": 3.45,
-          "amount": 219880240.0
+          "amount": 219880241.0
         },
         {
           "code": "603407",
           "name": "长裕集团",
           "reason": "氧氯化锆+陶瓷载板+光通讯+业绩增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:03",
-          "last_limit_up_time": "09:25:03",
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
           "turnover_rate": 6.55,
-          "amount": 160103359.08
+          "amount": 160103359.0
         }
       ]
     },
@@ -102,18 +102,18 @@
           "name": "中京电子",
           "reason": "定增通过+PCB+高阶HDI+AIPC",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:32:12",
-          "last_limit_up_time": "09:35:00",
+          "first_limit_up_time": "09:32:15",
+          "last_limit_up_time": "09:33:51",
           "turnover_rate": 12.15,
-          "amount": 1422121000.0
+          "amount": 1422120960.0
         },
         {
           "code": "002897",
           "name": "意华股份",
           "reason": "高速连接器+华为链+液冷散热+CPO",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:54",
-          "last_limit_up_time": "13:00:51",
+          "first_limit_up_time": "09:56:08",
+          "last_limit_up_time": "13:01:03",
           "turnover_rate": 7.13,
           "amount": 1225820500.0
         },
@@ -122,18 +122,18 @@
           "name": "合锻智能",
           "reason": "PCB层压设备+光模块结构件+核聚变概念",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:22",
-          "last_limit_up_time": "10:42:04",
+          "first_limit_up_time": "10:36:25",
+          "last_limit_up_time": "10:42:16",
           "turnover_rate": 10.7,
-          "amount": 2028387923.37
+          "amount": 2028387920.0
         },
         {
           "code": "002281",
           "name": "光迅科技",
           "reason": "3.2T硅光NPO+CPO+定增+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:51:48",
-          "last_limit_up_time": "10:51:48",
+          "first_limit_up_time": "10:51:50",
+          "last_limit_up_time": "10:51:50",
           "turnover_rate": 5.25,
           "amount": 10477798900.0
         },
@@ -142,20 +142,20 @@
           "name": "麦捷科技",
           "reason": "英伟达电感+光模块+深圳国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:18",
-          "last_limit_up_time": "13:10:18",
+          "first_limit_up_time": "13:10:33",
+          "last_limit_up_time": "13:10:33",
           "turnover_rate": 21.19,
-          "amount": 4580026100.0
+          "amount": 4580026080.0
         },
         {
           "code": "003031",
           "name": "中瓷电子",
           "reason": "光通信陶瓷外壳+SiC功率器件+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:15:12",
-          "last_limit_up_time": "13:52:51",
+          "first_limit_up_time": "13:15:19",
+          "last_limit_up_time": "13:17:19",
           "turnover_rate": 4.66,
-          "amount": 2693468300.0
+          "amount": 2693468290.0
         }
       ]
     },
@@ -178,10 +178,10 @@
           "name": "屹唐股份",
           "reason": "干法刻蚀设备+干法去胶+募投完成+北京国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "14:52:31",
-          "last_limit_up_time": "14:52:31",
+          "first_limit_up_time": "14:52:46",
+          "last_limit_up_time": "14:52:46",
           "turnover_rate": 35.45,
-          "amount": 2379668617.09
+          "amount": 2379668620.0
         }
       ]
     },
@@ -204,10 +204,10 @@
           "name": "裕太微",
           "reason": "定增+高速通信芯片+人形机器人",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:30:58",
-          "last_limit_up_time": "10:32:31",
+          "first_limit_up_time": "10:31:01",
+          "last_limit_up_time": "10:32:46",
           "turnover_rate": 14.19,
-          "amount": 1615257698.12
+          "amount": 1615257700.0
         }
       ]
     },
@@ -230,8 +230,8 @@
           "name": "意华股份",
           "reason": "高速连接器+华为链+液冷散热+CPO",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:54",
-          "last_limit_up_time": "13:00:51",
+          "first_limit_up_time": "09:56:08",
+          "last_limit_up_time": "13:01:03",
           "turnover_rate": 7.13,
           "amount": 1225820500.0
         },
@@ -240,8 +240,8 @@
           "name": "光迅科技",
           "reason": "3.2T硅光NPO+CPO+定增+央企",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:51:48",
-          "last_limit_up_time": "10:51:48",
+          "first_limit_up_time": "10:51:50",
+          "last_limit_up_time": "10:51:50",
           "turnover_rate": 5.25,
           "amount": 10477798900.0
         }
@@ -266,8 +266,8 @@
           "name": "意华股份",
           "reason": "高速连接器+华为链+液冷散热+CPO",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:54",
-          "last_limit_up_time": "13:00:51",
+          "first_limit_up_time": "09:56:08",
+          "last_limit_up_time": "13:01:03",
           "turnover_rate": 7.13,
           "amount": 1225820500.0
         },
@@ -276,18 +276,18 @@
           "name": "裕太微",
           "reason": "定增+高速通信芯片+人形机器人",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:30:58",
-          "last_limit_up_time": "10:32:31",
+          "first_limit_up_time": "10:31:01",
+          "last_limit_up_time": "10:32:46",
           "turnover_rate": 14.19,
-          "amount": 1615257698.12
+          "amount": 1615257700.0
         },
         {
           "code": "301310",
           "name": "鑫宏业",
           "reason": "高速铜缆连接+人形机器人线缆+可控核聚变",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:07:27",
-          "last_limit_up_time": "14:54:03",
+          "first_limit_up_time": "13:07:33",
+          "last_limit_up_time": "14:54:19",
           "turnover_rate": 36.6,
           "amount": 1000859890.0
         }
@@ -327,10 +327,10 @@
           "name": "博云新材",
           "reason": "硬质合金+商业航天+培育钻石+湖南国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:42:18",
-          "last_limit_up_time": "14:00:54",
+          "first_limit_up_time": "09:42:23",
+          "last_limit_up_time": "14:01:11",
           "turnover_rate": 20.56,
-          "amount": 3292499300.0
+          "amount": 3292499350.0
         }
       ]
     },
@@ -353,40 +353,40 @@
           "name": "东方锆业",
           "reason": "锆材料+固态电池+定增",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
           "turnover_rate": 3.73,
-          "amount": 456136210.0
+          "amount": 456136205.0
         },
         {
           "code": "603663",
           "name": "三祥新材",
           "reason": "锆铪分离+锆系新材+半导体材料+固态电池",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:30:47",
-          "last_limit_up_time": "14:11:38",
+          "first_limit_up_time": "09:31:00",
+          "last_limit_up_time": "14:11:57",
           "turnover_rate": 4.42,
-          "amount": 1624257922.56
+          "amount": 1624257920.0
         },
         {
           "code": "600259",
           "name": "中稀有色",
           "reason": "稀土涨价+广东稀土矿+央企+一季报增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:53:29",
-          "last_limit_up_time": "14:13:26",
+          "first_limit_up_time": "09:53:38",
+          "last_limit_up_time": "14:13:31",
           "turnover_rate": 9.94,
-          "amount": 3815954807.75
+          "amount": 3815954810.0
         },
         {
           "code": "600392",
           "name": "盛和资源",
           "reason": "稀土+江阴加华投产+央企+一季报增长",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:28",
-          "last_limit_up_time": "14:23:19",
+          "first_limit_up_time": "09:55:38",
+          "last_limit_up_time": "14:23:04",
           "turnover_rate": 15.23,
-          "amount": 8311378474.6
+          "amount": 8311378480.0
         }
       ]
     }
