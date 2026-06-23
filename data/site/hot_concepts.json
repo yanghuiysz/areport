@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23 05:57:43",
+  "generated_at": "2026-06-23 07:59:56",
   "latest_trade_date": "2026-06-23",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,14 +17,14 @@
       "name": "重组蛋白",
       "concept_code": "308822",
       "plate_code": "885955",
-      "heat_score": 99.45,
-      "change_pct": 4.48,
-      "net_inflow_yi": 3.06,
+      "heat_score": 99.49,
+      "change_pct": 4.53,
+      "net_inflow_yi": 1.62,
       "change_rank": 1,
-      "flow_rank": 8,
+      "flow_rank": 5,
       "change_score": 100.0,
-      "flow_score": 98.79,
-      "limit_up_count": 4,
+      "flow_score": 98.88,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
           "code": "002584",
@@ -33,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:34:18",
           "last_limit_up_time": "09:39:51",
-          "turnover_rate": 13.93,
-          "amount": 644652218.0
+          "turnover_rate": 15.07,
+          "amount": 698116090.0
         },
         {
           "code": "000813",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:49:39",
           "last_limit_up_time": "10:15:06",
-          "turnover_rate": 2.77,
-          "amount": 181192878.61
+          "turnover_rate": 2.88,
+          "amount": 189104720.0
         },
         {
           "code": "300149",
@@ -53,18 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:50:24",
           "last_limit_up_time": "11:15:27",
-          "turnover_rate": 7.27,
-          "amount": 300887185.35
-        },
-        {
-          "code": "688179",
-          "name": "阿拉丁",
-          "reason": "光刻胶+海外仓+化学制品+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:55:40",
-          "last_limit_up_time": "13:26:34",
-          "turnover_rate": 10.46,
-          "amount": 992119220.63
+          "turnover_rate": 7.94,
+          "amount": 329832650.0
         }
       ]
     },
@@ -73,14 +63,14 @@
       "name": "仿制药一致性评价",
       "concept_code": "308572",
       "plate_code": "885856",
-      "heat_score": 92.11,
-      "change_pct": 3.32,
-      "net_inflow_yi": -1.76,
+      "heat_score": 92.54,
+      "change_pct": 3.39,
+      "net_inflow_yi": -5.18,
       "change_rank": 2,
-      "flow_rank": 49,
-      "change_score": 87.89,
-      "flow_score": 97.26,
-      "limit_up_count": 9,
+      "flow_rank": 57,
+      "change_score": 88.7,
+      "flow_score": 97.23,
+      "limit_up_count": 10,
       "limit_up_stocks": [
         {
           "code": "600851",
@@ -89,8 +79,8 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "09:33:03",
           "last_limit_up_time": "09:43:09",
-          "turnover_rate": 6.03,
-          "amount": 423339975.95
+          "turnover_rate": 6.19,
+          "amount": 434858564.75
         },
         {
           "code": "000566",
@@ -99,8 +89,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
         },
         {
           "code": "000756",
@@ -109,8 +99,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
         },
         {
           "code": "301211",
@@ -119,8 +109,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:38:57",
-          "turnover_rate": 2.9,
-          "amount": 131369281.35
+          "turnover_rate": 3.2,
+          "amount": 145678240.0
         },
         {
           "code": "002728",
@@ -129,8 +119,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:39:09",
           "last_limit_up_time": "09:39:09",
-          "turnover_rate": 2.68,
-          "amount": 115318521.9
+          "turnover_rate": 3.0,
+          "amount": 129289896.0
         },
         {
           "code": "002038",
@@ -139,8 +129,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:42:18",
           "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
+          "turnover_rate": 3.21,
+          "amount": 148314740.0
         },
         {
           "code": "002370",
@@ -149,8 +139,18 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:43:57",
           "last_limit_up_time": "09:43:57",
-          "turnover_rate": 2.68,
-          "amount": 104981911.45
+          "turnover_rate": 2.79,
+          "amount": 109269877.0
+        },
+        {
+          "code": "600488",
+          "name": "津药药业",
+          "reason": "CPHI展会+创新药+甾体激素",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:45:06",
+          "last_limit_up_time": "14:46:33",
+          "turnover_rate": 13.49,
+          "amount": 717764959.37
         },
         {
           "code": "000813",
@@ -159,8 +159,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:49:39",
           "last_limit_up_time": "10:15:06",
-          "turnover_rate": 2.77,
-          "amount": 181192878.61
+          "turnover_rate": 2.88,
+          "amount": 189104720.0
         },
         {
           "code": "603669",
@@ -169,8 +169,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:21",
           "last_limit_up_time": "13:02:21",
-          "turnover_rate": 4.91,
-          "amount": 185945688.67
+          "turnover_rate": 5.19,
+          "amount": 197415974.23
         }
       ]
     },
@@ -179,13 +179,13 @@
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 91.48,
-      "change_pct": 3.18,
-      "net_inflow_yi": -0.53,
+      "heat_score": 92.24,
+      "change_pct": 3.19,
+      "net_inflow_yi": 2.04,
       "change_rank": 3,
-      "flow_rank": 33,
-      "change_score": 86.43,
-      "flow_score": 97.65,
+      "flow_rank": 3,
+      "change_score": 86.72,
+      "flow_score": 98.98,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -195,8 +195,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:38:57",
-          "turnover_rate": 2.9,
-          "amount": 131369281.35
+          "turnover_rate": 3.2,
+          "amount": 145678240.0
         },
         {
           "code": "000813",
@@ -205,8 +205,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:49:39",
           "last_limit_up_time": "10:15:06",
-          "turnover_rate": 2.77,
-          "amount": 181192878.61
+          "turnover_rate": 2.88,
+          "amount": 189104720.0
         },
         {
           "code": "300149",
@@ -215,8 +215,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:50:24",
           "last_limit_up_time": "11:15:27",
-          "turnover_rate": 7.27,
-          "amount": 300887185.35
+          "turnover_rate": 7.94,
+          "amount": 329832650.0
         },
         {
           "code": "603669",
@@ -225,8 +225,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:21",
           "last_limit_up_time": "13:02:21",
-          "turnover_rate": 4.91,
-          "amount": 185945688.67
+          "turnover_rate": 5.19,
+          "amount": 197415974.23
         }
       ]
     },
@@ -235,13 +235,13 @@
       "name": "细胞免疫治疗",
       "concept_code": "301543",
       "plate_code": "885769",
-      "heat_score": 90.83,
-      "change_pct": 3.15,
-      "net_inflow_yi": -3.93,
+      "heat_score": 91.15,
+      "change_pct": 3.17,
+      "net_inflow_yi": -6.93,
       "change_rank": 4,
-      "flow_rank": 69,
-      "change_score": 86.12,
-      "flow_score": 96.58,
+      "flow_rank": 66,
+      "change_score": 86.52,
+      "flow_score": 96.8,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -251,8 +251,8 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "09:33:03",
           "last_limit_up_time": "09:43:09",
-          "turnover_rate": 6.03,
-          "amount": 423339975.95
+          "turnover_rate": 6.19,
+          "amount": 434858564.75
         },
         {
           "code": "000566",
@@ -261,8 +261,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
         },
         {
           "code": "300149",
@@ -271,8 +271,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:50:24",
           "last_limit_up_time": "11:15:27",
-          "turnover_rate": 7.27,
-          "amount": 300887185.35
+          "turnover_rate": 7.94,
+          "amount": 329832650.0
         }
       ]
     },
@@ -281,13 +281,13 @@
       "name": "维生素",
       "concept_code": "309135",
       "plate_code": "886081",
-      "heat_score": 90.5,
-      "change_pct": 2.97,
-      "net_inflow_yi": 1.05,
+      "heat_score": 90.68,
+      "change_pct": 2.96,
+      "net_inflow_yi": -0.77,
       "change_rank": 5,
-      "flow_rank": 20,
-      "change_score": 84.24,
-      "flow_score": 98.15,
+      "flow_rank": 18,
+      "change_score": 84.44,
+      "flow_score": 98.3,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -297,8 +297,8 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "09:33:03",
           "last_limit_up_time": "09:43:09",
-          "turnover_rate": 6.03,
-          "amount": 423339975.95
+          "turnover_rate": 6.19,
+          "amount": 434858564.75
         },
         {
           "code": "000566",
@@ -307,8 +307,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
         },
         {
           "code": "000756",
@@ -317,8 +317,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
         },
         {
           "code": "301211",
@@ -327,23 +327,23 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:38:57",
-          "turnover_rate": 2.9,
-          "amount": 131369281.35
+          "turnover_rate": 3.2,
+          "amount": 145678240.0
         }
       ]
     },
     {
       "rank": 6,
-      "name": "流感",
-      "concept_code": "300038",
-      "plate_code": "885879",
-      "heat_score": 90.17,
+      "name": "肝炎概念",
+      "concept_code": "308915",
+      "plate_code": "885989",
+      "heat_score": 90.58,
       "change_pct": 2.85,
-      "net_inflow_yi": 3.58,
+      "net_inflow_yi": 3.81,
       "change_rank": 6,
-      "flow_rank": 7,
-      "change_score": 82.99,
-      "flow_score": 98.95,
+      "flow_rank": 2,
+      "change_score": 83.35,
+      "flow_score": 99.41,
       "limit_up_count": 6,
       "limit_up_stocks": [
         {
@@ -353,8 +353,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
         },
         {
           "code": "000756",
@@ -363,8 +363,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
         },
         {
           "code": "301211",
@@ -373,8 +373,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:57",
           "last_limit_up_time": "09:38:57",
-          "turnover_rate": 2.9,
-          "amount": 131369281.35
+          "turnover_rate": 3.2,
+          "amount": 145678240.0
         },
         {
           "code": "002728",
@@ -383,8 +383,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:39:09",
           "last_limit_up_time": "09:39:09",
-          "turnover_rate": 2.68,
-          "amount": 115318521.9
+          "turnover_rate": 3.0,
+          "amount": 129289896.0
         },
         {
           "code": "002038",
@@ -393,8 +393,84 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:42:18",
           "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
+          "turnover_rate": 3.21,
+          "amount": 148314740.0
+        },
+        {
+          "code": "002370",
+          "name": "亚太药业",
+          "reason": "光动力疗法+创新药+仿制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:43:57",
+          "last_limit_up_time": "09:43:57",
+          "turnover_rate": 2.79,
+          "amount": 109269877.0
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "流感",
+      "concept_code": "300038",
+      "plate_code": "885879",
+      "heat_score": 90.18,
+      "change_pct": 2.85,
+      "net_inflow_yi": 0.15,
+      "change_rank": 6,
+      "flow_rank": 10,
+      "change_score": 83.35,
+      "flow_score": 98.52,
+      "limit_up_count": 6,
+      "limit_up_stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "reason": "创新药+海南自贸区+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:32:06",
+          "last_limit_up_time": "09:33:00",
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
+        },
+        {
+          "code": "000756",
+          "name": "新华制药",
+          "reason": "创新药获批+解热镇痛原料药+阿尔茨海默症+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:32:06",
+          "last_limit_up_time": "09:33:03",
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
+        },
+        {
+          "code": "301211",
+          "name": "亨迪药业",
+          "reason": "布洛芬+原料药+制剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:38:57",
+          "last_limit_up_time": "09:38:57",
+          "turnover_rate": 3.2,
+          "amount": 145678240.0
+        },
+        {
+          "code": "002728",
+          "name": "特一药业",
+          "reason": "止咳宝片+二线品种高增+中药+分红",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:09",
+          "last_limit_up_time": "09:39:09",
+          "turnover_rate": 3.0,
+          "amount": 129289896.0
+        },
+        {
+          "code": "002038",
+          "name": "双鹭药业",
+          "reason": "创新药+硝酸甘油喷雾剂+化学制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:42:18",
+          "last_limit_up_time": "09:43:45",
+          "turnover_rate": 3.21,
+          "amount": 148314740.0
         },
         {
           "code": "603669",
@@ -403,84 +479,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:21",
           "last_limit_up_time": "13:02:21",
-          "turnover_rate": 4.91,
-          "amount": 185945688.67
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "肝炎概念",
-      "concept_code": "308915",
-      "plate_code": "885989",
-      "heat_score": 90.06,
-      "change_pct": 2.79,
-      "net_inflow_yi": 5.21,
-      "change_rank": 7,
-      "flow_rank": 3,
-      "change_score": 82.36,
-      "flow_score": 99.46,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "000566",
-          "name": "海南海药",
-          "reason": "创新药+海南自贸区+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:06",
-          "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
-        },
-        {
-          "code": "000756",
-          "name": "新华制药",
-          "reason": "创新药获批+解热镇痛原料药+阿尔茨海默症+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:06",
-          "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
-        },
-        {
-          "code": "301211",
-          "name": "亨迪药业",
-          "reason": "布洛芬+原料药+制剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:57",
-          "last_limit_up_time": "09:38:57",
-          "turnover_rate": 2.9,
-          "amount": 131369281.35
-        },
-        {
-          "code": "002728",
-          "name": "特一药业",
-          "reason": "止咳宝片+二线品种高增+中药+分红",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:09",
-          "last_limit_up_time": "09:39:09",
-          "turnover_rate": 2.68,
-          "amount": 115318521.9
-        },
-        {
-          "code": "002038",
-          "name": "双鹭药业",
-          "reason": "创新药+硝酸甘油喷雾剂+化学制药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:42:18",
-          "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
-        },
-        {
-          "code": "002370",
-          "name": "亚太药业",
-          "reason": "光动力疗法+创新药+仿制药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:43:57",
-          "last_limit_up_time": "09:43:57",
-          "turnover_rate": 2.68,
-          "amount": 104981911.45
+          "turnover_rate": 5.19,
+          "amount": 197415974.23
         }
       ]
     },
@@ -489,14 +489,14 @@
       "name": "猴痘概念",
       "concept_code": "308941",
       "plate_code": "885994",
-      "heat_score": 89.15,
-      "change_pct": 2.76,
-      "net_inflow_yi": 0.06,
+      "heat_score": 89.12,
+      "change_pct": 2.7,
+      "net_inflow_yi": -2.06,
       "change_rank": 8,
-      "flow_rank": 26,
-      "change_score": 82.05,
-      "flow_score": 97.84,
-      "limit_up_count": 6,
+      "flow_rank": 30,
+      "change_score": 81.86,
+      "flow_score": 97.98,
+      "limit_up_count": 5,
       "limit_up_stocks": [
         {
           "code": "000566",
@@ -505,8 +505,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:00",
-          "turnover_rate": 1.86,
-          "amount": 96727993.8
+          "turnover_rate": 2.18,
+          "amount": 113666522.0
         },
         {
           "code": "000551",
@@ -515,8 +515,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:41:00",
           "last_limit_up_time": "09:41:00",
-          "turnover_rate": 3.36,
-          "amount": 265674925.12
+          "turnover_rate": 3.62,
+          "amount": 287179420.0
         },
         {
           "code": "002038",
@@ -525,8 +525,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:42:18",
           "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
+          "turnover_rate": 3.21,
+          "amount": 148314740.0
         },
         {
           "code": "002370",
@@ -535,8 +535,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:43:57",
           "last_limit_up_time": "09:43:57",
-          "turnover_rate": 2.68,
-          "amount": 104981911.45
+          "turnover_rate": 2.79,
+          "amount": 109269877.0
         },
         {
           "code": "603122",
@@ -545,18 +545,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:52:18",
           "last_limit_up_time": "09:52:18",
-          "turnover_rate": 3.46,
-          "amount": 170949974.0
-        },
-        {
-          "code": "688179",
-          "name": "阿拉丁",
-          "reason": "光刻胶+海外仓+化学制品+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:55:40",
-          "last_limit_up_time": "13:26:34",
-          "turnover_rate": 10.46,
-          "amount": 992119220.63
+          "turnover_rate": 3.63,
+          "amount": 179278568.0
         }
       ]
     },
@@ -565,59 +555,13 @@
       "name": "辅助生殖",
       "concept_code": "308708",
       "plate_code": "885909",
-      "heat_score": 87.88,
-      "change_pct": 2.72,
-      "net_inflow_yi": -7.28,
-      "change_rank": 9,
-      "flow_rank": 97,
-      "change_score": 81.63,
-      "flow_score": 95.52,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000756",
-          "name": "新华制药",
-          "reason": "创新药获批+解热镇痛原料药+阿尔茨海默症+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:06",
-          "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
-        },
-        {
-          "code": "002584",
-          "name": "西陇科学",
-          "reason": "PCB用化学试剂+磷化工+氢氟酸",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:34:18",
-          "last_limit_up_time": "09:39:51",
-          "turnover_rate": 13.93,
-          "amount": 644652218.0
-        },
-        {
-          "code": "002038",
-          "name": "双鹭药业",
-          "reason": "创新药+硝酸甘油喷雾剂+化学制药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:42:18",
-          "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "医药电商",
-      "concept_code": "301565",
-      "plate_code": "885661",
-      "heat_score": 87.24,
-      "change_pct": 2.38,
-      "net_inflow_yi": 1.93,
-      "change_rank": 13,
-      "flow_rank": 13,
-      "change_score": 78.08,
-      "flow_score": 98.43,
+      "heat_score": 88.55,
+      "change_pct": 2.77,
+      "net_inflow_yi": -10.76,
+      "change_rank": 7,
+      "flow_rank": 96,
+      "change_score": 82.56,
+      "flow_score": 95.88,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -627,18 +571,18 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:06",
           "last_limit_up_time": "09:33:03",
-          "turnover_rate": 1.96,
-          "amount": 129990760.72
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
         },
         {
-          "code": "002728",
-          "name": "特一药业",
-          "reason": "止咳宝片+二线品种高增+中药+分红",
+          "code": "002584",
+          "name": "西陇科学",
+          "reason": "PCB用化学试剂+磷化工+氢氟酸",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:09",
-          "last_limit_up_time": "09:39:09",
-          "turnover_rate": 2.68,
-          "amount": 115318521.9
+          "first_limit_up_time": "09:34:18",
+          "last_limit_up_time": "09:39:51",
+          "turnover_rate": 15.07,
+          "amount": 698116090.0
         },
         {
           "code": "002038",
@@ -647,18 +591,54 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:42:18",
           "last_limit_up_time": "09:43:45",
-          "turnover_rate": 2.94,
-          "amount": 135575510.55
+          "turnover_rate": 3.21,
+          "amount": 148314740.0
         },
         {
-          "code": "600881",
-          "name": "亚泰集团",
-          "reason": "创新药+东北证券出售+长春国资",
+          "code": "600488",
+          "name": "津药药业",
+          "reason": "CPHI展会+创新药+甾体激素",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:52:19",
-          "last_limit_up_time": "09:54:21",
-          "turnover_rate": 2.69,
-          "amount": 141089906.16
+          "first_limit_up_time": "09:45:06",
+          "last_limit_up_time": "14:46:33",
+          "turnover_rate": 13.49,
+          "amount": 717764959.37
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "阿尔茨海默概念",
+      "concept_code": "308614",
+      "plate_code": "886056",
+      "heat_score": 87.78,
+      "change_pct": 2.53,
+      "net_inflow_yi": -5.86,
+      "change_rank": 9,
+      "flow_rank": 61,
+      "change_score": 80.18,
+      "flow_score": 97.06,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "000756",
+          "name": "新华制药",
+          "reason": "创新药获批+解热镇痛原料药+阿尔茨海默症+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:32:06",
+          "last_limit_up_time": "09:33:03",
+          "turnover_rate": 2.13,
+          "amount": 141000670.0
+        },
+        {
+          "code": "603669",
+          "name": "灵康药业",
+          "reason": "创新药+阿尔茨海默+一季报扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:02:21",
+          "last_limit_up_time": "13:02:21",
+          "turnover_rate": 5.19,
+          "amount": 197415974.23
         }
       ]
     }
