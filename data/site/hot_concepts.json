@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01 08:26:28",
-  "latest_trade_date": "2026-06-30",
+  "generated_at": "2026-07-01 10:56:25",
+  "latest_trade_date": "2026-07-01",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -17,74 +17,135 @@
       "name": "猪肉",
       "concept_code": "300451",
       "plate_code": "885573",
-      "heat_score": 92.41,
+      "heat_score": 86.98,
       "change_pct": 6.98,
       "net_inflow_yi": 11.39,
       "change_rank": 1,
       "flow_rank": 42,
       "change_score": 100.0,
-      "flow_score": 83.13,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "flow_score": 71.06,
+      "limit_up_count": 8,
+      "limit_up_stocks": [
+        {
+          "code": "002458",
+          "name": "益生股份",
+          "reason": "中报预增+肉鸡养殖+种猪放量",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "10:16:51",
+          "turnover_rate": 8.55,
+          "amount": 697744765.27
+        },
+        {
+          "code": "002548",
+          "name": "金新农",
+          "reason": "生猪养殖+饲料+机器人",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:00:27",
+          "last_limit_up_time": "10:00:27",
+          "turnover_rate": 3.52,
+          "amount": 111021061.14
+        },
+        {
+          "code": "002124",
+          "name": "天邦食品",
+          "reason": "生猪养殖+机器人概念+预重整",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:17:33",
+          "last_limit_up_time": "10:27:45",
+          "turnover_rate": 6.84,
+          "amount": 304650820.4
+        },
+        {
+          "code": "600975",
+          "name": "新五丰",
+          "reason": "能繁母猪去化+董事长变更+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:32:58",
+          "last_limit_up_time": "13:01:49",
+          "turnover_rate": 2.23,
+          "amount": 128451596.32
+        },
+        {
+          "code": "603363",
+          "name": "傲农生物",
+          "reason": "股东增持+生猪销售增长+饲料+猪肉",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:38:25",
+          "last_limit_up_time": "10:45:46",
+          "turnover_rate": 3.19,
+          "amount": 195180655.0
+        },
+        {
+          "code": "000876",
+          "name": "新希望",
+          "reason": "猪肉+饲料龙头+成本下降",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:40:51",
+          "last_limit_up_time": "10:46:06",
+          "turnover_rate": 1.82,
+          "amount": 547718062.93
+        },
+        {
+          "code": "002840",
+          "name": "华统股份",
+          "reason": "猪肉+肉牛布局+全产业链",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:49:24",
+          "last_limit_up_time": "10:49:24",
+          "turnover_rate": 2.93,
+          "amount": 179956319.22
+        },
+        {
+          "code": "002982",
+          "name": "湘佳股份",
+          "reason": "黄羽肉鸡+预制菜+可转债回售落地",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:49:42",
+          "last_limit_up_time": "10:49:42",
+          "turnover_rate": 8.55,
+          "amount": 125763133.26
+        }
+      ]
     },
     {
       "rank": 2,
       "name": "互联网保险",
       "concept_code": "301628",
       "plate_code": "885767",
-      "heat_score": 86.99,
+      "heat_score": 84.69,
       "change_pct": 5.34,
       "net_inflow_yi": 67.42,
       "change_rank": 5,
       "flow_rank": 3,
       "change_score": 82.19,
-      "flow_score": 92.85,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 3,
-      "name": "养鸡",
-      "concept_code": "301576",
-      "plate_code": "885808",
-      "heat_score": 86.83,
-      "change_pct": 6.12,
-      "net_inflow_yi": 5.69,
-      "change_rank": 2,
-      "flow_rank": 78,
-      "change_score": 90.66,
-      "flow_score": 82.14,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 4,
-      "name": "2026中报预增",
-      "concept_code": "309267",
-      "plate_code": "886110",
-      "heat_score": 84.78,
-      "change_pct": 5.86,
-      "net_inflow_yi": -0.62,
-      "change_rank": 3,
-      "flow_rank": 143,
-      "change_score": 87.84,
-      "flow_score": 81.04,
-      "limit_up_count": 1,
+      "flow_score": 87.74,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "中报预增+白银+贵金属涨价+技改产能释放",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:08:15",
-          "last_limit_up_time": "10:08:15",
-          "turnover_rate": 7.77,
-          "amount": 1267164064.78
+          "code": "002403",
+          "name": "爱仕达",
+          "reason": "人形机器人+工业机器人+炊具龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:03:39",
+          "last_limit_up_time": "11:03:39",
+          "turnover_rate": 3.48,
+          "amount": 98652650.0
+        },
+        {
+          "code": "600446",
+          "name": "金证股份",
+          "reason": "金融科技+AI应用+数字人民币",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:18:07",
+          "last_limit_up_time": "13:18:07",
+          "turnover_rate": 3.29,
+          "amount": 330645523.54
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "name": "期货概念",
       "concept_code": "300220",
       "plate_code": "885570",
@@ -95,22 +156,347 @@
       "flow_rank": 1,
       "change_score": 72.1,
       "flow_score": 100.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 6,
+      "limit_up_stocks": [
+        {
+          "code": "600208",
+          "name": "衢州发展",
+          "reason": "半导体投资+硬科技投资+衢州国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:42:53",
+          "last_limit_up_time": "09:44:52",
+          "turnover_rate": 1.57,
+          "amount": 406456519.77
+        },
+        {
+          "code": "600909",
+          "name": "华安证券",
+          "reason": "证券+间接持有长鑫存储股份+财富管理+安徽国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:07:34",
+          "last_limit_up_time": "10:07:34",
+          "turnover_rate": 4.25,
+          "amount": 2510582223.17
+        },
+        {
+          "code": "601162",
+          "name": "天风证券",
+          "reason": "证券+研究能力+湖北国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:14:05",
+          "last_limit_up_time": "10:15:17",
+          "turnover_rate": 5.18,
+          "amount": 1618420499.69
+        },
+        {
+          "code": "002670",
+          "name": "国盛证券",
+          "reason": "证券+期货+江西国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:24:18",
+          "last_limit_up_time": "10:24:18",
+          "turnover_rate": 2.75,
+          "amount": 523551182.31
+        },
+        {
+          "code": "300175",
+          "name": "朗源股份",
+          "reason": "果蔬龙头+新零售+摘帽",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:39:06",
+          "last_limit_up_time": "10:39:06",
+          "turnover_rate": 4.78,
+          "amount": 117640497.68
+        },
+        {
+          "code": "002423",
+          "name": "中粮资本",
+          "reason": "保险+期货+央企金融",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:50:39",
+          "last_limit_up_time": "10:59:39",
+          "turnover_rate": 1.77,
+          "amount": 358969324.26
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "养鸡",
+      "concept_code": "301576",
+      "plate_code": "885808",
+      "heat_score": 81.08,
+      "change_pct": 6.12,
+      "net_inflow_yi": 5.69,
+      "change_rank": 2,
+      "flow_rank": 78,
+      "change_score": 90.66,
+      "flow_score": 69.36,
+      "limit_up_count": 4,
+      "limit_up_stocks": [
+        {
+          "code": "002458",
+          "name": "益生股份",
+          "reason": "中报预增+肉鸡养殖+种猪放量",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "10:16:51",
+          "turnover_rate": 8.55,
+          "amount": 697744765.27
+        },
+        {
+          "code": "000876",
+          "name": "新希望",
+          "reason": "猪肉+饲料龙头+成本下降",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:40:51",
+          "last_limit_up_time": "10:46:06",
+          "turnover_rate": 1.82,
+          "amount": 547718062.93
+        },
+        {
+          "code": "002840",
+          "name": "华统股份",
+          "reason": "猪肉+肉牛布局+全产业链",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:49:24",
+          "last_limit_up_time": "10:49:24",
+          "turnover_rate": 2.93,
+          "amount": 179956319.22
+        },
+        {
+          "code": "002982",
+          "name": "湘佳股份",
+          "reason": "黄羽肉鸡+预制菜+可转债回售落地",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:49:42",
+          "last_limit_up_time": "10:49:42",
+          "turnover_rate": 8.55,
+          "amount": 125763133.26
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "2026中报预增",
+      "concept_code": "309267",
+      "plate_code": "886110",
+      "heat_score": 78.68,
+      "change_pct": 5.86,
+      "net_inflow_yi": -0.62,
+      "change_rank": 3,
+      "flow_rank": 143,
+      "change_score": 87.84,
+      "flow_score": 67.48,
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "000603",
+          "name": "盛达资源",
+          "reason": "中报预增+白银+贵金属涨价+技改产能释放",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:08:15",
+          "last_limit_up_time": "10:08:15",
+          "turnover_rate": 7.77,
+          "amount": 1267164064.78
+        },
+        {
+          "code": "000601",
+          "name": "韶能股份",
+          "reason": "业绩预增+清洁能源改造+算电协同",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "09:25:00",
+          "turnover_rate": 1.04,
+          "amount": 70299587.4
+        },
+        {
+          "code": "002458",
+          "name": "益生股份",
+          "reason": "中报预增+肉鸡养殖+种猪放量",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "10:16:51",
+          "turnover_rate": 8.55,
+          "amount": 697744765.27
+        },
+        {
+          "code": "600233",
+          "name": "圆通速递",
+          "reason": "中报预增+行业反内卷+AI应用+快递物流",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:03",
+          "last_limit_up_time": "09:25:03",
+          "turnover_rate": 0.35,
+          "amount": 205475553.87
+        },
+        {
+          "code": "002326",
+          "name": "永太科技",
+          "reason": "中报预增+锂电材料+氟化液",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:42",
+          "last_limit_up_time": "09:39:42",
+          "turnover_rate": 7.22,
+          "amount": 1493090002.97
+        }
+      ]
     },
     {
       "rank": 6,
+      "name": "肝炎概念",
+      "concept_code": "308915",
+      "plate_code": "885989",
+      "heat_score": 78.0,
+      "change_pct": 4.83,
+      "net_inflow_yi": 40.26,
+      "change_rank": 8,
+      "flow_rank": 4,
+      "change_score": 76.66,
+      "flow_score": 79.65,
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "reason": "创新药+脑机接口+海南自贸区+国企",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "13:16:24",
+          "last_limit_up_time": "13:16:24",
+          "turnover_rate": 16.0,
+          "amount": 1076585692.86
+        },
+        {
+          "code": "603538",
+          "name": "美诺华",
+          "reason": "减肥药+机器人+定增CDMO",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:34:07",
+          "last_limit_up_time": "10:34:07",
+          "turnover_rate": 6.01,
+          "amount": 493560073.42
+        },
+        {
+          "code": "002923",
+          "name": "润都股份",
+          "reason": "原料药CEP证书+创新药+化学制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:08:12",
+          "last_limit_up_time": "13:08:12",
+          "turnover_rate": 4.25,
+          "amount": 110032545.76
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "仿制药一致性评价",
+      "concept_code": "308572",
+      "plate_code": "885856",
+      "heat_score": 77.41,
+      "change_pct": 4.8,
+      "net_inflow_yi": 37.18,
+      "change_rank": 9,
+      "flow_rank": 6,
+      "change_score": 76.33,
+      "flow_score": 78.73,
+      "limit_up_count": 8,
+      "limit_up_stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "reason": "创新药+脑机接口+海南自贸区+国企",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "13:16:24",
+          "last_limit_up_time": "13:16:24",
+          "turnover_rate": 16.0,
+          "amount": 1076585692.86
+        },
+        {
+          "code": "002326",
+          "name": "永太科技",
+          "reason": "中报预增+锂电材料+氟化液",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:42",
+          "last_limit_up_time": "09:39:42",
+          "turnover_rate": 7.22,
+          "amount": 1493090002.97
+        },
+        {
+          "code": "688247",
+          "name": "宣泰医药",
+          "reason": "CRO/CMO+国企改革+高端仿制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:44:55",
+          "last_limit_up_time": "11:10:04",
+          "turnover_rate": 2.92,
+          "amount": 114095737.43
+        },
+        {
+          "code": "603567",
+          "name": "珍宝岛",
+          "reason": "中成药集采+中药全产业链",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:03:49",
+          "last_limit_up_time": "13:03:49",
+          "turnover_rate": 3.51,
+          "amount": 151595538.15
+        },
+        {
+          "code": "002940",
+          "name": "昂利康",
+          "reason": "定增+创新药+化学制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:07:39",
+          "last_limit_up_time": "14:09:09",
+          "turnover_rate": 11.42,
+          "amount": 590536065.05
+        },
+        {
+          "code": "002923",
+          "name": "润都股份",
+          "reason": "原料药CEP证书+创新药+化学制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:08:12",
+          "last_limit_up_time": "13:08:12",
+          "turnover_rate": 4.25,
+          "amount": 110032545.76
+        },
+        {
+          "code": "688553",
+          "name": "汇宇制药",
+          "reason": "创新药+临床试验获批+仿制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:28:51",
+          "last_limit_up_time": "14:35:42",
+          "turnover_rate": 7.47,
+          "amount": 455217324.8
+        },
+        {
+          "code": "002826",
+          "name": "易明医药",
+          "reason": "米格列醇片+设立AI公司+获大额补助",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:16:42",
+          "last_limit_up_time": "14:16:42",
+          "turnover_rate": 4.4,
+          "amount": 128213048.0
+        }
+      ]
+    },
+    {
+      "rank": 8,
       "name": "PVDF概念",
       "concept_code": "308742",
       "plate_code": "885931",
-      "heat_score": 83.31,
+      "heat_score": 77.3,
       "change_pct": 5.59,
       "net_inflow_yi": 1.13,
       "change_rank": 4,
       "flow_rank": 117,
       "change_score": 84.91,
-      "flow_score": 81.35,
-      "limit_up_count": 3,
+      "flow_score": 68.0,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "002407",
@@ -133,66 +519,24 @@
           "amount": 3591135342.67
         },
         {
-          "code": "600378",
-          "name": "昊华科技",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "09:52:22",
-          "last_limit_up_time": "14:49:25",
-          "turnover_rate": 12.74,
-          "amount": 11145300093.89
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "肝炎概念",
-      "concept_code": "308915",
-      "plate_code": "885989",
-      "heat_score": 81.82,
-      "change_pct": 4.83,
-      "net_inflow_yi": 40.26,
-      "change_rank": 8,
-      "flow_rank": 4,
-      "change_score": 76.66,
-      "flow_score": 88.14,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
+          "code": "300343",
+          "name": "联创股份",
+          "reason": "氟化工+第四代制冷剂+PVDF",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:11:39",
+          "last_limit_up_time": "13:31:54",
+          "turnover_rate": 8.7,
+          "amount": 600047945.25
+        },
         {
-          "code": "000566",
-          "name": "海南海药",
-          "reason": "创新药+脑机接口+海南自贸区+国企",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "13:16:24",
-          "last_limit_up_time": "13:16:24",
-          "turnover_rate": 16.0,
-          "amount": 1076585692.86
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "猴痘概念",
-      "concept_code": "308941",
-      "plate_code": "885994",
-      "heat_score": 81.67,
-      "change_pct": 5.01,
-      "net_inflow_yi": 24.53,
-      "change_rank": 6,
-      "flow_rank": 21,
-      "change_score": 78.61,
-      "flow_score": 85.41,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "000566",
-          "name": "海南海药",
-          "reason": "创新药+脑机接口+海南自贸区+国企",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "13:16:24",
-          "last_limit_up_time": "13:16:24",
-          "turnover_rate": 16.0,
-          "amount": 1076585692.86
+          "code": "600673",
+          "name": "东阳光",
+          "reason": "算力大单+收购秦淮数据+人形机器人",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:18:49",
+          "last_limit_up_time": "13:57:30",
+          "turnover_rate": 4.02,
+          "amount": 4257665867.19
         }
       ]
     },
@@ -201,29 +545,60 @@
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 81.62,
+      "heat_score": 77.02,
       "change_pct": 4.98,
       "net_inflow_yi": 26.21,
       "change_rank": 7,
       "flow_rank": 19,
       "change_score": 78.28,
-      "flow_score": 85.7,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "flow_score": 75.47,
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "300487",
+          "name": "蓝晓科技",
+          "reason": "超纯水+存储芯片+盐湖提锂+生命科学",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:15:48",
+          "last_limit_up_time": "10:51:18",
+          "turnover_rate": 6.39,
+          "amount": 1340227084.1
+        },
+        {
+          "code": "603538",
+          "name": "美诺华",
+          "reason": "减肥药+机器人+定增CDMO",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:34:07",
+          "last_limit_up_time": "10:34:07",
+          "turnover_rate": 6.01,
+          "amount": 493560073.42
+        },
+        {
+          "code": "301092",
+          "name": "争光股份",
+          "reason": "半导体超纯水树脂+超纯水制备+可转债",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:10:09",
+          "last_limit_up_time": "13:10:09",
+          "turnover_rate": 10.29,
+          "amount": 278992732.96
+        }
+      ]
     },
     {
       "rank": 10,
-      "name": "仿制药一致性评价",
-      "concept_code": "308572",
-      "plate_code": "885856",
-      "heat_score": 81.4,
-      "change_pct": 4.8,
-      "net_inflow_yi": 37.18,
-      "change_rank": 9,
-      "flow_rank": 6,
-      "change_score": 76.33,
-      "flow_score": 87.6,
-      "limit_up_count": 1,
+      "name": "猴痘概念",
+      "concept_code": "308941",
+      "plate_code": "885994",
+      "heat_score": 76.97,
+      "change_pct": 5.01,
+      "net_inflow_yi": 24.53,
+      "change_rank": 6,
+      "flow_rank": 21,
+      "change_score": 78.61,
+      "flow_score": 74.97,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "000566",
@@ -234,9 +609,19 @@
           "last_limit_up_time": "13:16:24",
           "turnover_rate": 16.0,
           "amount": 1076585692.86
+        },
+        {
+          "code": "002923",
+          "name": "润都股份",
+          "reason": "原料药CEP证书+创新药+化学制药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:08:12",
+          "last_limit_up_time": "13:08:12",
+          "turnover_rate": 4.25,
+          "amount": 110032545.76
         }
       ]
     }
   ],
-  "all_count": 295
+  "all_count": 294
 }
