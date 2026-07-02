@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02 10:21:40",
-  "latest_trade_date": "2026-07-02",
+  "generated_at": "2026-07-02 12:34:07",
+  "latest_trade_date": "2026-07-01",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -24,8 +24,39 @@
       "flow_rank": 145,
       "change_score": 100.0,
       "flow_score": 67.73,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "002458",
+          "name": "益生股份",
+          "reason": "中报预增+白羽肉鸡+种猪放量",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:30:57",
+          "last_limit_up_time": "09:48:51",
+          "turnover_rate": 10.83,
+          "amount": 976273988.27
+        },
+        {
+          "code": "000601",
+          "name": "韶能股份",
+          "reason": "业绩预增+清洁能源改造+算电协同",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:31:09",
+          "last_limit_up_time": "09:33:39",
+          "turnover_rate": 6.9,
+          "amount": 506998070.97
+        },
+        {
+          "code": "002326",
+          "name": "永太科技",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:52:00",
+          "last_limit_up_time": "13:56:51",
+          "turnover_rate": 26.42,
+          "amount": 5988741379.69
+        }
+      ]
     },
     {
       "rank": 2,
@@ -54,8 +85,29 @@
       "flow_rank": 6,
       "change_score": 75.65,
       "flow_score": 88.54,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "301092",
+          "name": "争光股份",
+          "reason": "半导体超纯水+离子交换树脂+核电+减肥药",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:35:36",
+          "last_limit_up_time": "09:42:03",
+          "turnover_rate": 15.46,
+          "amount": 540178704.45
+        },
+        {
+          "code": "002167",
+          "name": "东方锆业",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:31:15",
+          "last_limit_up_time": "14:38:57",
+          "turnover_rate": 26.16,
+          "amount": 5096818540.49
+        }
+      ]
     },
     {
       "rank": 4,
@@ -69,8 +121,19 @@
       "flow_rank": 117,
       "change_score": 90.9,
       "flow_score": 69.73,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "reason": "创新药+脑机接口+海南自贸区+国企",
+          "consecutive_boards": 4,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "10:16:00",
+          "turnover_rate": 9.53,
+          "amount": 745451405.12
+        }
+      ]
     },
     {
       "rank": 5,
@@ -99,8 +162,39 @@
       "flow_rank": 5,
       "change_score": 72.52,
       "flow_score": 88.75,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "002971",
+          "name": "和远气体",
+          "reason": "六氟化钨+电子特气+氟化工",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:40:57",
+          "last_limit_up_time": "09:45:03",
+          "turnover_rate": 15.14,
+          "amount": 1717412474.76
+        },
+        {
+          "code": "603505",
+          "name": "金石资源",
+          "reason": "制冷剂涨价+萤石龙头+AI液冷",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "11:28:22",
+          "last_limit_up_time": "14:46:55",
+          "turnover_rate": 12.73,
+          "amount": 2514932729.9
+        },
+        {
+          "code": "002326",
+          "name": "永太科技",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:52:00",
+          "last_limit_up_time": "13:56:51",
+          "turnover_rate": 26.42,
+          "amount": 5988741379.69
+        }
+      ]
     },
     {
       "rank": 7,
@@ -129,8 +223,19 @@
       "flow_rank": 11,
       "change_score": 75.47,
       "flow_score": 82.6,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "000566",
+          "name": "海南海药",
+          "reason": "创新药+脑机接口+海南自贸区+国企",
+          "consecutive_boards": 4,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "10:16:00",
+          "turnover_rate": 9.53,
+          "amount": 745451405.12
+        }
+      ]
     },
     {
       "rank": 9,
