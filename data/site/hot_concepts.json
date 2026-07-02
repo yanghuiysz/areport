@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02 07:48:10",
+  "generated_at": "2026-07-02 10:21:40",
   "latest_trade_date": "2026-07-02",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,49 +24,8 @@
       "flow_rank": 145,
       "change_score": 100.0,
       "flow_score": 67.73,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "002458",
-          "name": "益生股份",
-          "reason": "中报预增+白羽肉鸡+种猪放量",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:57",
-          "last_limit_up_time": "09:48:51",
-          "turnover_rate": 10.83,
-          "amount": 976273988.27
-        },
-        {
-          "code": "000601",
-          "name": "韶能股份",
-          "reason": "业绩预增+清洁能源改造+算电协同",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:31:09",
-          "last_limit_up_time": "09:33:39",
-          "turnover_rate": 6.9,
-          "amount": 506998070.97
-        },
-        {
-          "code": "002979",
-          "name": "雷赛智能",
-          "reason": "2026中报预增+人形机器人+灵巧手",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
-          "turnover_rate": 1.59,
-          "amount": 224566782.78
-        },
-        {
-          "code": "002998",
-          "name": "优彩资源",
-          "reason": "2026中报预增+再生涤纶+产品价格修复",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:31:15",
-          "turnover_rate": 3.59,
-          "amount": 74079177.5
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 2,
@@ -80,19 +39,8 @@
       "flow_rank": 16,
       "change_score": 85.37,
       "flow_score": 77.03,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600172",
-          "name": "黄河旋风",
-          "reason": "培育钻石+金刚石散热+许昌国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:37:33",
-          "last_limit_up_time": "10:37:33",
-          "turnover_rate": 18.54,
-          "amount": 4054534540.56
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 3,
@@ -106,29 +54,8 @@
       "flow_rank": 6,
       "change_score": 75.65,
       "flow_score": 88.54,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "301092",
-          "name": "争光股份",
-          "reason": "半导体超纯水+离子交换树脂+核电+减肥药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:35:36",
-          "last_limit_up_time": "09:42:03",
-          "turnover_rate": 15.46,
-          "amount": 540178704.45
-        },
-        {
-          "code": "600988",
-          "name": "赤峰黄金",
-          "reason": "黄金+紫金矿业入主",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:34:34",
-          "last_limit_up_time": "10:34:34",
-          "turnover_rate": 4.04,
-          "amount": 1842571246.06
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 4,
@@ -142,59 +69,8 @@
       "flow_rank": 117,
       "change_score": 90.9,
       "flow_score": 69.73,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "000566",
-          "name": "海南海药",
-          "reason": "创新药+脑机接口+海南自贸区+国企",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:30:00",
-          "last_limit_up_time": "10:16:00",
-          "turnover_rate": 9.53,
-          "amount": 745451405.12
-        },
-        {
-          "code": "000572",
-          "name": "海马汽车",
-          "reason": "海南自贸港+氢能汽车+换电+出口",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:36",
-          "last_limit_up_time": "09:38:36",
-          "turnover_rate": 2.71,
-          "amount": 180256300.63
-        },
-        {
-          "code": "000955",
-          "name": "欣龙控股",
-          "reason": "海南自贸区+非织造材料+转型升级",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:03",
-          "last_limit_up_time": "09:41:03",
-          "turnover_rate": 2.2,
-          "amount": 56705493.9
-        },
-        {
-          "code": "002596",
-          "name": "海南瑞泽",
-          "reason": "海南自贸区+商品混凝土+封关红利",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:46:39",
-          "last_limit_up_time": "09:46:39",
-          "turnover_rate": 2.17,
-          "amount": 78125303.46
-        },
-        {
-          "code": "002693",
-          "name": "双成药业",
-          "reason": "许可协议+紫杉醇+海南自贸区+扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:52:03",
-          "last_limit_up_time": "13:52:03",
-          "turnover_rate": 8.82,
-          "amount": 369980385.95
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
@@ -208,19 +84,8 @@
       "flow_rank": 23,
       "change_score": 85.55,
       "flow_score": 75.13,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "300740",
-          "name": "水羊股份",
-          "reason": "高奢美妆+拼多多概念+毛发医疗",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:23:48",
-          "last_limit_up_time": "11:29:42",
-          "turnover_rate": 9.97,
-          "amount": 743594650.33
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 6,
@@ -234,79 +99,8 @@
       "flow_rank": 5,
       "change_score": 72.52,
       "flow_score": 88.75,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "002971",
-          "name": "和远气体",
-          "reason": "六氟化钨+电子特气+氟化工",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:40:57",
-          "last_limit_up_time": "09:45:03",
-          "turnover_rate": 15.14,
-          "amount": 1717412474.76
-        },
-        {
-          "code": "603505",
-          "name": "金石资源",
-          "reason": "制冷剂涨价+萤石龙头+AI液冷",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "11:28:22",
-          "last_limit_up_time": "14:46:55",
-          "turnover_rate": 12.73,
-          "amount": 2514932729.9
-        },
-        {
-          "code": "002250",
-          "name": "联化科技",
-          "reason": "创新药+六氟磷酸锂+新能源+分红",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:51",
-          "last_limit_up_time": "09:41:51",
-          "turnover_rate": 2.07,
-          "amount": 282728229.17
-        },
-        {
-          "code": "603717",
-          "name": "天域生物",
-          "reason": "生猪养殖+拟设AI公司+功能性红曲+光伏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:44:30",
-          "last_limit_up_time": "09:44:30",
-          "turnover_rate": 5.17,
-          "amount": 96652920.0
-        },
-        {
-          "code": "601678",
-          "name": "滨化股份",
-          "reason": "H股招股+电子级氢氟酸+环氧丙烷",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:50:07",
-          "last_limit_up_time": "09:50:07",
-          "turnover_rate": 11.41,
-          "amount": 1712148040.7
-        },
-        {
-          "code": "002584",
-          "name": "西陇科学",
-          "reason": "PCB用化学试剂+氢氟酸+磷化工",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:48:36",
-          "last_limit_up_time": "11:27:48",
-          "turnover_rate": 23.48,
-          "amount": 1148236184.2
-        },
-        {
-          "code": "605020",
-          "name": "永和股份",
-          "reason": "制冷剂涨价+高端氟材料+氟化工",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:20:52",
-          "last_limit_up_time": "14:53:34",
-          "turnover_rate": 12.67,
-          "amount": 2934174435.14
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 7,
@@ -335,49 +129,8 @@
       "flow_rank": 11,
       "change_score": 75.47,
       "flow_score": 82.6,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "000566",
-          "name": "海南海药",
-          "reason": "创新药+脑机接口+海南自贸区+国企",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:30:00",
-          "last_limit_up_time": "10:16:00",
-          "turnover_rate": 9.53,
-          "amount": 745451405.12
-        },
-        {
-          "code": "000592",
-          "name": "平潭发展",
-          "reason": "海峡两岸+林业+林板一体化",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:24",
-          "last_limit_up_time": "09:39:24",
-          "turnover_rate": 4.45,
-          "amount": 642012135.28
-        },
-        {
-          "code": "000955",
-          "name": "欣龙控股",
-          "reason": "海南自贸区+非织造材料+转型升级",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:03",
-          "last_limit_up_time": "09:41:03",
-          "turnover_rate": 2.2,
-          "amount": 56705493.9
-        },
-        {
-          "code": "000700",
-          "name": "模塑科技",
-          "reason": "人形机器人+保险杠龙头+金融资产出售",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:09:30",
-          "last_limit_up_time": "10:18:39",
-          "turnover_rate": 12.39,
-          "amount": 1877232158.22
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 9,
@@ -391,19 +144,8 @@
       "flow_rank": 67,
       "change_score": 83.14,
       "flow_score": 72.35,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "000656",
-          "name": "金科股份",
-          "reason": "摘帽+地产开发+不动产综合运营",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
-          "turnover_rate": 0.08,
-          "amount": 7426764.24
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
