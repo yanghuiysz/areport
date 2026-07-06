@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06 08:41:29",
-  "latest_trade_date": "2026-07-02",
+  "generated_at": "2026-07-06 11:48:52",
+  "latest_trade_date": "2026-07-06",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -114,19 +114,8 @@
       "flow_rank": 15,
       "change_score": 76.68,
       "flow_score": 78.49,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "603538",
-          "name": "美诺华",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:23:35",
-          "last_limit_up_time": "10:23:35",
-          "turnover_rate": 29.89,
-          "amount": 2935460071.28
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 8,

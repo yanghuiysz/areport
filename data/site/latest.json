@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06 08:40:36",
+  "generated_at": "2026-07-06 11:47:13",
   "latest_trade_date": "2026-07-06",
   "summary": [
     {
@@ -20,9 +20,9 @@
     },
     {
       "date": "2026-07-04",
-      "up_count": null,
-      "down_count": null,
-      "flat_count": null,
+      "up_count": 1504,
+      "down_count": 2608,
+      "flat_count": 88,
       "limit_up_count": 0,
       "limit_down_count": 0
     }
