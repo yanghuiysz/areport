@@ -1,113 +1,34 @@
 {
-  "generated_at": "2026-07-08 09:38:33",
-  "latest_trade_date": "2026-07-04",
+  "generated_at": "2026-07-08 12:06:04",
+  "latest_trade_date": "2026-07-07",
   "summary": [
     {
-      "date": "2026-07-04",
-      "up_count": 1107,
-      "down_count": 3128,
-      "flat_count": 88,
-      "limit_up_count": 5,
-      "limit_down_count": 24
+      "date": "2026-07-07",
+      "up_count": null,
+      "down_count": null,
+      "flat_count": null,
+      "limit_up_count": 33,
+      "limit_down_count": 30
     },
     {
-      "date": "2026-07-03",
-      "up_count": 3704,
-      "down_count": 1628,
-      "flat_count": 84,
-      "limit_up_count": 5,
-      "limit_down_count": 24
+      "date": "2026-07-06",
+      "up_count": 1476,
+      "down_count": 3541,
+      "flat_count": 100,
+      "limit_up_count": 64,
+      "limit_down_count": 46
     },
     {
-      "date": "2026-07-02",
-      "up_count": 2219,
-      "down_count": 3062,
-      "flat_count": 136,
-      "limit_up_count": 4,
-      "limit_down_count": 41
+      "date": "2026-07-05",
+      "up_count": 1568,
+      "down_count": 3716,
+      "flat_count": 139,
+      "limit_up_count": 5,
+      "limit_down_count": 24
     }
   ],
   "limit_up_details_by_date": {
-    "2026-07-02": [
-      {
-        "code": "603928",
-        "name": "兴业股份",
-        "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-        "concepts": [
-          "丙烯酸",
-          "锂电池概念",
-          "光刻胶",
-          "3D打印",
-          "高铁",
-          "新能源汽车",
-          "芯片概念",
-          "在线教育",
-          "大飞机",
-          "风电",
-          "先进封装"
-        ],
-        "amount": 782897083.42,
-        "turnover_rate": 14.39,
-        "first_limit_up_time": "09:44:38",
-        "last_limit_up_time": "09:54:23",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000506",
-        "name": "招金黄金",
-        "reason": "黄金+一季报扭亏+国企",
-        "concepts": [
-          "黄金概念",
-          "金属铜",
-          "小金属概念",
-          "一带一路",
-          "股权转让(并购重组)",
-          "人民币贬值受益",
-          "国企改革",
-          "深股通"
-        ],
-        "amount": 644917144.24,
-        "turnover_rate": 5.43,
-        "first_limit_up_time": "10:00:27",
-        "last_limit_up_time": "10:00:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002674",
-        "name": "兴业科技",
-        "reason": "磷化铟收购+机器人电子皮肤+汽车内饰皮革",
-        "concepts": [
-          "华为汽车",
-          "PPP概念",
-          "固废处理",
-          "海峡两岸"
-        ],
-        "amount": 742043935.99,
-        "turnover_rate": 9.15,
-        "first_limit_up_time": "10:46:06",
-        "last_limit_up_time": "10:46:45",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603137",
-        "name": "恒尚节能",
-        "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-        "concepts": [
-          "装配式建筑",
-          "建筑节能",
-          "新型城镇化",
-          "光伏建筑一体化",
-          "股权转让(并购重组)",
-          "融资融券"
-        ],
-        "amount": 1070203844.88,
-        "turnover_rate": 25.54,
-        "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "14:23:06",
-        "consecutive_boards": 7
-      }
-    ],
-    "2026-07-03": [
+    "2026-07-05": [
       {
         "code": "002677",
         "name": "浙江美大",
@@ -237,624 +158,1080 @@
         "consecutive_boards": 0
       }
     ],
-    "2026-07-04": [
+    "2026-07-06": [
       {
-        "code": "002677",
-        "name": "浙江美大",
-        "reason": "AI厨电+集成灶龙头+智能驾驶",
-        "concepts": [
-          "净水概念",
-          "长三角一体化",
-          "智能家居",
-          "人工智能",
-          "家用电器",
-          "无人驾驶",
-          "深股通"
-        ],
-        "amount": 132586934.91,
-        "turnover_rate": 3.85,
-        "first_limit_up_time": "13:09:51",
-        "last_limit_up_time": "13:39:27",
-        "consecutive_boards": 1
+        "code": "000656",
+        "name": "金科股份",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 751158880.0,
+        "turnover_rate": 6.93,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:37:30",
+        "consecutive_boards": 3
       },
       {
         "code": "002396",
         "name": "星网锐捷",
-        "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-        "concepts": [
-          "WiFi",
-          "6",
-          "F5G概念",
-          "共封装光学(CPO)",
-          "5G",
-          "数据中心(AIDC)",
-          "网络安全",
-          "物联网",
-          "华为概念",
-          "信创",
-          "车联网(车路协同)",
-          "机器人概念",
-          "智能家居",
-          "阿里巴巴概念",
-          "抖音概念(字节概念)",
-          "腾讯概念",
-          "海峡两岸",
-          "脑机接口",
-          "数字货币",
-          "移动支付",
-          "鸿蒙概念",
-          "人工智能",
-          "福建自贸区",
-          "DeepSeek概念",
-          "AIGC概念",
-          "AI应用",
-          "在线教育",
-          "互联网金融",
-          "文化传媒概念",
-          "国企改革",
-          "深股通",
-          "融资融券",
-          "证金持股"
-        ],
-        "amount": 1563518118.71,
-        "turnover_rate": 7.3,
-        "first_limit_up_time": "09:34:57",
-        "last_limit_up_time": "09:34:57",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 1155247424.0,
+        "turnover_rate": 5.94,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:38:57",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002607",
+        "name": "中公教育",
+        "reason": "教育",
+        "concepts": [],
+        "amount": 188785817.0,
+        "turnover_rate": 1.63,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
       },
       {
-        "code": "000506",
-        "name": "招金黄金",
-        "reason": "黄金+一季报扭亏+国企",
-        "concepts": [
-          "黄金概念",
-          "金属铜",
-          "小金属概念",
-          "一带一路",
-          "股权转让(并购重组)",
-          "人民币贬值受益",
-          "国企改革",
-          "深股通"
-        ],
-        "amount": 644917144.24,
-        "turnover_rate": 5.43,
-        "first_limit_up_time": "10:00:27",
-        "last_limit_up_time": "10:00:27",
+        "code": "002042",
+        "name": "华孚时尚",
+        "reason": "纺织制造",
+        "concepts": [],
+        "amount": 147309648.0,
+        "turnover_rate": 2.25,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:31:33",
         "consecutive_boards": 1
       },
       {
         "code": "603137",
         "name": "恒尚节能",
-        "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-        "concepts": [
-          "装配式建筑",
-          "建筑节能",
-          "新型城镇化",
-          "光伏建筑一体化",
-          "股权转让(并购重组)",
-          "融资融券"
-        ],
-        "amount": 1070203844.88,
-        "turnover_rate": 25.54,
+        "reason": "装修装饰",
+        "concepts": [],
+        "amount": 13721272.0,
+        "turnover_rate": 0.4,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 5
+      },
+      {
+        "code": "603722",
+        "name": "阿科力",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 25902954.0,
+        "turnover_rate": 0.62,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002245",
+        "name": "蔚蓝锂芯",
+        "reason": "电池",
+        "concepts": [],
+        "amount": 3022765056.0,
+        "turnover_rate": 8.5,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "11:05:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002767",
+        "name": "先锋电子",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 37718599.0,
+        "turnover_rate": 1.47,
+        "first_limit_up_time": "09:30:30",
+        "last_limit_up_time": "09:30:30",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001287",
+        "name": "中电港",
+        "reason": "其他电子",
+        "concepts": [],
+        "amount": 956947488.0,
+        "turnover_rate": 4.04,
+        "first_limit_up_time": "09:31:54",
+        "last_limit_up_time": "09:31:54",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002141",
+        "name": "贤丰控股",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 1002921808.0,
+        "turnover_rate": 17.37,
+        "first_limit_up_time": "09:32:03",
+        "last_limit_up_time": "11:05:51",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603211",
+        "name": "晋拓股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 539492528.0,
+        "turnover_rate": 5.08,
+        "first_limit_up_time": "09:32:05",
+        "last_limit_up_time": "09:38:35",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002403",
+        "name": "爱仕达",
+        "reason": "小家电",
+        "concepts": [],
+        "amount": 87819986.0,
+        "turnover_rate": 2.55,
+        "first_limit_up_time": "09:33:24",
+        "last_limit_up_time": "09:33:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603067",
+        "name": "振华股份",
+        "reason": "化学原料",
+        "concepts": [],
+        "amount": 494836192.0,
+        "turnover_rate": 1.36,
+        "first_limit_up_time": "09:33:28",
+        "last_limit_up_time": "09:33:28",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000892",
+        "name": "欢瑞世纪",
+        "reason": "影视院线",
+        "concepts": [],
+        "amount": 188295888.0,
+        "turnover_rate": 7.23,
+        "first_limit_up_time": "09:35:12",
+        "last_limit_up_time": "09:35:12",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605196",
+        "name": "华通线缆",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 196483617.0,
+        "turnover_rate": 1.36,
+        "first_limit_up_time": "09:35:32",
+        "last_limit_up_time": "09:35:32",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600793",
+        "name": "宜宾纸业",
+        "reason": "造纸",
+        "concepts": [],
+        "amount": 321431888.0,
+        "turnover_rate": 10.48,
+        "first_limit_up_time": "09:36:18",
+        "last_limit_up_time": "10:42:42",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "002828",
+        "name": "贝肯能源",
+        "reason": "油服工程",
+        "concepts": [],
+        "amount": 227136022.0,
+        "turnover_rate": 10.03,
+        "first_limit_up_time": "09:36:39",
+        "last_limit_up_time": "09:36:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002989",
+        "name": "中天精装",
+        "reason": "装修装饰",
+        "concepts": [],
+        "amount": 171815558.0,
+        "turnover_rate": 2.64,
+        "first_limit_up_time": "09:37:30",
+        "last_limit_up_time": "09:37:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603155",
+        "name": "新亚强",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 363643408.0,
+        "turnover_rate": 3.95,
+        "first_limit_up_time": "09:37:33",
+        "last_limit_up_time": "09:37:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605060",
+        "name": "XD联德股",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 472517232.0,
+        "turnover_rate": 3.47,
+        "first_limit_up_time": "09:37:34",
+        "last_limit_up_time": "11:12:22",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603269",
+        "name": "海鸥股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 722698384.0,
+        "turnover_rate": 9.75,
+        "first_limit_up_time": "09:38:19",
+        "last_limit_up_time": "10:26:22",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000545",
+        "name": "金浦钛业",
+        "reason": "化学原料",
+        "concepts": [],
+        "amount": 153496373.0,
+        "turnover_rate": 5.86,
+        "first_limit_up_time": "09:38:39",
+        "last_limit_up_time": "09:38:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002774",
+        "name": "快意电梯",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 81937378.0,
+        "turnover_rate": 1.87,
+        "first_limit_up_time": "09:39:42",
+        "last_limit_up_time": "09:39:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603903",
+        "name": "中持股份",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 620088448.0,
+        "turnover_rate": 15.83,
+        "first_limit_up_time": "09:40:08",
+        "last_limit_up_time": "13:21:17",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600215",
+        "name": "派斯林",
+        "reason": "自动化设",
+        "concepts": [],
+        "amount": 218338593.0,
+        "turnover_rate": 7.07,
+        "first_limit_up_time": "09:40:12",
+        "last_limit_up_time": "13:05:57",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603020",
+        "name": "爱普股份",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 141429615.0,
+        "turnover_rate": 2.6,
+        "first_limit_up_time": "09:42:16",
+        "last_limit_up_time": "09:42:16",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688206",
+        "name": "概伦电子",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 1151606400.0,
+        "turnover_rate": 5.58,
+        "first_limit_up_time": "09:43:09",
+        "last_limit_up_time": "11:11:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002815",
+        "name": "崇达技术",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 1251880896.0,
+        "turnover_rate": 10.01,
+        "first_limit_up_time": "09:43:30",
+        "last_limit_up_time": "11:20:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000593",
+        "name": "德龙汇能",
+        "reason": "燃气Ⅱ",
+        "concepts": [],
+        "amount": 415247408.0,
+        "turnover_rate": 4.86,
+        "first_limit_up_time": "09:44:21",
+        "last_limit_up_time": "09:44:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603268",
+        "name": "松发股份",
+        "reason": "航海装备",
+        "concepts": [],
+        "amount": 2267666880.0,
+        "turnover_rate": 6.03,
+        "first_limit_up_time": "09:44:35",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603201",
+        "name": "常润股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 82764932.0,
+        "turnover_rate": 2.88,
+        "first_limit_up_time": "09:44:43",
+        "last_limit_up_time": "09:44:43",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603819",
+        "name": "神力股份",
+        "reason": "电机Ⅱ",
+        "concepts": [],
+        "amount": 183478036.0,
+        "turnover_rate": 6.25,
+        "first_limit_up_time": "09:44:55",
+        "last_limit_up_time": "10:20:13",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603757",
+        "name": "大元泵业",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 1222250288.0,
+        "turnover_rate": 8.47,
+        "first_limit_up_time": "09:45:48",
+        "last_limit_up_time": "11:03:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600172",
+        "name": "黄河旋风",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 5247581952.0,
+        "turnover_rate": 22.58,
+        "first_limit_up_time": "09:46:22",
+        "last_limit_up_time": "11:00:46",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002329",
+        "name": "皇氏集团",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 216752330.0,
+        "turnover_rate": 10.39,
+        "first_limit_up_time": "09:47:30",
+        "last_limit_up_time": "10:05:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603861",
+        "name": "白云电器",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 266318335.0,
+        "turnover_rate": 3.73,
+        "first_limit_up_time": "09:49:33",
+        "last_limit_up_time": "09:49:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300684",
+        "name": "中石科技",
+        "reason": "电子化学",
+        "concepts": [],
+        "amount": 3357374944.0,
+        "turnover_rate": 22.79,
+        "first_limit_up_time": "09:50:12",
+        "last_limit_up_time": "14:29:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603090",
+        "name": "宏盛股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 375681120.0,
+        "turnover_rate": 6.94,
+        "first_limit_up_time": "09:52:11",
+        "last_limit_up_time": "10:09:14",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600470",
+        "name": "六国化工",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 416813632.0,
+        "turnover_rate": 12.23,
+        "first_limit_up_time": "09:53:53",
+        "last_limit_up_time": "10:04:05",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002793",
+        "name": "罗欣药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 282015648.0,
+        "turnover_rate": 5.61,
+        "first_limit_up_time": "10:07:36",
+        "last_limit_up_time": "13:17:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603221",
+        "name": "爱丽家居",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 87623404.0,
+        "turnover_rate": 3.19,
+        "first_limit_up_time": "10:59:48",
+        "last_limit_up_time": "11:03:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002025",
+        "name": "航天电器",
+        "reason": "军工电子",
+        "concepts": [],
+        "amount": 2522432144.0,
+        "turnover_rate": 6.35,
+        "first_limit_up_time": "11:12:51",
+        "last_limit_up_time": "11:12:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605377",
+        "name": "华旺科技",
+        "reason": "造纸",
+        "concepts": [],
+        "amount": 176082210.0,
+        "turnover_rate": 3.38,
+        "first_limit_up_time": "11:15:52",
+        "last_limit_up_time": "11:22:49",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603931",
+        "name": "格林达",
+        "reason": "电子化学",
+        "concepts": [],
+        "amount": 647888000.0,
+        "turnover_rate": 5.69,
+        "first_limit_up_time": "11:18:22",
+        "last_limit_up_time": "11:23:58",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600288",
+        "name": "大恒科技",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 320408240.0,
+        "turnover_rate": 5.35,
+        "first_limit_up_time": "11:26:47",
+        "last_limit_up_time": "11:26:47",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688039",
+        "name": "当虹科技",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 335890032.0,
+        "turnover_rate": 7.34,
+        "first_limit_up_time": "11:27:58",
+        "last_limit_up_time": "11:27:58",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600246",
+        "name": "万通发展",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 2085796288.0,
+        "turnover_rate": 6.85,
+        "first_limit_up_time": "11:29:18",
+        "last_limit_up_time": "11:29:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002910",
+        "name": "庄园牧场",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 308392160.0,
+        "turnover_rate": 15.36,
+        "first_limit_up_time": "13:00:36",
+        "last_limit_up_time": "13:00:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002860",
+        "name": "星帅尔",
+        "reason": "家电零部",
+        "concepts": [],
+        "amount": 724188624.0,
+        "turnover_rate": 12.37,
+        "first_limit_up_time": "13:03:42",
+        "last_limit_up_time": "13:15:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600241",
+        "name": "时代万恒",
+        "reason": "电池",
+        "concepts": [],
+        "amount": 116359550.0,
+        "turnover_rate": 5.52,
+        "first_limit_up_time": "13:04:09",
+        "last_limit_up_time": "13:14:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600791",
+        "name": "京能置业",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 212920443.0,
+        "turnover_rate": 5.5,
+        "first_limit_up_time": "13:05:42",
+        "last_limit_up_time": "13:05:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301317",
+        "name": "鑫磊股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 368279856.0,
+        "turnover_rate": 12.11,
+        "first_limit_up_time": "13:06:15",
+        "last_limit_up_time": "13:06:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000066",
+        "name": "中国长城",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 3729009536.0,
+        "turnover_rate": 6.4,
+        "first_limit_up_time": "13:12:21",
+        "last_limit_up_time": "13:12:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603815",
+        "name": "交建股份",
+        "reason": "基础建设",
+        "concepts": [],
+        "amount": 109796538.0,
+        "turnover_rate": 3.04,
+        "first_limit_up_time": "13:18:38",
+        "last_limit_up_time": "13:18:38",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603477",
+        "name": "巨星农牧",
+        "reason": "养殖业",
+        "concepts": [],
+        "amount": 574832384.0,
+        "turnover_rate": 6.91,
+        "first_limit_up_time": "13:21:31",
+        "last_limit_up_time": "13:31:07",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301191",
+        "name": "菲菱科思",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 1699984944.0,
+        "turnover_rate": 18.9,
+        "first_limit_up_time": "13:39:15",
+        "last_limit_up_time": "13:39:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603118",
+        "name": "共进股份",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 914664352.0,
+        "turnover_rate": 9.13,
+        "first_limit_up_time": "13:41:32",
+        "last_limit_up_time": "13:41:32",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000938",
+        "name": "紫光股份",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 9933777920.0,
+        "turnover_rate": 11.04,
+        "first_limit_up_time": "13:46:24",
+        "last_limit_up_time": "13:46:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603375",
+        "name": "盛景微",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 257808298.0,
+        "turnover_rate": 8.36,
+        "first_limit_up_time": "13:47:55",
+        "last_limit_up_time": "13:47:55",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000301",
+        "name": "东方盛虹",
+        "reason": "炼化及贸",
+        "concepts": [],
+        "amount": 1586288016.0,
+        "turnover_rate": 1.78,
+        "first_limit_up_time": "14:11:33",
+        "last_limit_up_time": "14:13:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601368",
+        "name": "绿城水务",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 98115329.0,
+        "turnover_rate": 2.41,
+        "first_limit_up_time": "14:19:56",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002457",
+        "name": "青龙管业",
+        "reason": "装修建材",
+        "concepts": [],
+        "amount": 721692128.0,
+        "turnover_rate": 16.08,
+        "first_limit_up_time": "14:22:42",
+        "last_limit_up_time": "14:30:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002919",
+        "name": "名臣健康",
+        "reason": "游戏Ⅱ",
+        "concepts": [],
+        "amount": 205254080.0,
+        "turnover_rate": 3.66,
+        "first_limit_up_time": "14:31:48",
+        "last_limit_up_time": "14:31:48",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601101",
+        "name": "昊华能源",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 496650960.0,
+        "turnover_rate": 2.91,
+        "first_limit_up_time": "14:49:53",
+        "last_limit_up_time": "14:49:53",
+        "consecutive_boards": 1
+      }
+    ],
+    "2026-07-07": [
+      {
+        "code": "002841",
+        "name": "视源股份",
+        "reason": "消费电子",
+        "concepts": [],
+        "amount": 238093079.0,
+        "turnover_rate": 1.06,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002497",
+        "name": "雅化集团",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 437457072.0,
+        "turnover_rate": 1.67,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301251",
+        "name": "威尔高",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 214899764.0,
+        "turnover_rate": 5.6,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601121",
+        "name": "宝地矿业",
+        "reason": "冶钢原料",
+        "concepts": [],
+        "amount": 50482822.0,
+        "turnover_rate": 0.98,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603137",
+        "name": "恒尚节能",
+        "reason": "装修装饰",
+        "concepts": [],
+        "amount": 15183966.0,
+        "turnover_rate": 0.4,
         "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "14:23:06",
-        "consecutive_boards": 7
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 6
+      },
+      {
+        "code": "600120",
+        "name": "浙江东方",
+        "reason": "多元金融",
+        "concepts": [],
+        "amount": 141849205.0,
+        "turnover_rate": 0.85,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001229",
+        "name": "魅视科技",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 70328792.0,
+        "turnover_rate": 2.47,
+        "first_limit_up_time": "09:30:06",
+        "last_limit_up_time": "09:30:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000973",
+        "name": "佛塑科技",
+        "reason": "塑料",
+        "concepts": [],
+        "amount": 1442843984.0,
+        "turnover_rate": 10.3,
+        "first_limit_up_time": "09:31:03",
+        "last_limit_up_time": "13:45:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001311",
+        "name": "多利科技",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 66098081.0,
+        "turnover_rate": 1.94,
+        "first_limit_up_time": "09:31:45",
+        "last_limit_up_time": "09:31:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600288",
+        "name": "大恒科技",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 1869913040.0,
+        "turnover_rate": 27.84,
+        "first_limit_up_time": "09:34:06",
+        "last_limit_up_time": "14:51:48",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002951",
+        "name": "金时科技",
+        "reason": "其他电源",
+        "concepts": [],
+        "amount": 87552170.0,
+        "turnover_rate": 1.5,
+        "first_limit_up_time": "09:35:03",
+        "last_limit_up_time": "09:35:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603356",
+        "name": "华菱精工",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 87877445.0,
+        "turnover_rate": 3.74,
+        "first_limit_up_time": "09:35:26",
+        "last_limit_up_time": "09:35:26",
+        "consecutive_boards": 1
       },
       {
         "code": "603178",
         "name": "圣龙股份",
-        "reason": "其他",
-        "concepts": [
-          "减速器",
-          "汽车热管理",
-          "飞行汽车(eVTOL)",
-          "机器人概念",
-          "低空经济",
-          "长安汽车概念",
-          "共同富裕示范区",
-          "数字经济",
-          "无人驾驶",
-          "华为汽车",
-          "新能源汽车",
-          "比亚迪概念",
-          "融资融券",
-          "沪股通"
-        ],
-        "amount": 671911143.21,
-        "turnover_rate": 16.82,
-        "first_limit_up_time": "14:54:40",
-        "last_limit_up_time": "14:54:40",
-        "consecutive_boards": 0
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 147152966.0,
+        "turnover_rate": 3.89,
+        "first_limit_up_time": "09:35:53",
+        "last_limit_up_time": "09:35:53",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603065",
+        "name": "宿迁联盛",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 1350738528.0,
+        "turnover_rate": 16.49,
+        "first_limit_up_time": "09:37:32",
+        "last_limit_up_time": "14:40:50",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605118",
+        "name": "力鼎光电",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 204689356.0,
+        "turnover_rate": 1.33,
+        "first_limit_up_time": "09:37:35",
+        "last_limit_up_time": "09:40:08",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001365",
+        "name": "天海电子",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 337661968.0,
+        "turnover_rate": 13.72,
+        "first_limit_up_time": "09:38:18",
+        "last_limit_up_time": "09:38:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002585",
+        "name": "双星新材",
+        "reason": "塑料",
+        "concepts": [],
+        "amount": 481444992.0,
+        "turnover_rate": 4.92,
+        "first_limit_up_time": "09:43:15",
+        "last_limit_up_time": "09:43:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600206",
+        "name": "有研新材",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 4559045888.0,
+        "turnover_rate": 9.85,
+        "first_limit_up_time": "09:45:36",
+        "last_limit_up_time": "11:26:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600793",
+        "name": "宜宾纸业",
+        "reason": "造纸",
+        "concepts": [],
+        "amount": 321315280.0,
+        "turnover_rate": 9.55,
+        "first_limit_up_time": "09:46:37",
+        "last_limit_up_time": "09:46:37",
+        "consecutive_boards": 5
+      },
+      {
+        "code": "600246",
+        "name": "万通发展",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 4641980928.0,
+        "turnover_rate": 13.4,
+        "first_limit_up_time": "09:48:16",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603861",
+        "name": "白云电器",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 667597136.0,
+        "turnover_rate": 8.51,
+        "first_limit_up_time": "09:51:21",
+        "last_limit_up_time": "10:01:33",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001206",
+        "name": "依依股份",
+        "reason": "个护用品",
+        "concepts": [],
+        "amount": 154515203.0,
+        "turnover_rate": 7.6,
+        "first_limit_up_time": "09:52:30",
+        "last_limit_up_time": "09:52:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002137",
+        "name": "实益达",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 1120029792.0,
+        "turnover_rate": 25.26,
+        "first_limit_up_time": "09:53:57",
+        "last_limit_up_time": "13:13:54",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688432",
+        "name": "有研硅",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 3389040400.0,
+        "turnover_rate": 6.12,
+        "first_limit_up_time": "09:56:40",
+        "last_limit_up_time": "14:18:40",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002129",
+        "name": "TCL中环",
+        "reason": "光伏设备",
+        "concepts": [],
+        "amount": 3797452160.0,
+        "turnover_rate": 8.74,
+        "first_limit_up_time": "10:05:24",
+        "last_limit_up_time": "13:26:57",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301516",
+        "name": "中远通",
+        "reason": "其他电源",
+        "concepts": [],
+        "amount": 417897952.0,
+        "turnover_rate": 33.32,
+        "first_limit_up_time": "10:09:33",
+        "last_limit_up_time": "13:16:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605399",
+        "name": "晨光新材",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 144535988.0,
+        "turnover_rate": 3.31,
+        "first_limit_up_time": "10:22:21",
+        "last_limit_up_time": "10:22:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002185",
+        "name": "华天科技",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 11999102720.0,
+        "turnover_rate": 16.93,
+        "first_limit_up_time": "10:30:15",
+        "last_limit_up_time": "13:16:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603823",
+        "name": "百合花",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 2118297984.0,
+        "turnover_rate": 7.22,
+        "first_limit_up_time": "10:35:06",
+        "last_limit_up_time": "14:55:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600094",
+        "name": "大名城",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 122700371.0,
+        "turnover_rate": 1.57,
+        "first_limit_up_time": "10:58:33",
+        "last_limit_up_time": "10:58:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "003004",
+        "name": "声迅股份",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 259925160.0,
+        "turnover_rate": 4.91,
+        "first_limit_up_time": "11:08:54",
+        "last_limit_up_time": "11:08:54",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001230",
+        "name": "劲旅环境",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 97822555.0,
+        "turnover_rate": 5.32,
+        "first_limit_up_time": "13:10:54",
+        "last_limit_up_time": "13:18:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600360",
+        "name": "华微电子",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 2816069408.0,
+        "turnover_rate": 19.83,
+        "first_limit_up_time": "13:45:08",
+        "last_limit_up_time": "14:21:32",
+        "consecutive_boards": 1
       }
     ]
   },
   "limit_up_concepts_by_date": {
-    "2026-07-02": [
-      {
-        "concept": "光伏建筑一体化",
-        "concept_code": "308729",
-        "change_pct": -1.35,
-        "net_inflow_yi": -3.45,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "建筑节能",
-        "concept_code": "300261",
-        "change_pct": -1.13,
-        "net_inflow_yi": -18.21,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "装配式建筑",
-        "concept_code": "305794",
-        "change_pct": -0.13,
-        "net_inflow_yi": -8.71,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "3D打印",
-        "concept_code": "300127",
-        "change_pct": -3.07,
-        "net_inflow_yi": -37.45,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "丙烯酸",
-        "concept_code": "305376",
-        "change_pct": -1.65,
-        "net_inflow_yi": -8.74,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "先进封装",
-        "concept_code": "309004",
-        "change_pct": -2.53,
-        "net_inflow_yi": 27.04,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "光刻胶",
-        "concept_code": "308582",
-        "change_pct": -2.86,
-        "net_inflow_yi": 10.05,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "在线教育",
-        "concept_code": "301227",
-        "change_pct": 1.05,
-        "net_inflow_yi": 12.28,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "大飞机",
-        "concept_code": "300013",
-        "change_pct": -2.64,
-        "net_inflow_yi": -29.43,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "高铁",
-        "concept_code": "301518",
-        "change_pct": -1.85,
-        "net_inflow_yi": -11.55,
-        "count": 1,
-        "amount": 782897083.42,
-        "rows": [
-          {
-            "code": "603928",
-            "name": "兴业股份",
-            "reason": "半导体光刻胶+CVD硅碳负极+铸造树脂",
-            "concepts": [
-              "丙烯酸",
-              "锂电池概念",
-              "光刻胶",
-              "3D打印",
-              "高铁",
-              "新能源汽车",
-              "芯片概念",
-              "在线教育",
-              "大飞机",
-              "风电",
-              "先进封装"
-            ],
-            "amount": 782897083.42,
-            "turnover_rate": 14.39,
-            "first_limit_up_time": "09:44:38",
-            "last_limit_up_time": "09:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "PPP概念",
-        "concept_code": "301624",
-        "change_pct": -0.11,
-        "net_inflow_yi": 0.93,
-        "count": 1,
-        "amount": 742043935.99,
-        "rows": [
-          {
-            "code": "002674",
-            "name": "兴业科技",
-            "reason": "磷化铟收购+机器人电子皮肤+汽车内饰皮革",
-            "concepts": [
-              "华为汽车",
-              "PPP概念",
-              "固废处理",
-              "海峡两岸"
-            ],
-            "amount": 742043935.99,
-            "turnover_rate": 9.15,
-            "first_limit_up_time": "10:46:06",
-            "last_limit_up_time": "10:46:45",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "华为汽车",
-        "concept_code": "308507",
-        "change_pct": -2.53,
-        "net_inflow_yi": -42.66,
-        "count": 1,
-        "amount": 742043935.99,
-        "rows": [
-          {
-            "code": "002674",
-            "name": "兴业科技",
-            "reason": "磷化铟收购+机器人电子皮肤+汽车内饰皮革",
-            "concepts": [
-              "华为汽车",
-              "PPP概念",
-              "固废处理",
-              "海峡两岸"
-            ],
-            "amount": 742043935.99,
-            "turnover_rate": 9.15,
-            "first_limit_up_time": "10:46:06",
-            "last_limit_up_time": "10:46:45",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "固废处理",
-        "concept_code": "300221",
-        "change_pct": -1.76,
-        "net_inflow_yi": -8.35,
-        "count": 1,
-        "amount": 742043935.99,
-        "rows": [
-          {
-            "code": "002674",
-            "name": "兴业科技",
-            "reason": "磷化铟收购+机器人电子皮肤+汽车内饰皮革",
-            "concepts": [
-              "华为汽车",
-              "PPP概念",
-              "固废处理",
-              "海峡两岸"
-            ],
-            "amount": 742043935.99,
-            "turnover_rate": 9.15,
-            "first_limit_up_time": "10:46:06",
-            "last_limit_up_time": "10:46:45",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "小金属概念",
-        "concept_code": "300809",
-        "change_pct": -3.17,
-        "net_inflow_yi": -76.24,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "金属铜",
-        "concept_code": "301577",
-        "change_pct": -2.09,
-        "net_inflow_yi": -24.23,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "黄金概念",
-        "concept_code": "300248",
-        "change_pct": -1.35,
-        "net_inflow_yi": -27.77,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      }
-    ],
-    "2026-07-03": [
+    "2026-07-05": [
       {
         "concept": "F5G概念",
         "concept_code": "308977",
@@ -1792,943 +2169,7 @@
         ]
       }
     ],
-    "2026-07-04": [
-      {
-        "concept": "F5G概念",
-        "concept_code": "308977",
-        "change_pct": -0.41,
-        "net_inflow_yi": 7.17,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "在线教育",
-        "concept_code": "301227",
-        "change_pct": 1.05,
-        "net_inflow_yi": 12.28,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "数字货币",
-        "concept_code": "301997",
-        "change_pct": 1.77,
-        "net_inflow_yi": 13.1,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "文化传媒概念",
-        "concept_code": "300806",
-        "change_pct": -0.08,
-        "net_inflow_yi": -1.96,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "福建自贸区",
-        "concept_code": "301236",
-        "change_pct": -1.28,
-        "net_inflow_yi": -5.23,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "移动支付",
-        "concept_code": "300188",
-        "change_pct": 0.95,
-        "net_inflow_yi": 18.38,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "网络安全",
-        "concept_code": "300756",
-        "change_pct": 2.07,
-        "net_inflow_yi": 41.34,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "脑机接口",
-        "concept_code": "308535",
-        "change_pct": -1.7,
-        "net_inflow_yi": -0.34,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "证金持股",
-        "concept_code": "301715",
-        "change_pct": -0.28,
-        "net_inflow_yi": 6.81,
-        "count": 1,
-        "amount": 1563518118.71,
-        "rows": [
-          {
-            "code": "002396",
-            "name": "星网锐捷",
-            "reason": "半年报预增+数据中心交换机+CPO+福建国资",
-            "concepts": [
-              "WiFi",
-              "6",
-              "F5G概念",
-              "共封装光学(CPO)",
-              "5G",
-              "数据中心(AIDC)",
-              "网络安全",
-              "物联网",
-              "华为概念",
-              "信创",
-              "车联网(车路协同)",
-              "机器人概念",
-              "智能家居",
-              "阿里巴巴概念",
-              "抖音概念(字节概念)",
-              "腾讯概念",
-              "海峡两岸",
-              "脑机接口",
-              "数字货币",
-              "移动支付",
-              "鸿蒙概念",
-              "人工智能",
-              "福建自贸区",
-              "DeepSeek概念",
-              "AIGC概念",
-              "AI应用",
-              "在线教育",
-              "互联网金融",
-              "文化传媒概念",
-              "国企改革",
-              "深股通",
-              "融资融券",
-              "证金持股"
-            ],
-            "amount": 1563518118.71,
-            "turnover_rate": 7.3,
-            "first_limit_up_time": "09:34:57",
-            "last_limit_up_time": "09:34:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "光伏建筑一体化",
-        "concept_code": "308729",
-        "change_pct": -1.35,
-        "net_inflow_yi": -3.45,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "建筑节能",
-        "concept_code": "300261",
-        "change_pct": -1.13,
-        "net_inflow_yi": -18.21,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "装配式建筑",
-        "concept_code": "305794",
-        "change_pct": -0.13,
-        "net_inflow_yi": -8.71,
-        "count": 1,
-        "amount": 1070203844.88,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 1070203844.88,
-            "turnover_rate": 25.54,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:23:06",
-            "consecutive_boards": 7
-          }
-        ]
-      },
-      {
-        "concept": "共同富裕示范区",
-        "concept_code": "308732",
-        "change_pct": -1.66,
-        "net_inflow_yi": -13.41,
-        "count": 1,
-        "amount": 671911143.21,
-        "rows": [
-          {
-            "code": "603178",
-            "name": "圣龙股份",
-            "reason": "其他",
-            "concepts": [
-              "减速器",
-              "汽车热管理",
-              "飞行汽车(eVTOL)",
-              "机器人概念",
-              "低空经济",
-              "长安汽车概念",
-              "共同富裕示范区",
-              "数字经济",
-              "无人驾驶",
-              "华为汽车",
-              "新能源汽车",
-              "比亚迪概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 671911143.21,
-            "turnover_rate": 16.82,
-            "first_limit_up_time": "14:54:40",
-            "last_limit_up_time": "14:54:40",
-            "consecutive_boards": 0
-          }
-        ]
-      },
-      {
-        "concept": "减速器",
-        "concept_code": "309000",
-        "change_pct": -4.74,
-        "net_inflow_yi": -34.53,
-        "count": 1,
-        "amount": 671911143.21,
-        "rows": [
-          {
-            "code": "603178",
-            "name": "圣龙股份",
-            "reason": "其他",
-            "concepts": [
-              "减速器",
-              "汽车热管理",
-              "飞行汽车(eVTOL)",
-              "机器人概念",
-              "低空经济",
-              "长安汽车概念",
-              "共同富裕示范区",
-              "数字经济",
-              "无人驾驶",
-              "华为汽车",
-              "新能源汽车",
-              "比亚迪概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 671911143.21,
-            "turnover_rate": 16.82,
-            "first_limit_up_time": "14:54:40",
-            "last_limit_up_time": "14:54:40",
-            "consecutive_boards": 0
-          }
-        ]
-      },
-      {
-        "concept": "华为汽车",
-        "concept_code": "308507",
-        "change_pct": -2.53,
-        "net_inflow_yi": -42.66,
-        "count": 1,
-        "amount": 671911143.21,
-        "rows": [
-          {
-            "code": "603178",
-            "name": "圣龙股份",
-            "reason": "其他",
-            "concepts": [
-              "减速器",
-              "汽车热管理",
-              "飞行汽车(eVTOL)",
-              "机器人概念",
-              "低空经济",
-              "长安汽车概念",
-              "共同富裕示范区",
-              "数字经济",
-              "无人驾驶",
-              "华为汽车",
-              "新能源汽车",
-              "比亚迪概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 671911143.21,
-            "turnover_rate": 16.82,
-            "first_limit_up_time": "14:54:40",
-            "last_limit_up_time": "14:54:40",
-            "consecutive_boards": 0
-          }
-        ]
-      },
-      {
-        "concept": "汽车热管理",
-        "concept_code": "308805",
-        "change_pct": -3.02,
-        "net_inflow_yi": -37.34,
-        "count": 1,
-        "amount": 671911143.21,
-        "rows": [
-          {
-            "code": "603178",
-            "name": "圣龙股份",
-            "reason": "其他",
-            "concepts": [
-              "减速器",
-              "汽车热管理",
-              "飞行汽车(eVTOL)",
-              "机器人概念",
-              "低空经济",
-              "长安汽车概念",
-              "共同富裕示范区",
-              "数字经济",
-              "无人驾驶",
-              "华为汽车",
-              "新能源汽车",
-              "比亚迪概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 671911143.21,
-            "turnover_rate": 16.82,
-            "first_limit_up_time": "14:54:40",
-            "last_limit_up_time": "14:54:40",
-            "consecutive_boards": 0
-          }
-        ]
-      },
-      {
-        "concept": "飞行汽车(eVTOL)",
-        "concept_code": "309113",
-        "change_pct": -2.65,
-        "net_inflow_yi": -25.21,
-        "count": 1,
-        "amount": 671911143.21,
-        "rows": [
-          {
-            "code": "603178",
-            "name": "圣龙股份",
-            "reason": "其他",
-            "concepts": [
-              "减速器",
-              "汽车热管理",
-              "飞行汽车(eVTOL)",
-              "机器人概念",
-              "低空经济",
-              "长安汽车概念",
-              "共同富裕示范区",
-              "数字经济",
-              "无人驾驶",
-              "华为汽车",
-              "新能源汽车",
-              "比亚迪概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 671911143.21,
-            "turnover_rate": 16.82,
-            "first_limit_up_time": "14:54:40",
-            "last_limit_up_time": "14:54:40",
-            "consecutive_boards": 0
-          }
-        ]
-      },
-      {
-        "concept": "小金属概念",
-        "concept_code": "300809",
-        "change_pct": -3.17,
-        "net_inflow_yi": -76.24,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "金属铜",
-        "concept_code": "301577",
-        "change_pct": -2.09,
-        "net_inflow_yi": -24.23,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "黄金概念",
-        "concept_code": "300248",
-        "change_pct": -1.35,
-        "net_inflow_yi": -27.77,
-        "count": 1,
-        "amount": 644917144.24,
-        "rows": [
-          {
-            "code": "000506",
-            "name": "招金黄金",
-            "reason": "黄金+一季报扭亏+国企",
-            "concepts": [
-              "黄金概念",
-              "金属铜",
-              "小金属概念",
-              "一带一路",
-              "股权转让(并购重组)",
-              "人民币贬值受益",
-              "国企改革",
-              "深股通"
-            ],
-            "amount": 644917144.24,
-            "turnover_rate": 5.43,
-            "first_limit_up_time": "10:00:27",
-            "last_limit_up_time": "10:00:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "净水概念",
-        "concept_code": "301032",
-        "change_pct": -1.14,
-        "net_inflow_yi": 4.2,
-        "count": 1,
-        "amount": 132586934.91,
-        "rows": [
-          {
-            "code": "002677",
-            "name": "浙江美大",
-            "reason": "AI厨电+集成灶龙头+智能驾驶",
-            "concepts": [
-              "净水概念",
-              "长三角一体化",
-              "智能家居",
-              "人工智能",
-              "家用电器",
-              "无人驾驶",
-              "深股通"
-            ],
-            "amount": 132586934.91,
-            "turnover_rate": 3.85,
-            "first_limit_up_time": "13:09:51",
-            "last_limit_up_time": "13:39:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "家用电器",
-        "concept_code": "300814",
-        "change_pct": -2.29,
-        "net_inflow_yi": -25.38,
-        "count": 1,
-        "amount": 132586934.91,
-        "rows": [
-          {
-            "code": "002677",
-            "name": "浙江美大",
-            "reason": "AI厨电+集成灶龙头+智能驾驶",
-            "concepts": [
-              "净水概念",
-              "长三角一体化",
-              "智能家居",
-              "人工智能",
-              "家用电器",
-              "无人驾驶",
-              "深股通"
-            ],
-            "amount": 132586934.91,
-            "turnover_rate": 3.85,
-            "first_limit_up_time": "13:09:51",
-            "last_limit_up_time": "13:39:27",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "长三角一体化",
-        "concept_code": "308432",
-        "change_pct": -1.92,
-        "net_inflow_yi": -14.85,
-        "count": 1,
-        "amount": 132586934.91,
-        "rows": [
-          {
-            "code": "002677",
-            "name": "浙江美大",
-            "reason": "AI厨电+集成灶龙头+智能驾驶",
-            "concepts": [
-              "净水概念",
-              "长三角一体化",
-              "智能家居",
-              "人工智能",
-              "家用电器",
-              "无人驾驶",
-              "深股通"
-            ],
-            "amount": 132586934.91,
-            "turnover_rate": 3.85,
-            "first_limit_up_time": "13:09:51",
-            "last_limit_up_time": "13:39:27",
-            "consecutive_boards": 1
-          }
-        ]
-      }
-    ]
+    "2026-07-06": [],
+    "2026-07-07": []
   }
 }
