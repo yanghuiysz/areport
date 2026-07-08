@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07 12:50:55",
-  "latest_trade_date": "2026-07-02",
+  "generated_at": "2026-07-08 04:53:58",
+  "latest_trade_date": "2026-07-08",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -14,153 +14,542 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "中芯国际概念",
-      "concept_code": "308690",
-      "plate_code": "885897",
-      "heat_score": 93.8,
-      "change_pct": 0.52,
-      "net_inflow_yi": 53.48,
-      "change_rank": 3,
-      "flow_rank": 3,
-      "change_score": 93.03,
-      "flow_score": 94.75,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 2,
-      "name": "国家大基金持股",
-      "concept_code": "307816",
-      "plate_code": "885893",
-      "heat_score": 92.15,
-      "change_pct": 0.81,
-      "net_inflow_yi": 34.63,
-      "change_rank": 2,
-      "flow_rank": 8,
-      "change_score": 98.35,
-      "flow_score": 84.58,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 3,
-      "name": "培育钻石",
-      "concept_code": "308774",
-      "plate_code": "885937",
-      "heat_score": 83.12,
-      "change_pct": 0.9,
-      "net_inflow_yi": -6.33,
+      "name": "中国AI 50",
+      "concept_code": "309187",
+      "plate_code": "886102",
+      "heat_score": 100.0,
+      "change_pct": 3.44,
+      "net_inflow_yi": 78.71,
       "change_rank": 1,
-      "flow_rank": 106,
-      "change_score": 100.0,
-      "flow_score": 62.49,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 4,
-      "name": "先进封装",
-      "concept_code": "309004",
-      "plate_code": "886009",
-      "heat_score": 82.24,
-      "change_pct": -0.86,
-      "net_inflow_yi": 63.21,
-      "change_rank": 10,
       "flow_rank": 1,
-      "change_score": 67.71,
+      "change_score": 100.0,
       "flow_score": 100.0,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
-      "rank": 5,
-      "name": "科创次新股",
-      "concept_code": "308699",
-      "plate_code": "885907",
-      "heat_score": 81.57,
-      "change_pct": 0.07,
-      "net_inflow_yi": 21.8,
-      "change_rank": 4,
-      "flow_rank": 14,
-      "change_score": 84.77,
-      "flow_score": 77.66,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "rank": 2,
+      "name": "网络安全",
+      "concept_code": "300756",
+      "plate_code": "885459",
+      "heat_score": 79.63,
+      "change_pct": 2.41,
+      "net_inflow_yi": 51.42,
+      "change_rank": 3,
+      "flow_rank": 6,
+      "change_score": 83.81,
+      "flow_score": 74.53,
+      "limit_up_count": 10,
+      "limit_up_stocks": [
+        {
+          "code": "000938",
+          "name": "紫光股份",
+          "reason": "AI服务器+超节点+交换机",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "11:26:00",
+          "turnover_rate": 12.31,
+          "amount": 12063147390.08
+        },
+        {
+          "code": "002396",
+          "name": "星网锐捷",
+          "reason": "半年报预增+数据中心交换机+CPO+福建国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:34:57",
+          "last_limit_up_time": "09:34:57",
+          "turnover_rate": 6.96,
+          "amount": 1489262455.61
+        },
+        {
+          "code": "603496",
+          "name": "恒为科技",
+          "reason": "算力租赁+华为昇腾+拟收购数珩科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:23",
+          "last_limit_up_time": "09:37:23",
+          "turnover_rate": 3.79,
+          "amount": 292640962.79
+        },
+        {
+          "code": "300017",
+          "name": "网宿科技",
+          "reason": "CDN涨价+液冷+算力租赁+边缘AI",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:06:18",
+          "last_limit_up_time": "10:08:45",
+          "turnover_rate": 11.66,
+          "amount": 3870953828.4
+        },
+        {
+          "code": "002467",
+          "name": "二六三",
+          "reason": "数据中心+云网融合+AI数字人",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:24:12",
+          "last_limit_up_time": "10:25:45",
+          "turnover_rate": 6.01,
+          "amount": 374141893.19
+        },
+        {
+          "code": "002757",
+          "name": "南兴股份",
+          "reason": "算力租赁+CDN+家具智造",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:27:54",
+          "last_limit_up_time": "10:27:54",
+          "turnover_rate": 5.18,
+          "amount": 256056308.96
+        },
+        {
+          "code": "000948",
+          "name": "南天信息",
+          "reason": "数据中心+金融科技+诉讼回款+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:42:24",
+          "last_limit_up_time": "10:42:24",
+          "turnover_rate": 2.55,
+          "amount": 120974301.05
+        },
+        {
+          "code": "002642",
+          "name": "荣联科技",
+          "reason": "算力服务+AI应用+股份转让+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:03",
+          "last_limit_up_time": "11:02:03",
+          "turnover_rate": 4.16,
+          "amount": 177445614.57
+        },
+        {
+          "code": "002104",
+          "name": "恒宝股份",
+          "reason": "数字人民币+中标+智能卡+数据安全",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:06:21",
+          "last_limit_up_time": "11:06:21",
+          "turnover_rate": 9.44,
+          "amount": 589727590.0
+        },
+        {
+          "code": "300454",
+          "name": "深信服",
+          "reason": "AI算力网关+算力租赁+间接持股宇树",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:20:42",
+          "last_limit_up_time": "11:20:42",
+          "turnover_rate": 7.63,
+          "amount": 2202587469.11
+        }
+      ]
     },
     {
-      "rank": 6,
+      "rank": 3,
       "name": "存储芯片",
       "concept_code": "307940",
       "plate_code": "886042",
-      "heat_score": 77.55,
-      "change_pct": -1.13,
-      "net_inflow_yi": 55.13,
-      "change_rank": 12,
+      "heat_score": 72.2,
+      "change_pct": 0.55,
+      "net_inflow_yi": 72.02,
+      "change_rank": 51,
       "flow_rank": 2,
-      "change_score": 62.75,
-      "flow_score": 95.64,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "change_score": 54.56,
+      "flow_score": 93.76,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "688691",
+          "name": "灿芯股份",
+          "reason": "芯片设计+端侧AI+中芯国际",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:20:28",
+          "last_limit_up_time": "11:20:28",
+          "turnover_rate": 24.63,
+          "amount": 2014065121.91
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "数据安全",
+      "concept_code": "308801",
+      "plate_code": "885942",
+      "heat_score": 71.46,
+      "change_pct": 2.33,
+      "net_inflow_yi": 33.61,
+      "change_rank": 4,
+      "flow_rank": 18,
+      "change_score": 82.55,
+      "flow_score": 57.9,
+      "limit_up_count": 7,
+      "limit_up_stocks": [
+        {
+          "code": "000938",
+          "name": "紫光股份",
+          "reason": "AI服务器+超节点+交换机",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "11:26:00",
+          "turnover_rate": 12.31,
+          "amount": 12063147390.08
+        },
+        {
+          "code": "603496",
+          "name": "恒为科技",
+          "reason": "算力租赁+华为昇腾+拟收购数珩科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:23",
+          "last_limit_up_time": "09:37:23",
+          "turnover_rate": 3.79,
+          "amount": 292640962.79
+        },
+        {
+          "code": "300017",
+          "name": "网宿科技",
+          "reason": "CDN涨价+液冷+算力租赁+边缘AI",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:06:18",
+          "last_limit_up_time": "10:08:45",
+          "turnover_rate": 11.66,
+          "amount": 3870953828.4
+        },
+        {
+          "code": "000948",
+          "name": "南天信息",
+          "reason": "数据中心+金融科技+诉讼回款+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:42:24",
+          "last_limit_up_time": "10:42:24",
+          "turnover_rate": 2.55,
+          "amount": 120974301.05
+        },
+        {
+          "code": "002642",
+          "name": "荣联科技",
+          "reason": "算力服务+AI应用+股份转让+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:03",
+          "last_limit_up_time": "11:02:03",
+          "turnover_rate": 4.16,
+          "amount": 177445614.57
+        },
+        {
+          "code": "002104",
+          "name": "恒宝股份",
+          "reason": "数字人民币+中标+智能卡+数据安全",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:06:21",
+          "last_limit_up_time": "11:06:21",
+          "turnover_rate": 9.44,
+          "amount": 589727590.0
+        },
+        {
+          "code": "300454",
+          "name": "深信服",
+          "reason": "AI算力网关+算力租赁+间接持股宇树",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:20:42",
+          "last_limit_up_time": "11:20:42",
+          "turnover_rate": 7.63,
+          "amount": 2202587469.11
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "华为鲲鹏",
+      "concept_code": "308883",
+      "plate_code": "885980",
+      "heat_score": 70.99,
+      "change_pct": 2.05,
+      "net_inflow_yi": 38.27,
+      "change_rank": 8,
+      "flow_rank": 13,
+      "change_score": 78.14,
+      "flow_score": 62.25,
+      "limit_up_count": 4,
+      "limit_up_stocks": [
+        {
+          "code": "603496",
+          "name": "恒为科技",
+          "reason": "算力租赁+华为昇腾+拟收购数珩科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:23",
+          "last_limit_up_time": "09:37:23",
+          "turnover_rate": 3.79,
+          "amount": 292640962.79
+        },
+        {
+          "code": "300017",
+          "name": "网宿科技",
+          "reason": "CDN涨价+液冷+算力租赁+边缘AI",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:06:18",
+          "last_limit_up_time": "10:08:45",
+          "turnover_rate": 11.66,
+          "amount": 3870953828.4
+        },
+        {
+          "code": "000948",
+          "name": "南天信息",
+          "reason": "数据中心+金融科技+诉讼回款+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:42:24",
+          "last_limit_up_time": "10:42:24",
+          "turnover_rate": 2.55,
+          "amount": 120974301.05
+        },
+        {
+          "code": "002642",
+          "name": "荣联科技",
+          "reason": "算力服务+AI应用+股份转让+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:03",
+          "last_limit_up_time": "11:02:03",
+          "turnover_rate": 4.16,
+          "amount": 177445614.57
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "光纤概念",
+      "concept_code": "309151",
+      "plate_code": "886084",
+      "heat_score": 69.74,
+      "change_pct": 0.5,
+      "net_inflow_yi": 67.19,
+      "change_rank": 53,
+      "flow_rank": 3,
+      "change_score": 53.77,
+      "flow_score": 89.25,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "001229",
+          "name": "魅视科技",
+          "reason": "AI视觉+边缘计算+光纤KVMS+商业航天",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "09:25:00",
+          "turnover_rate": 1.38,
+          "amount": 43373806.0
+        },
+        {
+          "code": "301202",
+          "name": "朗威股份",
+          "reason": "液冷+数据中心+算力+维谛合作",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:38:24",
+          "last_limit_up_time": "09:38:24",
+          "turnover_rate": 5.31,
+          "amount": 160991585.48
+        }
+      ]
     },
     {
       "rank": 7,
-      "name": "同花顺果指数",
-      "concept_code": "309136",
-      "plate_code": "886082",
-      "heat_score": 76.62,
-      "change_pct": -0.84,
-      "net_inflow_yi": 39.24,
-      "change_rank": 9,
-      "flow_rank": 6,
-      "change_score": 68.07,
-      "flow_score": 87.07,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
-      "name": "第三代半导体",
-      "concept_code": "308700",
-      "plate_code": "885908",
-      "heat_score": 76.04,
-      "change_pct": -0.79,
-      "net_inflow_yi": 34.76,
-      "change_rank": 8,
-      "flow_rank": 7,
-      "change_score": 68.99,
-      "flow_score": 84.65,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 9,
       "name": "汽车芯片",
       "concept_code": "308725",
       "plate_code": "885945",
-      "heat_score": 74.31,
-      "change_pct": -0.92,
-      "net_inflow_yi": 33.06,
+      "heat_score": 69.5,
+      "change_pct": 0.79,
+      "net_inflow_yi": 60.65,
+      "change_rank": 42,
+      "flow_rank": 4,
+      "change_score": 58.33,
+      "flow_score": 83.14,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "688691",
+          "name": "灿芯股份",
+          "reason": "芯片设计+端侧AI+中芯国际",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:20:28",
+          "last_limit_up_time": "11:20:28",
+          "turnover_rate": 24.63,
+          "amount": 2014065121.91
+        },
+        {
+          "code": "603893",
+          "name": "瑞芯微",
+          "reason": "半年报预增+端侧AI+协处理器+机器人",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:25:57",
+          "last_limit_up_time": "11:25:57",
+          "turnover_rate": 7.51,
+          "amount": 6521071805.25
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "国家大基金持股",
+      "concept_code": "307816",
+      "plate_code": "885893",
+      "heat_score": 68.85,
+      "change_pct": 2.32,
+      "net_inflow_yi": 27.6,
+      "change_rank": 5,
+      "flow_rank": 20,
+      "change_score": 82.39,
+      "flow_score": 52.29,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "603893",
+          "name": "瑞芯微",
+          "reason": "半年报预增+端侧AI+协处理器+机器人",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:25:57",
+          "last_limit_up_time": "11:25:57",
+          "turnover_rate": 7.51,
+          "amount": 6521071805.25
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "name": "算力租赁",
+      "concept_code": "309068",
+      "plate_code": "886050",
+      "heat_score": 68.64,
+      "change_pct": 1.86,
+      "net_inflow_yi": 36.57,
       "change_rank": 11,
-      "flow_rank": 9,
-      "change_score": 66.61,
-      "flow_score": 83.74,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "flow_rank": 16,
+      "change_score": 75.16,
+      "flow_score": 60.66,
+      "limit_up_count": 9,
+      "limit_up_stocks": [
+        {
+          "code": "600094",
+          "name": "大名城",
+          "reason": "算力运营+6G通信+低空经济+地产转型",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:30:55",
+          "last_limit_up_time": "09:30:55",
+          "turnover_rate": 0.8,
+          "amount": 70820307.9
+        },
+        {
+          "code": "000977",
+          "name": "浪潮信息",
+          "reason": "中报预增+AI服务器+液冷服务器+山东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "09:25:00",
+          "turnover_rate": 2.23,
+          "amount": 2560352820.5
+        },
+        {
+          "code": "000938",
+          "name": "紫光股份",
+          "reason": "AI服务器+超节点+交换机",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "11:26:00",
+          "turnover_rate": 12.31,
+          "amount": 12063147390.08
+        },
+        {
+          "code": "603496",
+          "name": "恒为科技",
+          "reason": "算力租赁+华为昇腾+拟收购数珩科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:23",
+          "last_limit_up_time": "09:37:23",
+          "turnover_rate": 3.79,
+          "amount": 292640962.79
+        },
+        {
+          "code": "300017",
+          "name": "网宿科技",
+          "reason": "CDN涨价+液冷+算力租赁+边缘AI",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:06:18",
+          "last_limit_up_time": "10:08:45",
+          "turnover_rate": 11.66,
+          "amount": 3870953828.4
+        },
+        {
+          "code": "002757",
+          "name": "南兴股份",
+          "reason": "算力租赁+CDN+家具智造",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:27:54",
+          "last_limit_up_time": "10:27:54",
+          "turnover_rate": 5.18,
+          "amount": 256056308.96
+        },
+        {
+          "code": "603881",
+          "name": "数据港",
+          "reason": "算力租赁+智算业务+上海国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:31:46",
+          "last_limit_up_time": "10:31:46",
+          "turnover_rate": 4.59,
+          "amount": 930748391.61
+        },
+        {
+          "code": "600602",
+          "name": "云赛智联",
+          "reason": "算力租赁+人工智能+上海国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:31:55",
+          "last_limit_up_time": "10:57:10",
+          "turnover_rate": 3.45,
+          "amount": 589005753.4
+        },
+        {
+          "code": "300454",
+          "name": "深信服",
+          "reason": "AI算力网关+算力租赁+间接持股宇树",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:20:42",
+          "last_limit_up_time": "11:20:42",
+          "turnover_rate": 7.63,
+          "amount": 2202587469.11
+        }
+      ]
     },
     {
       "rank": 10,
-      "name": "手机游戏",
-      "concept_code": "301050",
-      "plate_code": "885457",
-      "heat_score": 72.4,
-      "change_pct": -0.56,
-      "net_inflow_yi": 10.22,
-      "change_rank": 6,
-      "flow_rank": 22,
-      "change_score": 73.21,
-      "flow_score": 71.42,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "name": "华为昇腾",
+      "concept_code": "309090",
+      "plate_code": "886058",
+      "heat_score": 68.63,
+      "change_pct": 2.33,
+      "net_inflow_yi": 26.89,
+      "change_rank": 4,
+      "flow_rank": 21,
+      "change_score": 82.55,
+      "flow_score": 51.63,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603496",
+          "name": "恒为科技",
+          "reason": "算力租赁+华为昇腾+拟收购数珩科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:23",
+          "last_limit_up_time": "09:37:23",
+          "turnover_rate": 3.79,
+          "amount": 292640962.79
+        },
+        {
+          "code": "002642",
+          "name": "荣联科技",
+          "reason": "算力服务+AI应用+股份转让+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:03",
+          "last_limit_up_time": "11:02:03",
+          "turnover_rate": 4.16,
+          "amount": 177445614.57
+        }
+      ]
     }
   ],
   "all_count": 295
