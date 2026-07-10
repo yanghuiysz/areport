@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 05:55:52",
+  "generated_at": "2026-07-10 07:55:02",
   "latest_trade_date": "2026-07-10",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -14,123 +14,17 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "军工信息化",
-      "concept_code": "309128",
-      "plate_code": "886076",
-      "heat_score": 91.42,
-      "change_pct": 5.08,
-      "net_inflow_yi": 26.67,
-      "change_rank": 2,
-      "flow_rank": 19,
-      "change_score": 96.0,
-      "flow_score": 85.83,
-      "limit_up_count": 9,
-      "limit_up_stocks": [
-        {
-          "code": "002829",
-          "name": "星网宇达",
-          "reason": "中报扭亏+商业航天+无人系统",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:53:18",
-          "last_limit_up_time": "09:53:18",
-          "turnover_rate": 10.06,
-          "amount": 275753802.26
-        },
-        {
-          "code": "001270",
-          "name": "铖昌科技",
-          "reason": "商业航天+相控阵T/R芯片+摘帽",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:12",
-          "last_limit_up_time": "13:00:12",
-          "turnover_rate": 6.95,
-          "amount": 2400545734.91
-        },
-        {
-          "code": "301117",
-          "name": "佳缘科技",
-          "reason": "商业航天+华为昇腾+芯片+立案",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:18",
-          "last_limit_up_time": "13:01:03",
-          "turnover_rate": 25.6,
-          "amount": 534144589.3
-        },
-        {
-          "code": "300065",
-          "name": "海兰信",
-          "reason": "火箭回收+海底数据中心+资产重组",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:21",
-          "last_limit_up_time": "13:00:21",
-          "turnover_rate": 16.84,
-          "amount": 2907903650.21
-        },
-        {
-          "code": "000547",
-          "name": "航天发展",
-          "reason": "商业航天+蓝军装备+航天科工集团",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:06",
-          "last_limit_up_time": "13:03:15",
-          "turnover_rate": 7.65,
-          "amount": 2129266255.74
-        },
-        {
-          "code": "002465",
-          "name": "海格通信",
-          "reason": "商业航天+低空经济+广州国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:24",
-          "last_limit_up_time": "13:55:09",
-          "turnover_rate": 6.08,
-          "amount": 2003321181.76
-        },
-        {
-          "code": "600879",
-          "name": "航天电子",
-          "reason": "商业航天+无人系统+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:05:21",
-          "last_limit_up_time": "13:11:33",
-          "turnover_rate": 7.25,
-          "amount": 5285276458.62
-        },
-        {
-          "code": "002519",
-          "name": "银河电子",
-          "reason": "其他",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:31:03",
-          "last_limit_up_time": "13:51:54",
-          "turnover_rate": 8.22,
-          "amount": 538196465.8
-        },
-        {
-          "code": "002413",
-          "name": "雷科防务",
-          "reason": "商业航天+军工+存储芯片+一季报增长",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "13:12:45",
-          "last_limit_up_time": "13:55:39",
-          "turnover_rate": 9.55,
-          "amount": 1188830583.99
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 90.2,
-      "change_pct": 4.93,
-      "net_inflow_yi": 25.55,
-      "change_rank": 3,
+      "heat_score": 94.21,
+      "change_pct": 4.43,
+      "net_inflow_yi": 20.99,
+      "change_rank": 1,
       "flow_rank": 22,
-      "change_score": 94.06,
-      "flow_score": 85.47,
-      "limit_up_count": 2,
+      "change_score": 100.0,
+      "flow_score": 87.12,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "603538",
@@ -139,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:07:58",
           "last_limit_up_time": "13:26:58",
-          "turnover_rate": 20.86,
-          "amount": 2096432999.5
+          "turnover_rate": 21.23,
+          "amount": 2134658733.9
         },
         {
           "code": "603127",
@@ -148,100 +42,44 @@
           "reason": "创新药CRO+订单高增+猴价上涨",
           "consecutive_boards": 1,
           "first_limit_up_time": "10:15:38",
-          "last_limit_up_time": "13:52:47",
-          "turnover_rate": 7.89,
-          "amount": 2107419642.95
+          "last_limit_up_time": "14:33:26",
+          "turnover_rate": 8.5,
+          "amount": 2273105195.19
+        },
+        {
+          "code": "002693",
+          "name": "双成药业",
+          "reason": "CRO+阿尔茨海默概念+多肽药+许可协议",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:15:51",
+          "last_limit_up_time": "14:50:27",
+          "turnover_rate": 13.96,
+          "amount": 587879516.7
+        },
+        {
+          "code": "688710",
+          "name": "益诺思",
+          "reason": "CRO+券商研报+央企+一季报增长",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:16",
+          "last_limit_up_time": "14:09:31",
+          "turnover_rate": 7.56,
+          "amount": 503467138.49
         }
       ]
     },
     {
-      "rank": 3,
-      "name": "国产航母",
-      "concept_code": "300236",
-      "plate_code": "885795",
-      "heat_score": 88.91,
-      "change_pct": 5.39,
-      "net_inflow_yi": -6.69,
-      "change_rank": 1,
-      "flow_rank": 208,
-      "change_score": 100.0,
-      "flow_score": 75.35,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "600992",
-          "name": "贵绳股份",
-          "reason": "商业航天+钢丝绳龙头+国企改革",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:03:28",
-          "last_limit_up_time": "10:03:28",
-          "turnover_rate": 6.96,
-          "amount": 175805245.08
-        },
-        {
-          "code": "600685",
-          "name": "中船防务",
-          "reason": "商业航天+无人舰艇+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:06",
-          "last_limit_up_time": "13:00:06",
-          "turnover_rate": 2.08,
-          "amount": 469615461.78
-        },
-        {
-          "code": "300065",
-          "name": "海兰信",
-          "reason": "火箭回收+海底数据中心+资产重组",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:21",
-          "last_limit_up_time": "13:00:21",
-          "turnover_rate": 16.84,
-          "amount": 2907903650.21
-        },
-        {
-          "code": "600118",
-          "name": "中国卫星",
-          "reason": "商业航天+卫星互联网+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:29",
-          "last_limit_up_time": "13:00:29",
-          "turnover_rate": 4.77,
-          "amount": 4763992009.97
-        },
-        {
-          "code": "002465",
-          "name": "海格通信",
-          "reason": "商业航天+低空经济+广州国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:24",
-          "last_limit_up_time": "13:55:09",
-          "turnover_rate": 6.08,
-          "amount": 2003321181.76
-        },
-        {
-          "code": "600072",
-          "name": "中船科技",
-          "reason": "中船系+风电制氢氨醇+风电整机",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:17:28",
-          "last_limit_up_time": "13:17:28",
-          "turnover_rate": 3.09,
-          "amount": 286491100.44
-        }
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 87.25,
-      "change_pct": 4.64,
-      "net_inflow_yi": 19.24,
-      "change_rank": 5,
-      "flow_rank": 35,
-      "change_score": 90.32,
-      "flow_score": 83.49,
+      "heat_score": 93.29,
+      "change_pct": 4.35,
+      "net_inflow_yi": 16.37,
+      "change_rank": 2,
+      "flow_rank": 29,
+      "change_score": 99.19,
+      "flow_score": 86.07,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -251,8 +89,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:59:51",
           "last_limit_up_time": "10:02:18",
-          "turnover_rate": 8.24,
-          "amount": 435566391.04
+          "turnover_rate": 8.47,
+          "amount": 447833057.54
         },
         {
           "code": "603538",
@@ -261,8 +99,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:07:58",
           "last_limit_up_time": "13:26:58",
-          "turnover_rate": 20.86,
-          "amount": 2096432999.5
+          "turnover_rate": 21.23,
+          "amount": 2134658733.9
         },
         {
           "code": "300255",
@@ -270,111 +108,183 @@
           "reason": "创新药+肝素+集采续标",
           "consecutive_boards": 1,
           "first_limit_up_time": "10:10:09",
-          "last_limit_up_time": "13:52:45",
-          "turnover_rate": 7.22,
-          "amount": 1659720452.16
+          "last_limit_up_time": "14:07:09",
+          "turnover_rate": 7.66,
+          "amount": 1766605470.86
         },
         {
-          "code": "301092",
-          "name": "争光股份",
-          "reason": "半导体超纯水+离子交换树脂+核电+可转债",
+          "code": "002317",
+          "name": "众生药业",
+          "reason": "减肥药+MASH创新药+抗流感",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:12:33",
-          "last_limit_up_time": "11:12:33",
-          "turnover_rate": 17.72,
-          "amount": 577651526.37
+          "first_limit_up_time": "10:14:15",
+          "last_limit_up_time": "14:20:42",
+          "turnover_rate": 9.28,
+          "amount": 2042138875.37
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "细胞免疫治疗",
+      "concept_code": "301543",
+      "plate_code": "885769",
+      "heat_score": 89.0,
+      "change_pct": 3.63,
+      "net_inflow_yi": 13.7,
+      "change_rank": 5,
+      "flow_rank": 38,
+      "change_score": 91.9,
+      "flow_score": 85.46,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603127",
+          "name": "昭衍新药",
+          "reason": "创新药CRO+订单高增+猴价上涨",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:15:38",
+          "last_limit_up_time": "14:33:26",
+          "turnover_rate": 8.5,
+          "amount": 2273105195.19
+        },
+        {
+          "code": "688710",
+          "name": "益诺思",
+          "reason": "CRO+券商研报+央企+一季报增长",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:16",
+          "last_limit_up_time": "14:09:31",
+          "turnover_rate": 7.56,
+          "amount": 503467138.49
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "DRG/DIP",
+      "concept_code": "308809",
+      "plate_code": "885947",
+      "heat_score": 88.78,
+      "change_pct": 3.73,
+      "net_inflow_yi": 6.11,
+      "change_rank": 4,
+      "flow_rank": 73,
+      "change_score": 92.91,
+      "flow_score": 83.73,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "301117",
+          "name": "佳缘科技",
+          "reason": "商业航天+华为昇腾+芯片+此前立案",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:18",
+          "last_limit_up_time": "14:52:51",
+          "turnover_rate": 27.15,
+          "amount": 570694108.93
         }
       ]
     },
     {
       "rank": 5,
-      "name": "太赫兹",
-      "concept_code": "300795",
-      "plate_code": "886043",
-      "heat_score": 86.6,
-      "change_pct": 4.74,
-      "net_inflow_yi": 9.64,
-      "change_rank": 4,
-      "flow_rank": 70,
-      "change_score": 91.61,
-      "flow_score": 80.48,
-      "limit_up_count": 3,
+      "name": "国产航母",
+      "concept_code": "300236",
+      "plate_code": "885795",
+      "heat_score": 88.69,
+      "change_pct": 4.27,
+      "net_inflow_yi": -24.17,
+      "change_rank": 3,
+      "flow_rank": 216,
+      "change_score": 98.38,
+      "flow_score": 76.83,
+      "limit_up_count": 6,
       "limit_up_stocks": [
         {
-          "code": "002465",
-          "name": "海格通信",
-          "reason": "商业航天+低空经济+广州国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:24",
-          "last_limit_up_time": "13:55:09",
-          "turnover_rate": 6.08,
-          "amount": 2003321181.76
+          "code": "600992",
+          "name": "贵绳股份",
+          "reason": "商业航天+钢丝绳龙头+国企改革",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:03:28",
+          "last_limit_up_time": "10:03:28",
+          "turnover_rate": 7.03,
+          "amount": 177555040.08
         },
         {
-          "code": "600879",
-          "name": "航天电子",
-          "reason": "商业航天+无人系统+央企",
+          "code": "600685",
+          "name": "中船防务",
+          "reason": "商业航天+无人舰艇+国企改革",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:05:21",
-          "last_limit_up_time": "13:11:33",
-          "turnover_rate": 7.25,
-          "amount": 5285276458.62
+          "first_limit_up_time": "13:00:06",
+          "last_limit_up_time": "13:00:06",
+          "turnover_rate": 2.37,
+          "amount": 536875225.78
         },
         {
-          "code": "002413",
-          "name": "雷科防务",
-          "reason": "商业航天+军工+存储芯片+一季报增长",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "13:12:45",
-          "last_limit_up_time": "13:55:39",
-          "turnover_rate": 9.55,
-          "amount": 1188830583.99
+          "code": "300065",
+          "name": "海兰信",
+          "reason": "火箭回收+海底数据中心+资产重组",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:21",
+          "last_limit_up_time": "13:00:21",
+          "turnover_rate": 18.8,
+          "amount": 3279324850.92
+        },
+        {
+          "code": "600118",
+          "name": "中国卫星",
+          "reason": "商业航天+卫星互联网+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:29",
+          "last_limit_up_time": "13:00:29",
+          "turnover_rate": 5.29,
+          "amount": 5310186109.47
+        },
+        {
+          "code": "600072",
+          "name": "中船科技",
+          "reason": "中船系+风电制氢氨醇+风电整机",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:17:28",
+          "last_limit_up_time": "13:17:28",
+          "turnover_rate": 3.26,
+          "amount": 302170740.24
+        },
+        {
+          "code": "601608",
+          "name": "中信重工",
+          "reason": "商业航天+助力海上回收+矿山机器人+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:56:40",
+          "last_limit_up_time": "15:09:40",
+          "turnover_rate": 1.7,
+          "amount": 376969926.45
         }
       ]
     },
     {
       "rank": 6,
-      "name": "时空大数据",
-      "concept_code": "300180",
-      "plate_code": "886036",
-      "heat_score": 84.44,
-      "change_pct": 4.31,
-      "net_inflow_yi": 15.94,
-      "change_rank": 7,
-      "flow_rank": 43,
-      "change_score": 86.06,
-      "flow_score": 82.45,
-      "limit_up_count": 3,
+      "name": "租售同权",
+      "concept_code": "302034",
+      "plate_code": "885758",
+      "heat_score": 86.99,
+      "change_pct": 3.35,
+      "net_inflow_yi": 9.23,
+      "change_rank": 6,
+      "flow_rank": 55,
+      "change_score": 89.07,
+      "flow_score": 84.44,
+      "limit_up_count": 1,
       "limit_up_stocks": [
         {
-          "code": "603559",
-          "name": "中通国脉",
-          "reason": "算力+扭亏为盈+通信技术服务",
+          "code": "600376",
+          "name": "首开股份",
+          "reason": "间接持股宇树科技+金石基金扩募+城市更新+北京国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:35:17",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 1.92,
-          "amount": 66677001.0
-        },
-        {
-          "code": "600410",
-          "name": "华胜天成",
-          "reason": "AI算力+智算中心+大模型合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:47:36",
-          "last_limit_up_time": "13:49:18",
-          "turnover_rate": 9.8,
-          "amount": 1749188132.99
-        },
-        {
-          "code": "002465",
-          "name": "海格通信",
-          "reason": "商业航天+低空经济+广州国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:24",
-          "last_limit_up_time": "13:55:09",
-          "turnover_rate": 6.08,
-          "amount": 2003321181.76
+          "first_limit_up_time": "10:51:33",
+          "last_limit_up_time": "10:57:30",
+          "turnover_rate": 5.46,
+          "amount": 491321097.2
         }
       ]
     },
@@ -383,14 +293,14 @@
       "name": "短剧游戏",
       "concept_code": "309093",
       "plate_code": "886060",
-      "heat_score": 84.41,
-      "change_pct": 4.09,
-      "net_inflow_yi": 26.76,
-      "change_rank": 11,
-      "flow_rank": 18,
-      "change_score": 83.23,
-      "flow_score": 85.85,
-      "limit_up_count": 3,
+      "heat_score": 86.67,
+      "change_pct": 3.13,
+      "net_inflow_yi": 18.06,
+      "change_rank": 9,
+      "flow_rank": 26,
+      "change_score": 86.84,
+      "flow_score": 86.45,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "000892",
@@ -399,8 +309,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "10:03:30",
           "last_limit_up_time": "10:04:06",
-          "turnover_rate": 19.75,
-          "amount": 561327209.66
+          "turnover_rate": 20.22,
+          "amount": 575396789.66
         },
         {
           "code": "002115",
@@ -409,8 +319,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
-          "turnover_rate": 1.2,
-          "amount": 97639485.6
+          "turnover_rate": 1.29,
+          "amount": 105775773.6
         },
         {
           "code": "000810",
@@ -419,51 +329,147 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:36:21",
           "last_limit_up_time": "10:00:45",
-          "turnover_rate": 3.36,
-          "amount": 472153005.59
+          "turnover_rate": 3.49,
+          "amount": 490119837.83
+        },
+        {
+          "code": "000620",
+          "name": "盈新发展",
+          "reason": "收购完成+存储芯片+封装测试",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:40:30",
+          "last_limit_up_time": "14:56:15",
+          "turnover_rate": 12.92,
+          "amount": 2156761961.49
         }
       ]
     },
     {
       "rank": 8,
-      "name": "DRG/DIP",
-      "concept_code": "308809",
-      "plate_code": "885947",
-      "heat_score": 84.34,
-      "change_pct": 4.48,
-      "net_inflow_yi": 6.67,
-      "change_rank": 6,
-      "flow_rank": 95,
-      "change_score": 88.26,
-      "flow_score": 79.54,
-      "limit_up_count": 1,
+      "name": "军工信息化",
+      "concept_code": null,
+      "plate_code": "886076",
+      "heat_score": 86.24,
+      "change_pct": 3.34,
+      "net_inflow_yi": 2.52,
+      "change_rank": 7,
+      "flow_rank": 101,
+      "change_score": 88.97,
+      "flow_score": 82.91,
+      "limit_up_count": 5,
       "limit_up_stocks": [
+        {
+          "code": "002829",
+          "name": "星网宇达",
+          "reason": "中报扭亏+商业航天+无人系统",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:53:18",
+          "last_limit_up_time": "09:53:18",
+          "turnover_rate": 10.21,
+          "amount": 280119364.76
+        },
         {
           "code": "301117",
           "name": "佳缘科技",
-          "reason": "商业航天+华为昇腾+芯片+立案",
+          "reason": "商业航天+华为昇腾+芯片+此前立案",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:00:18",
-          "last_limit_up_time": "13:01:03",
-          "turnover_rate": 25.6,
-          "amount": 534144589.3
+          "last_limit_up_time": "14:52:51",
+          "turnover_rate": 27.15,
+          "amount": 570694108.93
+        },
+        {
+          "code": "300065",
+          "name": "海兰信",
+          "reason": "火箭回收+海底数据中心+资产重组",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:00:21",
+          "last_limit_up_time": "13:00:21",
+          "turnover_rate": 18.8,
+          "amount": 3279324850.92
+        },
+        {
+          "code": "000547",
+          "name": "航天发展",
+          "reason": "商业航天+蓝军装备+航天科工集团",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:01:06",
+          "last_limit_up_time": "13:03:15",
+          "turnover_rate": 8.39,
+          "amount": 2343222112.16
+        },
+        {
+          "code": "600879",
+          "name": "航天电子",
+          "reason": "商业航天+无人系统+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:05:21",
+          "last_limit_up_time": "13:11:33",
+          "turnover_rate": 7.95,
+          "amount": 5817465442.06
         }
       ]
     },
     {
       "rank": 9,
-      "name": "小红书概念",
-      "concept_code": "309182",
-      "plate_code": "886098",
-      "heat_score": 83.91,
-      "change_pct": 4.22,
-      "net_inflow_yi": 16.71,
+      "name": "生物疫苗",
+      "concept_code": "300106",
+      "plate_code": "885845",
+      "heat_score": 86.05,
+      "change_pct": 3.15,
+      "net_inflow_yi": 10.97,
       "change_rank": 8,
-      "flow_rank": 42,
-      "change_score": 84.9,
-      "flow_score": 82.7,
+      "flow_rank": 50,
+      "change_score": 87.04,
+      "flow_score": 84.84,
       "limit_up_count": 2,
       "limit_up_stocks": [
+        {
+          "code": "002038",
+          "name": "双鹭药业",
+          "reason": "创新药+GLP-1+独家品种",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:59:51",
+          "last_limit_up_time": "10:02:18",
+          "turnover_rate": 8.47,
+          "amount": 447833057.54
+        },
+        {
+          "code": "603127",
+          "name": "昭衍新药",
+          "reason": "创新药CRO+订单高增+猴价上涨",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:15:38",
+          "last_limit_up_time": "14:33:26",
+          "turnover_rate": 8.5,
+          "amount": 2273105195.19
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "name": "文化传媒概念",
+      "concept_code": "300806",
+      "plate_code": "885418",
+      "heat_score": 85.55,
+      "change_pct": 2.68,
+      "net_inflow_yi": 31.6,
+      "change_rank": 21,
+      "flow_rank": 13,
+      "change_score": 82.29,
+      "flow_score": 89.54,
+      "limit_up_count": 6,
+      "limit_up_stocks": [
+        {
+          "code": "000892",
+          "name": "欢瑞世纪",
+          "reason": "互动影游+AI应用+短剧",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:03:30",
+          "last_limit_up_time": "10:04:06",
+          "turnover_rate": 20.22,
+          "amount": 575396789.66
+        },
         {
           "code": "002115",
           "name": "三维通信",
@@ -471,87 +477,51 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
-          "turnover_rate": 1.2,
-          "amount": 97639485.6
+          "turnover_rate": 1.29,
+          "amount": 105775773.6
         },
         {
-          "code": "603682",
-          "name": "锦和商管",
-          "reason": "城市更新+商办运营+股东解除质押",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "11:00:17",
-          "last_limit_up_time": "13:55:29",
-          "turnover_rate": 4.22,
-          "amount": 170611179.0
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "name": "航空发动机",
-      "concept_code": "301470",
-      "plate_code": "885884",
-      "heat_score": 83.68,
-      "change_pct": 4.14,
-      "net_inflow_yi": 19.13,
-      "change_rank": 9,
-      "flow_rank": 37,
-      "change_score": 83.87,
-      "flow_score": 83.46,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "600353",
-          "name": "旭光电子",
-          "reason": "氮化铝+半导体上游+韩国客户+可控核聚变",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:35:45",
-          "last_limit_up_time": "09:35:45",
-          "turnover_rate": 2.52,
-          "amount": 924351379.32
-        },
-        {
-          "code": "002361",
-          "name": "神剑股份",
-          "reason": "商业航天+北斗导航+军民融合+芜湖国资",
+          "code": "000048",
+          "name": "京基智农",
+          "reason": "机器人+生猪养殖+股权转让",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:00",
-          "last_limit_up_time": "13:00:00",
-          "turnover_rate": 10.07,
-          "amount": 986024505.83
+          "first_limit_up_time": "09:31:42",
+          "last_limit_up_time": "10:26:48",
+          "turnover_rate": 4.22,
+          "amount": 534113404.2
         },
         {
-          "code": "002465",
-          "name": "海格通信",
-          "reason": "商业航天+低空经济+广州国资",
+          "code": "000810",
+          "name": "创维数字",
+          "reason": "中报预增+AI智能终端+机顶盒龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:36:21",
+          "last_limit_up_time": "10:00:45",
+          "turnover_rate": 3.49,
+          "amount": 490119837.83
+        },
+        {
+          "code": "601858",
+          "name": "中国科传",
+          "reason": "AI应用+数字教育+出版+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:58:14",
+          "last_limit_up_time": "10:58:14",
+          "turnover_rate": 1.69,
+          "amount": 240282304.36
+        },
+        {
+          "code": "300069",
+          "name": "金利华电",
+          "reason": "商业航天+并购重组+特高压玻璃绝缘子",
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:24",
-          "last_limit_up_time": "13:55:09",
-          "turnover_rate": 6.08,
-          "amount": 2003321181.76
-        },
-        {
-          "code": "920943",
-          "name": "优机股份",
-          "reason": "商业航天+航空零部件+低空经济",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:09:24",
-          "last_limit_up_time": "13:09:24",
-          "turnover_rate": 5.78,
-          "amount": 44451126.56
-        },
-        {
-          "code": "688523",
-          "name": "航天环宇",
-          "reason": "商业航天+大飞机+增发",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:12:13",
-          "last_limit_up_time": "13:49:15",
-          "turnover_rate": 3.81,
-          "amount": 884577035.08
+          "last_limit_up_time": "14:13:18",
+          "turnover_rate": 13.26,
+          "amount": 541282273.2
         }
       ]
     }
   ],
-  "all_count": 295
+  "all_count": 301
 }
