@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10 07:55:02",
+  "generated_at": "2026-07-10 10:36:50",
   "latest_trade_date": "2026-07-10",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,13 +17,13 @@
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 94.21,
+      "heat_score": 96.38,
       "change_pct": 4.43,
       "net_inflow_yi": 20.99,
       "change_rank": 1,
-      "flow_rank": 22,
+      "flow_rank": 19,
       "change_score": 100.0,
-      "flow_score": 87.12,
+      "flow_score": 91.96,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -73,13 +73,13 @@
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 93.29,
+      "heat_score": 95.44,
       "change_pct": 4.35,
       "net_inflow_yi": 16.37,
       "change_rank": 2,
-      "flow_rank": 29,
+      "flow_rank": 26,
       "change_score": 99.19,
-      "flow_score": 86.07,
+      "flow_score": 90.85,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -129,13 +129,13 @@
       "name": "细胞免疫治疗",
       "concept_code": "301543",
       "plate_code": "885769",
-      "heat_score": 89.0,
+      "heat_score": 91.14,
       "change_pct": 3.63,
       "net_inflow_yi": 13.7,
       "change_rank": 5,
-      "flow_rank": 38,
+      "flow_rank": 35,
       "change_score": 91.9,
-      "flow_score": 85.46,
+      "flow_score": 90.21,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -165,13 +165,13 @@
       "name": "DRG/DIP",
       "concept_code": "308809",
       "plate_code": "885947",
-      "heat_score": 88.78,
+      "heat_score": 90.88,
       "change_pct": 3.73,
       "net_inflow_yi": 6.11,
       "change_rank": 4,
-      "flow_rank": 73,
+      "flow_rank": 70,
       "change_score": 92.91,
-      "flow_score": 83.73,
+      "flow_score": 88.38,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -191,13 +191,13 @@
       "name": "国产航母",
       "concept_code": "300236",
       "plate_code": "885795",
-      "heat_score": 88.69,
+      "heat_score": 90.61,
       "change_pct": 4.27,
       "net_inflow_yi": -24.17,
       "change_rank": 3,
-      "flow_rank": 216,
+      "flow_rank": 212,
       "change_score": 98.38,
-      "flow_score": 76.83,
+      "flow_score": 81.1,
       "limit_up_count": 6,
       "limit_up_stocks": [
         {
@@ -267,13 +267,13 @@
       "name": "租售同权",
       "concept_code": "302034",
       "plate_code": "885758",
-      "heat_score": 86.99,
+      "heat_score": 89.1,
       "change_pct": 3.35,
       "net_inflow_yi": 9.23,
       "change_rank": 6,
-      "flow_rank": 55,
+      "flow_rank": 52,
       "change_score": 89.07,
-      "flow_score": 84.44,
+      "flow_score": 89.13,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -293,13 +293,13 @@
       "name": "短剧游戏",
       "concept_code": "309093",
       "plate_code": "886060",
-      "heat_score": 86.67,
+      "heat_score": 88.83,
       "change_pct": 3.13,
       "net_inflow_yi": 18.06,
       "change_rank": 9,
-      "flow_rank": 26,
+      "flow_rank": 23,
       "change_score": 86.84,
-      "flow_score": 86.45,
+      "flow_score": 91.26,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
@@ -347,15 +347,15 @@
     {
       "rank": 8,
       "name": "军工信息化",
-      "concept_code": null,
+      "concept_code": "309128",
       "plate_code": "886076",
-      "heat_score": 86.24,
+      "heat_score": 88.32,
       "change_pct": 3.34,
       "net_inflow_yi": 2.52,
       "change_rank": 7,
-      "flow_rank": 101,
+      "flow_rank": 98,
       "change_score": 88.97,
-      "flow_score": 82.91,
+      "flow_score": 87.52,
       "limit_up_count": 5,
       "limit_up_stocks": [
         {
@@ -415,13 +415,13 @@
       "name": "生物疫苗",
       "concept_code": "300106",
       "plate_code": "885845",
-      "heat_score": 86.05,
+      "heat_score": 88.17,
       "change_pct": 3.15,
       "net_inflow_yi": 10.97,
       "change_rank": 8,
-      "flow_rank": 50,
+      "flow_rank": 47,
       "change_score": 87.04,
-      "flow_score": 84.84,
+      "flow_score": 89.55,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -451,13 +451,13 @@
       "name": "文化传媒概念",
       "concept_code": "300806",
       "plate_code": "885418",
-      "heat_score": 85.55,
+      "heat_score": 87.79,
       "change_pct": 2.68,
       "net_inflow_yi": 31.6,
       "change_rank": 21,
-      "flow_rank": 13,
+      "flow_rank": 11,
       "change_score": 82.29,
-      "flow_score": 89.54,
+      "flow_score": 94.51,
       "limit_up_count": 6,
       "limit_up_stocks": [
         {
@@ -523,5 +523,5 @@
       ]
     }
   ],
-  "all_count": 301
+  "all_count": 295
 }
