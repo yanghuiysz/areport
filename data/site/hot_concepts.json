@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13 10:44:21",
+  "generated_at": "2026-07-13 12:53:17",
   "latest_trade_date": "2026-07-13",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,29 +24,8 @@
       "flow_rank": 8,
       "change_score": 100.0,
       "flow_score": 87.38,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "600513",
-          "name": "联环药业",
-          "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "13:55:32",
-          "last_limit_up_time": "13:55:32",
-          "turnover_rate": 14.86,
-          "amount": 674830726.74
-        },
-        {
-          "code": "600881",
-          "name": "亚泰集团",
-          "reason": "创新药+资产出售+长春国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:34",
-          "last_limit_up_time": "09:42:13",
-          "turnover_rate": 3.23,
-          "amount": 170447279.91
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 2,
@@ -75,59 +54,8 @@
       "flow_rank": 7,
       "change_score": 91.57,
       "flow_score": 88.07,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "003020",
-          "name": "立方制药",
-          "reason": "基药目录新增+精麻药+缓控释制剂",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:30:15",
-          "last_limit_up_time": "09:34:24",
-          "turnover_rate": 9.85,
-          "amount": 339069039.87
-        },
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "中报预增+化学制药+创新药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:22",
-          "last_limit_up_time": "09:39:25",
-          "turnover_rate": 8.0,
-          "amount": 737706216.56
-        },
-        {
-          "code": "600881",
-          "name": "亚泰集团",
-          "reason": "创新药+资产出售+长春国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:38:34",
-          "last_limit_up_time": "09:42:13",
-          "turnover_rate": 3.23,
-          "amount": 170447279.91
-        },
-        {
-          "code": "000989",
-          "name": "九芝堂",
-          "reason": "中报预增+中药+多肽+黑龙江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:40:03",
-          "last_limit_up_time": "14:34:48",
-          "turnover_rate": 10.92,
-          "amount": 670064700.6
-        },
-        {
-          "code": "300534",
-          "name": "陇神戎发",
-          "reason": "中药+医疗器械+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:00:45",
-          "last_limit_up_time": "13:04:12",
-          "turnover_rate": 17.51,
-          "amount": 461973283.98
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 4,
@@ -141,49 +69,8 @@
       "flow_rank": 24,
       "change_score": 90.72,
       "flow_score": 83.38,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "003020",
-          "name": "立方制药",
-          "reason": "基药目录新增+精麻药+缓控释制剂",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:30:15",
-          "last_limit_up_time": "09:34:24",
-          "turnover_rate": 9.85,
-          "amount": 339069039.87
-        },
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "中报预增+化学制药+创新药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:22",
-          "last_limit_up_time": "09:39:25",
-          "turnover_rate": 8.0,
-          "amount": 737706216.56
-        },
-        {
-          "code": "600513",
-          "name": "联环药业",
-          "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "13:55:32",
-          "last_limit_up_time": "13:55:32",
-          "turnover_rate": 14.86,
-          "amount": 674830726.74
-        },
-        {
-          "code": "603669",
-          "name": "灵康药业",
-          "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:55",
-          "last_limit_up_time": "11:16:28",
-          "turnover_rate": 9.31,
-          "amount": 440130680.11
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
@@ -197,19 +84,8 @@
       "flow_rank": 1,
       "change_score": 76.1,
       "flow_score": 100.0,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "601608",
-          "name": "中信重工",
-          "reason": "商业航天+助力海上回收+矿山机器人+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:01",
-          "last_limit_up_time": "11:10:19",
-          "turnover_rate": 4.47,
-          "amount": 1123061091.35
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 6,
@@ -223,29 +99,8 @@
       "flow_rank": 52,
       "change_score": 89.5,
       "flow_score": 81.03,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "003020",
-          "name": "立方制药",
-          "reason": "基药目录新增+精麻药+缓控释制剂",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:30:15",
-          "last_limit_up_time": "09:34:24",
-          "turnover_rate": 9.85,
-          "amount": 339069039.87
-        },
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "中报预增+化学制药+创新药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:22",
-          "last_limit_up_time": "09:39:25",
-          "turnover_rate": 8.0,
-          "amount": 737706216.56
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 7,
@@ -274,49 +129,8 @@
       "flow_rank": 45,
       "change_score": 88.1,
       "flow_score": 81.33,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "中报预增+化学制药+创新药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:22",
-          "last_limit_up_time": "09:39:25",
-          "turnover_rate": 8.0,
-          "amount": 737706216.56
-        },
-        {
-          "code": "600513",
-          "name": "联环药业",
-          "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "13:55:32",
-          "last_limit_up_time": "13:55:32",
-          "turnover_rate": 14.86,
-          "amount": 674830726.74
-        },
-        {
-          "code": "300534",
-          "name": "陇神戎发",
-          "reason": "中药+医疗器械+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:00:45",
-          "last_limit_up_time": "13:04:12",
-          "turnover_rate": 17.51,
-          "amount": 461973283.98
-        },
-        {
-          "code": "603669",
-          "name": "灵康药业",
-          "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:55",
-          "last_limit_up_time": "11:16:28",
-          "turnover_rate": 9.31,
-          "amount": 440130680.11
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 9,
@@ -345,19 +159,8 @@
       "flow_rank": 53,
       "change_score": 86.22,
       "flow_score": 81.02,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "中报预增+化学制药+创新药",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:34:22",
-          "last_limit_up_time": "09:39:25",
-          "turnover_rate": 8.0,
-          "amount": 737706216.56
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
   "all_count": 295
