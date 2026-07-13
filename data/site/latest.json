@@ -1,240 +1,34 @@
 {
-  "generated_at": "2026-07-13 07:40:34",
+  "generated_at": "2026-07-13 10:43:00",
   "latest_trade_date": "2026-07-13",
   "summary": [
     {
       "date": "2026-07-13",
       "up_count": 801,
-      "down_count": 4283,
+      "down_count": 4183,
       "flat_count": 41,
-      "limit_up_count": 29,
-      "limit_down_count": 176
+      "limit_up_count": 0,
+      "limit_down_count": 172
     },
     {
-      "date": "2026-07-10",
-      "up_count": 3672,
-      "down_count": 1678,
-      "flat_count": 71,
-      "limit_up_count": 3,
+      "date": "2026-07-12",
+      "up_count": 603,
+      "down_count": 3692,
+      "flat_count": 30,
+      "limit_up_count": 11,
       "limit_down_count": 5
     },
     {
-      "date": "2026-07-09",
-      "up_count": 2486,
-      "down_count": 2487,
-      "flat_count": 146,
-      "limit_up_count": 6,
-      "limit_down_count": 14
+      "date": "2026-07-11",
+      "up_count": 568,
+      "down_count": 3723,
+      "flat_count": 35,
+      "limit_up_count": 11,
+      "limit_down_count": 5
     }
   ],
   "limit_up_details_by_date": {
-    "2026-07-09": [
-      {
-        "code": "000004",
-        "name": "国华退",
-        "reason": "退市整理期+移动安全+减亏",
-        "concepts": [],
-        "amount": 1779194.67,
-        "turnover_rate": 2.76,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "600992",
-        "name": "贵绳股份",
-        "reason": "商业航天+钢丝绳+贵州国资",
-        "concepts": [
-          "国企改革",
-          "国产航母",
-          "西部大开发",
-          "海工装备",
-          "军工",
-          "商业航天"
-        ],
-        "amount": 63778200.72,
-        "turnover_rate": 2.22,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "603137",
-        "name": "恒尚节能",
-        "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-        "concepts": [
-          "装配式建筑",
-          "建筑节能",
-          "新型城镇化",
-          "光伏建筑一体化",
-          "股权转让(并购重组)",
-          "融资融券"
-        ],
-        "amount": 782260602.87,
-        "turnover_rate": 15.17,
-        "first_limit_up_time": "09:37:07",
-        "last_limit_up_time": "13:45:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603933",
-        "name": "睿能科技",
-        "reason": "人形机器人+半导体分销+拟收购博泰智能",
-        "concepts": [
-          "工业母机",
-          "人形机器人",
-          "新型工业化",
-          "无人机",
-          "机器人概念",
-          "新能源汽车",
-          "工业互联网",
-          "福建自贸区",
-          "数字经济",
-          "物联网",
-          "智能家居",
-          "海峡两岸",
-          "消费电子概念",
-          "汽车电子",
-          "储能",
-          "芯片概念",
-          "MCU芯片",
-          "存储芯片"
-        ],
-        "amount": 350383977.48,
-        "turnover_rate": 6.88,
-        "first_limit_up_time": "09:30:58",
-        "last_limit_up_time": "10:13:46",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001395",
-        "name": "亚联机械",
-        "reason": "中报预增+人造板装备+海外业务",
-        "concepts": [
-          "碳纤维",
-          "高端装备",
-          "专精特新",
-          "2026中报预增",
-          "融资融券"
-        ],
-        "amount": 357072173.61,
-        "turnover_rate": 22.38,
-        "first_limit_up_time": "10:09:45",
-        "last_limit_up_time": "14:53:24",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "003020",
-        "name": "立方制药",
-        "reason": "基药目录新增+精麻药+缓控释制剂",
-        "concepts": [
-          "仿制药一致性评价",
-          "肝炎概念",
-          "创新药",
-          "医药电商",
-          "眼科医疗",
-          "医美概念",
-          "脑机接口",
-          "深股通"
-        ],
-        "amount": 339069039.87,
-        "turnover_rate": 9.85,
-        "first_limit_up_time": "09:30:15",
-        "last_limit_up_time": "09:34:24",
-        "consecutive_boards": 3
-      }
-    ],
-    "2026-07-10": [
-      {
-        "code": null,
-        "name": null,
-        "reason": "其他",
-        "concepts": [],
-        "amount": null,
-        "turnover_rate": null,
-        "first_limit_up_time": null,
-        "last_limit_up_time": null,
-        "consecutive_boards": null
-      },
-      {
-        "code": null,
-        "name": null,
-        "reason": "其他",
-        "concepts": [],
-        "amount": null,
-        "turnover_rate": null,
-        "first_limit_up_time": null,
-        "last_limit_up_time": null,
-        "consecutive_boards": null
-      },
-      {
-        "code": null,
-        "name": null,
-        "reason": "其他",
-        "concepts": [],
-        "amount": null,
-        "turnover_rate": null,
-        "first_limit_up_time": null,
-        "last_limit_up_time": null,
-        "consecutive_boards": null
-      }
-    ],
-    "2026-07-13": [
-      {
-        "code": "920305",
-        "name": "云创退",
-        "reason": "退市整理期+大数据存储+AI大模型",
-        "concepts": [],
-        "amount": 9992910.69,
-        "turnover_rate": 18.05,
-        "first_limit_up_time": "09:39:28",
-        "last_limit_up_time": "09:48:28",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300214",
-        "name": "日科化学",
-        "reason": "并购重组+锂电池电解液+算力租赁+化工",
-        "concepts": [
-          "算力租赁",
-          "东数西算(算力)",
-          "丙烯酸",
-          "数据中心(AIDC)",
-          "液冷服务器",
-          "DeepSeek概念",
-          "专精特新",
-          "新疆振兴"
-        ],
-        "amount": 78228418.2,
-        "turnover_rate": 1.37,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300534",
-        "name": "陇神戎发",
-        "reason": "中药+医疗器械+国企",
-        "concepts": [
-          "流感",
-          "医药电商",
-          "三胎概念",
-          "创新药",
-          "医疗器械概念",
-          "中俄贸易概念",
-          "食品安全",
-          "西部大开发",
-          "参股券商",
-          "国企改革",
-          "专精特新",
-          "股权转让(并购重组)"
-        ],
-        "amount": 461973283.98,
-        "turnover_rate": 17.51,
-        "first_limit_up_time": "10:00:45",
-        "last_limit_up_time": "13:04:12",
-        "consecutive_boards": 1
-      },
+    "2026-07-11": [
       {
         "code": "000004",
         "name": "国华退",
@@ -272,45 +66,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603313",
-        "name": "梦百合",
-        "reason": "智能家居+跨境电商+美国产能",
-        "concepts": [
-          "跨境电商",
-          "C2M概念",
-          "鸿蒙概念",
-          "人民币贬值受益",
-          "智能家居",
-          "沪股通"
-        ],
-        "amount": 564258154.39,
-        "turnover_rate": 12.98,
-        "first_limit_up_time": "14:53:38",
-        "last_limit_up_time": "14:53:38",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000989",
-        "name": "九芝堂",
-        "reason": "中报预增+中药+多肽+黑龙江国资",
-        "concepts": [
-          "创新药",
-          "医药电商",
-          "细胞免疫治疗",
-          "毛发医疗",
-          "高股息精选",
-          "国企改革",
-          "深股通",
-          "2026中报预增",
-          "股权转让(并购重组)"
-        ],
-        "amount": 670064700.6,
-        "turnover_rate": 10.92,
-        "first_limit_up_time": "09:40:03",
-        "last_limit_up_time": "14:34:48",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600992",
         "name": "贵绳股份",
         "reason": "商业航天+钢丝绳+贵州国资",
@@ -327,6 +82,29 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 3
+      },
+      {
+        "code": "000920",
+        "name": "沃顿科技",
+        "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+        "concepts": [
+          "盐湖提锂",
+          "芯片概念",
+          "液冷服务器",
+          "央企国企改革",
+          "净水概念",
+          "西部大开发",
+          "污水处理",
+          "参股银行",
+          "国企改革",
+          "参股券商",
+          "深股通"
+        ],
+        "amount": 657440324.79,
+        "turnover_rate": 10.15,
+        "first_limit_up_time": "10:25:18",
+        "last_limit_up_time": "11:20:21",
+        "consecutive_boards": 2
       },
       {
         "code": "600629",
@@ -360,182 +138,6 @@
         "first_limit_up_time": "13:11:54",
         "last_limit_up_time": "13:20:15",
         "consecutive_boards": 2
-      },
-      {
-        "code": "000920",
-        "name": "沃顿科技",
-        "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
-        "concepts": [
-          "盐湖提锂",
-          "芯片概念",
-          "液冷服务器",
-          "央企国企改革",
-          "净水概念",
-          "西部大开发",
-          "污水处理",
-          "参股银行",
-          "国企改革",
-          "参股券商",
-          "深股通"
-        ],
-        "amount": 657440324.79,
-        "turnover_rate": 10.15,
-        "first_limit_up_time": "10:25:18",
-        "last_limit_up_time": "11:20:21",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603318",
-        "name": "水发燃气",
-        "reason": "氦气+AI数据中心燃气轮机+国企",
-        "concepts": [
-          "天然气",
-          "氢能源",
-          "国企改革",
-          "绿色电力",
-          "一带一路",
-          "股权转让(并购重组)",
-          "专精特新",
-          "融资融券"
-        ],
-        "amount": 87558848.55,
-        "turnover_rate": 2.23,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002379",
-        "name": "宏桥控股",
-        "reason": "中报预增+电解铝+铝全产业链",
-        "concepts": [
-          "股权转让(并购重组)",
-          "金属回收",
-          "深股通",
-          "融资融券"
-        ],
-        "amount": 947477174.59,
-        "turnover_rate": 5.36,
-        "first_limit_up_time": "10:17:06",
-        "last_limit_up_time": "14:18:15",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603669",
-        "name": "灵康药业",
-        "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-        "concepts": [
-          "阿尔茨海默概念",
-          "仿制药一致性评价",
-          "流感",
-          "民营医院",
-          "创新药",
-          "CRO概念",
-          "西部大开发"
-        ],
-        "amount": 440130680.11,
-        "turnover_rate": 9.31,
-        "first_limit_up_time": "10:38:55",
-        "last_limit_up_time": "11:16:28",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603677",
-        "name": "奇精机械",
-        "reason": "机器人+家电零部件+宁波国资",
-        "concepts": [
-          "家用电器",
-          "空气能热泵",
-          "国企改革",
-          "机器人概念",
-          "新能源汽车",
-          "无人机",
-          "传感器"
-        ],
-        "amount": 60387649.12,
-        "turnover_rate": 2.36,
-        "first_limit_up_time": "10:54:23",
-        "last_limit_up_time": "10:54:23",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603065",
-        "name": "宿迁联盛",
-        "reason": "磷化铟衬底+光稳定剂+终止减持",
-        "concepts": [
-          "专精特新",
-          "光伏概念",
-          "职业教育"
-        ],
-        "amount": 875865996.38,
-        "turnover_rate": 9.97,
-        "first_limit_up_time": "09:44:57",
-        "last_limit_up_time": "10:02:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603137",
-        "name": "恒尚节能",
-        "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-        "concepts": [
-          "装配式建筑",
-          "建筑节能",
-          "新型城镇化",
-          "光伏建筑一体化",
-          "股权转让(并购重组)",
-          "融资融券"
-        ],
-        "amount": 782260602.87,
-        "turnover_rate": 15.17,
-        "first_limit_up_time": "09:37:07",
-        "last_limit_up_time": "13:45:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "003030",
-        "name": "祖名股份",
-        "reason": "豆制品+预制菜+人造肉",
-        "concepts": [
-          "人造肉",
-          "网红经济",
-          "宠物经济",
-          "共同富裕示范区"
-        ],
-        "amount": 202676872.0,
-        "turnover_rate": 10.62,
-        "first_limit_up_time": "09:38:09",
-        "last_limit_up_time": "14:07:24",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603933",
-        "name": "睿能科技",
-        "reason": "人形机器人+半导体分销+拟收购博泰智能",
-        "concepts": [
-          "工业母机",
-          "人形机器人",
-          "新型工业化",
-          "无人机",
-          "机器人概念",
-          "新能源汽车",
-          "工业互联网",
-          "福建自贸区",
-          "数字经济",
-          "物联网",
-          "智能家居",
-          "海峡两岸",
-          "消费电子概念",
-          "汽车电子",
-          "储能",
-          "芯片概念",
-          "MCU芯片",
-          "存储芯片"
-        ],
-        "amount": 350383977.48,
-        "turnover_rate": 6.88,
-        "first_limit_up_time": "09:30:58",
-        "last_limit_up_time": "10:13:46",
-        "consecutive_boards": 1
       },
       {
         "code": "600513",
@@ -583,141 +185,259 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603120",
-        "name": "肯特催化",
-        "reason": "光刻胶+电子化学品+季铵化合物",
+        "code": "001395",
+        "name": "亚联机械",
+        "reason": "中报预增+人造板装备+海外业务",
         "concepts": [
-          "光刻胶",
-          "芯片概念",
+          "碳纤维",
+          "高端装备",
           "专精特新",
-          "环氧丙烷",
+          "2026中报预增",
           "融资融券"
         ],
-        "amount": 151726254.8,
-        "turnover_rate": 7.43,
-        "first_limit_up_time": "09:37:40",
-        "last_limit_up_time": "09:37:40",
-        "consecutive_boards": 1
+        "amount": 357072173.61,
+        "turnover_rate": 22.38,
+        "first_limit_up_time": "10:09:45",
+        "last_limit_up_time": "14:53:24",
+        "consecutive_boards": 3
       },
       {
-        "code": "600881",
-        "name": "亚泰集团",
-        "reason": "创新药+资产出售+长春国资",
+        "code": "003020",
+        "name": "立方制药",
+        "reason": "基药目录新增+精麻药+缓控释制剂",
         "concepts": [
-          "物业管理",
-          "体育产业",
-          "水泥概念",
-          "参股银行",
-          "禽流感",
-          "参股券商",
-          "医药电商",
-          "生物疫苗",
-          "国企改革",
+          "仿制药一致性评价",
+          "肝炎概念",
           "创新药",
-          "医疗器械概念",
-          "煤炭概念",
-          "沪股通",
-          "融资融券",
-          "股权转让(并购重组)"
-        ],
-        "amount": 170447279.91,
-        "turnover_rate": 3.23,
-        "first_limit_up_time": "09:38:34",
-        "last_limit_up_time": "09:42:13",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001388",
-        "name": "信通电子",
-        "reason": "电网设备+防冰机器人+高送转",
-        "concepts": [
-          "电力物联网",
-          "鸿蒙概念",
-          "人工智能",
-          "电子身份证",
-          "物联网",
-          "工业互联网",
-          "智能电网",
-          "算力租赁",
-          "中俄贸易概念",
-          "机器人概念",
-          "华为概念",
-          "核电",
-          "新型工业化",
-          "风电",
-          "特高压",
-          "专精特新",
-          "传感器",
-          "芯片概念",
-          "PCB概念",
-          "多模态AI",
-          "深股通",
-          "融资融券"
-        ],
-        "amount": 122774083.42,
-        "turnover_rate": 5.07,
-        "first_limit_up_time": "13:35:15",
-        "last_limit_up_time": "13:35:15",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600671",
-        "name": "天目药业",
-        "reason": "中药+大健康+青岛国资",
-        "concepts": [
+          "医药电商",
           "眼科医疗",
-          "医疗器械概念",
-          "国企改革"
+          "医美概念",
+          "脑机接口",
+          "深股通"
         ],
-        "amount": 198895281.43,
-        "turnover_rate": 7.85,
-        "first_limit_up_time": "09:48:23",
-        "last_limit_up_time": "13:25:32",
-        "consecutive_boards": 1
+        "amount": 339069039.87,
+        "turnover_rate": 9.85,
+        "first_limit_up_time": "09:30:15",
+        "last_limit_up_time": "09:34:24",
+        "consecutive_boards": 3
       },
       {
-        "code": "600536",
-        "name": "中国软件",
-        "reason": "信创+麒麟OS+央企",
+        "code": "601608",
+        "name": "中信重工",
+        "reason": "商业航天+助力海上回收+矿山机器人+央企",
         "concepts": [
-          "华为欧拉",
-          "电子身份证",
-          "智慧政务",
-          "数据安全",
-          "华为鲲鹏",
-          "云计算",
-          "财税数字化",
-          "信创",
-          "国产操作系统",
-          "数字经济",
-          "网络安全",
-          "智慧城市",
-          "阿里巴巴概念",
-          "人工智能",
-          "DeepSeek概念",
-          "水利",
-          "中国AI",
-          "50",
-          "京津冀一体化",
-          "机器人概念",
-          "华为概念",
-          "数据中心(AIDC)",
-          "AI",
-          "PC",
-          "低空经济",
-          "乡村振兴",
+          "大飞机",
+          "国产航母",
+          "高端装备",
+          "新型工业化",
           "商业航天",
+          "军工",
+          "工业互联网",
+          "机器人概念",
+          "一体化压铸",
+          "人工智能",
+          "减速器",
+          "核电",
+          "海工装备",
+          "人形机器人",
+          "一带一路",
+          "华为概念",
+          "风电",
+          "国企改革",
+          "光伏概念",
+          "F5G概念",
+          "同花顺中特估100",
+          "融资融券",
+          "沪股通",
+          "中字头股票"
+        ],
+        "amount": 1123061091.35,
+        "turnover_rate": 4.47,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "11:10:19",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600428",
+        "name": "中远海特",
+        "reason": "其他",
+        "concepts": [
+          "中字头股票",
+          "高股息精选",
+          "航运概念",
+          "自由贸易港",
           "国企改革",
           "央企国企改革",
-          "中字头股票",
+          "人民币贬值受益",
+          "DeepSeek概念",
+          "粤港澳大湾区",
+          "沪股通",
+          "比亚迪概念",
+          "2026中报预增",
+          "融资融券"
+        ],
+        "amount": 2143674799.9,
+        "turnover_rate": 8.91,
+        "first_limit_up_time": "09:38:54",
+        "last_limit_up_time": "14:13:51",
+        "consecutive_boards": 0
+      }
+    ],
+    "2026-07-12": [
+      {
+        "code": "000004",
+        "name": "国华退",
+        "reason": "退市整理期+移动安全+减亏",
+        "concepts": [],
+        "amount": 1779194.67,
+        "turnover_rate": 2.76,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "600664",
+        "name": "哈药股份",
+        "reason": "中报预增+化学制药+创新药",
+        "concepts": [
+          "流感",
+          "医药电商",
+          "维生素",
+          "仿制药一致性评价",
+          "肝炎概念",
+          "创新药",
+          "黑龙江自贸区",
+          "三胎概念",
+          "养老概念",
+          "跨境电商",
+          "DeepSeek概念",
           "沪股通",
           "融资融券"
         ],
-        "amount": 1794903264.27,
-        "turnover_rate": 6.83,
-        "first_limit_up_time": "13:33:17",
-        "last_limit_up_time": "14:47:08",
-        "consecutive_boards": 1
+        "amount": 737706216.56,
+        "turnover_rate": 8.0,
+        "first_limit_up_time": "09:34:22",
+        "last_limit_up_time": "09:39:25",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600992",
+        "name": "贵绳股份",
+        "reason": "商业航天+钢丝绳+贵州国资",
+        "concepts": [
+          "国企改革",
+          "国产航母",
+          "西部大开发",
+          "海工装备",
+          "军工",
+          "商业航天"
+        ],
+        "amount": 63778200.72,
+        "turnover_rate": 2.22,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "000920",
+        "name": "沃顿科技",
+        "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+        "concepts": [
+          "盐湖提锂",
+          "芯片概念",
+          "液冷服务器",
+          "央企国企改革",
+          "净水概念",
+          "西部大开发",
+          "污水处理",
+          "参股银行",
+          "国企改革",
+          "参股券商",
+          "深股通"
+        ],
+        "amount": 657440324.79,
+        "turnover_rate": 10.15,
+        "first_limit_up_time": "10:25:18",
+        "last_limit_up_time": "11:20:21",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600629",
+        "name": "华建集团",
+        "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+        "concepts": [
+          "上海国企改革",
+          "装配式建筑",
+          "房屋检测",
+          "一带一路",
+          "新型城镇化",
+          "低空经济",
+          "数字孪生",
+          "人工智能",
+          "创投",
+          "水利",
+          "建筑节能",
+          "地下管网",
+          "数字经济",
+          "PPP概念",
+          "雄安新区",
+          "乡村振兴",
+          "参股券商",
+          "国企改革",
+          "碳中和",
+          "融资融券",
+          "沪股通"
+        ],
+        "amount": 678286925.64,
+        "turnover_rate": 4.42,
+        "first_limit_up_time": "13:11:54",
+        "last_limit_up_time": "13:20:15",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600513",
+        "name": "联环药业",
+        "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
+        "concepts": [
+          "仿制药一致性评价",
+          "创新药",
+          "流感",
+          "禽流感",
+          "国企改革",
+          "专精特新",
+          "沪股通",
+          "股权转让(并购重组)"
+        ],
+        "amount": 674830726.74,
+        "turnover_rate": 14.86,
+        "first_limit_up_time": "13:55:32",
+        "last_limit_up_time": "13:55:32",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "605090",
+        "name": "九丰能源",
+        "reason": "氦气+商业航天+清洁能源",
+        "concepts": [
+          "俄乌冲突概念",
+          "煤化工概念",
+          "天然气",
+          "新疆振兴",
+          "航运概念",
+          "氢能源",
+          "商业航天",
+          "粤港澳大湾区",
+          "智能物流",
+          "绿色电力",
+          "芯片概念",
+          "融资融券",
+          "沪股通"
+        ],
+        "amount": 2351837084.72,
+        "turnover_rate": 7.99,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "14:19:45",
+        "consecutive_boards": 2
       },
       {
         "code": "001395",
@@ -757,26 +477,6 @@
         "consecutive_boards": 3
       },
       {
-        "code": "601002",
-        "name": "晋亿实业",
-        "reason": "中报预增+高铁扣件+新能源紧固件",
-        "concepts": [
-          "高铁",
-          "海峡两岸",
-          "核电",
-          "新能源汽车",
-          "长三角一体化",
-          "沪股通",
-          "融资融券",
-          "2026中报预增"
-        ],
-        "amount": 128748533.72,
-        "turnover_rate": 2.79,
-        "first_limit_up_time": "09:30:21",
-        "last_limit_up_time": "13:29:57",
-        "consecutive_boards": 1
-      },
-      {
         "code": "601608",
         "name": "中信重工",
         "reason": "商业航天+助力海上回收+矿山机器人+央企",
@@ -811,752 +511,44 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "11:10:19",
         "consecutive_boards": 2
-      }
-    ]
-  },
-  "limit_up_concepts_by_date": {
-    "2026-07-09": [
-      {
-        "concept": "光伏建筑一体化",
-        "concept_code": "308729",
-        "change_pct": -4.24,
-        "net_inflow_yi": -64.95,
-        "count": 1,
-        "amount": 782260602.87,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
-          }
-        ]
       },
       {
-        "concept": "建筑节能",
-        "concept_code": "300261",
-        "change_pct": -4.32,
-        "net_inflow_yi": -16.66,
-        "count": 1,
-        "amount": 782260602.87,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "装配式建筑",
-        "concept_code": "305794",
-        "change_pct": -3.45,
-        "net_inflow_yi": -16.35,
-        "count": 1,
-        "amount": 782260602.87,
-        "rows": [
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "2026中报预增",
-        "concept_code": "309267",
-        "change_pct": -3.82,
-        "net_inflow_yi": -71.91,
-        "count": 1,
-        "amount": 357072173.61,
-        "rows": [
-          {
-            "code": "001395",
-            "name": "亚联机械",
-            "reason": "中报预增+人造板装备+海外业务",
-            "concepts": [
-              "碳纤维",
-              "高端装备",
-              "专精特新",
-              "2026中报预增",
-              "融资融券"
-            ],
-            "amount": 357072173.61,
-            "turnover_rate": 22.38,
-            "first_limit_up_time": "10:09:45",
-            "last_limit_up_time": "14:53:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "碳纤维",
-        "concept_code": "300352",
-        "change_pct": -5.51,
-        "net_inflow_yi": -18.43,
-        "count": 1,
-        "amount": 357072173.61,
-        "rows": [
-          {
-            "code": "001395",
-            "name": "亚联机械",
-            "reason": "中报预增+人造板装备+海外业务",
-            "concepts": [
-              "碳纤维",
-              "高端装备",
-              "专精特新",
-              "2026中报预增",
-              "融资融券"
-            ],
-            "amount": 357072173.61,
-            "turnover_rate": 22.38,
-            "first_limit_up_time": "10:09:45",
-            "last_limit_up_time": "14:53:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "MCU芯片",
-        "concept_code": "308300",
-        "change_pct": -5.7,
-        "net_inflow_yi": -31.84,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "存储芯片",
-        "concept_code": "307940",
-        "change_pct": -6.41,
-        "net_inflow_yi": -46.31,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "工业母机",
-        "concept_code": "300941",
-        "change_pct": -6.61,
-        "net_inflow_yi": -22.66,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "福建自贸区",
-        "concept_code": "301236",
-        "change_pct": -4.0,
-        "net_inflow_yi": -35.41,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "仿制药一致性评价",
-        "concept_code": "308572",
-        "change_pct": 0.5,
-        "net_inflow_yi": 0.72,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "医美概念",
-        "concept_code": "308712",
-        "change_pct": -1.67,
-        "net_inflow_yi": -10.85,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "医药电商",
-        "concept_code": "301565",
-        "change_pct": 0.59,
-        "net_inflow_yi": 6.81,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "眼科医疗",
-        "concept_code": "301252",
-        "change_pct": -0.9,
-        "net_inflow_yi": -10.08,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "肝炎概念",
-        "concept_code": "308915",
-        "change_pct": 0.37,
-        "net_inflow_yi": -2.33,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "脑机接口",
-        "concept_code": "308535",
-        "change_pct": -4.77,
-        "net_inflow_yi": -29.93,
-        "count": 1,
-        "amount": 339069039.87,
-        "rows": [
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "国产航母",
-        "concept_code": "300236",
-        "change_pct": -6.13,
-        "net_inflow_yi": -13.56,
-        "count": 1,
-        "amount": 63778200.72,
-        "rows": [
-          {
-            "code": "600992",
-            "name": "贵绳股份",
-            "reason": "商业航天+钢丝绳+贵州国资",
-            "concepts": [
-              "国企改革",
-              "国产航母",
-              "西部大开发",
-              "海工装备",
-              "军工",
-              "商业航天"
-            ],
-            "amount": 63778200.72,
-            "turnover_rate": 2.22,
-            "first_limit_up_time": "09:25:01",
-            "last_limit_up_time": "09:25:01",
-            "consecutive_boards": 3
-          }
-        ]
+        "code": "600428",
+        "name": "中远海特",
+        "reason": "其他",
+        "concepts": [
+          "中字头股票",
+          "高股息精选",
+          "航运概念",
+          "自由贸易港",
+          "国企改革",
+          "央企国企改革",
+          "人民币贬值受益",
+          "DeepSeek概念",
+          "粤港澳大湾区",
+          "沪股通",
+          "比亚迪概念",
+          "2026中报预增",
+          "融资融券"
+        ],
+        "amount": 2143674799.9,
+        "turnover_rate": 8.91,
+        "first_limit_up_time": "09:38:54",
+        "last_limit_up_time": "14:13:51",
+        "consecutive_boards": 0
       }
     ],
-    "2026-07-10": [],
-    "2026-07-13": [
-      {
-        "concept": "医药电商",
-        "concept_code": "301565",
-        "change_pct": 0.59,
-        "net_inflow_yi": 6.81,
-        "count": 5,
-        "amount": 2379260520.92,
-        "rows": [
-          {
-            "code": "300534",
-            "name": "陇神戎发",
-            "reason": "中药+医疗器械+国企",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "三胎概念",
-              "创新药",
-              "医疗器械概念",
-              "中俄贸易概念",
-              "食品安全",
-              "西部大开发",
-              "参股券商",
-              "国企改革",
-              "专精特新",
-              "股权转让(并购重组)"
-            ],
-            "amount": 461973283.98,
-            "turnover_rate": 17.51,
-            "first_limit_up_time": "10:00:45",
-            "last_limit_up_time": "13:04:12",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600664",
-            "name": "哈药股份",
-            "reason": "中报预增+化学制药+创新药",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "维生素",
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "黑龙江自贸区",
-              "三胎概念",
-              "养老概念",
-              "跨境电商",
-              "DeepSeek概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 737706216.56,
-            "turnover_rate": 8.0,
-            "first_limit_up_time": "09:34:22",
-            "last_limit_up_time": "09:39:25",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "000989",
-            "name": "九芝堂",
-            "reason": "中报预增+中药+多肽+黑龙江国资",
-            "concepts": [
-              "创新药",
-              "医药电商",
-              "细胞免疫治疗",
-              "毛发医疗",
-              "高股息精选",
-              "国企改革",
-              "深股通",
-              "2026中报预增",
-              "股权转让(并购重组)"
-            ],
-            "amount": 670064700.6,
-            "turnover_rate": 10.92,
-            "first_limit_up_time": "09:40:03",
-            "last_limit_up_time": "14:34:48",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "流感",
-        "concept_code": "300038",
-        "change_pct": 0.22,
-        "net_inflow_yi": -1.95,
-        "count": 4,
-        "amount": 2314640907.3900003,
-        "rows": [
-          {
-            "code": "300534",
-            "name": "陇神戎发",
-            "reason": "中药+医疗器械+国企",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "三胎概念",
-              "创新药",
-              "医疗器械概念",
-              "中俄贸易概念",
-              "食品安全",
-              "西部大开发",
-              "参股券商",
-              "国企改革",
-              "专精特新",
-              "股权转让(并购重组)"
-            ],
-            "amount": 461973283.98,
-            "turnover_rate": 17.51,
-            "first_limit_up_time": "10:00:45",
-            "last_limit_up_time": "13:04:12",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600664",
-            "name": "哈药股份",
-            "reason": "中报预增+化学制药+创新药",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "维生素",
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "黑龙江自贸区",
-              "三胎概念",
-              "养老概念",
-              "跨境电商",
-              "DeepSeek概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 737706216.56,
-            "turnover_rate": 8.0,
-            "first_limit_up_time": "09:34:22",
-            "last_limit_up_time": "09:39:25",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "603669",
-            "name": "灵康药业",
-            "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-            "concepts": [
-              "阿尔茨海默概念",
-              "仿制药一致性评价",
-              "流感",
-              "民营医院",
-              "创新药",
-              "CRO概念",
-              "西部大开发"
-            ],
-            "amount": 440130680.11,
-            "turnover_rate": 9.31,
-            "first_limit_up_time": "10:38:55",
-            "last_limit_up_time": "11:16:28",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600513",
-            "name": "联环药业",
-            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
-            "concepts": [
-              "仿制药一致性评价",
-              "创新药",
-              "流感",
-              "禽流感",
-              "国企改革",
-              "专精特新",
-              "沪股通",
-              "股权转让(并购重组)"
-            ],
-            "amount": 674830726.74,
-            "turnover_rate": 14.86,
-            "first_limit_up_time": "13:55:32",
-            "last_limit_up_time": "13:55:32",
-            "consecutive_boards": 2
-          }
-        ]
-      },
+    "2026-07-13": []
+  },
+  "limit_up_concepts_by_date": {
+    "2026-07-11": [
       {
         "concept": "仿制药一致性评价",
         "concept_code": "308572",
         "change_pct": 0.5,
         "net_inflow_yi": 0.72,
-        "count": 4,
-        "amount": 2191736663.28,
+        "count": 3,
+        "amount": 1751605983.17,
         "rows": [
           {
             "code": "600664",
@@ -1582,25 +574,6 @@
             "first_limit_up_time": "09:34:22",
             "last_limit_up_time": "09:39:25",
             "consecutive_boards": 2
-          },
-          {
-            "code": "603669",
-            "name": "灵康药业",
-            "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-            "concepts": [
-              "阿尔茨海默概念",
-              "仿制药一致性评价",
-              "流感",
-              "民营医院",
-              "创新药",
-              "CRO概念",
-              "西部大开发"
-            ],
-            "amount": 440130680.11,
-            "turnover_rate": 9.31,
-            "first_limit_up_time": "10:38:55",
-            "last_limit_up_time": "11:16:28",
-            "consecutive_boards": 1
           },
           {
             "code": "600513",
@@ -1645,187 +618,62 @@
         ]
       },
       {
-        "concept": "参股券商",
-        "concept_code": "300100",
-        "change_pct": -1.79,
-        "net_inflow_yi": -28.16,
-        "count": 4,
-        "amount": 1968147814.32,
+        "concept": "航运概念",
+        "concept_code": "300973",
+        "change_pct": -1.52,
+        "net_inflow_yi": -32.13,
+        "count": 2,
+        "amount": 4495511884.62,
         "rows": [
           {
-            "code": "300534",
-            "name": "陇神戎发",
-            "reason": "中药+医疗器械+国企",
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
             "concepts": [
-              "流感",
-              "医药电商",
-              "三胎概念",
-              "创新药",
-              "医疗器械概念",
-              "中俄贸易概念",
-              "食品安全",
-              "西部大开发",
-              "参股券商",
-              "国企改革",
-              "专精特新",
-              "股权转让(并购重组)"
-            ],
-            "amount": 461973283.98,
-            "turnover_rate": 17.51,
-            "first_limit_up_time": "10:00:45",
-            "last_limit_up_time": "13:04:12",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600629",
-            "name": "华建集团",
-            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
-            "concepts": [
-              "上海国企改革",
-              "装配式建筑",
-              "房屋检测",
-              "一带一路",
-              "新型城镇化",
-              "低空经济",
-              "数字孪生",
-              "人工智能",
-              "创投",
-              "水利",
-              "建筑节能",
-              "地下管网",
-              "数字经济",
-              "PPP概念",
-              "雄安新区",
-              "乡村振兴",
-              "参股券商",
-              "国企改革",
-              "碳中和",
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
               "融资融券",
               "沪股通"
             ],
-            "amount": 678286925.64,
-            "turnover_rate": 4.42,
-            "first_limit_up_time": "13:11:54",
-            "last_limit_up_time": "13:20:15",
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
             "consecutive_boards": 2
           },
           {
-            "code": "000920",
-            "name": "沃顿科技",
-            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
             "concepts": [
-              "盐湖提锂",
-              "芯片概念",
-              "液冷服务器",
-              "央企国企改革",
-              "净水概念",
-              "西部大开发",
-              "污水处理",
-              "参股银行",
-              "国企改革",
-              "参股券商",
-              "深股通"
-            ],
-            "amount": 657440324.79,
-            "turnover_rate": 10.15,
-            "first_limit_up_time": "10:25:18",
-            "last_limit_up_time": "11:20:21",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "2026中报预增",
-        "concept_code": "309267",
-        "change_pct": -3.82,
-        "net_inflow_yi": -71.91,
-        "count": 3,
-        "amount": 1155885407.93,
-        "rows": [
-          {
-            "code": "000989",
-            "name": "九芝堂",
-            "reason": "中报预增+中药+多肽+黑龙江国资",
-            "concepts": [
-              "创新药",
-              "医药电商",
-              "细胞免疫治疗",
-              "毛发医疗",
+              "中字头股票",
               "高股息精选",
+              "航运概念",
+              "自由贸易港",
               "国企改革",
-              "深股通",
-              "2026中报预增",
-              "股权转让(并购重组)"
-            ],
-            "amount": 670064700.6,
-            "turnover_rate": 10.92,
-            "first_limit_up_time": "09:40:03",
-            "last_limit_up_time": "14:34:48",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "001395",
-            "name": "亚联机械",
-            "reason": "中报预增+人造板装备+海外业务",
-            "concepts": [
-              "碳纤维",
-              "高端装备",
-              "专精特新",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 357072173.61,
-            "turnover_rate": 22.38,
-            "first_limit_up_time": "10:09:45",
-            "last_limit_up_time": "14:53:24",
-            "consecutive_boards": 3
-          },
-          {
-            "code": "601002",
-            "name": "晋亿实业",
-            "reason": "中报预增+高铁扣件+新能源紧固件",
-            "concepts": [
-              "高铁",
-              "海峡两岸",
-              "核电",
-              "新能源汽车",
-              "长三角一体化",
-              "沪股通",
-              "融资融券",
-              "2026中报预增"
-            ],
-            "amount": 128748533.72,
-            "turnover_rate": 2.79,
-            "first_limit_up_time": "09:30:21",
-            "last_limit_up_time": "13:29:57",
-            "consecutive_boards": 1
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
           }
         ]
       },
@@ -1835,52 +683,8 @@
         "change_pct": -2.58,
         "net_inflow_yi": -30.45,
         "count": 2,
-        "amount": 2917964355.62,
+        "amount": 3266735891.25,
         "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          },
           {
             "code": "601608",
             "name": "中信重工",
@@ -1916,215 +720,172 @@
             "first_limit_up_time": "09:25:01",
             "last_limit_up_time": "11:10:19",
             "consecutive_boards": 2
-          }
-        ]
-      },
-      {
-        "concept": "天然气",
-        "concept_code": "300358",
-        "change_pct": -2.35,
-        "net_inflow_yi": -32.31,
-        "count": 2,
-        "amount": 2439395933.27,
-        "rows": [
-          {
-            "code": "603318",
-            "name": "水发燃气",
-            "reason": "氦气+AI数据中心燃气轮机+国企",
-            "concepts": [
-              "天然气",
-              "氢能源",
-              "国企改革",
-              "绿色电力",
-              "一带一路",
-              "股权转让(并购重组)",
-              "专精特新",
-              "融资融券"
-            ],
-            "amount": 87558848.55,
-            "turnover_rate": 2.23,
-            "first_limit_up_time": "09:25:02",
-            "last_limit_up_time": "09:25:02",
-            "consecutive_boards": 1
           },
           {
-            "code": "605090",
-            "name": "九丰能源",
-            "reason": "氦气+商业航天+清洁能源",
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
             "concepts": [
-              "俄乌冲突概念",
-              "煤化工概念",
-              "天然气",
-              "新疆振兴",
+              "中字头股票",
+              "高股息精选",
               "航运概念",
-              "氢能源",
-              "商业航天",
-              "粤港澳大湾区",
-              "智能物流",
-              "绿色电力",
-              "芯片概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 2351837084.72,
-            "turnover_rate": 7.99,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:19:45",
-            "consecutive_boards": 2
-          }
-        ]
-      },
-      {
-        "concept": "新疆振兴",
-        "concept_code": "300386",
-        "change_pct": -3.3,
-        "net_inflow_yi": -57.66,
-        "count": 2,
-        "amount": 2430065502.9199996,
-        "rows": [
-          {
-            "code": "300214",
-            "name": "日科化学",
-            "reason": "并购重组+锂电池电解液+算力租赁+化工",
-            "concepts": [
-              "算力租赁",
-              "东数西算(算力)",
-              "丙烯酸",
-              "数据中心(AIDC)",
-              "液冷服务器",
-              "DeepSeek概念",
-              "专精特新",
-              "新疆振兴"
-            ],
-            "amount": 78228418.2,
-            "turnover_rate": 1.37,
-            "first_limit_up_time": "09:25:00",
-            "last_limit_up_time": "09:25:00",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "605090",
-            "name": "九丰能源",
-            "reason": "氦气+商业航天+清洁能源",
-            "concepts": [
-              "俄乌冲突概念",
-              "煤化工概念",
-              "天然气",
-              "新疆振兴",
-              "航运概念",
-              "氢能源",
-              "商业航天",
-              "粤港澳大湾区",
-              "智能物流",
-              "绿色电力",
-              "芯片概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 2351837084.72,
-            "turnover_rate": 7.99,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:19:45",
-            "consecutive_boards": 2
-          }
-        ]
-      },
-      {
-        "concept": "电子身份证",
-        "concept_code": "308869",
-        "change_pct": -4.65,
-        "net_inflow_yi": -9.08,
-        "count": 2,
-        "amount": 1917677347.69,
-        "rows": [
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
+              "自由贸易港",
               "国企改革",
               "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "2026中报预增",
+        "concept_code": "309267",
+        "change_pct": -3.82,
+        "net_inflow_yi": -71.91,
+        "count": 2,
+        "amount": 2500746973.51,
+        "rows": [
+          {
+            "code": "001395",
+            "name": "亚联机械",
+            "reason": "中报预增+人造板装备+海外业务",
+            "concepts": [
+              "碳纤维",
+              "高端装备",
+              "专精特新",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 357072173.61,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:09:45",
+            "last_limit_up_time": "14:53:24",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
+            "concepts": [
               "中字头股票",
+              "高股息精选",
+              "航运概念",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "流感",
+        "concept_code": "300038",
+        "change_pct": 0.22,
+        "net_inflow_yi": -1.95,
+        "count": 2,
+        "amount": 1412536943.3,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
               "沪股通",
               "融资融券"
             ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600513",
+            "name": "联环药业",
+            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "流感",
+              "禽流感",
+              "国企改革",
+              "专精特新",
+              "沪股通",
+              "股权转让(并购重组)"
+            ],
+            "amount": 674830726.74,
+            "turnover_rate": 14.86,
+            "first_limit_up_time": "13:55:32",
+            "last_limit_up_time": "13:55:32",
+            "consecutive_boards": 2
           }
         ]
       },
       {
-        "concept": "建筑节能",
-        "concept_code": "300261",
-        "change_pct": -4.32,
-        "net_inflow_yi": -16.66,
+        "concept": "参股券商",
+        "concept_code": "300100",
+        "change_pct": -1.79,
+        "net_inflow_yi": -28.16,
         "count": 2,
-        "amount": 1460547528.51,
+        "amount": 1335727250.4299998,
         "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          },
           {
             "code": "600629",
             "name": "华建集团",
@@ -2157,85 +918,6 @@
             "first_limit_up_time": "13:11:54",
             "last_limit_up_time": "13:20:15",
             "consecutive_boards": 2
-          },
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "装配式建筑",
-        "concept_code": "305794",
-        "change_pct": -3.45,
-        "net_inflow_yi": -16.35,
-        "count": 2,
-        "amount": 1460547528.51,
-        "rows": [
-          {
-            "code": "600629",
-            "name": "华建集团",
-            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
-            "concepts": [
-              "上海国企改革",
-              "装配式建筑",
-              "房屋检测",
-              "一带一路",
-              "新型城镇化",
-              "低空经济",
-              "数字孪生",
-              "人工智能",
-              "创投",
-              "水利",
-              "建筑节能",
-              "地下管网",
-              "数字经济",
-              "PPP概念",
-              "雄安新区",
-              "乡村振兴",
-              "参股券商",
-              "国企改革",
-              "碳中和",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 678286925.64,
-            "turnover_rate": 4.42,
-            "first_limit_up_time": "13:11:54",
-            "last_limit_up_time": "13:20:15",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
-            "concepts": [
-              "装配式建筑",
-              "建筑节能",
-              "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
-              "融资融券"
-            ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
           }
         ]
       },
@@ -2304,6 +986,61 @@
         ]
       },
       {
+        "concept": "医药电商",
+        "concept_code": "301565",
+        "change_pct": 0.59,
+        "net_inflow_yi": 6.81,
+        "count": 2,
+        "amount": 1076775256.4299998,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
         "concept": "肝炎概念",
         "concept_code": "308915",
         "change_pct": 0.37,
@@ -2359,304 +1096,80 @@
         ]
       },
       {
-        "concept": "禽流感",
-        "concept_code": "300075",
-        "change_pct": 1.49,
-        "net_inflow_yi": 5.91,
-        "count": 2,
-        "amount": 845278006.65,
-        "rows": [
-          {
-            "code": "600513",
-            "name": "联环药业",
-            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
-            "concepts": [
-              "仿制药一致性评价",
-              "创新药",
-              "流感",
-              "禽流感",
-              "国企改革",
-              "专精特新",
-              "沪股通",
-              "股权转让(并购重组)"
-            ],
-            "amount": 674830726.74,
-            "turnover_rate": 14.86,
-            "first_limit_up_time": "13:55:32",
-            "last_limit_up_time": "13:55:32",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "参股银行",
-        "concept_code": "301270",
-        "change_pct": -2.78,
-        "net_inflow_yi": -19.04,
-        "count": 2,
-        "amount": 827887604.6999999,
-        "rows": [
-          {
-            "code": "000920",
-            "name": "沃顿科技",
-            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
-            "concepts": [
-              "盐湖提锂",
-              "芯片概念",
-              "液冷服务器",
-              "央企国企改革",
-              "净水概念",
-              "西部大开发",
-              "污水处理",
-              "参股银行",
-              "国企改革",
-              "参股券商",
-              "深股通"
-            ],
-            "amount": 657440324.79,
-            "turnover_rate": 10.15,
-            "first_limit_up_time": "10:25:18",
-            "last_limit_up_time": "11:20:21",
-            "consecutive_boards": 2
-          },
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "中俄贸易概念",
-        "concept_code": "308854",
-        "change_pct": -3.79,
-        "net_inflow_yi": -23.93,
-        "count": 2,
-        "amount": 584747367.4,
-        "rows": [
-          {
-            "code": "300534",
-            "name": "陇神戎发",
-            "reason": "中药+医疗器械+国企",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "三胎概念",
-              "创新药",
-              "医疗器械概念",
-              "中俄贸易概念",
-              "食品安全",
-              "西部大开发",
-              "参股券商",
-              "国企改革",
-              "专精特新",
-              "股权转让(并购重组)"
-            ],
-            "amount": 461973283.98,
-            "turnover_rate": 17.51,
-            "first_limit_up_time": "10:00:45",
-            "last_limit_up_time": "13:04:12",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "眼科医疗",
-        "concept_code": "301252",
-        "change_pct": -0.9,
-        "net_inflow_yi": -10.08,
-        "count": 2,
-        "amount": 537964321.3,
-        "rows": [
-          {
-            "code": "600671",
-            "name": "天目药业",
-            "reason": "中药+大健康+青岛国资",
-            "concepts": [
-              "眼科医疗",
-              "医疗器械概念",
-              "国企改革"
-            ],
-            "amount": 198895281.43,
-            "turnover_rate": 7.85,
-            "first_limit_up_time": "09:48:23",
-            "last_limit_up_time": "13:25:32",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "003020",
-            "name": "立方制药",
-            "reason": "基药目录新增+精麻药+缓控释制剂",
-            "concepts": [
-              "仿制药一致性评价",
-              "肝炎概念",
-              "创新药",
-              "医药电商",
-              "眼科医疗",
-              "医美概念",
-              "脑机接口",
-              "深股通"
-            ],
-            "amount": 339069039.87,
-            "turnover_rate": 9.85,
-            "first_limit_up_time": "09:30:15",
-            "last_limit_up_time": "09:34:24",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "算力租赁",
-        "concept_code": "309068",
-        "change_pct": -4.52,
-        "net_inflow_yi": -67.45,
-        "count": 2,
-        "amount": 201002501.62,
-        "rows": [
-          {
-            "code": "300214",
-            "name": "日科化学",
-            "reason": "并购重组+锂电池电解液+算力租赁+化工",
-            "concepts": [
-              "算力租赁",
-              "东数西算(算力)",
-              "丙烯酸",
-              "数据中心(AIDC)",
-              "液冷服务器",
-              "DeepSeek概念",
-              "专精特新",
-              "新疆振兴"
-            ],
-            "amount": 78228418.2,
-            "turnover_rate": 1.37,
-            "first_limit_up_time": "09:25:00",
-            "last_limit_up_time": "09:25:00",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
         "concept": "俄乌冲突概念",
         "concept_code": "308850",
         "change_pct": -1.49,
         "net_inflow_yi": -29.14,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "天然气",
+        "concept_code": "300358",
+        "change_pct": -2.35,
+        "net_inflow_yi": -32.31,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "新疆振兴",
+        "concept_code": "300386",
+        "change_pct": -3.3,
+        "net_inflow_yi": -57.66,
         "count": 1,
         "amount": 2351837084.72,
         "rows": [
@@ -2723,361 +1236,37 @@
         ]
       },
       {
-        "concept": "航运概念",
-        "concept_code": "300973",
-        "change_pct": -1.52,
-        "net_inflow_yi": -32.13,
+        "concept": "自由贸易港",
+        "concept_code": "306398",
+        "change_pct": -1.84,
+        "net_inflow_yi": -7.2,
         "count": 1,
-        "amount": 2351837084.72,
+        "amount": 2143674799.9,
         "rows": [
           {
-            "code": "605090",
-            "name": "九丰能源",
-            "reason": "氦气+商业航天+清洁能源",
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
             "concepts": [
-              "俄乌冲突概念",
-              "煤化工概念",
-              "天然气",
-              "新疆振兴",
+              "中字头股票",
+              "高股息精选",
               "航运概念",
-              "氢能源",
-              "商业航天",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
               "粤港澳大湾区",
-              "智能物流",
-              "绿色电力",
-              "芯片概念",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 2351837084.72,
-            "turnover_rate": 7.99,
-            "first_limit_up_time": "09:25:03",
-            "last_limit_up_time": "14:19:45",
-            "consecutive_boards": 2
-          }
-        ]
-      },
-      {
-        "concept": "华为欧拉",
-        "concept_code": "308887",
-        "change_pct": -3.58,
-        "net_inflow_yi": -9.5,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
               "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
               "融资融券"
             ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "华为鲲鹏",
-        "concept_code": "308883",
-        "change_pct": -4.41,
-        "net_inflow_yi": -35.82,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "国产操作系统",
-        "concept_code": "308531",
-        "change_pct": -4.26,
-        "net_inflow_yi": -28.95,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "数据安全",
-        "concept_code": "308801",
-        "change_pct": -4.62,
-        "net_inflow_yi": -52.64,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "网络安全",
-        "concept_code": "300756",
-        "change_pct": -4.38,
-        "net_inflow_yi": -66.76,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "财税数字化",
-        "concept_code": "309134",
-        "change_pct": -3.89,
-        "net_inflow_yi": -16.63,
-        "count": 1,
-        "amount": 1794903264.27,
-        "rows": [
-          {
-            "code": "600536",
-            "name": "中国软件",
-            "reason": "信创+麒麟OS+央企",
-            "concepts": [
-              "华为欧拉",
-              "电子身份证",
-              "智慧政务",
-              "数据安全",
-              "华为鲲鹏",
-              "云计算",
-              "财税数字化",
-              "信创",
-              "国产操作系统",
-              "数字经济",
-              "网络安全",
-              "智慧城市",
-              "阿里巴巴概念",
-              "人工智能",
-              "DeepSeek概念",
-              "水利",
-              "中国AI",
-              "50",
-              "京津冀一体化",
-              "机器人概念",
-              "华为概念",
-              "数据中心(AIDC)",
-              "AI",
-              "PC",
-              "低空经济",
-              "乡村振兴",
-              "商业航天",
-              "国企改革",
-              "央企国企改革",
-              "中字头股票",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 1794903264.27,
-            "turnover_rate": 6.83,
-            "first_limit_up_time": "13:33:17",
-            "last_limit_up_time": "14:47:08",
-            "consecutive_boards": 1
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
           }
         ]
       },
@@ -3312,81 +1501,1579 @@
         ]
       },
       {
-        "concept": "金属回收",
-        "concept_code": "301107",
-        "change_pct": -4.8,
-        "net_inflow_yi": -46.76,
+        "concept": "维生素",
+        "concept_code": "309135",
+        "change_pct": 0.02,
+        "net_inflow_yi": -2.34,
         "count": 1,
-        "amount": 947477174.59,
+        "amount": 737706216.56,
         "rows": [
           {
-            "code": "002379",
-            "name": "宏桥控股",
-            "reason": "中报预增+电解铝+铝全产业链",
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
             "concepts": [
-              "股权转让(并购重组)",
-              "金属回收",
-              "深股通",
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
               "融资融券"
             ],
-            "amount": 947477174.59,
-            "turnover_rate": 5.36,
-            "first_limit_up_time": "10:17:06",
-            "last_limit_up_time": "14:18:15",
-            "consecutive_boards": 1
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
           }
         ]
       },
       {
-        "concept": "职业教育",
-        "concept_code": "301539",
-        "change_pct": -3.98,
-        "net_inflow_yi": -34.73,
+        "concept": "黑龙江自贸区",
+        "concept_code": "308547",
+        "change_pct": -3.7,
+        "net_inflow_yi": -8.39,
         "count": 1,
-        "amount": 875865996.38,
+        "amount": 737706216.56,
         "rows": [
           {
-            "code": "603065",
-            "name": "宿迁联盛",
-            "reason": "磷化铟衬底+光稳定剂+终止减持",
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
             "concepts": [
-              "专精特新",
-              "光伏概念",
-              "职业教育"
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
             ],
-            "amount": 875865996.38,
-            "turnover_rate": 9.97,
-            "first_limit_up_time": "09:44:57",
-            "last_limit_up_time": "10:02:18",
-            "consecutive_boards": 1
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
           }
         ]
       },
       {
-        "concept": "光伏建筑一体化",
-        "concept_code": "308729",
-        "change_pct": -4.24,
-        "net_inflow_yi": -64.95,
+        "concept": "PPP概念",
+        "concept_code": "301624",
+        "change_pct": -3.23,
+        "net_inflow_yi": -36.32,
         "count": 1,
-        "amount": 782260602.87,
+        "amount": 678286925.64,
         "rows": [
           {
-            "code": "603137",
-            "name": "恒尚节能",
-            "reason": "拟收购存储公司+建筑幕墙+跨界转型",
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
             "concepts": [
+              "上海国企改革",
               "装配式建筑",
-              "建筑节能",
+              "房屋检测",
+              "一带一路",
               "新型城镇化",
-              "光伏建筑一体化",
-              "股权转让(并购重组)",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "上海国企改革",
+        "concept_code": "301402",
+        "change_pct": -2.23,
+        "net_inflow_yi": -9.23,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "地下管网",
+        "concept_code": "301623",
+        "change_pct": -3.77,
+        "net_inflow_yi": -14.06,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "建筑节能",
+        "concept_code": "300261",
+        "change_pct": -4.32,
+        "net_inflow_yi": -16.66,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "房屋检测",
+        "concept_code": "309155",
+        "change_pct": -4.03,
+        "net_inflow_yi": -8.71,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "装配式建筑",
+        "concept_code": "305794",
+        "change_pct": -3.45,
+        "net_inflow_yi": -16.35,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "雄安新区",
+        "concept_code": "302182",
+        "change_pct": -3.84,
+        "net_inflow_yi": -55.77,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "禽流感",
+        "concept_code": "300075",
+        "change_pct": 1.49,
+        "net_inflow_yi": 5.91,
+        "count": 1,
+        "amount": 674830726.74,
+        "rows": [
+          {
+            "code": "600513",
+            "name": "联环药业",
+            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "流感",
+              "禽流感",
+              "国企改革",
+              "专精特新",
+              "沪股通",
+              "股权转让(并购重组)"
+            ],
+            "amount": 674830726.74,
+            "turnover_rate": 14.86,
+            "first_limit_up_time": "13:55:32",
+            "last_limit_up_time": "13:55:32",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "净水概念",
+        "concept_code": "301032",
+        "change_pct": -3.16,
+        "net_inflow_yi": 0.99,
+        "count": 1,
+        "amount": 657440324.79,
+        "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "参股银行",
+        "concept_code": "301270",
+        "change_pct": -2.78,
+        "net_inflow_yi": -19.04,
+        "count": 1,
+        "amount": 657440324.79,
+        "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "盐湖提锂",
+        "concept_code": "307904",
+        "change_pct": -2.4,
+        "net_inflow_yi": -16.86,
+        "count": 1,
+        "amount": 657440324.79,
+        "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "碳纤维",
+        "concept_code": "300352",
+        "change_pct": -5.51,
+        "net_inflow_yi": -18.43,
+        "count": 1,
+        "amount": 357072173.61,
+        "rows": [
+          {
+            "code": "001395",
+            "name": "亚联机械",
+            "reason": "中报预增+人造板装备+海外业务",
+            "concepts": [
+              "碳纤维",
+              "高端装备",
+              "专精特新",
+              "2026中报预增",
               "融资融券"
             ],
-            "amount": 782260602.87,
-            "turnover_rate": 15.17,
-            "first_limit_up_time": "09:37:07",
-            "last_limit_up_time": "13:45:04",
-            "consecutive_boards": 1
+            "amount": 357072173.61,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:09:45",
+            "last_limit_up_time": "14:53:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "医美概念",
+        "concept_code": "308712",
+        "change_pct": -1.67,
+        "net_inflow_yi": -10.85,
+        "count": 1,
+        "amount": 339069039.87,
+        "rows": [
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "眼科医疗",
+        "concept_code": "301252",
+        "change_pct": -0.9,
+        "net_inflow_yi": -10.08,
+        "count": 1,
+        "amount": 339069039.87,
+        "rows": [
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "脑机接口",
+        "concept_code": "308535",
+        "change_pct": -4.77,
+        "net_inflow_yi": -29.93,
+        "count": 1,
+        "amount": 339069039.87,
+        "rows": [
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      }
+    ],
+    "2026-07-12": [
+      {
+        "concept": "仿制药一致性评价",
+        "concept_code": "308572",
+        "change_pct": 0.5,
+        "net_inflow_yi": 0.72,
+        "count": 3,
+        "amount": 1751605983.17,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600513",
+            "name": "联环药业",
+            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "流感",
+              "禽流感",
+              "国企改革",
+              "专精特新",
+              "沪股通",
+              "股权转让(并购重组)"
+            ],
+            "amount": 674830726.74,
+            "turnover_rate": 14.86,
+            "first_limit_up_time": "13:55:32",
+            "last_limit_up_time": "13:55:32",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "航运概念",
+        "concept_code": "300973",
+        "change_pct": -1.52,
+        "net_inflow_yi": -32.13,
+        "count": 2,
+        "amount": 4495511884.62,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
+            "concepts": [
+              "中字头股票",
+              "高股息精选",
+              "航运概念",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "中字头股票",
+        "concept_code": "300704",
+        "change_pct": -2.58,
+        "net_inflow_yi": -30.45,
+        "count": 2,
+        "amount": 3266735891.25,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
+            "concepts": [
+              "中字头股票",
+              "高股息精选",
+              "航运概念",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "2026中报预增",
+        "concept_code": "309267",
+        "change_pct": -3.82,
+        "net_inflow_yi": -71.91,
+        "count": 2,
+        "amount": 2500746973.51,
+        "rows": [
+          {
+            "code": "001395",
+            "name": "亚联机械",
+            "reason": "中报预增+人造板装备+海外业务",
+            "concepts": [
+              "碳纤维",
+              "高端装备",
+              "专精特新",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 357072173.61,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:09:45",
+            "last_limit_up_time": "14:53:24",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
+            "concepts": [
+              "中字头股票",
+              "高股息精选",
+              "航运概念",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "流感",
+        "concept_code": "300038",
+        "change_pct": 0.22,
+        "net_inflow_yi": -1.95,
+        "count": 2,
+        "amount": 1412536943.3,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600513",
+            "name": "联环药业",
+            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "流感",
+              "禽流感",
+              "国企改革",
+              "专精特新",
+              "沪股通",
+              "股权转让(并购重组)"
+            ],
+            "amount": 674830726.74,
+            "turnover_rate": 14.86,
+            "first_limit_up_time": "13:55:32",
+            "last_limit_up_time": "13:55:32",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "参股券商",
+        "concept_code": "300100",
+        "change_pct": -1.79,
+        "net_inflow_yi": -28.16,
+        "count": 2,
+        "amount": 1335727250.4299998,
+        "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "国产航母",
+        "concept_code": "300236",
+        "change_pct": -6.13,
+        "net_inflow_yi": -13.56,
+        "count": 2,
+        "amount": 1186839292.07,
+        "rows": [
+          {
+            "code": "600992",
+            "name": "贵绳股份",
+            "reason": "商业航天+钢丝绳+贵州国资",
+            "concepts": [
+              "国企改革",
+              "国产航母",
+              "西部大开发",
+              "海工装备",
+              "军工",
+              "商业航天"
+            ],
+            "amount": 63778200.72,
+            "turnover_rate": 2.22,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "09:25:01",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "医药电商",
+        "concept_code": "301565",
+        "change_pct": 0.59,
+        "net_inflow_yi": 6.81,
+        "count": 2,
+        "amount": 1076775256.4299998,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "肝炎概念",
+        "concept_code": "308915",
+        "change_pct": 0.37,
+        "net_inflow_yi": -2.33,
+        "count": 2,
+        "amount": 1076775256.4299998,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "中报预增+化学制药+创新药",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 737706216.56,
+            "turnover_rate": 8.0,
+            "first_limit_up_time": "09:34:22",
+            "last_limit_up_time": "09:39:25",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "俄乌冲突概念",
+        "concept_code": "308850",
+        "change_pct": -1.49,
+        "net_inflow_yi": -29.14,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "天然气",
+        "concept_code": "300358",
+        "change_pct": -2.35,
+        "net_inflow_yi": -32.31,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "新疆振兴",
+        "concept_code": "300386",
+        "change_pct": -3.3,
+        "net_inflow_yi": -57.66,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "煤化工概念",
+        "concept_code": "300084",
+        "change_pct": -2.22,
+        "net_inflow_yi": -25.28,
+        "count": 1,
+        "amount": 2351837084.72,
+        "rows": [
+          {
+            "code": "605090",
+            "name": "九丰能源",
+            "reason": "氦气+商业航天+清洁能源",
+            "concepts": [
+              "俄乌冲突概念",
+              "煤化工概念",
+              "天然气",
+              "新疆振兴",
+              "航运概念",
+              "氢能源",
+              "商业航天",
+              "粤港澳大湾区",
+              "智能物流",
+              "绿色电力",
+              "芯片概念",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 2351837084.72,
+            "turnover_rate": 7.99,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "14:19:45",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "自由贸易港",
+        "concept_code": "306398",
+        "change_pct": -1.84,
+        "net_inflow_yi": -7.2,
+        "count": 1,
+        "amount": 2143674799.9,
+        "rows": [
+          {
+            "code": "600428",
+            "name": "中远海特",
+            "reason": "其他",
+            "concepts": [
+              "中字头股票",
+              "高股息精选",
+              "航运概念",
+              "自由贸易港",
+              "国企改革",
+              "央企国企改革",
+              "人民币贬值受益",
+              "DeepSeek概念",
+              "粤港澳大湾区",
+              "沪股通",
+              "比亚迪概念",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 2143674799.9,
+            "turnover_rate": 8.91,
+            "first_limit_up_time": "09:38:54",
+            "last_limit_up_time": "14:13:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "F5G概念",
+        "concept_code": "308977",
+        "change_pct": -5.09,
+        "net_inflow_yi": -36.53,
+        "count": 1,
+        "amount": 1123061091.35,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "一体化压铸",
+        "concept_code": "308984",
+        "change_pct": -5.46,
+        "net_inflow_yi": -19.18,
+        "count": 1,
+        "amount": 1123061091.35,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "减速器",
+        "concept_code": "309000",
+        "change_pct": -6.27,
+        "net_inflow_yi": -21.85,
+        "count": 1,
+        "amount": 1123061091.35,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "同花顺中特估100",
+        "concept_code": "309062",
+        "change_pct": -1.06,
+        "net_inflow_yi": 22.29,
+        "count": 1,
+        "amount": 1123061091.35,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "大飞机",
+        "concept_code": "300013",
+        "change_pct": -6.82,
+        "net_inflow_yi": -53.97,
+        "count": 1,
+        "amount": 1123061091.35,
+        "rows": [
+          {
+            "code": "601608",
+            "name": "中信重工",
+            "reason": "商业航天+助力海上回收+矿山机器人+央企",
+            "concepts": [
+              "大飞机",
+              "国产航母",
+              "高端装备",
+              "新型工业化",
+              "商业航天",
+              "军工",
+              "工业互联网",
+              "机器人概念",
+              "一体化压铸",
+              "人工智能",
+              "减速器",
+              "核电",
+              "海工装备",
+              "人形机器人",
+              "一带一路",
+              "华为概念",
+              "风电",
+              "国企改革",
+              "光伏概念",
+              "F5G概念",
+              "同花顺中特估100",
+              "融资融券",
+              "沪股通",
+              "中字头股票"
+            ],
+            "amount": 1123061091.35,
+            "turnover_rate": 4.47,
+            "first_limit_up_time": "09:25:01",
+            "last_limit_up_time": "11:10:19",
+            "consecutive_boards": 2
           }
         ]
       },
@@ -3590,10 +3277,96 @@
         ]
       },
       {
+        "concept": "建筑节能",
+        "concept_code": "300261",
+        "change_pct": -4.32,
+        "net_inflow_yi": -16.66,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
         "concept": "房屋检测",
         "concept_code": "309155",
         "change_pct": -4.03,
         "net_inflow_yi": -8.71,
+        "count": 1,
+        "amount": 678286925.64,
+        "rows": [
+          {
+            "code": "600629",
+            "name": "华建集团",
+            "reason": "子公司重整获批+工程设计+上海微电子相关+上海国资",
+            "concepts": [
+              "上海国企改革",
+              "装配式建筑",
+              "房屋检测",
+              "一带一路",
+              "新型城镇化",
+              "低空经济",
+              "数字孪生",
+              "人工智能",
+              "创投",
+              "水利",
+              "建筑节能",
+              "地下管网",
+              "数字经济",
+              "PPP概念",
+              "雄安新区",
+              "乡村振兴",
+              "参股券商",
+              "国企改革",
+              "碳中和",
+              "融资融券",
+              "沪股通"
+            ],
+            "amount": 678286925.64,
+            "turnover_rate": 4.42,
+            "first_limit_up_time": "13:11:54",
+            "last_limit_up_time": "13:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "装配式建筑",
+        "concept_code": "305794",
+        "change_pct": -3.45,
+        "net_inflow_yi": -16.35,
         "count": 1,
         "amount": 678286925.64,
         "rows": [
@@ -3676,64 +3449,32 @@
         ]
       },
       {
-        "concept": "毛发医疗",
-        "concept_code": "308893",
-        "change_pct": -0.24,
-        "net_inflow_yi": 0.63,
+        "concept": "禽流感",
+        "concept_code": "300075",
+        "change_pct": 1.49,
+        "net_inflow_yi": 5.91,
         "count": 1,
-        "amount": 670064700.6,
+        "amount": 674830726.74,
         "rows": [
           {
-            "code": "000989",
-            "name": "九芝堂",
-            "reason": "中报预增+中药+多肽+黑龙江国资",
+            "code": "600513",
+            "name": "联环药业",
+            "reason": "创新药+LH-1801申报+SGLT-2抑制剂+扬州国资",
             "concepts": [
+              "仿制药一致性评价",
               "创新药",
-              "医药电商",
-              "细胞免疫治疗",
-              "毛发医疗",
-              "高股息精选",
+              "流感",
+              "禽流感",
               "国企改革",
-              "深股通",
-              "2026中报预增",
+              "专精特新",
+              "沪股通",
               "股权转让(并购重组)"
             ],
-            "amount": 670064700.6,
-            "turnover_rate": 10.92,
-            "first_limit_up_time": "09:40:03",
-            "last_limit_up_time": "14:34:48",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "细胞免疫治疗",
-        "concept_code": "301543",
-        "change_pct": -1.4,
-        "net_inflow_yi": -9.19,
-        "count": 1,
-        "amount": 670064700.6,
-        "rows": [
-          {
-            "code": "000989",
-            "name": "九芝堂",
-            "reason": "中报预增+中药+多肽+黑龙江国资",
-            "concepts": [
-              "创新药",
-              "医药电商",
-              "细胞免疫治疗",
-              "毛发医疗",
-              "高股息精选",
-              "国企改革",
-              "深股通",
-              "2026中报预增",
-              "股权转让(并购重组)"
-            ],
-            "amount": 670064700.6,
-            "turnover_rate": 10.92,
-            "first_limit_up_time": "09:40:03",
-            "last_limit_up_time": "14:34:48",
-            "consecutive_boards": 1
+            "amount": 674830726.74,
+            "turnover_rate": 14.86,
+            "first_limit_up_time": "13:55:32",
+            "last_limit_up_time": "13:55:32",
+            "consecutive_boards": 2
           }
         ]
       },
@@ -3742,6 +3483,39 @@
         "concept_code": "301032",
         "change_pct": -3.16,
         "net_inflow_yi": 0.99,
+        "count": 1,
+        "amount": 657440324.79,
+        "rows": [
+          {
+            "code": "000920",
+            "name": "沃顿科技",
+            "reason": "半导体超纯水膜+盐湖提锂+膜材料扩产+央企",
+            "concepts": [
+              "盐湖提锂",
+              "芯片概念",
+              "液冷服务器",
+              "央企国企改革",
+              "净水概念",
+              "西部大开发",
+              "污水处理",
+              "参股银行",
+              "国企改革",
+              "参股券商",
+              "深股通"
+            ],
+            "amount": 657440324.79,
+            "turnover_rate": 10.15,
+            "first_limit_up_time": "10:25:18",
+            "last_limit_up_time": "11:20:21",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "参股银行",
+        "concept_code": "301270",
+        "change_pct": -2.78,
+        "net_inflow_yi": -19.04,
         "count": 1,
         "amount": 657440324.79,
         "rows": [
@@ -3804,155 +3578,6 @@
         ]
       },
       {
-        "concept": "C2M概念",
-        "concept_code": "308646",
-        "change_pct": -3.75,
-        "net_inflow_yi": -4.53,
-        "count": 1,
-        "amount": 564258154.39,
-        "rows": [
-          {
-            "code": "603313",
-            "name": "梦百合",
-            "reason": "智能家居+跨境电商+美国产能",
-            "concepts": [
-              "跨境电商",
-              "C2M概念",
-              "鸿蒙概念",
-              "人民币贬值受益",
-              "智能家居",
-              "沪股通"
-            ],
-            "amount": 564258154.39,
-            "turnover_rate": 12.98,
-            "first_limit_up_time": "14:53:38",
-            "last_limit_up_time": "14:53:38",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "食品安全",
-        "concept_code": "300023",
-        "change_pct": -3.69,
-        "net_inflow_yi": -11.41,
-        "count": 1,
-        "amount": 461973283.98,
-        "rows": [
-          {
-            "code": "300534",
-            "name": "陇神戎发",
-            "reason": "中药+医疗器械+国企",
-            "concepts": [
-              "流感",
-              "医药电商",
-              "三胎概念",
-              "创新药",
-              "医疗器械概念",
-              "中俄贸易概念",
-              "食品安全",
-              "西部大开发",
-              "参股券商",
-              "国企改革",
-              "专精特新",
-              "股权转让(并购重组)"
-            ],
-            "amount": 461973283.98,
-            "turnover_rate": 17.51,
-            "first_limit_up_time": "10:00:45",
-            "last_limit_up_time": "13:04:12",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "CRO概念",
-        "concept_code": "308734",
-        "change_pct": -0.8,
-        "net_inflow_yi": -9.22,
-        "count": 1,
-        "amount": 440130680.11,
-        "rows": [
-          {
-            "code": "603669",
-            "name": "灵康药业",
-            "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-            "concepts": [
-              "阿尔茨海默概念",
-              "仿制药一致性评价",
-              "流感",
-              "民营医院",
-              "创新药",
-              "CRO概念",
-              "西部大开发"
-            ],
-            "amount": 440130680.11,
-            "turnover_rate": 9.31,
-            "first_limit_up_time": "10:38:55",
-            "last_limit_up_time": "11:16:28",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "民营医院",
-        "concept_code": "301346",
-        "change_pct": -1.4,
-        "net_inflow_yi": -35.2,
-        "count": 1,
-        "amount": 440130680.11,
-        "rows": [
-          {
-            "code": "603669",
-            "name": "灵康药业",
-            "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-            "concepts": [
-              "阿尔茨海默概念",
-              "仿制药一致性评价",
-              "流感",
-              "民营医院",
-              "创新药",
-              "CRO概念",
-              "西部大开发"
-            ],
-            "amount": 440130680.11,
-            "turnover_rate": 9.31,
-            "first_limit_up_time": "10:38:55",
-            "last_limit_up_time": "11:16:28",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "阿尔茨海默概念",
-        "concept_code": "308614",
-        "change_pct": -0.22,
-        "net_inflow_yi": -0.74,
-        "count": 1,
-        "amount": 440130680.11,
-        "rows": [
-          {
-            "code": "603669",
-            "name": "灵康药业",
-            "reason": "创新药+阿尔茨海默+化学制药+一季报扭亏",
-            "concepts": [
-              "阿尔茨海默概念",
-              "仿制药一致性评价",
-              "流感",
-              "民营医院",
-              "创新药",
-              "CRO概念",
-              "西部大开发"
-            ],
-            "amount": 440130680.11,
-            "turnover_rate": 9.31,
-            "first_limit_up_time": "10:38:55",
-            "last_limit_up_time": "11:16:28",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
         "concept": "碳纤维",
         "concept_code": "300352",
         "change_pct": -5.51,
@@ -3980,170 +3605,40 @@
         ]
       },
       {
-        "concept": "MCU芯片",
-        "concept_code": "308300",
-        "change_pct": -5.7,
-        "net_inflow_yi": -31.84,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "存储芯片",
-        "concept_code": "307940",
-        "change_pct": -6.41,
-        "net_inflow_yi": -46.31,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "工业母机",
-        "concept_code": "300941",
-        "change_pct": -6.61,
-        "net_inflow_yi": -22.66,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "福建自贸区",
-        "concept_code": "301236",
-        "change_pct": -4.0,
-        "net_inflow_yi": -35.41,
-        "count": 1,
-        "amount": 350383977.48,
-        "rows": [
-          {
-            "code": "603933",
-            "name": "睿能科技",
-            "reason": "人形机器人+半导体分销+拟收购博泰智能",
-            "concepts": [
-              "工业母机",
-              "人形机器人",
-              "新型工业化",
-              "无人机",
-              "机器人概念",
-              "新能源汽车",
-              "工业互联网",
-              "福建自贸区",
-              "数字经济",
-              "物联网",
-              "智能家居",
-              "海峡两岸",
-              "消费电子概念",
-              "汽车电子",
-              "储能",
-              "芯片概念",
-              "MCU芯片",
-              "存储芯片"
-            ],
-            "amount": 350383977.48,
-            "turnover_rate": 6.88,
-            "first_limit_up_time": "09:30:58",
-            "last_limit_up_time": "10:13:46",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
         "concept": "医美概念",
         "concept_code": "308712",
         "change_pct": -1.67,
         "net_inflow_yi": -10.85,
+        "count": 1,
+        "amount": 339069039.87,
+        "rows": [
+          {
+            "code": "003020",
+            "name": "立方制药",
+            "reason": "基药目录新增+精麻药+缓控释制剂",
+            "concepts": [
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "医药电商",
+              "眼科医疗",
+              "医美概念",
+              "脑机接口",
+              "深股通"
+            ],
+            "amount": 339069039.87,
+            "turnover_rate": 9.85,
+            "first_limit_up_time": "09:30:15",
+            "last_limit_up_time": "09:34:24",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "眼科医疗",
+        "concept_code": "301252",
+        "change_pct": -0.9,
+        "net_inflow_yi": -10.08,
         "count": 1,
         "amount": 339069039.87,
         "rows": [
@@ -4198,630 +3693,8 @@
             "consecutive_boards": 3
           }
         ]
-      },
-      {
-        "concept": "人造肉",
-        "concept_code": "308517",
-        "change_pct": -1.26,
-        "net_inflow_yi": -2.23,
-        "count": 1,
-        "amount": 202676872.0,
-        "rows": [
-          {
-            "code": "003030",
-            "name": "祖名股份",
-            "reason": "豆制品+预制菜+人造肉",
-            "concepts": [
-              "人造肉",
-              "网红经济",
-              "宠物经济",
-              "共同富裕示范区"
-            ],
-            "amount": 202676872.0,
-            "turnover_rate": 10.62,
-            "first_limit_up_time": "09:38:09",
-            "last_limit_up_time": "14:07:24",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "共同富裕示范区",
-        "concept_code": "308732",
-        "change_pct": -4.1,
-        "net_inflow_yi": -8.57,
-        "count": 1,
-        "amount": 202676872.0,
-        "rows": [
-          {
-            "code": "003030",
-            "name": "祖名股份",
-            "reason": "豆制品+预制菜+人造肉",
-            "concepts": [
-              "人造肉",
-              "网红经济",
-              "宠物经济",
-              "共同富裕示范区"
-            ],
-            "amount": 202676872.0,
-            "turnover_rate": 10.62,
-            "first_limit_up_time": "09:38:09",
-            "last_limit_up_time": "14:07:24",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "宠物经济",
-        "concept_code": "308588",
-        "change_pct": -2.41,
-        "net_inflow_yi": -3.77,
-        "count": 1,
-        "amount": 202676872.0,
-        "rows": [
-          {
-            "code": "003030",
-            "name": "祖名股份",
-            "reason": "豆制品+预制菜+人造肉",
-            "concepts": [
-              "人造肉",
-              "网红经济",
-              "宠物经济",
-              "共同富裕示范区"
-            ],
-            "amount": 202676872.0,
-            "turnover_rate": 10.62,
-            "first_limit_up_time": "09:38:09",
-            "last_limit_up_time": "14:07:24",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "网红经济",
-        "concept_code": "308630",
-        "change_pct": -2.99,
-        "net_inflow_yi": -24.65,
-        "count": 1,
-        "amount": 202676872.0,
-        "rows": [
-          {
-            "code": "003030",
-            "name": "祖名股份",
-            "reason": "豆制品+预制菜+人造肉",
-            "concepts": [
-              "人造肉",
-              "网红经济",
-              "宠物经济",
-              "共同富裕示范区"
-            ],
-            "amount": 202676872.0,
-            "turnover_rate": 10.62,
-            "first_limit_up_time": "09:38:09",
-            "last_limit_up_time": "14:07:24",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "体育产业",
-        "concept_code": "301605",
-        "change_pct": -3.95,
-        "net_inflow_yi": -20.45,
-        "count": 1,
-        "amount": 170447279.91,
-        "rows": [
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "水泥概念",
-        "concept_code": "307826",
-        "change_pct": -2.56,
-        "net_inflow_yi": -9.82,
-        "count": 1,
-        "amount": 170447279.91,
-        "rows": [
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "煤炭概念",
-        "concept_code": "308716",
-        "change_pct": -1.6,
-        "net_inflow_yi": -2.17,
-        "count": 1,
-        "amount": 170447279.91,
-        "rows": [
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "物业管理",
-        "concept_code": "308717",
-        "change_pct": -3.25,
-        "net_inflow_yi": -30.96,
-        "count": 1,
-        "amount": 170447279.91,
-        "rows": [
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "生物疫苗",
-        "concept_code": "300106",
-        "change_pct": -0.64,
-        "net_inflow_yi": -3.2,
-        "count": 1,
-        "amount": 170447279.91,
-        "rows": [
-          {
-            "code": "600881",
-            "name": "亚泰集团",
-            "reason": "创新药+资产出售+长春国资",
-            "concepts": [
-              "物业管理",
-              "体育产业",
-              "水泥概念",
-              "参股银行",
-              "禽流感",
-              "参股券商",
-              "医药电商",
-              "生物疫苗",
-              "国企改革",
-              "创新药",
-              "医疗器械概念",
-              "煤炭概念",
-              "沪股通",
-              "融资融券",
-              "股权转让(并购重组)"
-            ],
-            "amount": 170447279.91,
-            "turnover_rate": 3.23,
-            "first_limit_up_time": "09:38:34",
-            "last_limit_up_time": "09:42:13",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "光刻胶",
-        "concept_code": "308582",
-        "change_pct": -5.67,
-        "net_inflow_yi": -11.58,
-        "count": 1,
-        "amount": 151726254.8,
-        "rows": [
-          {
-            "code": "603120",
-            "name": "肯特催化",
-            "reason": "光刻胶+电子化学品+季铵化合物",
-            "concepts": [
-              "光刻胶",
-              "芯片概念",
-              "专精特新",
-              "环氧丙烷",
-              "融资融券"
-            ],
-            "amount": 151726254.8,
-            "turnover_rate": 7.43,
-            "first_limit_up_time": "09:37:40",
-            "last_limit_up_time": "09:37:40",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "环氧丙烷",
-        "concept_code": "308202",
-        "change_pct": -3.3,
-        "net_inflow_yi": -9.69,
-        "count": 1,
-        "amount": 151726254.8,
-        "rows": [
-          {
-            "code": "603120",
-            "name": "肯特催化",
-            "reason": "光刻胶+电子化学品+季铵化合物",
-            "concepts": [
-              "光刻胶",
-              "芯片概念",
-              "专精特新",
-              "环氧丙烷",
-              "融资融券"
-            ],
-            "amount": 151726254.8,
-            "turnover_rate": 7.43,
-            "first_limit_up_time": "09:37:40",
-            "last_limit_up_time": "09:37:40",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "长三角一体化",
-        "concept_code": "308432",
-        "change_pct": -4.04,
-        "net_inflow_yi": -14.95,
-        "count": 1,
-        "amount": 128748533.72,
-        "rows": [
-          {
-            "code": "601002",
-            "name": "晋亿实业",
-            "reason": "中报预增+高铁扣件+新能源紧固件",
-            "concepts": [
-              "高铁",
-              "海峡两岸",
-              "核电",
-              "新能源汽车",
-              "长三角一体化",
-              "沪股通",
-              "融资融券",
-              "2026中报预增"
-            ],
-            "amount": 128748533.72,
-            "turnover_rate": 2.79,
-            "first_limit_up_time": "09:30:21",
-            "last_limit_up_time": "13:29:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "高铁",
-        "concept_code": "301518",
-        "change_pct": -5.06,
-        "net_inflow_yi": -32.51,
-        "count": 1,
-        "amount": 128748533.72,
-        "rows": [
-          {
-            "code": "601002",
-            "name": "晋亿实业",
-            "reason": "中报预增+高铁扣件+新能源紧固件",
-            "concepts": [
-              "高铁",
-              "海峡两岸",
-              "核电",
-              "新能源汽车",
-              "长三角一体化",
-              "沪股通",
-              "融资融券",
-              "2026中报预增"
-            ],
-            "amount": 128748533.72,
-            "turnover_rate": 2.79,
-            "first_limit_up_time": "09:30:21",
-            "last_limit_up_time": "13:29:57",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "多模态AI",
-        "concept_code": "309104",
-        "change_pct": -4.66,
-        "net_inflow_yi": -61.72,
-        "count": 1,
-        "amount": 122774083.42,
-        "rows": [
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "特高压",
-        "concept_code": "300353",
-        "change_pct": -5.46,
-        "net_inflow_yi": -46.41,
-        "count": 1,
-        "amount": 122774083.42,
-        "rows": [
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "电力物联网",
-        "concept_code": "308477",
-        "change_pct": -4.18,
-        "net_inflow_yi": -7.41,
-        "count": 1,
-        "amount": 122774083.42,
-        "rows": [
-          {
-            "code": "001388",
-            "name": "信通电子",
-            "reason": "电网设备+防冰机器人+高送转",
-            "concepts": [
-              "电力物联网",
-              "鸿蒙概念",
-              "人工智能",
-              "电子身份证",
-              "物联网",
-              "工业互联网",
-              "智能电网",
-              "算力租赁",
-              "中俄贸易概念",
-              "机器人概念",
-              "华为概念",
-              "核电",
-              "新型工业化",
-              "风电",
-              "特高压",
-              "专精特新",
-              "传感器",
-              "芯片概念",
-              "PCB概念",
-              "多模态AI",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 122774083.42,
-            "turnover_rate": 5.07,
-            "first_limit_up_time": "13:35:15",
-            "last_limit_up_time": "13:35:15",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "丙烯酸",
-        "concept_code": "305376",
-        "change_pct": -3.78,
-        "net_inflow_yi": -8.51,
-        "count": 1,
-        "amount": 78228418.2,
-        "rows": [
-          {
-            "code": "300214",
-            "name": "日科化学",
-            "reason": "并购重组+锂电池电解液+算力租赁+化工",
-            "concepts": [
-              "算力租赁",
-              "东数西算(算力)",
-              "丙烯酸",
-              "数据中心(AIDC)",
-              "液冷服务器",
-              "DeepSeek概念",
-              "专精特新",
-              "新疆振兴"
-            ],
-            "amount": 78228418.2,
-            "turnover_rate": 1.37,
-            "first_limit_up_time": "09:25:00",
-            "last_limit_up_time": "09:25:00",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "家用电器",
-        "concept_code": "300814",
-        "change_pct": -5.19,
-        "net_inflow_yi": -28.75,
-        "count": 1,
-        "amount": 60387649.12,
-        "rows": [
-          {
-            "code": "603677",
-            "name": "奇精机械",
-            "reason": "机器人+家电零部件+宁波国资",
-            "concepts": [
-              "家用电器",
-              "空气能热泵",
-              "国企改革",
-              "机器人概念",
-              "新能源汽车",
-              "无人机",
-              "传感器"
-            ],
-            "amount": 60387649.12,
-            "turnover_rate": 2.36,
-            "first_limit_up_time": "10:54:23",
-            "last_limit_up_time": "10:54:23",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "空气能热泵",
-        "concept_code": "309007",
-        "change_pct": -5.18,
-        "net_inflow_yi": -2.14,
-        "count": 1,
-        "amount": 60387649.12,
-        "rows": [
-          {
-            "code": "603677",
-            "name": "奇精机械",
-            "reason": "机器人+家电零部件+宁波国资",
-            "concepts": [
-              "家用电器",
-              "空气能热泵",
-              "国企改革",
-              "机器人概念",
-              "新能源汽车",
-              "无人机",
-              "传感器"
-            ],
-            "amount": 60387649.12,
-            "turnover_rate": 2.36,
-            "first_limit_up_time": "10:54:23",
-            "last_limit_up_time": "10:54:23",
-            "consecutive_boards": 1
-          }
-        ]
       }
-    ]
+    ],
+    "2026-07-13": []
   }
 }
