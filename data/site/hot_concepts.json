@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14 09:21:06",
+  "generated_at": "2026-07-14 12:01:35",
   "latest_trade_date": "2026-07-14",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,8 +24,59 @@
       "flow_rank": 1,
       "change_score": 81.33,
       "flow_score": 100.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "002628",
+          "name": "成都路桥",
+          "reason": "萤石矿+氟化工+机器人+西部基建",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:01:27",
+          "last_limit_up_time": "13:01:27",
+          "turnover_rate": 6.67,
+          "amount": 244976635.04
+        },
+        {
+          "code": "603077",
+          "name": "和邦生物",
+          "reason": "中报预增+草甘膦+蛋氨酸+磷矿",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:24",
+          "last_limit_up_time": "14:08:21",
+          "turnover_rate": 3.54,
+          "amount": 695154383.69
+        },
+        {
+          "code": "601969",
+          "name": "海南矿业",
+          "reason": "中报预增+油气+锂矿+萤石矿收购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:43",
+          "last_limit_up_time": "14:00:43",
+          "turnover_rate": 1.89,
+          "amount": 309267750.07
+        },
+        {
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "reason": "半年度业绩预增+锗价上涨+铅锌龙头+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:56",
+          "last_limit_up_time": "14:50:38",
+          "turnover_rate": 4.8,
+          "amount": 2272931937.24
+        },
+        {
+          "code": "000636",
+          "name": "风华高科",
+          "reason": "MLCC+半年报预增+广东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:50:00",
+          "last_limit_up_time": "14:50:00",
+          "turnover_rate": 11.5,
+          "amount": 7331329499.61
+        }
+      ]
     },
     {
       "rank": 2,
@@ -39,8 +90,39 @@
       "flow_rank": 2,
       "change_score": 72.0,
       "flow_score": 86.88,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "603042",
+          "name": "华脉科技",
+          "reason": "半年报预盈+光纤光缆+FPGA芯片",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:38",
+          "last_limit_up_time": "09:30:38",
+          "turnover_rate": 2.95,
+          "amount": 75280472.28
+        },
+        {
+          "code": "002384",
+          "name": "东山精密",
+          "reason": "光芯片+光模块+AI PCB",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:03:39",
+          "last_limit_up_time": "13:03:39",
+          "turnover_rate": 6.89,
+          "amount": 23856271061.0
+        },
+        {
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "reason": "半年度业绩预增+锗价上涨+铅锌龙头+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:56",
+          "last_limit_up_time": "14:50:38",
+          "turnover_rate": 4.8,
+          "amount": 2272931937.24
+        }
+      ]
     },
     {
       "rank": 3,
@@ -54,8 +136,39 @@
       "flow_rank": 5,
       "change_score": 87.83,
       "flow_score": 67.47,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "600255",
+          "name": "鑫科材料",
+          "reason": "半年报预增+高速铜连接+铜合金板带+四川国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:36:11",
+          "last_limit_up_time": "13:23:20",
+          "turnover_rate": 8.32,
+          "amount": 453611082.79
+        },
+        {
+          "code": "603077",
+          "name": "和邦生物",
+          "reason": "中报预增+草甘膦+蛋氨酸+磷矿",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:24",
+          "last_limit_up_time": "14:08:21",
+          "turnover_rate": 3.54,
+          "amount": 695154383.69
+        },
+        {
+          "code": "601969",
+          "name": "海南矿业",
+          "reason": "中报预增+油气+锂矿+萤石矿收购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:43",
+          "last_limit_up_time": "14:00:43",
+          "turnover_rate": 1.89,
+          "amount": 309267750.07
+        }
+      ]
     },
     {
       "rank": 4,
@@ -69,8 +182,39 @@
       "flow_rank": 6,
       "change_score": 81.5,
       "flow_score": 65.82,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "603077",
+          "name": "和邦生物",
+          "reason": "中报预增+草甘膦+蛋氨酸+磷矿",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:24",
+          "last_limit_up_time": "14:08:21",
+          "turnover_rate": 3.54,
+          "amount": 695154383.69
+        },
+        {
+          "code": "601969",
+          "name": "海南矿业",
+          "reason": "中报预增+油气+锂矿+萤石矿收购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:43",
+          "last_limit_up_time": "14:00:43",
+          "turnover_rate": 1.89,
+          "amount": 309267750.07
+        },
+        {
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "reason": "半年度业绩预增+锗价上涨+铅锌龙头+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:56",
+          "last_limit_up_time": "14:50:38",
+          "turnover_rate": 4.8,
+          "amount": 2272931937.24
+        }
+      ]
     },
     {
       "rank": 5,
@@ -84,8 +228,29 @@
       "flow_rank": 20,
       "change_score": 90.83,
       "flow_score": 47.85,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603077",
+          "name": "和邦生物",
+          "reason": "中报预增+草甘膦+蛋氨酸+磷矿",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:24",
+          "last_limit_up_time": "14:08:21",
+          "turnover_rate": 3.54,
+          "amount": 695154383.69
+        },
+        {
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "reason": "半年度业绩预增+锗价上涨+铅锌龙头+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:56",
+          "last_limit_up_time": "14:50:38",
+          "turnover_rate": 4.8,
+          "amount": 2272931937.24
+        }
+      ]
     },
     {
       "rank": 6,
@@ -99,8 +264,79 @@
       "flow_rank": 33,
       "change_score": 89.83,
       "flow_score": 43.55,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 7,
+      "limit_up_stocks": [
+        {
+          "code": "000968",
+          "name": "蓝焰控股",
+          "reason": "煤层气+同业竞争解决+山西国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:57",
+          "last_limit_up_time": "13:14:21",
+          "turnover_rate": 6.96,
+          "amount": 465594394.56
+        },
+        {
+          "code": "600403",
+          "name": "大有能源",
+          "reason": "中报减亏+煤炭+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:46:11",
+          "last_limit_up_time": "09:46:11",
+          "turnover_rate": 1.58,
+          "amount": 187082122.18
+        },
+        {
+          "code": "600227",
+          "name": "赤天化",
+          "reason": "中报预计扭亏+尿素+甲醇",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:09:37",
+          "last_limit_up_time": "13:09:37",
+          "turnover_rate": 10.99,
+          "amount": 360712929.5
+        },
+        {
+          "code": "603012",
+          "name": "创力集团",
+          "reason": "智慧矿山+煤机装备+华为合作+定增获批",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:31:48",
+          "last_limit_up_time": "14:14:54",
+          "turnover_rate": 6.23,
+          "amount": 339454438.01
+        },
+        {
+          "code": "601101",
+          "name": "昊华能源",
+          "reason": "中报预增+煤炭+甲醇+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:42:08",
+          "last_limit_up_time": "13:42:08",
+          "turnover_rate": 3.42,
+          "amount": 565052268.1
+        },
+        {
+          "code": "600595",
+          "name": "中孚实业",
+          "reason": "电解铝+铝精深加工+半年报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:55:20",
+          "last_limit_up_time": "13:55:32",
+          "turnover_rate": 4.2,
+          "amount": 1023073225.51
+        },
+        {
+          "code": "002128",
+          "name": "电投能源",
+          "reason": "绿电铝投产+煤炭+白音华并表+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:10:06",
+          "last_limit_up_time": "14:10:06",
+          "turnover_rate": 1.22,
+          "amount": 687968870.18
+        }
+      ]
     },
     {
       "rank": 7,
@@ -114,8 +350,29 @@
       "flow_rank": 24,
       "change_score": 87.17,
       "flow_score": 46.78,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603077",
+          "name": "和邦生物",
+          "reason": "中报预增+草甘膦+蛋氨酸+磷矿",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:57:24",
+          "last_limit_up_time": "14:08:21",
+          "turnover_rate": 3.54,
+          "amount": 695154383.69
+        },
+        {
+          "code": "600497",
+          "name": "驰宏锌锗",
+          "reason": "半年度业绩预增+锗价上涨+铅锌龙头+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:49:56",
+          "last_limit_up_time": "14:50:38",
+          "turnover_rate": 4.8,
+          "amount": 2272931937.24
+        }
+      ]
     },
     {
       "rank": 8,
@@ -129,8 +386,59 @@
       "flow_rank": 30,
       "change_score": 86.33,
       "flow_score": 44.36,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "000554",
+          "name": "泰山石油",
+          "reason": "油气+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:32:09",
+          "last_limit_up_time": "09:44:30",
+          "turnover_rate": 11.1,
+          "amount": 253598268.12
+        },
+        {
+          "code": "000968",
+          "name": "蓝焰控股",
+          "reason": "煤层气+同业竞争解决+山西国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:57",
+          "last_limit_up_time": "13:14:21",
+          "turnover_rate": 6.96,
+          "amount": 465594394.56
+        },
+        {
+          "code": "603619",
+          "name": "中曼石油",
+          "reason": "油气开采+霍尔木兹海峡局势+海外区块",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:22:35",
+          "last_limit_up_time": "13:22:35",
+          "turnover_rate": 13.42,
+          "amount": 1243259875.95
+        },
+        {
+          "code": "300164",
+          "name": "通源石油",
+          "reason": "油气开采+阿尔及利亚中标+射孔服务",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:54",
+          "last_limit_up_time": "14:00:54",
+          "turnover_rate": 43.98,
+          "amount": 2730225897.25
+        },
+        {
+          "code": "002532",
+          "name": "天山铝业",
+          "reason": "电解铝+铝箔+中报预增+回购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:12:24",
+          "last_limit_up_time": "14:29:51",
+          "turnover_rate": 5.53,
+          "amount": 2654031051.31
+        }
+      ]
     },
     {
       "rank": 9,
@@ -144,8 +452,19 @@
       "flow_rank": 17,
       "change_score": 80.83,
       "flow_score": 49.59,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "601969",
+          "name": "海南矿业",
+          "reason": "中报预增+油气+锂矿+萤石矿收购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:00:43",
+          "last_limit_up_time": "14:00:43",
+          "turnover_rate": 1.89,
+          "amount": 309267750.07
+        }
+      ]
     },
     {
       "rank": 10,
