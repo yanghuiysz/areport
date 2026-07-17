@@ -1,33 +1,400 @@
 {
-  "generated_at": "2026-07-17 09:25:04",
-  "latest_trade_date": "2026-07-17",
+  "generated_at": "2026-07-17 11:58:43",
+  "latest_trade_date": "2026-07-15",
   "summary": [
     {
-      "date": "2026-07-17",
-      "up_count": null,
-      "down_count": null,
-      "flat_count": null,
-      "limit_up_count": 33,
-      "limit_down_count": 192
-    },
-    {
-      "date": "2026-07-16",
-      "up_count": 800,
-      "down_count": 0,
-      "flat_count": 0,
-      "limit_up_count": 0,
-      "limit_down_count": 33
-    },
-    {
       "date": "2026-07-15",
-      "up_count": 1851,
-      "down_count": 2097,
-      "flat_count": 76,
+      "up_count": 2851,
+      "down_count": 1824,
+      "flat_count": 49,
       "limit_up_count": 10,
       "limit_down_count": 33
+    },
+    {
+      "date": "2026-07-14",
+      "up_count": 2310,
+      "down_count": 1247,
+      "flat_count": 66,
+      "limit_up_count": 9,
+      "limit_down_count": 22
+    },
+    {
+      "date": "2026-07-13",
+      "up_count": 798,
+      "down_count": 3883,
+      "flat_count": 40,
+      "limit_up_count": 7,
+      "limit_down_count": 176
     }
   ],
   "limit_up_details_by_date": {
+    "2026-07-13": [
+      {
+        "code": "920305",
+        "name": "云创退",
+        "reason": "退市整理期投机+大数据存储+AI大模型",
+        "concepts": [],
+        "amount": 33161635.62,
+        "turnover_rate": 20.81,
+        "first_limit_up_time": "09:47:07",
+        "last_limit_up_time": "10:10:34",
+        "consecutive_boards": 5
+      },
+      {
+        "code": "600881",
+        "name": "亚泰集团",
+        "reason": "医药+水泥建材+资产出售+中报减亏",
+        "concepts": [
+          "物业管理",
+          "体育产业",
+          "水泥概念",
+          "参股银行",
+          "禽流感",
+          "参股券商",
+          "医药电商",
+          "生物疫苗",
+          "国企改革",
+          "创新药",
+          "医疗器械概念",
+          "煤炭概念",
+          "沪股通",
+          "融资融券",
+          "股权转让(并购重组)"
+        ],
+        "amount": 551282057.26,
+        "turnover_rate": 9.42,
+        "first_limit_up_time": "13:01:59",
+        "last_limit_up_time": "13:01:59",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600992",
+        "name": "贵绳股份",
+        "reason": "商业航天+钢丝绳+贵州国资",
+        "concepts": [
+          "国企改革",
+          "国产航母",
+          "西部大开发",
+          "海工装备",
+          "军工",
+          "商业航天"
+        ],
+        "amount": 306349498.5,
+        "turnover_rate": 10.89,
+        "first_limit_up_time": "09:40:06",
+        "last_limit_up_time": "13:27:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001388",
+        "name": "信通电子",
+        "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+        "concepts": [
+          "电力物联网",
+          "鸿蒙概念",
+          "人工智能",
+          "电子身份证",
+          "物联网",
+          "工业互联网",
+          "智能电网",
+          "算力租赁",
+          "中俄贸易概念",
+          "机器人概念",
+          "华为概念",
+          "核电",
+          "新型工业化",
+          "风电",
+          "特高压",
+          "专精特新",
+          "传感器",
+          "芯片概念",
+          "PCB概念",
+          "多模态AI",
+          "深股通",
+          "融资融券"
+        ],
+        "amount": 457437342.4,
+        "turnover_rate": 15.3,
+        "first_limit_up_time": "09:45:24",
+        "last_limit_up_time": "13:58:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600664",
+        "name": "哈药股份",
+        "reason": "其他",
+        "concepts": [
+          "流感",
+          "医药电商",
+          "维生素",
+          "仿制药一致性评价",
+          "肝炎概念",
+          "创新药",
+          "黑龙江自贸区",
+          "三胎概念",
+          "养老概念",
+          "跨境电商",
+          "DeepSeek概念",
+          "沪股通",
+          "融资融券",
+          "冷链物流",
+          "民营医院"
+        ],
+        "amount": 4522777492.31,
+        "turnover_rate": 34.7,
+        "first_limit_up_time": "09:35:44",
+        "last_limit_up_time": "09:39:05",
+        "consecutive_boards": 0
+      },
+      {
+        "code": "603120",
+        "name": "肯特催化",
+        "reason": "其他",
+        "concepts": [
+          "光刻胶",
+          "芯片概念",
+          "专精特新",
+          "环氧丙烷",
+          "融资融券"
+        ],
+        "amount": 505905742.75,
+        "turnover_rate": 24.36,
+        "first_limit_up_time": "10:06:51",
+        "last_limit_up_time": "10:06:51",
+        "consecutive_boards": 0
+      },
+      {
+        "code": "603318",
+        "name": "水发燃气",
+        "reason": "其他",
+        "concepts": [
+          "天然气",
+          "氢能源",
+          "国企改革",
+          "绿色电力",
+          "一带一路",
+          "股权转让(并购重组)",
+          "专精特新",
+          "融资融券"
+        ],
+        "amount": 668320518.38,
+        "turnover_rate": 17.19,
+        "first_limit_up_time": "10:06:17",
+        "last_limit_up_time": "10:06:17",
+        "consecutive_boards": 0
+      }
+    ],
+    "2026-07-14": [
+      {
+        "code": "920305",
+        "name": "云创退",
+        "reason": "退市整理期投机+大数据存储+AI大模型",
+        "concepts": [],
+        "amount": 33161635.62,
+        "turnover_rate": 20.81,
+        "first_limit_up_time": "09:47:07",
+        "last_limit_up_time": "10:10:34",
+        "consecutive_boards": 5
+      },
+      {
+        "code": "600227",
+        "name": "赤天化",
+        "reason": "尿素+甲醇+中报预计扭亏",
+        "concepts": [
+          "化肥",
+          "煤化工概念",
+          "煤炭概念",
+          "民营医院",
+          "阿尔茨海默概念",
+          "乡村振兴",
+          "仿制药一致性评价",
+          "西部大开发",
+          "医疗器械概念",
+          "创投",
+          "沪股通"
+        ],
+        "amount": 752820197.85,
+        "turnover_rate": 19.81,
+        "first_limit_up_time": "09:39:34",
+        "last_limit_up_time": "14:17:46",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "003001",
+        "name": "中岩大地",
+        "reason": "拟收购PCB刀具+岩土工程+核电",
+        "concepts": [
+          "土壤修复",
+          "水利",
+          "装配式建筑",
+          "地下管网",
+          "人工智能",
+          "雄安新区",
+          "一带一路",
+          "雅下水电概念",
+          "核电",
+          "可控核聚变"
+        ],
+        "amount": 113759336.52,
+        "turnover_rate": 5.08,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001388",
+        "name": "信通电子",
+        "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+        "concepts": [
+          "电力物联网",
+          "鸿蒙概念",
+          "人工智能",
+          "电子身份证",
+          "物联网",
+          "工业互联网",
+          "智能电网",
+          "算力租赁",
+          "中俄贸易概念",
+          "机器人概念",
+          "华为概念",
+          "核电",
+          "新型工业化",
+          "风电",
+          "特高压",
+          "专精特新",
+          "传感器",
+          "芯片概念",
+          "PCB概念",
+          "多模态AI",
+          "深股通",
+          "融资融券"
+        ],
+        "amount": 457437342.4,
+        "turnover_rate": 15.3,
+        "first_limit_up_time": "09:45:24",
+        "last_limit_up_time": "13:58:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002432",
+        "name": "九安医疗",
+        "reason": "参股DeepSeek+参股月之暗面+AI医疗+中报预增",
+        "concepts": [
+          "血氧仪",
+          "天津自贸区",
+          "AI应用",
+          "智能医疗",
+          "智能穿戴",
+          "小米概念",
+          "创投",
+          "人民币贬值受益",
+          "医疗器械概念",
+          "跨境电商",
+          "流感",
+          "京津冀一体化",
+          "养老概念",
+          "2026中报预增",
+          "深股通",
+          "融资融券"
+        ],
+        "amount": 3594431326.6,
+        "turnover_rate": 9.81,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "13:59:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603580",
+        "name": "艾艾精工",
+        "reason": "控制权拟变更+复牌+轻型输送带+消费电子",
+        "concepts": [
+          "海峡两岸",
+          "消费电子概念",
+          "人民币贬值受益",
+          "摘帽"
+        ],
+        "amount": 12290112.0,
+        "turnover_rate": 0.21,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "600664",
+        "name": "哈药股份",
+        "reason": "其他",
+        "concepts": [
+          "流感",
+          "医药电商",
+          "维生素",
+          "仿制药一致性评价",
+          "肝炎概念",
+          "创新药",
+          "黑龙江自贸区",
+          "三胎概念",
+          "养老概念",
+          "跨境电商",
+          "DeepSeek概念",
+          "沪股通",
+          "融资融券",
+          "冷链物流",
+          "民营医院"
+        ],
+        "amount": 4522777492.31,
+        "turnover_rate": 34.7,
+        "first_limit_up_time": "09:35:44",
+        "last_limit_up_time": "09:39:05",
+        "consecutive_boards": 0
+      },
+      {
+        "code": "000759",
+        "name": "中百集团",
+        "reason": "其他",
+        "concepts": [
+          "免税店",
+          "预制菜",
+          "IP经济(谷子经济)",
+          "统一大市场",
+          "农业种植",
+          "冷链物流",
+          "跨境电商",
+          "乡村振兴",
+          "智能物流",
+          "国企改革",
+          "一带一路",
+          "抖音概念(字节概念)",
+          "腾讯概念",
+          "可降解塑料",
+          "深股通"
+        ],
+        "amount": 1176189479.87,
+        "turnover_rate": 25.22,
+        "first_limit_up_time": "09:32:09",
+        "last_limit_up_time": "09:35:45",
+        "consecutive_boards": 0
+      },
+      {
+        "code": "002141",
+        "name": "贤丰控股",
+        "reason": "其他",
+        "concepts": [
+          "动物疫苗",
+          "广东自贸区",
+          "锂电池概念",
+          "粤港澳大湾区",
+          "创投",
+          "独角兽概念",
+          "PCB概念",
+          "横琴新区",
+          "消费电子概念"
+        ],
+        "amount": 2372327771.64,
+        "turnover_rate": 36.79,
+        "first_limit_up_time": "09:42:27",
+        "last_limit_up_time": "11:07:03",
+        "consecutive_boards": 0
+      }
+    ],
     "2026-07-15": [
       {
         "code": "920305",
@@ -275,375 +642,2441 @@
         "last_limit_up_time": "11:07:03",
         "consecutive_boards": 0
       }
-    ],
-    "2026-07-16": [],
-    "2026-07-17": [
-      {
-        "code": "002432",
-        "name": "九安医疗",
-        "reason": "医疗器械",
-        "concepts": [],
-        "amount": 3594431328.0,
-        "turnover_rate": 9.81,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "13:59:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002677",
-        "name": "浙江美大",
-        "reason": "厨卫电器",
-        "concepts": [],
-        "amount": 54576742.0,
-        "turnover_rate": 1.24,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "300577",
-        "name": "开润股份",
-        "reason": "服装家纺",
-        "concepts": [],
-        "amount": 344340544.0,
-        "turnover_rate": 11.91,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "13:02:33",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603580",
-        "name": "艾艾精工",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 12290112.0,
-        "turnover_rate": 0.21,
-        "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "09:25:03",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "002766",
-        "name": "索菱股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 117187018.0,
-        "turnover_rate": 3.48,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "003001",
-        "name": "中岩大地",
-        "reason": "专业工程",
-        "concepts": [],
-        "amount": 113759337.0,
-        "turnover_rate": 5.09,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002632",
-        "name": "道明光学",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 762034208.0,
-        "turnover_rate": 12.63,
-        "first_limit_up_time": "09:30:09",
-        "last_limit_up_time": "10:21:36",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000676",
-        "name": "智度股份",
-        "reason": "广告营销",
-        "concepts": [],
-        "amount": 1722939792.0,
-        "turnover_rate": 20.42,
-        "first_limit_up_time": "09:31:03",
-        "last_limit_up_time": "14:04:36",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "603161",
-        "name": "科华控股",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 66029121.0,
-        "turnover_rate": 2.61,
-        "first_limit_up_time": "09:33:02",
-        "last_limit_up_time": "09:53:05",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603567",
-        "name": "珍宝岛",
-        "reason": "中药Ⅱ",
-        "concepts": [],
-        "amount": 610427920.0,
-        "turnover_rate": 11.12,
-        "first_limit_up_time": "09:36:46",
-        "last_limit_up_time": "14:21:10",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "300795",
-        "name": "米奥会展",
-        "reason": "专业服务",
-        "concepts": [],
-        "amount": 168320771.0,
-        "turnover_rate": 9.44,
-        "first_limit_up_time": "09:38:39",
-        "last_limit_up_time": "09:38:39",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600722",
-        "name": "金牛化工",
-        "reason": "化学原料",
-        "concepts": [],
-        "amount": 410446560.0,
-        "turnover_rate": 7.24,
-        "first_limit_up_time": "09:38:49",
-        "last_limit_up_time": "09:38:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600227",
-        "name": "赤天化",
-        "reason": "农化制品",
-        "concepts": [],
-        "amount": 752820192.0,
-        "turnover_rate": 19.81,
-        "first_limit_up_time": "09:39:34",
-        "last_limit_up_time": "14:17:46",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600992",
-        "name": "贵绳股份",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 306349504.0,
-        "turnover_rate": 10.89,
-        "first_limit_up_time": "09:40:06",
-        "last_limit_up_time": "13:27:03",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600744",
-        "name": "华银电力",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 500534528.0,
-        "turnover_rate": 4.21,
-        "first_limit_up_time": "09:43:18",
-        "last_limit_up_time": "09:43:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001388",
-        "name": "信通电子",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 457437344.0,
-        "turnover_rate": 15.3,
-        "first_limit_up_time": "09:45:24",
-        "last_limit_up_time": "13:58:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600644",
-        "name": "乐山电力",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 387549168.0,
-        "turnover_rate": 7.56,
-        "first_limit_up_time": "09:45:28",
-        "last_limit_up_time": "09:48:55",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001258",
-        "name": "立新能源",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 460356624.0,
-        "turnover_rate": 6.15,
-        "first_limit_up_time": "09:46:00",
-        "last_limit_up_time": "09:46:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "920305",
-        "name": "云创退",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 33161635.0,
-        "turnover_rate": 20.81,
-        "first_limit_up_time": "09:47:07",
-        "last_limit_up_time": "10:10:34",
-        "consecutive_boards": 5
-      },
-      {
-        "code": "603118",
-        "name": "共进股份",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 1784261520.0,
-        "turnover_rate": 15.57,
-        "first_limit_up_time": "09:50:16",
-        "last_limit_up_time": "10:50:43",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601369",
-        "name": "陕鼓动力",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 316468288.0,
-        "turnover_rate": 1.99,
-        "first_limit_up_time": "09:52:02",
-        "last_limit_up_time": "10:09:29",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000037",
-        "name": "深南电A",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 326741488.0,
-        "turnover_rate": 10.66,
-        "first_limit_up_time": "10:00:09",
-        "last_limit_up_time": "10:00:09",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605011",
-        "name": "杭州热电",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 261492381.0,
-        "turnover_rate": 3.65,
-        "first_limit_up_time": "10:10:56",
-        "last_limit_up_time": "10:13:23",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000779",
-        "name": "甘咨询",
-        "reason": "工程咨询",
-        "concepts": [],
-        "amount": 1187310256.0,
-        "turnover_rate": 21.51,
-        "first_limit_up_time": "10:18:54",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600236",
-        "name": "桂冠电力",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 387794576.0,
-        "turnover_rate": 0.47,
-        "first_limit_up_time": "10:21:43",
-        "last_limit_up_time": "10:22:34",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600095",
-        "name": "湘财股份",
-        "reason": "证券Ⅱ",
-        "concepts": [],
-        "amount": 979880112.0,
-        "turnover_rate": 4.03,
-        "first_limit_up_time": "10:34:44",
-        "last_limit_up_time": "14:46:59",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000899",
-        "name": "赣能股份",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 397280432.0,
-        "turnover_rate": 3.91,
-        "first_limit_up_time": "11:08:54",
-        "last_limit_up_time": "11:08:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600982",
-        "name": "宁波能源",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 464268352.0,
-        "turnover_rate": 8.4,
-        "first_limit_up_time": "11:17:48",
-        "last_limit_up_time": "14:23:06",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600881",
-        "name": "亚泰集团",
-        "reason": "综合Ⅱ",
-        "concepts": [],
-        "amount": 551282064.0,
-        "turnover_rate": 9.42,
-        "first_limit_up_time": "13:01:59",
-        "last_limit_up_time": "13:01:59",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002829",
-        "name": "星网宇达",
-        "reason": "航天装备",
-        "concepts": [],
-        "amount": 561158064.0,
-        "turnover_rate": 20.2,
-        "first_limit_up_time": "14:09:24",
-        "last_limit_up_time": "14:12:27",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600162",
-        "name": "香江控股",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 1115651152.0,
-        "turnover_rate": 11.6,
-        "first_limit_up_time": "14:27:21",
-        "last_limit_up_time": "14:27:21",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "001369",
-        "name": "双欣材料",
-        "reason": "化学纤维",
-        "concepts": [],
-        "amount": 269360560.0,
-        "turnover_rate": 10.5,
-        "first_limit_up_time": "14:27:48",
-        "last_limit_up_time": "14:29:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000722",
-        "name": "湖南发展",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 730235200.0,
-        "turnover_rate": 11.88,
-        "first_limit_up_time": "14:53:54",
-        "last_limit_up_time": "14:53:54",
-        "consecutive_boards": 1
-      }
     ]
   },
   "limit_up_concepts_by_date": {
+    "2026-07-13": [
+      {
+        "concept": "医药电商",
+        "concept_code": "301565",
+        "change_pct": -5.39,
+        "net_inflow_yi": -49.5,
+        "count": 2,
+        "amount": 5074059549.570001,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          },
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "仿制药一致性评价",
+        "concept_code": "308572",
+        "change_pct": -6.44,
+        "net_inflow_yi": -60.41,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "冷链物流",
+        "concept_code": "301179",
+        "change_pct": -3.72,
+        "net_inflow_yi": -39.54,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "民营医院",
+        "concept_code": "301346",
+        "change_pct": -4.13,
+        "net_inflow_yi": -7.68,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "流感",
+        "concept_code": "300038",
+        "change_pct": -6.12,
+        "net_inflow_yi": -67.89,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "维生素",
+        "concept_code": "309135",
+        "change_pct": -5.41,
+        "net_inflow_yi": -19.72,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "肝炎概念",
+        "concept_code": "308915",
+        "change_pct": -6.41,
+        "net_inflow_yi": -52.81,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "黑龙江自贸区",
+        "concept_code": "308547",
+        "change_pct": -2.33,
+        "net_inflow_yi": -10.61,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "天然气",
+        "concept_code": "300358",
+        "change_pct": -2.15,
+        "net_inflow_yi": -1.99,
+        "count": 1,
+        "amount": 668320518.38,
+        "rows": [
+          {
+            "code": "603318",
+            "name": "水发燃气",
+            "reason": "其他",
+            "concepts": [
+              "天然气",
+              "氢能源",
+              "国企改革",
+              "绿色电力",
+              "一带一路",
+              "股权转让(并购重组)",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 668320518.38,
+            "turnover_rate": 17.19,
+            "first_limit_up_time": "10:06:17",
+            "last_limit_up_time": "10:06:17",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "体育产业",
+        "concept_code": "301605",
+        "change_pct": -3.69,
+        "net_inflow_yi": -23.44,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "参股券商",
+        "concept_code": "300100",
+        "change_pct": -1.95,
+        "net_inflow_yi": -7.43,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "参股银行",
+        "concept_code": "301270",
+        "change_pct": -2.8,
+        "net_inflow_yi": -16.46,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "水泥概念",
+        "concept_code": "307826",
+        "change_pct": -1.63,
+        "net_inflow_yi": -0.92,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "煤炭概念",
+        "concept_code": "308716",
+        "change_pct": -1.64,
+        "net_inflow_yi": 0.34,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "物业管理",
+        "concept_code": "308717",
+        "change_pct": -3.58,
+        "net_inflow_yi": -15.02,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "生物疫苗",
+        "concept_code": "300106",
+        "change_pct": -5.04,
+        "net_inflow_yi": -11.44,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "禽流感",
+        "concept_code": "300075",
+        "change_pct": -3.82,
+        "net_inflow_yi": -0.47,
+        "count": 1,
+        "amount": 551282057.26,
+        "rows": [
+          {
+            "code": "600881",
+            "name": "亚泰集团",
+            "reason": "医药+水泥建材+资产出售+中报减亏",
+            "concepts": [
+              "物业管理",
+              "体育产业",
+              "水泥概念",
+              "参股银行",
+              "禽流感",
+              "参股券商",
+              "医药电商",
+              "生物疫苗",
+              "国企改革",
+              "创新药",
+              "医疗器械概念",
+              "煤炭概念",
+              "沪股通",
+              "融资融券",
+              "股权转让(并购重组)"
+            ],
+            "amount": 551282057.26,
+            "turnover_rate": 9.42,
+            "first_limit_up_time": "13:01:59",
+            "last_limit_up_time": "13:01:59",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "光刻胶",
+        "concept_code": "308582",
+        "change_pct": -7.15,
+        "net_inflow_yi": -15.04,
+        "count": 1,
+        "amount": 505905742.75,
+        "rows": [
+          {
+            "code": "603120",
+            "name": "肯特催化",
+            "reason": "其他",
+            "concepts": [
+              "光刻胶",
+              "芯片概念",
+              "专精特新",
+              "环氧丙烷",
+              "融资融券"
+            ],
+            "amount": 505905742.75,
+            "turnover_rate": 24.36,
+            "first_limit_up_time": "10:06:51",
+            "last_limit_up_time": "10:06:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "环氧丙烷",
+        "concept_code": "308202",
+        "change_pct": -1.93,
+        "net_inflow_yi": 3.62,
+        "count": 1,
+        "amount": 505905742.75,
+        "rows": [
+          {
+            "code": "603120",
+            "name": "肯特催化",
+            "reason": "其他",
+            "concepts": [
+              "光刻胶",
+              "芯片概念",
+              "专精特新",
+              "环氧丙烷",
+              "融资融券"
+            ],
+            "amount": 505905742.75,
+            "turnover_rate": 24.36,
+            "first_limit_up_time": "10:06:51",
+            "last_limit_up_time": "10:06:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "中俄贸易概念",
+        "concept_code": "308854",
+        "change_pct": -3.34,
+        "net_inflow_yi": -19.83,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "多模态AI",
+        "concept_code": "309104",
+        "change_pct": -5.16,
+        "net_inflow_yi": -73.7,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "特高压",
+        "concept_code": "300353",
+        "change_pct": -3.96,
+        "net_inflow_yi": -3.79,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "电力物联网",
+        "concept_code": "308477",
+        "change_pct": -3.74,
+        "net_inflow_yi": -4.95,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "电子身份证",
+        "concept_code": "308869",
+        "change_pct": -4.11,
+        "net_inflow_yi": -6.45,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "算力租赁",
+        "concept_code": "309068",
+        "change_pct": -5.73,
+        "net_inflow_yi": -69.38,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "国产航母",
+        "concept_code": "300236",
+        "change_pct": -3.7,
+        "net_inflow_yi": -14.71,
+        "count": 1,
+        "amount": 306349498.5,
+        "rows": [
+          {
+            "code": "600992",
+            "name": "贵绳股份",
+            "reason": "商业航天+钢丝绳+贵州国资",
+            "concepts": [
+              "国企改革",
+              "国产航母",
+              "西部大开发",
+              "海工装备",
+              "军工",
+              "商业航天"
+            ],
+            "amount": 306349498.5,
+            "turnover_rate": 10.89,
+            "first_limit_up_time": "09:40:06",
+            "last_limit_up_time": "13:27:03",
+            "consecutive_boards": 1
+          }
+        ]
+      }
+    ],
+    "2026-07-14": [
+      {
+        "concept": "流感",
+        "concept_code": "300038",
+        "change_pct": -6.12,
+        "net_inflow_yi": -67.89,
+        "count": 2,
+        "amount": 8117208818.91,
+        "rows": [
+          {
+            "code": "002432",
+            "name": "九安医疗",
+            "reason": "参股DeepSeek+参股月之暗面+AI医疗+中报预增",
+            "concepts": [
+              "血氧仪",
+              "天津自贸区",
+              "AI应用",
+              "智能医疗",
+              "智能穿戴",
+              "小米概念",
+              "创投",
+              "人民币贬值受益",
+              "医疗器械概念",
+              "跨境电商",
+              "流感",
+              "京津冀一体化",
+              "养老概念",
+              "2026中报预增",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 3594431326.6,
+            "turnover_rate": 9.81,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "13:59:00",
+            "consecutive_boards": 1
+          },
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "冷链物流",
+        "concept_code": "301179",
+        "change_pct": -3.72,
+        "net_inflow_yi": -39.54,
+        "count": 2,
+        "amount": 5698966972.18,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "仿制药一致性评价",
+        "concept_code": "308572",
+        "change_pct": -6.44,
+        "net_inflow_yi": -60.41,
+        "count": 2,
+        "amount": 5275597690.160001,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          },
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "民营医院",
+        "concept_code": "301346",
+        "change_pct": -4.13,
+        "net_inflow_yi": -7.68,
+        "count": 2,
+        "amount": 5275597690.160001,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          },
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "医药电商",
+        "concept_code": "301565",
+        "change_pct": -5.39,
+        "net_inflow_yi": -49.5,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "维生素",
+        "concept_code": "309135",
+        "change_pct": -5.41,
+        "net_inflow_yi": -19.72,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "肝炎概念",
+        "concept_code": "308915",
+        "change_pct": -6.41,
+        "net_inflow_yi": -52.81,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "黑龙江自贸区",
+        "concept_code": "308547",
+        "change_pct": -2.33,
+        "net_inflow_yi": -10.61,
+        "count": 1,
+        "amount": 4522777492.31,
+        "rows": [
+          {
+            "code": "600664",
+            "name": "哈药股份",
+            "reason": "其他",
+            "concepts": [
+              "流感",
+              "医药电商",
+              "维生素",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "创新药",
+              "黑龙江自贸区",
+              "三胎概念",
+              "养老概念",
+              "跨境电商",
+              "DeepSeek概念",
+              "沪股通",
+              "融资融券",
+              "冷链物流",
+              "民营医院"
+            ],
+            "amount": 4522777492.31,
+            "turnover_rate": 34.7,
+            "first_limit_up_time": "09:35:44",
+            "last_limit_up_time": "09:39:05",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "天津自贸区",
+        "concept_code": "301229",
+        "change_pct": -2.2,
+        "net_inflow_yi": -15.82,
+        "count": 1,
+        "amount": 3594431326.6,
+        "rows": [
+          {
+            "code": "002432",
+            "name": "九安医疗",
+            "reason": "参股DeepSeek+参股月之暗面+AI医疗+中报预增",
+            "concepts": [
+              "血氧仪",
+              "天津自贸区",
+              "AI应用",
+              "智能医疗",
+              "智能穿戴",
+              "小米概念",
+              "创投",
+              "人民币贬值受益",
+              "医疗器械概念",
+              "跨境电商",
+              "流感",
+              "京津冀一体化",
+              "养老概念",
+              "2026中报预增",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 3594431326.6,
+            "turnover_rate": 9.81,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "13:59:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "血氧仪",
+        "concept_code": "309042",
+        "change_pct": -5.41,
+        "net_inflow_yi": -19.96,
+        "count": 1,
+        "amount": 3594431326.6,
+        "rows": [
+          {
+            "code": "002432",
+            "name": "九安医疗",
+            "reason": "参股DeepSeek+参股月之暗面+AI医疗+中报预增",
+            "concepts": [
+              "血氧仪",
+              "天津自贸区",
+              "AI应用",
+              "智能医疗",
+              "智能穿戴",
+              "小米概念",
+              "创投",
+              "人民币贬值受益",
+              "医疗器械概念",
+              "跨境电商",
+              "流感",
+              "京津冀一体化",
+              "养老概念",
+              "2026中报预增",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 3594431326.6,
+            "turnover_rate": 9.81,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "13:59:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "动物疫苗",
+        "concept_code": "308537",
+        "change_pct": -4.08,
+        "net_inflow_yi": -1.86,
+        "count": 1,
+        "amount": 2372327771.64,
+        "rows": [
+          {
+            "code": "002141",
+            "name": "贤丰控股",
+            "reason": "其他",
+            "concepts": [
+              "动物疫苗",
+              "广东自贸区",
+              "锂电池概念",
+              "粤港澳大湾区",
+              "创投",
+              "独角兽概念",
+              "PCB概念",
+              "横琴新区",
+              "消费电子概念"
+            ],
+            "amount": 2372327771.64,
+            "turnover_rate": 36.79,
+            "first_limit_up_time": "09:42:27",
+            "last_limit_up_time": "11:07:03",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "广东自贸区",
+        "concept_code": "301630",
+        "change_pct": -3.8,
+        "net_inflow_yi": -2.6,
+        "count": 1,
+        "amount": 2372327771.64,
+        "rows": [
+          {
+            "code": "002141",
+            "name": "贤丰控股",
+            "reason": "其他",
+            "concepts": [
+              "动物疫苗",
+              "广东自贸区",
+              "锂电池概念",
+              "粤港澳大湾区",
+              "创投",
+              "独角兽概念",
+              "PCB概念",
+              "横琴新区",
+              "消费电子概念"
+            ],
+            "amount": 2372327771.64,
+            "turnover_rate": 36.79,
+            "first_limit_up_time": "09:42:27",
+            "last_limit_up_time": "11:07:03",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "横琴新区",
+        "concept_code": "300087",
+        "change_pct": -4.29,
+        "net_inflow_yi": -3.9,
+        "count": 1,
+        "amount": 2372327771.64,
+        "rows": [
+          {
+            "code": "002141",
+            "name": "贤丰控股",
+            "reason": "其他",
+            "concepts": [
+              "动物疫苗",
+              "广东自贸区",
+              "锂电池概念",
+              "粤港澳大湾区",
+              "创投",
+              "独角兽概念",
+              "PCB概念",
+              "横琴新区",
+              "消费电子概念"
+            ],
+            "amount": 2372327771.64,
+            "turnover_rate": 36.79,
+            "first_limit_up_time": "09:42:27",
+            "last_limit_up_time": "11:07:03",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "独角兽概念",
+        "concept_code": "308002",
+        "change_pct": -4.88,
+        "net_inflow_yi": -25.97,
+        "count": 1,
+        "amount": 2372327771.64,
+        "rows": [
+          {
+            "code": "002141",
+            "name": "贤丰控股",
+            "reason": "其他",
+            "concepts": [
+              "动物疫苗",
+              "广东自贸区",
+              "锂电池概念",
+              "粤港澳大湾区",
+              "创投",
+              "独角兽概念",
+              "PCB概念",
+              "横琴新区",
+              "消费电子概念"
+            ],
+            "amount": 2372327771.64,
+            "turnover_rate": 36.79,
+            "first_limit_up_time": "09:42:27",
+            "last_limit_up_time": "11:07:03",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "IP经济(谷子经济)",
+        "concept_code": "309174",
+        "change_pct": -3.99,
+        "net_inflow_yi": -47.19,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "免税店",
+        "concept_code": "308657",
+        "change_pct": -2.46,
+        "net_inflow_yi": -7.51,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "农业种植",
+        "concept_code": "308016",
+        "change_pct": -3.08,
+        "net_inflow_yi": -16.25,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "可降解塑料",
+        "concept_code": "301117",
+        "change_pct": -3.67,
+        "net_inflow_yi": -1.54,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "统一大市场",
+        "concept_code": "308901",
+        "change_pct": -2.9,
+        "net_inflow_yi": -13.95,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "预制菜",
+        "concept_code": "308814",
+        "change_pct": -2.96,
+        "net_inflow_yi": -7.23,
+        "count": 1,
+        "amount": 1176189479.87,
+        "rows": [
+          {
+            "code": "000759",
+            "name": "中百集团",
+            "reason": "其他",
+            "concepts": [
+              "免税店",
+              "预制菜",
+              "IP经济(谷子经济)",
+              "统一大市场",
+              "农业种植",
+              "冷链物流",
+              "跨境电商",
+              "乡村振兴",
+              "智能物流",
+              "国企改革",
+              "一带一路",
+              "抖音概念(字节概念)",
+              "腾讯概念",
+              "可降解塑料",
+              "深股通"
+            ],
+            "amount": 1176189479.87,
+            "turnover_rate": 25.22,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:35:45",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "化肥",
+        "concept_code": "301104",
+        "change_pct": -1.61,
+        "net_inflow_yi": -8.07,
+        "count": 1,
+        "amount": 752820197.85,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "煤化工概念",
+        "concept_code": "300084",
+        "change_pct": -1.69,
+        "net_inflow_yi": 5.45,
+        "count": 1,
+        "amount": 752820197.85,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "煤炭概念",
+        "concept_code": "308716",
+        "change_pct": -1.64,
+        "net_inflow_yi": 0.34,
+        "count": 1,
+        "amount": 752820197.85,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "阿尔茨海默概念",
+        "concept_code": "308614",
+        "change_pct": -5.95,
+        "net_inflow_yi": -18.1,
+        "count": 1,
+        "amount": 752820197.85,
+        "rows": [
+          {
+            "code": "600227",
+            "name": "赤天化",
+            "reason": "尿素+甲醇+中报预计扭亏",
+            "concepts": [
+              "化肥",
+              "煤化工概念",
+              "煤炭概念",
+              "民营医院",
+              "阿尔茨海默概念",
+              "乡村振兴",
+              "仿制药一致性评价",
+              "西部大开发",
+              "医疗器械概念",
+              "创投",
+              "沪股通"
+            ],
+            "amount": 752820197.85,
+            "turnover_rate": 19.81,
+            "first_limit_up_time": "09:39:34",
+            "last_limit_up_time": "14:17:46",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "中俄贸易概念",
+        "concept_code": "308854",
+        "change_pct": -3.34,
+        "net_inflow_yi": -19.83,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "多模态AI",
+        "concept_code": "309104",
+        "change_pct": -5.16,
+        "net_inflow_yi": -73.7,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "特高压",
+        "concept_code": "300353",
+        "change_pct": -3.96,
+        "net_inflow_yi": -3.79,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "电力物联网",
+        "concept_code": "308477",
+        "change_pct": -3.74,
+        "net_inflow_yi": -4.95,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "电子身份证",
+        "concept_code": "308869",
+        "change_pct": -4.11,
+        "net_inflow_yi": -6.45,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "算力租赁",
+        "concept_code": "309068",
+        "change_pct": -5.73,
+        "net_inflow_yi": -69.38,
+        "count": 1,
+        "amount": 457437342.4,
+        "rows": [
+          {
+            "code": "001388",
+            "name": "信通电子",
+            "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+            "concepts": [
+              "电力物联网",
+              "鸿蒙概念",
+              "人工智能",
+              "电子身份证",
+              "物联网",
+              "工业互联网",
+              "智能电网",
+              "算力租赁",
+              "中俄贸易概念",
+              "机器人概念",
+              "华为概念",
+              "核电",
+              "新型工业化",
+              "风电",
+              "特高压",
+              "专精特新",
+              "传感器",
+              "芯片概念",
+              "PCB概念",
+              "多模态AI",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 457437342.4,
+            "turnover_rate": 15.3,
+            "first_limit_up_time": "09:45:24",
+            "last_limit_up_time": "13:58:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "可控核聚变",
+        "concept_code": "309108",
+        "change_pct": -4.74,
+        "net_inflow_yi": -7.08,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "土壤修复",
+        "concept_code": "300925",
+        "change_pct": -4.0,
+        "net_inflow_yi": -3.83,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "地下管网",
+        "concept_code": "301623",
+        "change_pct": -3.31,
+        "net_inflow_yi": -10.98,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "装配式建筑",
+        "concept_code": "305794",
+        "change_pct": -3.54,
+        "net_inflow_yi": -7.46,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "雄安新区",
+        "concept_code": "302182",
+        "change_pct": -3.26,
+        "net_inflow_yi": -23.4,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "雅下水电概念",
+        "concept_code": "309261",
+        "change_pct": -2.58,
+        "net_inflow_yi": 6.44,
+        "count": 1,
+        "amount": 113759336.52,
+        "rows": [
+          {
+            "code": "003001",
+            "name": "中岩大地",
+            "reason": "拟收购PCB刀具+岩土工程+核电",
+            "concepts": [
+              "土壤修复",
+              "水利",
+              "装配式建筑",
+              "地下管网",
+              "人工智能",
+              "雄安新区",
+              "一带一路",
+              "雅下水电概念",
+              "核电",
+              "可控核聚变"
+            ],
+            "amount": 113759336.52,
+            "turnover_rate": 5.08,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:30:00",
+            "consecutive_boards": 1
+          }
+        ]
+      },
+      {
+        "concept": "摘帽",
+        "concept_code": "301455",
+        "change_pct": -5.1,
+        "net_inflow_yi": -12.3,
+        "count": 1,
+        "amount": 12290112.0,
+        "rows": [
+          {
+            "code": "603580",
+            "name": "艾艾精工",
+            "reason": "控制权拟变更+复牌+轻型输送带+消费电子",
+            "concepts": [
+              "海峡两岸",
+              "消费电子概念",
+              "人民币贬值受益",
+              "摘帽"
+            ],
+            "amount": 12290112.0,
+            "turnover_rate": 0.21,
+            "first_limit_up_time": "09:25:03",
+            "last_limit_up_time": "09:25:03",
+            "consecutive_boards": 4
+          }
+        ]
+      }
+    ],
     "2026-07-15": [
       {
         "concept": "民营医院",
@@ -2596,8 +5029,6 @@
           }
         ]
       }
-    ],
-    "2026-07-16": [],
-    "2026-07-17": []
+    ]
   }
 }
