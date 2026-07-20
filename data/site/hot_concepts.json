@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20 10:22:39",
+  "generated_at": "2026-07-20 12:32:57",
   "latest_trade_date": "2026-07-20",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,8 +24,39 @@
       "flow_rank": 1,
       "change_score": 85.35,
       "flow_score": 100.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "601898",
+          "name": "中煤能源",
+          "reason": "控股股东增持+煤炭+煤化工+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:33:25",
+          "last_limit_up_time": "14:34:13",
+          "turnover_rate": 1.03,
+          "amount": 1270000352.76
+        },
+        {
+          "code": "600578",
+          "name": "京能电力",
+          "reason": "定增+风光火储一体化+火电+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:18:03",
+          "last_limit_up_time": "14:43:57",
+          "turnover_rate": 3.77,
+          "amount": 1405354740.11
+        },
+        {
+          "code": "000600",
+          "name": "建投能源",
+          "reason": "火电+储能+定增+河北国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:22:54",
+          "last_limit_up_time": "14:51:36",
+          "turnover_rate": 8.13,
+          "amount": 772038742.13
+        }
+      ]
     },
     {
       "rank": 2,
@@ -39,8 +70,29 @@
       "flow_rank": 2,
       "change_score": 95.42,
       "flow_score": 84.62,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "601898",
+          "name": "中煤能源",
+          "reason": "控股股东增持+煤炭+煤化工+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:33:25",
+          "last_limit_up_time": "14:34:13",
+          "turnover_rate": 1.03,
+          "amount": 1270000352.76
+        },
+        {
+          "code": "600938",
+          "name": "中国海油",
+          "reason": "油价上涨+油气开采+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:29:23",
+          "last_limit_up_time": "13:02:38",
+          "turnover_rate": 3.23,
+          "amount": 2998057668.98
+        }
+      ]
     },
     {
       "rank": 3,
@@ -54,8 +106,19 @@
       "flow_rank": 3,
       "change_score": 86.42,
       "flow_score": 80.68,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600188",
+          "name": "兖矿能源",
+          "reason": "煤炭+煤化工+中报预增+山东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:10:18",
+          "last_limit_up_time": "14:18:36",
+          "turnover_rate": 1.24,
+          "amount": 1507896695.17
+        }
+      ]
     },
     {
       "rank": 4,
@@ -69,8 +132,19 @@
       "flow_rank": 4,
       "change_score": 87.64,
       "flow_score": 54.16,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600938",
+          "name": "中国海油",
+          "reason": "油价上涨+油气开采+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:29:23",
+          "last_limit_up_time": "13:02:38",
+          "turnover_rate": 3.23,
+          "amount": 2998057668.98
+        }
+      ]
     },
     {
       "rank": 5,
@@ -84,8 +158,29 @@
       "flow_rank": 5,
       "change_score": 82.16,
       "flow_score": 53.49,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "601898",
+          "name": "中煤能源",
+          "reason": "控股股东增持+煤炭+煤化工+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:33:25",
+          "last_limit_up_time": "14:34:13",
+          "turnover_rate": 1.03,
+          "amount": 1270000352.76
+        },
+        {
+          "code": "600938",
+          "name": "中国海油",
+          "reason": "油价上涨+油气开采+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:29:23",
+          "last_limit_up_time": "13:02:38",
+          "turnover_rate": 3.23,
+          "amount": 2998057668.98
+        }
+      ]
     },
     {
       "rank": 6,
@@ -99,8 +194,119 @@
       "flow_rank": 25,
       "change_score": 96.56,
       "flow_score": 32.97,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 11,
+      "limit_up_stocks": [
+        {
+          "code": "600744",
+          "name": "华银电力",
+          "reason": "火电+新能源+定增获批+央企",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:35:00",
+          "last_limit_up_time": "09:49:30",
+          "turnover_rate": 8.59,
+          "amount": 1125606760.85
+        },
+        {
+          "code": "300515",
+          "name": "三德科技",
+          "reason": "半年报预增+煤炭检测仪器+无人化智能装备+机器人概念",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:00",
+          "last_limit_up_time": "09:30:00",
+          "turnover_rate": 2.96,
+          "amount": 88809351.9
+        },
+        {
+          "code": "600403",
+          "name": "大有能源",
+          "reason": "煤炭+中报减亏+河南国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:48",
+          "last_limit_up_time": "09:37:48",
+          "turnover_rate": 1.97,
+          "amount": 241110898.24
+        },
+        {
+          "code": "600121",
+          "name": "郑州煤电",
+          "reason": "煤炭+算力+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:48:48",
+          "last_limit_up_time": "09:50:09",
+          "turnover_rate": 5.01,
+          "amount": 224588213.88
+        },
+        {
+          "code": "600726",
+          "name": "华电能源",
+          "reason": "热电联产+煤炭+新能源转型+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:55:28",
+          "last_limit_up_time": "09:55:28",
+          "turnover_rate": 1.68,
+          "amount": 706396110.83
+        },
+        {
+          "code": "601898",
+          "name": "中煤能源",
+          "reason": "控股股东增持+煤炭+煤化工+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:33:25",
+          "last_limit_up_time": "14:34:13",
+          "turnover_rate": 1.03,
+          "amount": 1270000352.76
+        },
+        {
+          "code": "600188",
+          "name": "兖矿能源",
+          "reason": "煤炭+煤化工+中报预增+山东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:10:18",
+          "last_limit_up_time": "14:18:36",
+          "turnover_rate": 1.24,
+          "amount": 1507896695.17
+        },
+        {
+          "code": "600863",
+          "name": "华能蒙电",
+          "reason": "电力+新能源+煤电联营+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:13:47",
+          "last_limit_up_time": "14:56:08",
+          "turnover_rate": 5.09,
+          "amount": 1615379088.06
+        },
+        {
+          "code": "600578",
+          "name": "京能电力",
+          "reason": "定增+风光火储一体化+火电+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:18:03",
+          "last_limit_up_time": "14:43:57",
+          "turnover_rate": 3.77,
+          "amount": 1405354740.11
+        },
+        {
+          "code": "600985",
+          "name": "淮北矿业",
+          "reason": "煤炭+煤化工+高股息+安徽国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:02:52",
+          "last_limit_up_time": "14:12:34",
+          "turnover_rate": 1.13,
+          "amount": 459354962.72
+        },
+        {
+          "code": "601001",
+          "name": "晋控煤业",
+          "reason": "煤炭+国企改革+优质资产注入",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:43:58",
+          "last_limit_up_time": "14:43:58",
+          "turnover_rate": 1.44,
+          "amount": 450638036.9
+        }
+      ]
     },
     {
       "rank": 7,
@@ -144,8 +350,99 @@
       "flow_rank": 20,
       "change_score": 89.28,
       "flow_score": 33.87,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 9,
+      "limit_up_stocks": [
+        {
+          "code": "600744",
+          "name": "华银电力",
+          "reason": "火电+新能源+定增获批+央企",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:35:00",
+          "last_limit_up_time": "09:49:30",
+          "turnover_rate": 8.59,
+          "amount": 1125606760.85
+        },
+        {
+          "code": "600726",
+          "name": "华电能源",
+          "reason": "热电联产+煤炭+新能源转型+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:55:28",
+          "last_limit_up_time": "09:55:28",
+          "turnover_rate": 1.68,
+          "amount": 706396110.83
+        },
+        {
+          "code": "000767",
+          "name": "晋控电力",
+          "reason": "火电+煤电一体化+新能源+山西国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:02:30",
+          "last_limit_up_time": "14:02:45",
+          "turnover_rate": 11.36,
+          "amount": 1210434172.69
+        },
+        {
+          "code": "000539",
+          "name": "粤电力A",
+          "reason": "电力+算力租赁+广东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:11:51",
+          "last_limit_up_time": "11:00:42",
+          "turnover_rate": 6.6,
+          "amount": 954978207.22
+        },
+        {
+          "code": "600863",
+          "name": "华能蒙电",
+          "reason": "电力+新能源+煤电联营+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:13:47",
+          "last_limit_up_time": "14:56:08",
+          "turnover_rate": 5.09,
+          "amount": 1615379088.06
+        },
+        {
+          "code": "600578",
+          "name": "京能电力",
+          "reason": "定增+风光火储一体化+火电+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:18:03",
+          "last_limit_up_time": "14:43:57",
+          "turnover_rate": 3.77,
+          "amount": 1405354740.11
+        },
+        {
+          "code": "000600",
+          "name": "建投能源",
+          "reason": "火电+储能+定增+河北国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:22:54",
+          "last_limit_up_time": "14:51:36",
+          "turnover_rate": 8.13,
+          "amount": 772038742.13
+        },
+        {
+          "code": "600985",
+          "name": "淮北矿业",
+          "reason": "煤炭+煤化工+高股息+安徽国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:02:52",
+          "last_limit_up_time": "14:12:34",
+          "turnover_rate": 1.13,
+          "amount": 459354962.72
+        },
+        {
+          "code": "600396",
+          "name": "华电辽能",
+          "reason": "绿色电力+火力发电+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:42:38",
+          "last_limit_up_time": "14:42:38",
+          "turnover_rate": 19.15,
+          "amount": 3422560129.55
+        }
+      ]
     },
     {
       "rank": 10,
