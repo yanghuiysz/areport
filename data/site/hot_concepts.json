@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21 09:41:07",
+  "generated_at": "2026-07-21 12:14:11",
   "latest_trade_date": "2026-07-21",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -292,7 +292,7 @@
           "reason": "PCB+光模块+存储芯片",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:12",
+          "last_limit_up_time": "15:10:21",
           "turnover_rate": 11.76,
           "amount": 936911576.0
         },
@@ -992,7 +992,7 @@
           "reason": "PCB+光模块+存储芯片",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:12",
+          "last_limit_up_time": "15:10:21",
           "turnover_rate": 11.76,
           "amount": 936911576.0
         },
@@ -1194,7 +1194,7 @@
           "reason": "PCB+光模块+存储芯片",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:12",
+          "last_limit_up_time": "15:10:21",
           "turnover_rate": 11.76,
           "amount": 936911576.0
         }
@@ -1556,7 +1556,7 @@
           "reason": "PCB+光模块+存储芯片",
           "consecutive_boards": 1,
           "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:12",
+          "last_limit_up_time": "15:10:21",
           "turnover_rate": 11.76,
           "amount": 936911576.0
         },
