@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22 09:38:33",
+  "generated_at": "2026-07-22 12:14:09",
   "latest_trade_date": "2026-07-22",
   "summary": [
     {
@@ -12,214 +12,604 @@
     },
     {
       "date": "2026-07-21",
-      "up_count": 3107,
-      "down_count": 2276,
-      "flat_count": 117,
+      "up_count": null,
+      "down_count": null,
+      "flat_count": null,
       "limit_up_count": 121,
       "limit_down_count": 21
     },
     {
       "date": "2026-07-20",
-      "up_count": 1640,
-      "down_count": 3710,
+      "up_count": 1740,
+      "down_count": 2886,
       "flat_count": 74,
-      "limit_up_count": 9,
-      "limit_down_count": 238
+      "limit_up_count": 53,
+      "limit_down_count": 211
     }
   ],
   "limit_up_details_by_date": {
     "2026-07-20": [
       {
-        "code": "600403",
-        "name": "大有能源",
-        "reason": "煤炭+中报减亏+河南国资",
-        "concepts": [
-          "煤炭概念",
-          "新疆振兴",
-          "国企改革",
-          "沪股通",
-          "融资融券"
-        ],
-        "amount": 813834517.35,
-        "turnover_rate": 6.21,
-        "first_limit_up_time": "10:43:37",
-        "last_limit_up_time": "14:35:25",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600396",
-        "name": "华电辽能",
-        "reason": "绿色电力+火力发电+央企",
-        "concepts": [
-          "超超临界发电",
-          "绿色电力",
-          "碳交易",
-          "风电",
-          "碳中和",
-          "海工装备",
-          "央企国企改革",
-          "氢能源",
-          "国企改革",
-          "沪股通"
-        ],
-        "amount": 3552209730.74,
-        "turnover_rate": 16.79,
-        "first_limit_up_time": "10:16:07",
-        "last_limit_up_time": "13:00:58",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000815",
         "name": "美利云",
-        "reason": "算力租赁+东数西算+中国诚通旗下",
-        "concepts": [
-          "算力租赁",
-          "云计算",
-          "国资云",
-          "东数西算(算力)",
-          "数据中心(AIDC)",
-          "绿色电力",
-          "央企国企改革",
-          "国企改革",
-          "西部大开发",
-          "深股通",
-          "融资融券"
-        ],
-        "amount": 1447901074.08,
-        "turnover_rate": 12.97,
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 209590629.0,
+        "turnover_rate": 2.26,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:36:09",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "603619",
-        "name": "中曼石油",
-        "reason": "油气开采+中东布局+机器人概念",
-        "concepts": [
-          "俄乌冲突概念",
-          "天然气",
-          "新疆振兴",
-          "一带一路",
-          "海工装备",
-          "沪股通",
-          "机器人概念",
-          "融资融券"
-        ],
-        "amount": 999681741.87,
-        "turnover_rate": 10.32,
-        "first_limit_up_time": "09:41:43",
-        "last_limit_up_time": "13:05:16",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
       },
       {
-        "code": "600726",
-        "name": "华电能源",
-        "reason": "热电联产+煤炭+新能源转型+央企",
-        "concepts": [
-          "超超临界发电",
-          "煤炭概念",
-          "绿色电力",
-          "风电",
-          "黑龙江自贸区",
-          "央企国企改革",
-          "国企改革",
-          "沪股通"
-        ],
-        "amount": 2421314929.0,
-        "turnover_rate": 5.14,
-        "first_limit_up_time": "14:36:28",
-        "last_limit_up_time": "14:36:28",
+        "code": "002866",
+        "name": "传艺科技",
+        "reason": "消费电子",
+        "concepts": [],
+        "amount": 114020658.0,
+        "turnover_rate": 4.25,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300515",
+        "name": "三德科技",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 88809352.0,
+        "turnover_rate": 2.96,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002490",
+        "name": "山东墨龙",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 423925808.0,
+        "turnover_rate": 10.08,
+        "first_limit_up_time": "09:31:12",
+        "last_limit_up_time": "10:21:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603533",
+        "name": "掌阅科技",
+        "reason": "数字媒体",
+        "concepts": [],
+        "amount": 768414016.0,
+        "turnover_rate": 9.0,
+        "first_limit_up_time": "09:31:37",
+        "last_limit_up_time": "15:00:00",
         "consecutive_boards": 1
       },
       {
         "code": "001258",
         "name": "立新能源",
-        "reason": "风电光伏+定增获批+半年报预增+新疆国资",
-        "concepts": [
-          "绿色电力",
-          "光热发电",
-          "风电",
-          "碳中和",
-          "充电桩",
-          "新疆振兴",
-          "储能",
-          "特高压",
-          "国企改革",
-          "西部大开发",
-          "2026中报预增",
-          "深股通"
-        ],
-        "amount": 663233556.73,
-        "turnover_rate": 6.56,
-        "first_limit_up_time": "09:32:57",
-        "last_limit_up_time": "09:32:57",
-        "consecutive_boards": 5
+        "reason": "电力",
+        "concepts": [],
+        "amount": 733892672.0,
+        "turnover_rate": 8.8,
+        "first_limit_up_time": "09:31:57",
+        "last_limit_up_time": "09:49:15",
+        "consecutive_boards": 3
       },
       {
-        "code": "600722",
-        "name": "金牛化工",
-        "reason": "甲醇+风电+河北国资",
-        "concepts": [
-          "煤化工概念",
-          "国企改革",
-          "京津冀一体化",
-          "风电",
-          "融资融券",
-          "沪股通"
-        ],
-        "amount": 1329859124.4,
-        "turnover_rate": 20.36,
-        "first_limit_up_time": "09:58:47",
-        "last_limit_up_time": "13:51:38",
+        "code": "600644",
+        "name": "乐山电力",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 670536384.0,
+        "turnover_rate": 11.97,
+        "first_limit_up_time": "09:32:45",
+        "last_limit_up_time": "10:03:03",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002992",
+        "name": "宝明科技",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 48402732.0,
+        "turnover_rate": 0.88,
+        "first_limit_up_time": "09:33:18",
+        "last_limit_up_time": "09:33:18",
         "consecutive_boards": 1
       },
       {
         "code": "600744",
         "name": "华银电力",
-        "reason": "火电+新能源+定增获批+央企",
-        "concepts": [
-          "超超临界发电",
-          "虚拟电厂",
-          "绿色电力",
-          "碳交易",
-          "煤炭概念",
-          "风电",
-          "碳中和",
-          "央企国企改革",
-          "核电",
-          "融资融券",
-          "国企改革",
-          "沪股通"
-        ],
-        "amount": 2900445364.19,
-        "turnover_rate": 18.97,
-        "first_limit_up_time": "14:41:00",
-        "last_limit_up_time": "14:43:36",
-        "consecutive_boards": 4
+        "reason": "电力",
+        "concepts": [],
+        "amount": 1125606768.0,
+        "turnover_rate": 8.59,
+        "first_limit_up_time": "09:35:00",
+        "last_limit_up_time": "09:49:30",
+        "consecutive_boards": 2
       },
       {
-        "code": "600644",
-        "name": "乐山电力",
-        "reason": "电力+天然气+新型储能",
-        "concepts": [
-          "绿色电力",
-          "虚拟电厂",
-          "天然气",
-          "地下管网",
-          "充电桩",
-          "污水处理",
-          "储能",
-          "乡村振兴",
-          "参股银行",
-          "西部大开发",
-          "光伏概念",
-          "沪股通",
-          "融资融券"
-        ],
-        "amount": 899784865.81,
-        "turnover_rate": 15.6,
-        "first_limit_up_time": "14:47:35",
-        "last_limit_up_time": "14:47:35",
+        "code": "000889",
+        "name": "中嘉博创",
+        "reason": "通信服务",
+        "concepts": [],
+        "amount": 143940609.0,
+        "turnover_rate": 4.88,
+        "first_limit_up_time": "09:35:27",
+        "last_limit_up_time": "09:35:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600722",
+        "name": "金牛化工",
+        "reason": "化学原料",
+        "concepts": [],
+        "amount": 451616176.0,
+        "turnover_rate": 7.22,
+        "first_limit_up_time": "09:35:46",
+        "last_limit_up_time": "09:35:46",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "688057",
+        "name": "金达莱",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 141706035.0,
+        "turnover_rate": 3.1,
+        "first_limit_up_time": "09:35:46",
+        "last_limit_up_time": "09:35:46",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600403",
+        "name": "大有能源",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 241110898.0,
+        "turnover_rate": 1.97,
+        "first_limit_up_time": "09:37:48",
+        "last_limit_up_time": "09:37:48",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600126",
+        "name": "杭钢股份",
+        "reason": "普钢",
+        "concepts": [],
+        "amount": 1086264240.0,
+        "turnover_rate": 5.21,
+        "first_limit_up_time": "09:38:51",
+        "last_limit_up_time": "14:15:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300368",
+        "name": "汇金股份",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 468053440.0,
+        "turnover_rate": 9.74,
+        "first_limit_up_time": "09:39:09",
+        "last_limit_up_time": "09:39:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603619",
+        "name": "中曼石油",
+        "reason": "油服工程",
+        "concepts": [],
+        "amount": 479545840.0,
+        "turnover_rate": 5.39,
+        "first_limit_up_time": "09:39:21",
+        "last_limit_up_time": "09:39:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603779",
+        "name": "威龙股份",
+        "reason": "非白酒",
+        "concepts": [],
+        "amount": 410630640.0,
+        "turnover_rate": 14.62,
+        "first_limit_up_time": "09:43:04",
+        "last_limit_up_time": "10:06:37",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600756",
+        "name": "浪潮软件",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 440322448.0,
+        "turnover_rate": 9.78,
+        "first_limit_up_time": "09:43:38",
+        "last_limit_up_time": "14:40:53",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600797",
+        "name": "浙大网新",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 635413536.0,
+        "turnover_rate": 9.11,
+        "first_limit_up_time": "09:43:58",
+        "last_limit_up_time": "14:05:43",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600121",
+        "name": "郑州煤电",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 224588214.0,
+        "turnover_rate": 5.01,
+        "first_limit_up_time": "09:48:48",
+        "last_limit_up_time": "09:50:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600452",
+        "name": "涪陵电力",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 829334336.0,
+        "turnover_rate": 5.5,
+        "first_limit_up_time": "09:50:00",
+        "last_limit_up_time": "14:02:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600267",
+        "name": "海正药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 1228162416.0,
+        "turnover_rate": 8.52,
+        "first_limit_up_time": "09:53:52",
+        "last_limit_up_time": "14:53:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000596",
+        "name": "古井贡酒",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 1044650864.0,
+        "turnover_rate": 2.79,
+        "first_limit_up_time": "09:54:45",
+        "last_limit_up_time": "14:01:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600726",
+        "name": "华电能源",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 706396112.0,
+        "turnover_rate": 1.68,
+        "first_limit_up_time": "09:55:28",
+        "last_limit_up_time": "09:55:28",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600821",
+        "name": "金开新能",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 518000176.0,
+        "turnover_rate": 4.35,
+        "first_limit_up_time": "09:55:35",
+        "last_limit_up_time": "09:57:05",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001288",
+        "name": "运机集团",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 165796814.0,
+        "turnover_rate": 4.81,
+        "first_limit_up_time": "09:57:54",
+        "last_limit_up_time": "14:48:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000767",
+        "name": "晋控电力",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 1210434176.0,
+        "turnover_rate": 11.36,
+        "first_limit_up_time": "10:02:30",
+        "last_limit_up_time": "14:02:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002036",
+        "name": "联创电子",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 259699807.0,
+        "turnover_rate": 3.86,
+        "first_limit_up_time": "10:03:06",
+        "last_limit_up_time": "10:03:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603727",
+        "name": "博迈科",
+        "reason": "油服工程",
+        "concepts": [],
+        "amount": 57728142.0,
+        "turnover_rate": 1.27,
+        "first_limit_up_time": "10:04:08",
+        "last_limit_up_time": "10:04:08",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000539",
+        "name": "粤电力Ａ",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 954978208.0,
+        "turnover_rate": 6.6,
+        "first_limit_up_time": "10:11:51",
+        "last_limit_up_time": "11:00:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601898",
+        "name": "中煤能源",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 1270000352.0,
+        "turnover_rate": 1.03,
+        "first_limit_up_time": "10:33:25",
+        "last_limit_up_time": "14:34:13",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601026",
+        "name": "道生天合",
+        "reason": "风电设备",
+        "concepts": [],
+        "amount": 163336122.0,
+        "turnover_rate": 10.31,
+        "first_limit_up_time": "10:42:47",
+        "last_limit_up_time": "14:26:29",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600746",
+        "name": "江苏索普",
+        "reason": "化学原料",
+        "concepts": [],
+        "amount": 297335840.0,
+        "turnover_rate": 3.97,
+        "first_limit_up_time": "10:43:08",
+        "last_limit_up_time": "10:44:23",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603610",
+        "name": "麒盛科技",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 132688206.0,
+        "turnover_rate": 2.82,
+        "first_limit_up_time": "10:47:30",
+        "last_limit_up_time": "10:53:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300534",
+        "name": "陇神戎发",
+        "reason": "中药Ⅱ",
+        "concepts": [],
+        "amount": 1246240704.0,
+        "turnover_rate": 37.4,
+        "first_limit_up_time": "10:50:45",
+        "last_limit_up_time": "14:50:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600236",
+        "name": "桂冠电力",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 848869984.0,
+        "turnover_rate": 0.94,
+        "first_limit_up_time": "11:00:56",
+        "last_limit_up_time": "14:15:23",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001211",
+        "name": "双枪科技",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 99138307.0,
+        "turnover_rate": 5.53,
+        "first_limit_up_time": "11:01:06",
+        "last_limit_up_time": "11:01:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002857",
+        "name": "三晖电气",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 86544394.0,
+        "turnover_rate": 4.35,
+        "first_limit_up_time": "11:10:36",
+        "last_limit_up_time": "11:10:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002440",
+        "name": "闰土股份",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 1142729600.0,
+        "turnover_rate": 10.6,
+        "first_limit_up_time": "11:17:42",
+        "last_limit_up_time": "14:03:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600938",
+        "name": "中国海油",
+        "reason": "油气开采",
+        "concepts": [],
+        "amount": 2998057664.0,
+        "turnover_rate": 3.22,
+        "first_limit_up_time": "11:29:23",
+        "last_limit_up_time": "13:02:38",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600188",
+        "name": "兖矿能源",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 1507896688.0,
+        "turnover_rate": 1.24,
+        "first_limit_up_time": "13:10:18",
+        "last_limit_up_time": "14:18:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600863",
+        "name": "华能蒙电",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 1615379088.0,
+        "turnover_rate": 5.09,
+        "first_limit_up_time": "13:13:47",
+        "last_limit_up_time": "14:56:08",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301190",
+        "name": "善水科技",
+        "reason": "化学原料",
+        "concepts": [],
+        "amount": 207782761.0,
+        "turnover_rate": 8.85,
+        "first_limit_up_time": "13:17:33",
+        "last_limit_up_time": "13:17:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600578",
+        "name": "京能电力",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 1405354736.0,
+        "turnover_rate": 3.77,
+        "first_limit_up_time": "13:18:03",
+        "last_limit_up_time": "14:43:57",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000600",
+        "name": "建投能源",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 772038736.0,
+        "turnover_rate": 8.14,
+        "first_limit_up_time": "13:22:54",
+        "last_limit_up_time": "14:51:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600985",
+        "name": "淮北矿业",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 459354960.0,
+        "turnover_rate": 1.13,
+        "first_limit_up_time": "14:02:52",
+        "last_limit_up_time": "14:12:34",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600396",
+        "name": "华电辽能",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 3422560128.0,
+        "turnover_rate": 19.15,
+        "first_limit_up_time": "14:42:38",
+        "last_limit_up_time": "14:42:38",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601991",
+        "name": "大唐发电",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 5183059456.0,
+        "turnover_rate": 6.9,
+        "first_limit_up_time": "14:42:44",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601001",
+        "name": "晋控煤业",
+        "reason": "煤炭开采",
+        "concepts": [],
+        "amount": 450638032.0,
+        "turnover_rate": 1.43,
+        "first_limit_up_time": "14:43:58",
+        "last_limit_up_time": "14:43:58",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000722",
+        "name": "湖南发展",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 1100838176.0,
+        "turnover_rate": 16.23,
+        "first_limit_up_time": "14:44:33",
+        "last_limit_up_time": "14:56:21",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000037",
+        "name": "深南电A",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 746615024.0,
+        "turnover_rate": 22.61,
+        "first_limit_up_time": "14:45:48",
+        "last_limit_up_time": "14:55:12",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603823",
+        "name": "百合花",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 2399259856.0,
+        "turnover_rate": 7.89,
+        "first_limit_up_time": "14:49:01",
+        "last_limit_up_time": "14:49:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600032",
+        "name": "浙江新能",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 707828880.0,
+        "turnover_rate": 3.98,
+        "first_limit_up_time": "14:55:20",
+        "last_limit_up_time": "14:55:20",
         "consecutive_boards": 1
       }
     ],
@@ -258,17 +648,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002167",
-        "name": "东方锆业",
-        "reason": "小金属",
-        "concepts": [],
-        "amount": 2398138992.0,
-        "turnover_rate": 19.6,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "11:00:54",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002879",
         "name": "长缆科技",
         "reason": "电网设备",
@@ -277,6 +656,17 @@
         "turnover_rate": 2.12,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002167",
+        "name": "东方锆业",
+        "reason": "小金属",
+        "concepts": [],
+        "amount": 2398138992.0,
+        "turnover_rate": 19.6,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "11:00:54",
         "consecutive_boards": 1
       },
       {
@@ -852,17 +1242,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002396",
-        "name": "星网锐捷",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 6550440704.0,
-        "turnover_rate": 28.7,
-        "first_limit_up_time": "13:00:03",
-        "last_limit_up_time": "14:21:33",
-        "consecutive_boards": 1
-      },
-      {
         "code": "001389",
         "name": "广合科技",
         "reason": "元件",
@@ -871,6 +1250,17 @@
         "turnover_rate": 8.52,
         "first_limit_up_time": "13:00:03",
         "last_limit_up_time": "14:10:45",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002396",
+        "name": "星网锐捷",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 6550440704.0,
+        "turnover_rate": 28.7,
+        "first_limit_up_time": "13:00:03",
+        "last_limit_up_time": "14:21:33",
         "consecutive_boards": 1
       },
       {
@@ -962,17 +1352,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002484",
-        "name": "江海股份",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 3817943088.0,
-        "turnover_rate": 6.98,
-        "first_limit_up_time": "13:02:33",
-        "last_limit_up_time": "13:02:33",
-        "consecutive_boards": 1
-      },
-      {
         "code": "688261",
         "name": "东微半导",
         "reason": "半导体",
@@ -981,6 +1360,17 @@
         "turnover_rate": 9.95,
         "first_limit_up_time": "13:02:33",
         "last_limit_up_time": "13:45:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002484",
+        "name": "江海股份",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 3817943088.0,
+        "turnover_rate": 6.98,
+        "first_limit_up_time": "13:02:33",
+        "last_limit_up_time": "13:02:33",
         "consecutive_boards": 1
       },
       {
@@ -2077,688 +2467,7 @@
     ]
   },
   "limit_up_concepts_by_date": {
-    "2026-07-20": [
-      {
-        "concept": "超超临界发电",
-        "concept_code": "308969",
-        "change_pct": 0.65,
-        "net_inflow_yi": 4.65,
-        "count": 3,
-        "amount": 8873970023.93,
-        "rows": [
-          {
-            "code": "600396",
-            "name": "华电辽能",
-            "reason": "绿色电力+火力发电+央企",
-            "concepts": [
-              "超超临界发电",
-              "绿色电力",
-              "碳交易",
-              "风电",
-              "碳中和",
-              "海工装备",
-              "央企国企改革",
-              "氢能源",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 3552209730.74,
-            "turnover_rate": 16.79,
-            "first_limit_up_time": "10:16:07",
-            "last_limit_up_time": "13:00:58",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600726",
-            "name": "华电能源",
-            "reason": "热电联产+煤炭+新能源转型+央企",
-            "concepts": [
-              "超超临界发电",
-              "煤炭概念",
-              "绿色电力",
-              "风电",
-              "黑龙江自贸区",
-              "央企国企改革",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2421314929.0,
-            "turnover_rate": 5.14,
-            "first_limit_up_time": "14:36:28",
-            "last_limit_up_time": "14:36:28",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600744",
-            "name": "华银电力",
-            "reason": "火电+新能源+定增获批+央企",
-            "concepts": [
-              "超超临界发电",
-              "虚拟电厂",
-              "绿色电力",
-              "碳交易",
-              "煤炭概念",
-              "风电",
-              "碳中和",
-              "央企国企改革",
-              "核电",
-              "融资融券",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2900445364.19,
-            "turnover_rate": 18.97,
-            "first_limit_up_time": "14:41:00",
-            "last_limit_up_time": "14:43:36",
-            "consecutive_boards": 4
-          }
-        ]
-      },
-      {
-        "concept": "煤炭概念",
-        "concept_code": "308716",
-        "change_pct": 1.52,
-        "net_inflow_yi": 22.06,
-        "count": 3,
-        "amount": 6135594810.54,
-        "rows": [
-          {
-            "code": "600403",
-            "name": "大有能源",
-            "reason": "煤炭+中报减亏+河南国资",
-            "concepts": [
-              "煤炭概念",
-              "新疆振兴",
-              "国企改革",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 813834517.35,
-            "turnover_rate": 6.21,
-            "first_limit_up_time": "10:43:37",
-            "last_limit_up_time": "14:35:25",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600726",
-            "name": "华电能源",
-            "reason": "热电联产+煤炭+新能源转型+央企",
-            "concepts": [
-              "超超临界发电",
-              "煤炭概念",
-              "绿色电力",
-              "风电",
-              "黑龙江自贸区",
-              "央企国企改革",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2421314929.0,
-            "turnover_rate": 5.14,
-            "first_limit_up_time": "14:36:28",
-            "last_limit_up_time": "14:36:28",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600744",
-            "name": "华银电力",
-            "reason": "火电+新能源+定增获批+央企",
-            "concepts": [
-              "超超临界发电",
-              "虚拟电厂",
-              "绿色电力",
-              "碳交易",
-              "煤炭概念",
-              "风电",
-              "碳中和",
-              "央企国企改革",
-              "核电",
-              "融资融券",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2900445364.19,
-            "turnover_rate": 18.97,
-            "first_limit_up_time": "14:41:00",
-            "last_limit_up_time": "14:43:36",
-            "consecutive_boards": 4
-          }
-        ]
-      },
-      {
-        "concept": "新疆振兴",
-        "concept_code": "300386",
-        "change_pct": -0.1,
-        "net_inflow_yi": -7.07,
-        "count": 3,
-        "amount": 2476749815.95,
-        "rows": [
-          {
-            "code": "600403",
-            "name": "大有能源",
-            "reason": "煤炭+中报减亏+河南国资",
-            "concepts": [
-              "煤炭概念",
-              "新疆振兴",
-              "国企改革",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 813834517.35,
-            "turnover_rate": 6.21,
-            "first_limit_up_time": "10:43:37",
-            "last_limit_up_time": "14:35:25",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "603619",
-            "name": "中曼石油",
-            "reason": "油气开采+中东布局+机器人概念",
-            "concepts": [
-              "俄乌冲突概念",
-              "天然气",
-              "新疆振兴",
-              "一带一路",
-              "海工装备",
-              "沪股通",
-              "机器人概念",
-              "融资融券"
-            ],
-            "amount": 999681741.87,
-            "turnover_rate": 10.32,
-            "first_limit_up_time": "09:41:43",
-            "last_limit_up_time": "13:05:16",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "001258",
-            "name": "立新能源",
-            "reason": "风电光伏+定增获批+半年报预增+新疆国资",
-            "concepts": [
-              "绿色电力",
-              "光热发电",
-              "风电",
-              "碳中和",
-              "充电桩",
-              "新疆振兴",
-              "储能",
-              "特高压",
-              "国企改革",
-              "西部大开发",
-              "2026中报预增",
-              "深股通"
-            ],
-            "amount": 663233556.73,
-            "turnover_rate": 6.56,
-            "first_limit_up_time": "09:32:57",
-            "last_limit_up_time": "09:32:57",
-            "consecutive_boards": 5
-          }
-        ]
-      },
-      {
-        "concept": "碳交易",
-        "concept_code": "300931",
-        "change_pct": 0.09,
-        "net_inflow_yi": -13.87,
-        "count": 2,
-        "amount": 6452655094.93,
-        "rows": [
-          {
-            "code": "600396",
-            "name": "华电辽能",
-            "reason": "绿色电力+火力发电+央企",
-            "concepts": [
-              "超超临界发电",
-              "绿色电力",
-              "碳交易",
-              "风电",
-              "碳中和",
-              "海工装备",
-              "央企国企改革",
-              "氢能源",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 3552209730.74,
-            "turnover_rate": 16.79,
-            "first_limit_up_time": "10:16:07",
-            "last_limit_up_time": "13:00:58",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600744",
-            "name": "华银电力",
-            "reason": "火电+新能源+定增获批+央企",
-            "concepts": [
-              "超超临界发电",
-              "虚拟电厂",
-              "绿色电力",
-              "碳交易",
-              "煤炭概念",
-              "风电",
-              "碳中和",
-              "央企国企改革",
-              "核电",
-              "融资融券",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2900445364.19,
-            "turnover_rate": 18.97,
-            "first_limit_up_time": "14:41:00",
-            "last_limit_up_time": "14:43:36",
-            "consecutive_boards": 4
-          }
-        ]
-      },
-      {
-        "concept": "虚拟电厂",
-        "concept_code": "308761",
-        "change_pct": -0.33,
-        "net_inflow_yi": -29.44,
-        "count": 2,
-        "amount": 3800230230.0,
-        "rows": [
-          {
-            "code": "600744",
-            "name": "华银电力",
-            "reason": "火电+新能源+定增获批+央企",
-            "concepts": [
-              "超超临界发电",
-              "虚拟电厂",
-              "绿色电力",
-              "碳交易",
-              "煤炭概念",
-              "风电",
-              "碳中和",
-              "央企国企改革",
-              "核电",
-              "融资融券",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2900445364.19,
-            "turnover_rate": 18.97,
-            "first_limit_up_time": "14:41:00",
-            "last_limit_up_time": "14:43:36",
-            "consecutive_boards": 4
-          },
-          {
-            "code": "600644",
-            "name": "乐山电力",
-            "reason": "电力+天然气+新型储能",
-            "concepts": [
-              "绿色电力",
-              "虚拟电厂",
-              "天然气",
-              "地下管网",
-              "充电桩",
-              "污水处理",
-              "储能",
-              "乡村振兴",
-              "参股银行",
-              "西部大开发",
-              "光伏概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 899784865.81,
-            "turnover_rate": 15.6,
-            "first_limit_up_time": "14:47:35",
-            "last_limit_up_time": "14:47:35",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "天然气",
-        "concept_code": "300358",
-        "change_pct": 0.23,
-        "net_inflow_yi": 0.47,
-        "count": 2,
-        "amount": 1899466607.6799998,
-        "rows": [
-          {
-            "code": "603619",
-            "name": "中曼石油",
-            "reason": "油气开采+中东布局+机器人概念",
-            "concepts": [
-              "俄乌冲突概念",
-              "天然气",
-              "新疆振兴",
-              "一带一路",
-              "海工装备",
-              "沪股通",
-              "机器人概念",
-              "融资融券"
-            ],
-            "amount": 999681741.87,
-            "turnover_rate": 10.32,
-            "first_limit_up_time": "09:41:43",
-            "last_limit_up_time": "13:05:16",
-            "consecutive_boards": 1
-          },
-          {
-            "code": "600644",
-            "name": "乐山电力",
-            "reason": "电力+天然气+新型储能",
-            "concepts": [
-              "绿色电力",
-              "虚拟电厂",
-              "天然气",
-              "地下管网",
-              "充电桩",
-              "污水处理",
-              "储能",
-              "乡村振兴",
-              "参股银行",
-              "西部大开发",
-              "光伏概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 899784865.81,
-            "turnover_rate": 15.6,
-            "first_limit_up_time": "14:47:35",
-            "last_limit_up_time": "14:47:35",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "黑龙江自贸区",
-        "concept_code": "308547",
-        "change_pct": 0.16,
-        "net_inflow_yi": 2.01,
-        "count": 1,
-        "amount": 2421314929.0,
-        "rows": [
-          {
-            "code": "600726",
-            "name": "华电能源",
-            "reason": "热电联产+煤炭+新能源转型+央企",
-            "concepts": [
-              "超超临界发电",
-              "煤炭概念",
-              "绿色电力",
-              "风电",
-              "黑龙江自贸区",
-              "央企国企改革",
-              "国企改革",
-              "沪股通"
-            ],
-            "amount": 2421314929.0,
-            "turnover_rate": 5.14,
-            "first_limit_up_time": "14:36:28",
-            "last_limit_up_time": "14:36:28",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "国资云",
-        "concept_code": "308874",
-        "change_pct": 0.3,
-        "net_inflow_yi": -26.97,
-        "count": 1,
-        "amount": 1447901074.08,
-        "rows": [
-          {
-            "code": "000815",
-            "name": "美利云",
-            "reason": "算力租赁+东数西算+中国诚通旗下",
-            "concepts": [
-              "算力租赁",
-              "云计算",
-              "国资云",
-              "东数西算(算力)",
-              "数据中心(AIDC)",
-              "绿色电力",
-              "央企国企改革",
-              "国企改革",
-              "西部大开发",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 1447901074.08,
-            "turnover_rate": 12.97,
-            "first_limit_up_time": "09:25:00",
-            "last_limit_up_time": "09:36:09",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "算力租赁",
-        "concept_code": "309068",
-        "change_pct": -0.24,
-        "net_inflow_yi": -54.02,
-        "count": 1,
-        "amount": 1447901074.08,
-        "rows": [
-          {
-            "code": "000815",
-            "name": "美利云",
-            "reason": "算力租赁+东数西算+中国诚通旗下",
-            "concepts": [
-              "算力租赁",
-              "云计算",
-              "国资云",
-              "东数西算(算力)",
-              "数据中心(AIDC)",
-              "绿色电力",
-              "央企国企改革",
-              "国企改革",
-              "西部大开发",
-              "深股通",
-              "融资融券"
-            ],
-            "amount": 1447901074.08,
-            "turnover_rate": 12.97,
-            "first_limit_up_time": "09:25:00",
-            "last_limit_up_time": "09:36:09",
-            "consecutive_boards": 3
-          }
-        ]
-      },
-      {
-        "concept": "煤化工概念",
-        "concept_code": "300084",
-        "change_pct": 0.46,
-        "net_inflow_yi": 8.99,
-        "count": 1,
-        "amount": 1329859124.4,
-        "rows": [
-          {
-            "code": "600722",
-            "name": "金牛化工",
-            "reason": "甲醇+风电+河北国资",
-            "concepts": [
-              "煤化工概念",
-              "国企改革",
-              "京津冀一体化",
-              "风电",
-              "融资融券",
-              "沪股通"
-            ],
-            "amount": 1329859124.4,
-            "turnover_rate": 20.36,
-            "first_limit_up_time": "09:58:47",
-            "last_limit_up_time": "13:51:38",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "俄乌冲突概念",
-        "concept_code": "308850",
-        "change_pct": 1.02,
-        "net_inflow_yi": -5.92,
-        "count": 1,
-        "amount": 999681741.87,
-        "rows": [
-          {
-            "code": "603619",
-            "name": "中曼石油",
-            "reason": "油气开采+中东布局+机器人概念",
-            "concepts": [
-              "俄乌冲突概念",
-              "天然气",
-              "新疆振兴",
-              "一带一路",
-              "海工装备",
-              "沪股通",
-              "机器人概念",
-              "融资融券"
-            ],
-            "amount": 999681741.87,
-            "turnover_rate": 10.32,
-            "first_limit_up_time": "09:41:43",
-            "last_limit_up_time": "13:05:16",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "参股银行",
-        "concept_code": "301270",
-        "change_pct": -0.61,
-        "net_inflow_yi": -19.73,
-        "count": 1,
-        "amount": 899784865.81,
-        "rows": [
-          {
-            "code": "600644",
-            "name": "乐山电力",
-            "reason": "电力+天然气+新型储能",
-            "concepts": [
-              "绿色电力",
-              "虚拟电厂",
-              "天然气",
-              "地下管网",
-              "充电桩",
-              "污水处理",
-              "储能",
-              "乡村振兴",
-              "参股银行",
-              "西部大开发",
-              "光伏概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 899784865.81,
-            "turnover_rate": 15.6,
-            "first_limit_up_time": "14:47:35",
-            "last_limit_up_time": "14:47:35",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "地下管网",
-        "concept_code": "301623",
-        "change_pct": -0.9,
-        "net_inflow_yi": -6.04,
-        "count": 1,
-        "amount": 899784865.81,
-        "rows": [
-          {
-            "code": "600644",
-            "name": "乐山电力",
-            "reason": "电力+天然气+新型储能",
-            "concepts": [
-              "绿色电力",
-              "虚拟电厂",
-              "天然气",
-              "地下管网",
-              "充电桩",
-              "污水处理",
-              "储能",
-              "乡村振兴",
-              "参股银行",
-              "西部大开发",
-              "光伏概念",
-              "沪股通",
-              "融资融券"
-            ],
-            "amount": 899784865.81,
-            "turnover_rate": 15.6,
-            "first_limit_up_time": "14:47:35",
-            "last_limit_up_time": "14:47:35",
-            "consecutive_boards": 1
-          }
-        ]
-      },
-      {
-        "concept": "光热发电",
-        "concept_code": "300223",
-        "change_pct": -0.95,
-        "net_inflow_yi": -3.03,
-        "count": 1,
-        "amount": 663233556.73,
-        "rows": [
-          {
-            "code": "001258",
-            "name": "立新能源",
-            "reason": "风电光伏+定增获批+半年报预增+新疆国资",
-            "concepts": [
-              "绿色电力",
-              "光热发电",
-              "风电",
-              "碳中和",
-              "充电桩",
-              "新疆振兴",
-              "储能",
-              "特高压",
-              "国企改革",
-              "西部大开发",
-              "2026中报预增",
-              "深股通"
-            ],
-            "amount": 663233556.73,
-            "turnover_rate": 6.56,
-            "first_limit_up_time": "09:32:57",
-            "last_limit_up_time": "09:32:57",
-            "consecutive_boards": 5
-          }
-        ]
-      },
-      {
-        "concept": "特高压",
-        "concept_code": "300353",
-        "change_pct": -1.33,
-        "net_inflow_yi": -52.13,
-        "count": 1,
-        "amount": 663233556.73,
-        "rows": [
-          {
-            "code": "001258",
-            "name": "立新能源",
-            "reason": "风电光伏+定增获批+半年报预增+新疆国资",
-            "concepts": [
-              "绿色电力",
-              "光热发电",
-              "风电",
-              "碳中和",
-              "充电桩",
-              "新疆振兴",
-              "储能",
-              "特高压",
-              "国企改革",
-              "西部大开发",
-              "2026中报预增",
-              "深股通"
-            ],
-            "amount": 663233556.73,
-            "turnover_rate": 6.56,
-            "first_limit_up_time": "09:32:57",
-            "last_limit_up_time": "09:32:57",
-            "consecutive_boards": 5
-          }
-        ]
-      }
-    ],
+    "2026-07-20": [],
     "2026-07-21": [],
     "2026-07-22": []
   }

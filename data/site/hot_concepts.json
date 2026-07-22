@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22 09:39:48",
-  "latest_trade_date": "2026-07-21",
+  "generated_at": "2026-07-22 12:14:57",
+  "latest_trade_date": "2026-07-19",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -24,39 +24,8 @@
       "flow_rank": 7,
       "change_score": 100.0,
       "flow_score": 77.34,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银+铅锌+黄金概念+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:50:51",
-          "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.28,
-          "amount": 920227108.41
-        },
-        {
-          "code": "000426",
-          "name": "兴业银锡",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "14:03:54",
-          "turnover_rate": 6.34,
-          "amount": 3619171209.3
-        },
-        {
-          "code": "600988",
-          "name": "赤峰黄金",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:41:52",
-          "last_limit_up_time": "14:23:16",
-          "turnover_rate": 6.52,
-          "amount": 4159975786.18
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 2,
@@ -70,29 +39,8 @@
       "flow_rank": 9,
       "change_score": 98.13,
       "flow_score": 77.05,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银+铅锌+黄金概念+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:50:51",
-          "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.28,
-          "amount": 920227108.41
-        },
-        {
-          "code": "000426",
-          "name": "兴业银锡",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "14:03:54",
-          "turnover_rate": 6.34,
-          "amount": 3619171209.3
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 3,
@@ -106,39 +54,8 @@
       "flow_rank": 3,
       "change_score": 88.46,
       "flow_score": 86.71,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银+铅锌+黄金概念+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:50:51",
-          "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.28,
-          "amount": 920227108.41
-        },
-        {
-          "code": "000426",
-          "name": "兴业银锡",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "14:03:54",
-          "turnover_rate": 6.34,
-          "amount": 3619171209.3
-        },
-        {
-          "code": "600988",
-          "name": "赤峰黄金",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:41:52",
-          "last_limit_up_time": "14:23:16",
-          "turnover_rate": 6.52,
-          "amount": 4159975786.18
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 4,
@@ -167,39 +84,8 @@
       "flow_rank": 4,
       "change_score": 79.63,
       "flow_score": 85.02,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银+铅锌+黄金概念+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:50:51",
-          "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.28,
-          "amount": 920227108.41
-        },
-        {
-          "code": "000426",
-          "name": "兴业银锡",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "14:03:54",
-          "turnover_rate": 6.34,
-          "amount": 3619171209.3
-        },
-        {
-          "code": "600988",
-          "name": "赤峰黄金",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:41:52",
-          "last_limit_up_time": "14:23:16",
-          "turnover_rate": 6.52,
-          "amount": 4159975786.18
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 6,
@@ -213,19 +99,8 @@
       "flow_rank": 1,
       "change_score": 63.16,
       "flow_score": 100.0,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "002396",
-          "name": "星网锐捷",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:08:30",
-          "last_limit_up_time": "14:55:21",
-          "turnover_rate": 28.9,
-          "amount": 7349901454.42
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 7,
