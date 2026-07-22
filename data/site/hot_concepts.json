@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22 06:46:46",
-  "latest_trade_date": "2026-07-22",
+  "generated_at": "2026-07-22 09:39:48",
+  "latest_trade_date": "2026-07-21",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -17,14 +17,14 @@
       "name": "金属铅",
       "concept_code": "308864",
       "plate_code": "885971",
-      "heat_score": 90.5,
-      "change_pct": 2.51,
-      "net_inflow_yi": 26.34,
+      "heat_score": 89.8,
+      "change_pct": 2.54,
+      "net_inflow_yi": 26.26,
       "change_rank": 1,
       "flow_rank": 7,
       "change_score": 100.0,
-      "flow_score": 78.89,
-      "limit_up_count": 2,
+      "flow_score": 77.34,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
           "code": "000603",
@@ -33,18 +33,28 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:50:51",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.2,
-          "amount": 909521909.14
+          "turnover_rate": 6.28,
+          "amount": 920227108.41
         },
         {
-          "code": "000975",
-          "name": "山金国际",
-          "reason": "黄金+半年报预增+山东国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:03",
-          "last_limit_up_time": "14:16:18",
-          "turnover_rate": 3.68,
-          "amount": 2058802603.16
+          "code": "000426",
+          "name": "兴业银锡",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:39:18",
+          "last_limit_up_time": "14:03:54",
+          "turnover_rate": 6.34,
+          "amount": 3619171209.3
+        },
+        {
+          "code": "600988",
+          "name": "赤峰黄金",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:41:52",
+          "last_limit_up_time": "14:23:16",
+          "turnover_rate": 6.52,
+          "amount": 4159975786.18
         }
       ]
     },
@@ -53,13 +63,13 @@
       "name": "金属锌",
       "concept_code": "301582",
       "plate_code": "885970",
-      "heat_score": 89.3,
-      "change_pct": 2.41,
-      "net_inflow_yi": 25.37,
+      "heat_score": 88.64,
+      "change_pct": 2.43,
+      "net_inflow_yi": 25.46,
       "change_rank": 2,
       "flow_rank": 9,
-      "change_score": 98.11,
-      "flow_score": 78.53,
+      "change_score": 98.13,
+      "flow_score": 77.05,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -69,18 +79,18 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:50:51",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.2,
-          "amount": 909521909.14
+          "turnover_rate": 6.28,
+          "amount": 920227108.41
         },
         {
-          "code": "000975",
-          "name": "山金国际",
-          "reason": "黄金+半年报预增+山东国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:03",
-          "last_limit_up_time": "14:16:18",
-          "turnover_rate": 3.68,
-          "amount": 2058802603.16
+          "code": "000426",
+          "name": "兴业银锡",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:39:18",
+          "last_limit_up_time": "14:03:54",
+          "turnover_rate": 6.34,
+          "amount": 3619171209.3
         }
       ]
     },
@@ -89,14 +99,14 @@
       "name": "黄金概念",
       "concept_code": "300248",
       "plate_code": "885530",
-      "heat_score": 87.84,
-      "change_pct": 1.84,
-      "net_inflow_yi": 52.17,
+      "heat_score": 87.67,
+      "change_pct": 1.86,
+      "net_inflow_yi": 51.85,
       "change_rank": 3,
       "flow_rank": 3,
-      "change_score": 87.33,
-      "flow_score": 88.47,
-      "limit_up_count": 4,
+      "change_score": 88.46,
+      "flow_score": 86.71,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
           "code": "000603",
@@ -105,53 +115,58 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:50:51",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.2,
-          "amount": 909521909.14
+          "turnover_rate": 6.28,
+          "amount": 920227108.41
         },
         {
-          "code": "000975",
-          "name": "山金国际",
-          "reason": "黄金+半年报预增+山东国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:03",
-          "last_limit_up_time": "14:16:18",
-          "turnover_rate": 3.68,
-          "amount": 2058802603.16
-        },
-        {
-          "code": "000506",
-          "name": "招金黄金",
-          "reason": "黄金+半年报预增+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:57",
-          "last_limit_up_time": "11:22:57",
-          "turnover_rate": 9.1,
-          "amount": 1067450519.69
-        },
-        {
-          "code": "603979",
-          "name": "金诚信",
-          "reason": "铜+矿山服务+业绩增长",
+          "code": "000426",
+          "name": "兴业银锡",
+          "reason": "其他",
           "consecutive_boards": 0,
-          "first_limit_up_time": "11:21:48",
-          "last_limit_up_time": "14:46:06",
-          "turnover_rate": 2.83,
-          "amount": 1267840748.96
+          "first_limit_up_time": "09:39:18",
+          "last_limit_up_time": "14:03:54",
+          "turnover_rate": 6.34,
+          "amount": 3619171209.3
+        },
+        {
+          "code": "600988",
+          "name": "赤峰黄金",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:41:52",
+          "last_limit_up_time": "14:23:16",
+          "turnover_rate": 6.52,
+          "amount": 4159975786.18
         }
       ]
     },
     {
       "rank": 4,
+      "name": "同花顺中特估100",
+      "concept_code": "309062",
+      "plate_code": "886045",
+      "heat_score": 82.71,
+      "change_pct": 0.77,
+      "net_inflow_yi": 83.54,
+      "change_rank": 10,
+      "flow_rank": 2,
+      "change_score": 69.95,
+      "flow_score": 98.31,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 5,
       "name": "金属铜",
       "concept_code": "301577",
       "plate_code": "885973",
-      "heat_score": 81.73,
-      "change_pct": 1.33,
-      "net_inflow_yi": 47.33,
+      "heat_score": 82.05,
+      "change_pct": 1.34,
+      "net_inflow_yi": 47.24,
       "change_rank": 5,
       "flow_rank": 4,
-      "change_score": 77.69,
-      "flow_score": 86.67,
+      "change_score": 79.63,
+      "flow_score": 85.02,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -161,103 +176,42 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:50:51",
           "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.2,
-          "amount": 909521909.14
+          "turnover_rate": 6.28,
+          "amount": 920227108.41
         },
         {
-          "code": "000506",
-          "name": "招金黄金",
-          "reason": "黄金+半年报预增+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:57",
-          "last_limit_up_time": "11:22:57",
-          "turnover_rate": 9.1,
-          "amount": 1067450519.69
-        },
-        {
-          "code": "603979",
-          "name": "金诚信",
-          "reason": "铜+矿山服务+业绩增长",
+          "code": "000426",
+          "name": "兴业银锡",
+          "reason": "其他",
           "consecutive_boards": 0,
-          "first_limit_up_time": "11:21:48",
-          "last_limit_up_time": "14:46:06",
-          "turnover_rate": 2.83,
-          "amount": 1267840748.96
+          "first_limit_up_time": "09:39:18",
+          "last_limit_up_time": "14:03:54",
+          "turnover_rate": 6.34,
+          "amount": 3619171209.3
+        },
+        {
+          "code": "600988",
+          "name": "赤峰黄金",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "10:41:52",
+          "last_limit_up_time": "14:23:16",
+          "turnover_rate": 6.52,
+          "amount": 4159975786.18
         }
       ]
-    },
-    {
-      "rank": 5,
-      "name": "同花顺中特估100",
-      "concept_code": "309062",
-      "plate_code": "886045",
-      "heat_score": 78.53,
-      "change_pct": 0.58,
-      "net_inflow_yi": 74.87,
-      "change_rank": 13,
-      "flow_rank": 2,
-      "change_score": 63.52,
-      "flow_score": 96.88,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
     },
     {
       "rank": 6,
-      "name": "煤炭概念",
-      "concept_code": "308716",
-      "plate_code": "885914",
-      "heat_score": 77.29,
-      "change_pct": 1.34,
-      "net_inflow_yi": 20.06,
-      "change_rank": 4,
-      "flow_rank": 10,
-      "change_score": 77.88,
-      "flow_score": 76.56,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "600744",
-          "name": "华银电力",
-          "reason": "其他",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "14:41:00",
-          "last_limit_up_time": "14:43:36",
-          "turnover_rate": 18.74,
-          "amount": 2863733908.73
-        },
-        {
-          "code": "600403",
-          "name": "大有能源",
-          "reason": "其他",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:43:37",
-          "last_limit_up_time": "14:35:25",
-          "turnover_rate": 6.18,
-          "amount": 809976757.35
-        },
-        {
-          "code": "600726",
-          "name": "华电能源",
-          "reason": "其他",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:28",
-          "last_limit_up_time": "14:36:28",
-          "turnover_rate": 5.11,
-          "amount": 2405953429.0
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "name": "证金持股",
       "concept_code": "301715",
       "plate_code": "885663",
-      "heat_score": 76.81,
-      "change_pct": 0.28,
-      "net_inflow_yi": 83.29,
-      "change_rank": 21,
+      "heat_score": 79.74,
+      "change_pct": 0.37,
+      "net_inflow_yi": 88.17,
+      "change_rank": 22,
       "flow_rank": 1,
-      "change_score": 57.84,
+      "change_score": 63.16,
       "flow_score": 100.0,
       "limit_up_count": 1,
       "limit_up_stocks": [
@@ -265,11 +219,37 @@
           "code": "002396",
           "name": "星网锐捷",
           "reason": "其他",
-          "consecutive_boards": 2,
+          "consecutive_boards": 0,
           "first_limit_up_time": "10:08:30",
-          "last_limit_up_time": "14:46:36",
-          "turnover_rate": 28.29,
-          "amount": 7187517783.92
+          "last_limit_up_time": "14:55:21",
+          "turnover_rate": 28.9,
+          "amount": 7349901454.42
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "煤炭概念",
+      "concept_code": "308716",
+      "plate_code": "885914",
+      "heat_score": 79.59,
+      "change_pct": 1.52,
+      "net_inflow_yi": 22.06,
+      "change_rank": 4,
+      "flow_rank": 10,
+      "change_score": 82.68,
+      "flow_score": 75.8,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600744",
+          "name": "华银电力",
+          "reason": "火电+新能源+定增获批+央企",
+          "consecutive_boards": 4,
+          "first_limit_up_time": "14:41:00",
+          "last_limit_up_time": "14:43:36",
+          "turnover_rate": 18.97,
+          "amount": 2900445364.19
         }
       ]
     },
@@ -278,13 +258,13 @@
       "name": "同花顺漂亮100",
       "concept_code": "308718",
       "plate_code": "885916",
-      "heat_score": 72.69,
-      "change_pct": 0.56,
-      "net_inflow_yi": 41.11,
+      "heat_score": 75.09,
+      "change_pct": 0.64,
+      "net_inflow_yi": 44.66,
       "change_rank": 14,
       "flow_rank": 5,
-      "change_score": 63.14,
-      "flow_score": 84.37,
+      "change_score": 67.74,
+      "flow_score": 84.08,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
@@ -293,81 +273,30 @@
       "name": "可燃冰",
       "concept_code": "300277",
       "plate_code": "885748",
-      "heat_score": 72.37,
-      "change_pct": 1.15,
-      "net_inflow_yi": 2.38,
-      "change_rank": 7,
-      "flow_rank": 29,
-      "change_score": 74.29,
-      "flow_score": 70.01,
+      "heat_score": 74.48,
+      "change_pct": 1.31,
+      "net_inflow_yi": 2.98,
+      "change_rank": 6,
+      "flow_rank": 28,
+      "change_score": 79.12,
+      "flow_score": 68.82,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
       "rank": 10,
-      "name": "小金属概念",
-      "concept_code": "300809",
-      "plate_code": "885552",
-      "heat_score": 69.9,
-      "change_pct": 0.63,
-      "net_inflow_yi": 20.01,
-      "change_rank": 11,
-      "flow_rank": 11,
-      "change_score": 64.46,
-      "flow_score": 76.55,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "603407",
-          "name": "长裕集团",
-          "reason": "氧化锆涨价+存储芯片材料+特种尼龙",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:02",
-          "last_limit_up_time": "09:25:02",
-          "turnover_rate": 5.2,
-          "amount": 120129535.7
-        },
-        {
-          "code": "002213",
-          "name": "大为股份",
-          "reason": "半导体存储+定增获批+锂矿审批推进+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:33:30",
-          "last_limit_up_time": "09:33:30",
-          "turnover_rate": 4.21,
-          "amount": 235545038.59
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银+铅锌+黄金概念+中报预增",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:50:51",
-          "last_limit_up_time": "09:52:27",
-          "turnover_rate": 6.2,
-          "amount": 909521909.14
-        },
-        {
-          "code": "000975",
-          "name": "山金国际",
-          "reason": "黄金+半年报预增+山东国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:55:03",
-          "last_limit_up_time": "14:16:18",
-          "turnover_rate": 3.68,
-          "amount": 2058802603.16
-        },
-        {
-          "code": "000506",
-          "name": "招金黄金",
-          "reason": "黄金+半年报预增+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:57",
-          "last_limit_up_time": "11:22:57",
-          "turnover_rate": 9.1,
-          "amount": 1067450519.69
-        }
-      ]
+      "name": "赛马概念",
+      "concept_code": "301602",
+      "plate_code": "885792",
+      "heat_score": 71.85,
+      "change_pct": 1.08,
+      "net_inflow_yi": 0.02,
+      "change_rank": 7,
+      "flow_rank": 42,
+      "change_score": 75.21,
+      "flow_score": 67.74,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
   "all_count": 293
