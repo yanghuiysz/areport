@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21 12:14:11",
-  "latest_trade_date": "2026-07-21",
+  "generated_at": "2026-07-22 04:55:23",
+  "latest_trade_date": "2026-07-17",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -14,1563 +14,164 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "先进封装",
-      "concept_code": "309004",
-      "plate_code": "886009",
-      "heat_score": 90.14,
-      "change_pct": 8.44,
-      "net_inflow_yi": 223.67,
-      "change_rank": 4,
+      "name": "金属铅",
+      "concept_code": "308864",
+      "plate_code": "885971",
+      "heat_score": 90.36,
+      "change_pct": 3.98,
+      "net_inflow_yi": 37.63,
+      "change_rank": 1,
+      "flow_rank": 7,
+      "change_score": 100.0,
+      "flow_score": 78.57,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 2,
+      "name": "黄金概念",
+      "concept_code": "300248",
+      "plate_code": "885530",
+      "heat_score": 89.02,
+      "change_pct": 2.88,
+      "net_inflow_yi": 69.08,
+      "change_rank": 6,
       "flow_rank": 1,
-      "change_score": 82.07,
+      "change_score": 80.04,
       "flow_score": 100.0,
-      "limit_up_count": 29,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 3,
+      "name": "金属锌",
+      "concept_code": "301582",
+      "plate_code": "885970",
+      "heat_score": 87.73,
+      "change_pct": 3.76,
+      "net_inflow_yi": 36.23,
+      "change_rank": 2,
+      "flow_rank": 8,
+      "change_score": 96.01,
+      "flow_score": 77.62,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 4,
+      "name": "金属铜",
+      "concept_code": "301577",
+      "plate_code": "885973",
+      "heat_score": 84.8,
+      "change_pct": 2.59,
+      "net_inflow_yi": 64.76,
+      "change_rank": 7,
+      "flow_rank": 2,
+      "change_score": 74.77,
+      "flow_score": 97.06,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 5,
+      "name": "小金属概念",
+      "concept_code": "300809",
+      "plate_code": "885552",
+      "heat_score": 72.5,
+      "change_pct": 1.75,
+      "net_inflow_yi": 51.99,
+      "change_rank": 15,
+      "flow_rank": 5,
+      "change_score": 59.53,
+      "flow_score": 88.36,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 6,
+      "name": "WiFi 6",
+      "concept_code": "308791",
+      "plate_code": "885940",
+      "heat_score": 68.67,
+      "change_pct": 3.42,
+      "net_inflow_yi": -14.88,
+      "change_rank": 3,
+      "flow_rank": 213,
+      "change_score": 89.84,
+      "flow_score": 42.79,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 7,
+      "name": "金属镍",
+      "concept_code": "301511",
+      "plate_code": "885969",
+      "heat_score": 66.51,
+      "change_pct": 2.16,
+      "net_inflow_yi": 19.09,
+      "change_rank": 10,
+      "flow_rank": 13,
+      "change_score": 66.97,
+      "flow_score": 65.94,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 8,
+      "name": "汽车芯片",
+      "concept_code": "308725",
+      "plate_code": "885945",
+      "heat_score": 63.86,
+      "change_pct": 2.42,
+      "net_inflow_yi": 1.98,
+      "change_rank": 8,
+      "flow_rank": 35,
+      "change_score": 71.69,
+      "flow_score": 54.28,
+      "limit_up_count": 1,
       "limit_up_stocks": [
         {
           "code": "603118",
           "name": "共进股份",
-          "reason": "数据中心交换机+机器人+国企改革+回购",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:25:24",
-          "last_limit_up_time": "10:25:24",
-          "turnover_rate": 16.93,
-          "amount": 1852146213.44
-        },
-        {
-          "code": "002371",
-          "name": "北方华创",
-          "reason": "半导体设备+平台型龙头+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:39",
-          "last_limit_up_time": "10:46:57",
-          "turnover_rate": 2.05,
-          "amount": 10585799783.52
-        },
-        {
-          "code": "301583",
-          "name": "托伦斯",
-          "reason": "半导体设备+精密零部件+次新股",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:38:30",
-          "last_limit_up_time": "10:38:30",
-          "turnover_rate": 39.64,
-          "amount": 1415628829.42
-        },
-        {
-          "code": "688797",
-          "name": "臻宝科技",
-          "reason": "存储芯片+半导体零部件+中报预增+次新股",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:56:07",
-          "last_limit_up_time": "10:56:07",
-          "turnover_rate": 18.49,
-          "amount": 1718152631.13
-        },
-        {
-          "code": "605111",
-          "name": "新洁能",
-          "reason": "功率半导体+超跌反弹+封测",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:59:13",
-          "last_limit_up_time": "10:59:13",
-          "turnover_rate": 6.26,
-          "amount": 1287225136.79
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "600552",
-          "name": "凯盛科技",
-          "reason": "氧化锆涨价+锆系列产品+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:03",
-          "last_limit_up_time": "11:27:03",
-          "turnover_rate": 9.32,
-          "amount": 1316311258.28
-        },
-        {
-          "code": "000021",
-          "name": "深科技",
-          "reason": "高端存储封测+扩产+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:36",
-          "last_limit_up_time": "13:19:15",
-          "turnover_rate": 11.76,
-          "amount": 6584954735.27
-        },
-        {
-          "code": "603005",
-          "name": "晶方科技",
-          "reason": "先进封装+分拆上市+车规CIS",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:38",
-          "last_limit_up_time": "13:28:05",
-          "turnover_rate": 10.46,
-          "amount": 1970211165.11
-        },
-        {
-          "code": "600330",
-          "name": "天通股份",
-          "reason": "光模块上游+铌酸锂+软磁材料+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:53",
-          "last_limit_up_time": "13:05:29",
-          "turnover_rate": 8.15,
-          "amount": 1757421597.5
-        },
-        {
-          "code": "002156",
-          "name": "通富微电",
-          "reason": "先进封装+AMD产业链+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:57",
-          "last_limit_up_time": "13:48:00",
-          "turnover_rate": 13.79,
-          "amount": 13427595558.65
-        },
-        {
-          "code": "688003",
-          "name": "天准科技",
-          "reason": "半导体量检测+CPO检测+具身智能",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:48:59",
-          "last_limit_up_time": "13:48:59",
-          "turnover_rate": 4.92,
-          "amount": 681116727.76
-        },
-        {
-          "code": "002409",
-          "name": "雅克科技",
-          "reason": "半导体前驱体+存储芯片+HBM+客户长鑫",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:49:00",
-          "last_limit_up_time": "13:49:00",
-          "turnover_rate": 14.35,
-          "amount": 5945087622.53
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "688361",
-          "name": "中科飞测",
-          "reason": "半导体量检测+HBM+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:06:48",
-          "last_limit_up_time": "14:06:48",
-          "turnover_rate": 4.72,
-          "amount": 5569561888.73
-        },
-        {
-          "code": "300814",
-          "name": "中富电路",
-          "reason": "AI电源PCB+定增扩产",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:24",
-          "last_limit_up_time": "14:07:24",
-          "turnover_rate": 6.02,
-          "amount": 1399440149.85
-        },
-        {
-          "code": "688328",
-          "name": "深科达",
-          "reason": "半导体设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:32",
-          "last_limit_up_time": "15:07:09",
-          "turnover_rate": 12.99,
-          "amount": 843611880.58
-        },
-        {
-          "code": "002669",
-          "name": "康达新材",
-          "reason": "PCB概念+电子级环氧树脂+风电胶粘剂龙头+唐山国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:20:21",
-          "last_limit_up_time": "14:28:00",
-          "turnover_rate": 7.61,
-          "amount": 247004057.66
-        },
-        {
-          "code": "600183",
-          "name": "生益科技",
-          "reason": "覆铜板+存储芯片+产能扩张+半年报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:32:28",
-          "last_limit_up_time": "14:32:28",
-          "turnover_rate": 3.75,
-          "amount": 11505130560.92
-        },
-        {
-          "code": "600667",
-          "name": "太极实业",
-          "reason": "存储芯片+先进封装+无锡国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:34:40",
-          "last_limit_up_time": "14:41:04",
-          "turnover_rate": 17.62,
-          "amount": 5580862848.79
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半导体靶材+存储芯片+客户长鑫+终止定增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:47",
-          "last_limit_up_time": "14:50:14",
-          "turnover_rate": 13.96,
-          "amount": 4278407487.94
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+PET铜箔",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:06",
-          "turnover_rate": 11.63,
-          "amount": 2013768881.23
-        },
-        {
-          "code": "688072",
-          "name": "拓荆科技",
-          "reason": "半导体设备+薄膜沉积设备+PVD设备+资产收购",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:37:25",
-          "last_limit_up_time": "14:37:25",
-          "turnover_rate": 4.15,
-          "amount": 8077980589.41
-        },
-        {
-          "code": "688037",
-          "name": "芯源微",
-          "reason": "涂胶显影龙头+先进封装+券商看好+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:52:19",
-          "last_limit_up_time": "14:52:19",
-          "turnover_rate": 4.98,
-          "amount": 3252884526.01
-        },
-        {
-          "code": "688120",
-          "name": "华海清科",
-          "reason": "半导体设备+存储芯片+先进封装+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:53:53",
-          "last_limit_up_time": "14:53:53",
-          "turnover_rate": 4.52,
-          "amount": 5423931400.92
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "PCB+光模块+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:21",
-          "turnover_rate": 11.76,
-          "amount": 936911576.0
-        },
-        {
-          "code": "688147",
-          "name": "微导纳米",
-          "reason": "半导体ALD设备+存储芯片+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:02",
-          "last_limit_up_time": "15:10:51",
-          "turnover_rate": 2.44,
-          "amount": 1284028781.14
-        },
-        {
-          "code": "688001",
-          "name": "华兴源创",
-          "reason": "半导体检测+人形机器人+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:44",
-          "last_limit_up_time": "14:56:44",
-          "turnover_rate": 4.05,
-          "amount": 982788644.3
-        }
-      ]
-    },
-    {
-      "rank": 2,
-      "name": "国家大基金持股",
-      "concept_code": "307816",
-      "plate_code": "885893",
-      "heat_score": 78.65,
-      "change_pct": 10.78,
-      "net_inflow_yi": 107.17,
-      "change_rank": 1,
-      "flow_rank": 14,
-      "change_score": 100.0,
-      "flow_score": 52.57,
-      "limit_up_count": 12,
-      "limit_up_stocks": [
-        {
-          "code": "002371",
-          "name": "北方华创",
-          "reason": "半导体设备+平台型龙头+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:39",
-          "last_limit_up_time": "10:46:57",
-          "turnover_rate": 2.05,
-          "amount": 10585799783.52
-        },
-        {
-          "code": "688797",
-          "name": "臻宝科技",
-          "reason": "存储芯片+半导体零部件+中报预增+次新股",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:56:07",
-          "last_limit_up_time": "10:56:07",
-          "turnover_rate": 18.49,
-          "amount": 1718152631.13
-        },
-        {
-          "code": "688728",
-          "name": "格科微",
-          "reason": "CMOS图像传感器+12英寸产线",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:16:43",
-          "last_limit_up_time": "11:16:43",
-          "turnover_rate": 3.05,
-          "amount": 1164043119.03
-        },
-        {
-          "code": "002156",
-          "name": "通富微电",
-          "reason": "先进封装+AMD产业链+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:57",
-          "last_limit_up_time": "13:48:00",
-          "turnover_rate": 13.79,
-          "amount": 13427595558.65
-        },
-        {
-          "code": "002409",
-          "name": "雅克科技",
-          "reason": "半导体前驱体+存储芯片+HBM+客户长鑫",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:49:00",
-          "last_limit_up_time": "13:49:00",
-          "turnover_rate": 14.35,
-          "amount": 5945087622.53
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "688361",
-          "name": "中科飞测",
-          "reason": "半导体量检测+HBM+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:06:48",
-          "last_limit_up_time": "14:06:48",
-          "turnover_rate": 4.72,
-          "amount": 5569561888.73
-        },
-        {
-          "code": "300604",
-          "name": "长川科技",
-          "reason": "半导体测试设备+定增落地+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:45",
-          "last_limit_up_time": "14:41:30",
-          "turnover_rate": 8.47,
-          "amount": 12047998280.93
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半导体靶材+存储芯片+客户长鑫+终止定增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:47",
-          "last_limit_up_time": "14:50:14",
-          "turnover_rate": 13.96,
-          "amount": 4278407487.94
-        },
-        {
-          "code": "688347",
-          "name": "华虹宏力",
-          "reason": "晶圆代工+存储芯片+并购重组获批+上海国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:07",
-          "last_limit_up_time": "14:36:07",
-          "turnover_rate": 8.68,
-          "amount": 12877385753.14
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "688072",
-          "name": "拓荆科技",
-          "reason": "半导体设备+薄膜沉积设备+PVD设备+资产收购",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:37:25",
-          "last_limit_up_time": "14:37:25",
-          "turnover_rate": 4.15,
-          "amount": 8077980589.41
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "中芯国际概念",
-      "concept_code": "308690",
-      "plate_code": "885897",
-      "heat_score": 74.88,
-      "change_pct": 9.4,
-      "net_inflow_yi": 118.3,
-      "change_rank": 2,
-      "flow_rank": 9,
-      "change_score": 89.43,
-      "flow_score": 57.1,
-      "limit_up_count": 12,
-      "limit_up_stocks": [
-        {
-          "code": "002371",
-          "name": "北方华创",
-          "reason": "半导体设备+平台型龙头+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:39",
-          "last_limit_up_time": "10:46:57",
-          "turnover_rate": 2.05,
-          "amount": 10585799783.52
-        },
-        {
-          "code": "688596",
-          "name": "正帆科技",
-          "reason": "特种气体+碳化硅陶瓷+订单增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:15",
-          "last_limit_up_time": "13:55:36",
-          "turnover_rate": 15.11,
-          "amount": 2000692659.46
-        },
-        {
-          "code": "688729",
-          "name": "屹唐股份",
-          "reason": "半导体设备+干法去胶+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:48",
-          "last_limit_up_time": "13:18:12",
-          "turnover_rate": 4.54,
-          "amount": 2151463666.64
-        },
-        {
-          "code": "603929",
-          "name": "亚翔集成",
-          "reason": "半导体洁净室+中报预增+新加坡项目",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:04:54",
-          "last_limit_up_time": "13:04:54",
-          "turnover_rate": 4.05,
-          "amount": 1378952908.37
-        },
-        {
-          "code": "002409",
-          "name": "雅克科技",
-          "reason": "半导体前驱体+存储芯片+HBM+客户长鑫",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:49:00",
-          "last_limit_up_time": "13:49:00",
-          "turnover_rate": 14.35,
-          "amount": 5945087622.53
-        },
-        {
-          "code": "688361",
-          "name": "中科飞测",
-          "reason": "半导体量检测+HBM+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:06:48",
-          "last_limit_up_time": "14:06:48",
-          "turnover_rate": 4.72,
-          "amount": 5569561888.73
-        },
-        {
-          "code": "301369",
-          "name": "联动科技",
-          "reason": "半导体测试设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:12:06",
-          "last_limit_up_time": "14:44:15",
-          "turnover_rate": 9.32,
-          "amount": 715201442.14
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半导体靶材+存储芯片+客户长鑫+终止定增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:47",
-          "last_limit_up_time": "14:50:14",
-          "turnover_rate": 13.96,
-          "amount": 4278407487.94
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "688037",
-          "name": "芯源微",
-          "reason": "涂胶显影龙头+先进封装+券商看好+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:52:19",
-          "last_limit_up_time": "14:52:19",
-          "turnover_rate": 4.98,
-          "amount": 3252884526.01
-        },
-        {
-          "code": "688120",
-          "name": "华海清科",
-          "reason": "半导体设备+存储芯片+先进封装+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:53:53",
-          "last_limit_up_time": "14:53:53",
-          "turnover_rate": 4.52,
-          "amount": 5423931400.92
-        },
-        {
-          "code": "688147",
-          "name": "微导纳米",
-          "reason": "半导体ALD设备+存储芯片+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:02",
-          "last_limit_up_time": "15:10:51",
-          "turnover_rate": 2.44,
-          "amount": 1284028781.14
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "玻璃基板",
-      "concept_code": "309268",
-      "plate_code": "886111",
-      "heat_score": 68.28,
-      "change_pct": 8.63,
-      "net_inflow_yi": 100.0,
-      "change_rank": 3,
-      "flow_rank": 20,
-      "change_score": 83.52,
-      "flow_score": 49.65,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "reason": "AI光学+CPO+苹果产业链",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:58:30",
-          "last_limit_up_time": "14:23:24",
-          "turnover_rate": 6.27,
-          "amount": 2252851592.35
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "600552",
-          "name": "凯盛科技",
-          "reason": "氧化锆涨价+锆系列产品+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:03",
-          "last_limit_up_time": "11:27:03",
-          "turnover_rate": 9.32,
-          "amount": 1316311258.28
-        },
-        {
-          "code": "603005",
-          "name": "晶方科技",
-          "reason": "先进封装+分拆上市+车规CIS",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:38",
-          "last_limit_up_time": "13:28:05",
-          "turnover_rate": 10.46,
-          "amount": 1970211165.11
-        },
-        {
-          "code": "002156",
-          "name": "通富微电",
-          "reason": "先进封装+AMD产业链+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:57",
-          "last_limit_up_time": "13:48:00",
-          "turnover_rate": 13.79,
-          "amount": 13427595558.65
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+PET铜箔",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:06",
-          "turnover_rate": 11.63,
-          "amount": 2013768881.23
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "OLED",
-      "concept_code": "301154",
-      "plate_code": "885738",
-      "heat_score": 66.37,
-      "change_pct": 7.06,
-      "net_inflow_yi": 125.67,
-      "change_rank": 8,
-      "flow_rank": 7,
-      "change_score": 71.49,
-      "flow_score": 60.1,
-      "limit_up_count": 21,
-      "limit_up_stocks": [
-        {
-          "code": "002036",
-          "name": "联创电子",
-          "reason": "CPO光学器件+车载光学+机器视觉+江西国资拟入主",
+          "reason": "数据中心交换机+CPO+机器人+唐山国资",
           "consecutive_boards": 2,
-          "first_limit_up_time": "09:36:33",
-          "last_limit_up_time": "09:36:33",
-          "turnover_rate": 4.12,
-          "amount": 303292434.4
-        },
-        {
-          "code": "002371",
-          "name": "北方华创",
-          "reason": "半导体设备+平台型龙头+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:39",
-          "last_limit_up_time": "10:46:57",
-          "turnover_rate": 2.05,
-          "amount": 10585799783.52
-        },
-        {
-          "code": "688797",
-          "name": "臻宝科技",
-          "reason": "存储芯片+半导体零部件+中报预增+次新股",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:56:07",
-          "last_limit_up_time": "10:56:07",
-          "turnover_rate": 18.49,
-          "amount": 1718152631.13
-        },
-        {
-          "code": "603629",
-          "name": "利通电子",
-          "reason": "算力租赁+英伟达合作+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:59:08",
-          "last_limit_up_time": "10:59:08",
-          "turnover_rate": 10.24,
-          "amount": 3824670429.18
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "688728",
-          "name": "格科微",
-          "reason": "CMOS图像传感器+12英寸产线",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:16:43",
-          "last_limit_up_time": "11:16:43",
-          "turnover_rate": 3.05,
-          "amount": 1164043119.03
-        },
-        {
-          "code": "600884",
-          "name": "杉杉股份",
-          "reason": "安徽国资入主+负极材料+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:21:36",
-          "last_limit_up_time": "11:21:36",
-          "turnover_rate": 5.34,
-          "amount": 1187212773.24
-        },
-        {
-          "code": "600552",
-          "name": "凯盛科技",
-          "reason": "氧化锆涨价+锆系列产品+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:03",
-          "last_limit_up_time": "11:27:03",
-          "turnover_rate": 9.32,
-          "amount": 1316311258.28
-        },
-        {
-          "code": "600330",
-          "name": "天通股份",
-          "reason": "光模块上游+铌酸锂+软磁材料+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:53",
-          "last_limit_up_time": "13:05:29",
-          "turnover_rate": 8.15,
-          "amount": 1757421597.5
-        },
-        {
-          "code": "603929",
-          "name": "亚翔集成",
-          "reason": "半导体洁净室+中报预增+新加坡项目",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:04:54",
-          "last_limit_up_time": "13:04:54",
-          "turnover_rate": 4.05,
-          "amount": 1378952908.37
-        },
-        {
-          "code": "002409",
-          "name": "雅克科技",
-          "reason": "半导体前驱体+存储芯片+HBM+客户长鑫",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:49:00",
-          "last_limit_up_time": "13:49:00",
-          "turnover_rate": 14.35,
-          "amount": 5945087622.53
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "688328",
-          "name": "深科达",
-          "reason": "半导体设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:32",
-          "last_limit_up_time": "15:07:09",
-          "turnover_rate": 12.99,
-          "amount": 843611880.58
-        },
-        {
-          "code": "688627",
-          "name": "精智达",
-          "reason": "存储芯片+HBM测试",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:08:34",
-          "last_limit_up_time": "14:29:43",
-          "turnover_rate": 8.45,
-          "amount": 3901294717.57
-        },
-        {
-          "code": "001399",
-          "name": "惠科股份",
-          "reason": "先进封装+半导体显示面板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:16:03",
-          "last_limit_up_time": "14:42:39",
-          "turnover_rate": 27.9,
-          "amount": 3018119710.09
-        },
-        {
-          "code": "600641",
-          "name": "先导基电",
-          "reason": "拟收购先导微电子+半导体设备+铋材料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:21:20",
-          "last_limit_up_time": "14:41:11",
-          "turnover_rate": 13.11,
-          "amount": 3494916437.03
-        },
-        {
-          "code": "600667",
-          "name": "太极实业",
-          "reason": "存储芯片+先进封装+无锡国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:34:40",
-          "last_limit_up_time": "14:41:04",
-          "turnover_rate": 17.62,
-          "amount": 5580862848.79
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半导体靶材+存储芯片+客户长鑫+终止定增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:47",
-          "last_limit_up_time": "14:50:14",
-          "turnover_rate": 13.96,
-          "amount": 4278407487.94
-        },
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+PET铜箔",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:06",
-          "turnover_rate": 11.63,
-          "amount": 2013768881.23
-        },
-        {
-          "code": "688147",
-          "name": "微导纳米",
-          "reason": "半导体ALD设备+存储芯片+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:02",
-          "last_limit_up_time": "15:10:51",
-          "turnover_rate": 2.44,
-          "amount": 1284028781.14
-        },
-        {
-          "code": "688001",
-          "name": "华兴源创",
-          "reason": "半导体检测+人形机器人+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:44",
-          "last_limit_up_time": "14:56:44",
-          "turnover_rate": 4.05,
-          "amount": 982788644.3
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "苹果概念",
-      "concept_code": "300309",
-      "plate_code": "885376",
-      "heat_score": 66.01,
-      "change_pct": 5.86,
-      "net_inflow_yi": 151.33,
-      "change_rank": 19,
-      "flow_rank": 2,
-      "change_score": 62.3,
-      "flow_score": 70.55,
-      "limit_up_count": 9,
-      "limit_up_stocks": [
-        {
-          "code": "002036",
-          "name": "联创电子",
-          "reason": "CPO光学器件+车载光学+机器视觉+江西国资拟入主",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:36:33",
-          "last_limit_up_time": "09:36:33",
-          "turnover_rate": 4.12,
-          "amount": 303292434.4
-        },
-        {
-          "code": "002273",
-          "name": "水晶光电",
-          "reason": "AI光学+CPO+苹果产业链",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:58:30",
-          "last_limit_up_time": "14:23:24",
-          "turnover_rate": 6.27,
-          "amount": 2252851592.35
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "600884",
-          "name": "杉杉股份",
-          "reason": "安徽国资入主+负极材料+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:21:36",
-          "last_limit_up_time": "11:21:36",
-          "turnover_rate": 5.34,
-          "amount": 1187212773.24
-        },
-        {
-          "code": "603256",
-          "name": "宏和科技",
-          "reason": "特种电子布+PCB概念+AI算力",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:28:35",
-          "last_limit_up_time": "11:28:35",
-          "turnover_rate": 1.64,
-          "amount": 2144931112.06
-        },
-        {
-          "code": "688003",
-          "name": "天准科技",
-          "reason": "半导体量检测+CPO检测+具身智能",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:48:59",
-          "last_limit_up_time": "13:48:59",
-          "turnover_rate": 4.92,
-          "amount": 681116727.76
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "PCB+光模块+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:21",
-          "turnover_rate": 11.76,
-          "amount": 936911576.0
-        },
-        {
-          "code": "688001",
-          "name": "华兴源创",
-          "reason": "半导体检测+人形机器人+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:44",
-          "last_limit_up_time": "14:56:44",
-          "turnover_rate": 4.05,
-          "amount": 982788644.3
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "光纤概念",
-      "concept_code": "309151",
-      "plate_code": "886084",
-      "heat_score": 65.41,
-      "change_pct": 6.08,
-      "net_inflow_yi": 143.0,
-      "change_rank": 18,
-      "flow_rank": 4,
-      "change_score": 63.98,
-      "flow_score": 67.15,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "688596",
-          "name": "正帆科技",
-          "reason": "特种气体+碳化硅陶瓷+订单增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:15",
-          "last_limit_up_time": "13:55:36",
-          "turnover_rate": 15.11,
-          "amount": 2000692659.46
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半导体靶材+存储芯片+客户长鑫+终止定增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:47",
-          "last_limit_up_time": "14:50:14",
-          "turnover_rate": 13.96,
-          "amount": 4278407487.94
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "MiniLED",
-      "concept_code": "308628",
-      "plate_code": "885875",
-      "heat_score": 63.85,
-      "change_pct": 6.62,
-      "net_inflow_yi": 122.08,
-      "change_rank": 12,
-      "flow_rank": 8,
-      "change_score": 68.12,
-      "flow_score": 58.64,
-      "limit_up_count": 13,
-      "limit_up_stocks": [
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "002745",
-          "name": "木林森",
-          "reason": "LED封装+PCB涨价+实控人增持+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:04:18",
-          "last_limit_up_time": "11:23:12",
-          "turnover_rate": 8.53,
-          "amount": 944682046.61
-        },
-        {
-          "code": "600884",
-          "name": "杉杉股份",
-          "reason": "安徽国资入主+负极材料+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:21:36",
-          "last_limit_up_time": "11:21:36",
-          "turnover_rate": 5.34,
-          "amount": 1187212773.24
-        },
-        {
-          "code": "002245",
-          "name": "蔚蓝锂芯",
-          "reason": "BBU电源+人形机器人+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:25:48",
-          "last_limit_up_time": "11:25:48",
-          "turnover_rate": 6.28,
-          "amount": 1659292207.1
-        },
-        {
-          "code": "600552",
-          "name": "凯盛科技",
-          "reason": "氧化锆涨价+锆系列产品+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:03",
-          "last_limit_up_time": "11:27:03",
-          "turnover_rate": 9.32,
-          "amount": 1316311258.28
-        },
-        {
-          "code": "002913",
-          "name": "奥士康",
-          "reason": "拟回购+PCB+AI服务器+AIPC",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:04:30",
-          "last_limit_up_time": "13:04:30",
-          "turnover_rate": 2.88,
-          "amount": 345654781.45
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "300814",
-          "name": "中富电路",
-          "reason": "AI电源PCB+定增扩产",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:24",
-          "last_limit_up_time": "14:07:24",
-          "turnover_rate": 6.02,
-          "amount": 1399440149.85
-        },
-        {
-          "code": "688328",
-          "name": "深科达",
-          "reason": "半导体设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:32",
-          "last_limit_up_time": "15:07:09",
-          "turnover_rate": 12.99,
-          "amount": 843611880.58
-        },
-        {
-          "code": "001399",
-          "name": "惠科股份",
-          "reason": "先进封装+半导体显示面板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:16:03",
-          "last_limit_up_time": "14:42:39",
-          "turnover_rate": 27.9,
-          "amount": 3018119710.09
-        },
-        {
-          "code": "600183",
-          "name": "生益科技",
-          "reason": "覆铜板+存储芯片+产能扩张+半年报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:32:28",
-          "last_limit_up_time": "14:32:28",
-          "turnover_rate": 3.75,
-          "amount": 11505130560.92
-        },
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+PET铜箔",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:06",
-          "turnover_rate": 11.63,
-          "amount": 2013768881.23
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "PCB+光模块+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:21",
-          "turnover_rate": 11.76,
-          "amount": 936911576.0
+          "first_limit_up_time": "09:31:23",
+          "last_limit_up_time": "09:35:47",
+          "turnover_rate": 10.74,
+          "amount": 1377810132.11
         }
       ]
     },
     {
       "rank": 9,
-      "name": "汽车芯片",
-      "concept_code": "308725",
-      "plate_code": "885945",
-      "heat_score": 63.56,
-      "change_pct": 6.79,
-      "net_inflow_yi": 116.58,
-      "change_rank": 10,
-      "flow_rank": 10,
-      "change_score": 69.43,
-      "flow_score": 56.4,
-      "limit_up_count": 13,
-      "limit_up_stocks": [
-        {
-          "code": "603123",
-          "name": "翠微股份",
-          "reason": "跨境支付+数字人民币+半年报减亏+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:31",
-          "last_limit_up_time": "10:06:52",
-          "turnover_rate": 6.97,
-          "amount": 386701913.83
-        },
-        {
-          "code": "603118",
-          "name": "共进股份",
-          "reason": "数据中心交换机+机器人+国企改革+回购",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:25:24",
-          "last_limit_up_time": "10:25:24",
-          "turnover_rate": 16.93,
-          "amount": 1852146213.44
-        },
-        {
-          "code": "605111",
-          "name": "新洁能",
-          "reason": "功率半导体+超跌反弹+封测",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:59:13",
-          "last_limit_up_time": "10:59:13",
-          "turnover_rate": 6.26,
-          "amount": 1287225136.79
-        },
-        {
-          "code": "002213",
-          "name": "大为股份",
-          "reason": "半导体存储+定增获批+锂矿审批推进",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:07:09",
-          "last_limit_up_time": "11:07:09",
-          "turnover_rate": 8.11,
-          "amount": 385448056.44
-        },
-        {
-          "code": "688141",
-          "name": "杰华特",
-          "reason": "模拟芯片+AI服务器电源+虚拟IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:08:16",
-          "last_limit_up_time": "13:00:01",
-          "turnover_rate": 4.45,
-          "amount": 2520382174.81
-        },
-        {
-          "code": "688002",
-          "name": "睿创微纳",
-          "reason": "中报预增+商业航天+红外芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:17:38",
-          "last_limit_up_time": "13:54:56",
-          "turnover_rate": 6.38,
-          "amount": 4332885409.01
-        },
-        {
-          "code": "603005",
-          "name": "晶方科技",
-          "reason": "先进封装+分拆上市+车规CIS",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:38",
-          "last_limit_up_time": "13:28:05",
-          "turnover_rate": 10.46,
-          "amount": 1970211165.11
-        },
-        {
-          "code": "002156",
-          "name": "通富微电",
-          "reason": "先进封装+AMD产业链+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:57",
-          "last_limit_up_time": "13:48:00",
-          "turnover_rate": 13.79,
-          "amount": 13427595558.65
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "688110",
-          "name": "东芯股份",
-          "reason": "GPU+存储芯片+业绩扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:06:10",
-          "last_limit_up_time": "14:06:40",
-          "turnover_rate": 8.93,
-          "amount": 4389051825.9
-        },
-        {
-          "code": "603986",
-          "name": "兆易创新",
-          "reason": "长鑫+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:08:05",
-          "last_limit_up_time": "14:08:05",
-          "turnover_rate": 11.13,
-          "amount": 33087873790.62
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "688147",
-          "name": "微导纳米",
-          "reason": "半导体ALD设备+存储芯片+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:02",
-          "last_limit_up_time": "15:10:51",
-          "turnover_rate": 2.44,
-          "amount": 1284028781.14
-        }
-      ]
+      "name": "金属钴",
+      "concept_code": "302174",
+      "plate_code": "885865",
+      "heat_score": 63.64,
+      "change_pct": 1.48,
+      "net_inflow_yi": 31.87,
+      "change_rank": 18,
+      "flow_rank": 11,
+      "change_score": 54.63,
+      "flow_score": 74.65,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
-      "name": "第三代半导体",
-      "concept_code": "308700",
-      "plate_code": "885908",
-      "heat_score": 62.94,
-      "change_pct": 7.25,
-      "net_inflow_yi": 102.6,
-      "change_rank": 6,
-      "flow_rank": 17,
-      "change_score": 72.95,
-      "flow_score": 50.7,
-      "limit_up_count": 21,
-      "limit_up_stocks": [
-        {
-          "code": "002371",
-          "name": "北方华创",
-          "reason": "半导体设备+平台型龙头+北京国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:39",
-          "last_limit_up_time": "10:46:57",
-          "turnover_rate": 2.05,
-          "amount": 10585799783.52
-        },
-        {
-          "code": "605111",
-          "name": "新洁能",
-          "reason": "功率半导体+超跌反弹+封测",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:59:13",
-          "last_limit_up_time": "10:59:13",
-          "turnover_rate": 6.26,
-          "amount": 1287225136.79
-        },
-        {
-          "code": "002008",
-          "name": "大族激光",
-          "reason": "中报业绩大增+AI算力PCB+激光设备+消费电子",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:03:15",
-          "last_limit_up_time": "11:04:06",
-          "turnover_rate": 5.53,
-          "amount": 4993789957.45
-        },
-        {
-          "code": "002851",
-          "name": "麦格米特",
-          "reason": "AI电源+英伟达产业链+H股上市",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:08:12",
-          "last_limit_up_time": "11:10:00",
-          "turnover_rate": 7.95,
-          "amount": 4726088235.36
-        },
-        {
-          "code": "688596",
-          "name": "正帆科技",
-          "reason": "特种气体+碳化硅陶瓷+订单增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:27:15",
-          "last_limit_up_time": "13:55:36",
-          "turnover_rate": 15.11,
-          "amount": 2000692659.46
-        },
-        {
-          "code": "000021",
-          "name": "深科技",
-          "reason": "高端存储封测+扩产+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:00:36",
-          "last_limit_up_time": "13:19:15",
-          "turnover_rate": 11.76,
-          "amount": 6584954735.27
-        },
-        {
-          "code": "603005",
-          "name": "晶方科技",
-          "reason": "先进封装+分拆上市+车规CIS",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:38",
-          "last_limit_up_time": "13:28:05",
-          "turnover_rate": 10.46,
-          "amount": 1970211165.11
-        },
-        {
-          "code": "688261",
-          "name": "东微半导",
-          "reason": "功率半导体+算力电源+人形机器人",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:33",
-          "last_limit_up_time": "13:45:36",
-          "turnover_rate": 9.95,
-          "amount": 798975496.76
-        },
-        {
-          "code": "600330",
-          "name": "天通股份",
-          "reason": "光模块上游+铌酸锂+软磁材料+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:53",
-          "last_limit_up_time": "13:05:29",
-          "turnover_rate": 8.15,
-          "amount": 1757421597.5
-        },
-        {
-          "code": "002156",
-          "name": "通富微电",
-          "reason": "先进封装+AMD产业链+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:10:57",
-          "last_limit_up_time": "13:48:00",
-          "turnover_rate": 13.79,
-          "amount": 13427595558.65
-        },
-        {
-          "code": "688003",
-          "name": "天准科技",
-          "reason": "半导体量检测+CPO检测+具身智能",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:48:59",
-          "last_limit_up_time": "13:48:59",
-          "turnover_rate": 4.92,
-          "amount": 681116727.76
-        },
-        {
-          "code": "600460",
-          "name": "士兰微",
-          "reason": "SiC+中报预增+IDM",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:53:31",
-          "last_limit_up_time": "13:53:31",
-          "turnover_rate": 8.09,
-          "amount": 4112902333.18
-        },
-        {
-          "code": "688328",
-          "name": "深科达",
-          "reason": "半导体设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:32",
-          "last_limit_up_time": "15:07:09",
-          "turnover_rate": 12.99,
-          "amount": 843611880.58
-        },
-        {
-          "code": "301369",
-          "name": "联动科技",
-          "reason": "半导体测试设备+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:12:06",
-          "last_limit_up_time": "14:44:15",
-          "turnover_rate": 9.32,
-          "amount": 715201442.14
-        },
-        {
-          "code": "003031",
-          "name": "中瓷电子",
-          "reason": "电子陶瓷+光模块+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:14:42",
-          "last_limit_up_time": "14:14:42",
-          "turnover_rate": 4.36,
-          "amount": 1489147810.19
-        },
-        {
-          "code": "600641",
-          "name": "先导基电",
-          "reason": "拟收购先导微电子+半导体设备+铋材料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:21:20",
-          "last_limit_up_time": "14:41:11",
-          "turnover_rate": 13.11,
-          "amount": 3494916437.03
-        },
-        {
-          "code": "600584",
-          "name": "长电科技",
-          "reason": "先进封装+CPO光引擎+存储芯片+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:36:54",
-          "last_limit_up_time": "14:50:36",
-          "turnover_rate": 15.03,
-          "amount": 20904684924.64
-        },
-        {
-          "code": "603678",
-          "name": "火炬电子",
-          "reason": "MLCC+超级电容+商业航天",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:48:50",
-          "last_limit_up_time": "15:14:44",
-          "turnover_rate": 7.06,
-          "amount": 1434146774.16
-        },
-        {
-          "code": "688120",
-          "name": "华海清科",
-          "reason": "半导体设备+存储芯片+先进封装+定增获批",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:53:53",
-          "last_limit_up_time": "14:53:53",
-          "turnover_rate": 4.52,
-          "amount": 5423931400.92
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "PCB+光模块+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:55:57",
-          "last_limit_up_time": "15:10:21",
-          "turnover_rate": 11.76,
-          "amount": 936911576.0
-        },
-        {
-          "code": "688147",
-          "name": "微导纳米",
-          "reason": "半导体ALD设备+存储芯片+先进封装",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:02",
-          "last_limit_up_time": "15:10:51",
-          "turnover_rate": 2.44,
-          "amount": 1284028781.14
-        }
-      ]
+      "name": "星闪概念",
+      "concept_code": "309086",
+      "plate_code": "886055",
+      "heat_score": 62.63,
+      "change_pct": 1.46,
+      "net_inflow_yi": 29.25,
+      "change_rank": 19,
+      "flow_rank": 12,
+      "change_score": 54.26,
+      "flow_score": 72.86,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
   "all_count": 293
