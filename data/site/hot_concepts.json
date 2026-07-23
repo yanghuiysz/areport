@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23 06:44:41",
+  "generated_at": "2026-07-23 09:37:37",
   "latest_trade_date": "2026-07-23",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,34 +17,34 @@
       "name": "兵装重组概念",
       "concept_code": "309185",
       "plate_code": "886101",
-      "heat_score": 85.81,
-      "change_pct": 6.46,
-      "net_inflow_yi": 2.89,
+      "heat_score": 85.03,
+      "change_pct": 6.39,
+      "net_inflow_yi": 2.85,
       "change_rank": 1,
-      "flow_rank": 117,
+      "flow_rank": 122,
       "change_score": 100.0,
-      "flow_score": 68.47,
+      "flow_score": 66.73,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "601606",
           "name": "长城军工",
           "reason": "军工+弹药装备+兵装重组+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:14:15",
           "last_limit_up_time": "13:14:15",
-          "turnover_rate": 4.13,
-          "amount": 835256158.13
+          "turnover_rate": 4.21,
+          "amount": 850417700.13
         },
         {
           "code": "600698",
           "name": "湖南天雁",
           "reason": "兵装重组+涡轮增压器+电子水泵+国企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:46:02",
           "last_limit_up_time": "13:46:02",
-          "turnover_rate": 4.65,
-          "amount": 232868763.44
+          "turnover_rate": 4.71,
+          "amount": 236128665.44
         }
       ]
     },
@@ -53,114 +53,124 @@
       "name": "柔性直流输电",
       "concept_code": "308810",
       "plate_code": "885948",
-      "heat_score": 82.68,
-      "change_pct": 5.01,
-      "net_inflow_yi": 29.51,
+      "heat_score": 83.99,
+      "change_pct": 5.28,
+      "net_inflow_yi": 32.62,
       "change_rank": 3,
-      "flow_rank": 27,
-      "change_score": 85.22,
-      "flow_score": 79.59,
-      "limit_up_count": 10,
+      "flow_rank": 24,
+      "change_score": 88.62,
+      "flow_score": 78.33,
+      "limit_up_count": 11,
       "limit_up_stocks": [
         {
           "code": "002879",
           "name": "长缆科技",
           "reason": "回购+增持+液冷+电缆附件",
-          "consecutive_boards": null,
+          "consecutive_boards": 3,
           "first_limit_up_time": "09:34:45",
           "last_limit_up_time": "09:45:57",
-          "turnover_rate": 19.11,
-          "amount": 419579978.64
+          "turnover_rate": 19.17,
+          "amount": 420753293.64
         },
         {
           "code": "002498",
           "name": "汉缆股份",
           "reason": "新型电网+海上风电+超高压海缆+一季报增长",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:49:18",
           "last_limit_up_time": "09:51:00",
-          "turnover_rate": 2.29,
-          "amount": 436314433.75
+          "turnover_rate": 2.31,
+          "amount": 439663063.39
         },
         {
           "code": "601179",
           "name": "中国西电",
           "reason": "特高压中标+固态变压器+电网设备+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:07:38",
           "last_limit_up_time": "10:07:38",
-          "turnover_rate": 3.52,
-          "amount": 2378212112.58
+          "turnover_rate": 3.57,
+          "amount": 2411991166.98
         },
         {
           "code": "600550",
           "name": "保变电气",
           "reason": "电网设备+中报预增+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:19:51",
           "last_limit_up_time": "10:19:51",
-          "turnover_rate": 3.38,
-          "amount": 695255788.99
+          "turnover_rate": 3.42,
+          "amount": 703789460.59
         },
         {
           "code": "600468",
           "name": "百利电气",
           "reason": "电网设备+超导+可控核聚变+天津国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:31:03",
           "last_limit_up_time": "10:33:15",
-          "turnover_rate": 3.98,
-          "amount": 231640665.86
+          "turnover_rate": 4.04,
+          "amount": 235584037.86
         },
         {
           "code": "300444",
           "name": "双杰电气",
           "reason": "输变电设备+海外出口",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:03:06",
           "last_limit_up_time": "13:03:06",
-          "turnover_rate": 16.98,
-          "amount": 939329680.88
+          "turnover_rate": 17.06,
+          "amount": 944382064.88
         },
         {
           "code": "002560",
           "name": "通达股份",
           "reason": "电网设备+机器人线束+航空零部件",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:07:21",
           "last_limit_up_time": "13:07:21",
-          "turnover_rate": 8.83,
-          "amount": 322390985.0
+          "turnover_rate": 8.88,
+          "amount": 324349083.4
         },
         {
           "code": "002358",
           "name": "森源电气",
           "reason": "新型电网+数据中心+河南国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:37:36",
           "last_limit_up_time": "13:37:36",
-          "turnover_rate": 5.17,
-          "amount": 253793932.44
+          "turnover_rate": 5.21,
+          "amount": 255931782.44
         },
         {
           "code": "601700",
           "name": "风范股份",
           "reason": "特高压中标+中报预增+国企改革",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:34:54",
           "last_limit_up_time": "14:34:54",
-          "turnover_rate": 4.18,
-          "amount": 225012452.75
+          "turnover_rate": 4.39,
+          "amount": 236918192.75
         },
         {
           "code": "603861",
           "name": "白云电器",
-          "reason": "其他",
-          "consecutive_boards": null,
+          "reason": "AIDC直流配电+变压器出海+电网设备",
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:40:25",
           "last_limit_up_time": "14:40:25",
-          "turnover_rate": 3.81,
-          "amount": 232205888.05
+          "turnover_rate": 3.97,
+          "amount": 242282768.05
+        },
+        {
+          "code": "300510",
+          "name": "金冠股份",
+          "reason": "电网设备+充电桩+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:52:03",
+          "last_limit_up_time": "14:52:03",
+          "turnover_rate": 11.94,
+          "amount": 343554869.83
         }
       ]
     },
@@ -169,80 +179,110 @@
       "name": "钠离子电池",
       "concept_code": "301096",
       "plate_code": "885928",
-      "heat_score": 82.41,
-      "change_pct": 3.64,
-      "net_inflow_yi": 68.92,
+      "heat_score": 82.54,
+      "change_pct": 3.71,
+      "net_inflow_yi": 74.88,
       "change_rank": 10,
       "flow_rank": 4,
-      "change_score": 71.25,
-      "flow_score": 96.04,
-      "limit_up_count": 3,
+      "change_score": 72.51,
+      "flow_score": 94.8,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "002197",
           "name": "证通电子",
           "reason": "算力租赁+数据中心REITs+金融科技+中报扭亏",
-          "consecutive_boards": null,
+          "consecutive_boards": 3,
           "first_limit_up_time": "09:31:27",
           "last_limit_up_time": "10:33:33",
-          "turnover_rate": 20.21,
-          "amount": 810567915.46
+          "turnover_rate": 20.37,
+          "amount": 817002278.46
         },
         {
           "code": "600409",
           "name": "三友化工",
           "reason": "纯碱+电子化学品+半年报预增+唐山国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:04:02",
           "last_limit_up_time": "13:04:02",
-          "turnover_rate": 2.6,
-          "amount": 337848042.42
+          "turnover_rate": 2.62,
+          "amount": 340846061.5
         },
         {
           "code": "603876",
           "name": "鼎胜新材",
           "reason": "电池铝箔+锂电池+空调箔+业绩预增",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:16:13",
           "last_limit_up_time": "14:16:13",
-          "turnover_rate": 3.9,
-          "amount": 738702149.36
+          "turnover_rate": 3.93,
+          "amount": 743441209.36
+        },
+        {
+          "code": "301292",
+          "name": "海科新源",
+          "reason": "电解液溶剂龙头+固态电池+量价齐升",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:48:27",
+          "last_limit_up_time": "14:48:27",
+          "turnover_rate": 23.67,
+          "amount": 1152133059.71
         }
       ]
     },
     {
       "rank": 4,
-      "name": "可燃冰",
-      "concept_code": "300277",
-      "plate_code": "885748",
-      "heat_score": 81.91,
-      "change_pct": 5.77,
-      "net_inflow_yi": 2.71,
-      "change_rank": 2,
-      "flow_rank": 119,
-      "change_score": 92.97,
-      "flow_score": 68.4,
-      "limit_up_count": 2,
+      "name": "金属铜",
+      "concept_code": "301577",
+      "plate_code": "885973",
+      "heat_score": 81.11,
+      "change_pct": 3.56,
+      "net_inflow_yi": 71.53,
+      "change_rank": 15,
+      "flow_rank": 7,
+      "change_score": 70.97,
+      "flow_score": 93.5,
+      "limit_up_count": 4,
       "limit_up_stocks": [
         {
-          "code": "002088",
-          "name": "鲁阳节能",
-          "reason": "实控人拟变更+新能源电池+陶瓷纤维龙头",
-          "consecutive_boards": null,
-          "first_limit_up_time": "09:30:24",
-          "last_limit_up_time": "09:31:00",
-          "turnover_rate": 1.25,
-          "amount": 47244602.44
+          "code": "000603",
+          "name": "盛达资源",
+          "reason": "白银龙头+黄金概念+铅锌+中报预增",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "10:07:33",
+          "last_limit_up_time": "10:11:12",
+          "turnover_rate": 10.38,
+          "amount": 1656097547.21
         },
         {
-          "code": "301158",
-          "name": "德石股份",
-          "reason": "油气开采+可燃冰+海外布局",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:01:15",
-          "last_limit_up_time": "10:18:00",
-          "turnover_rate": 10.0,
-          "amount": 275511798.78
+          "code": "000688",
+          "name": "国城矿业",
+          "reason": "碳酸锂投产+钼矿整合+股份过户",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:14:27",
+          "last_limit_up_time": "10:42:57",
+          "turnover_rate": 2.4,
+          "amount": 807589991.95
+        },
+        {
+          "code": "600173",
+          "name": "卧龙新能",
+          "reason": "风光储氢+储能项目+稀土",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:48:54",
+          "last_limit_up_time": "10:51:21",
+          "turnover_rate": 3.05,
+          "amount": 127635608.24
+        },
+        {
+          "code": "601061",
+          "name": "中信金属",
+          "reason": "铜+铌+中报预增+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:56:01",
+          "last_limit_up_time": "10:56:01",
+          "turnover_rate": 0.5,
+          "amount": 275439118.99
         }
       ]
     },
@@ -251,268 +291,248 @@
       "name": "动力电池回收",
       "concept_code": "307822",
       "plate_code": "885944",
-      "heat_score": 81.26,
-      "change_pct": 3.59,
-      "net_inflow_yi": 64.3,
+      "heat_score": 81.1,
+      "change_pct": 3.67,
+      "net_inflow_yi": 67.94,
       "change_rank": 11,
       "flow_rank": 8,
-      "change_score": 70.74,
-      "flow_score": 94.11,
+      "change_score": 72.1,
+      "flow_score": 92.1,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "002353",
           "name": "杰瑞股份",
           "reason": "大额订单+燃气轮机+数据中心",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:25:00",
           "last_limit_up_time": "09:25:00",
-          "turnover_rate": 0.41,
-          "amount": 384888802.77
+          "turnover_rate": 0.42,
+          "amount": 392943655.64
         },
         {
           "code": "002339",
           "name": "积成电子",
           "reason": "智能电网+虚拟电厂+储能",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:33:24",
           "last_limit_up_time": "13:37:36",
-          "turnover_rate": 9.13,
-          "amount": 297336629.11
+          "turnover_rate": 9.34,
+          "amount": 304396341.11
         }
       ]
     },
     {
       "rank": 6,
-      "name": "金属铜",
-      "concept_code": "301577",
-      "plate_code": "885973",
-      "heat_score": 80.55,
-      "change_pct": 3.34,
-      "net_inflow_yi": 67.99,
-      "change_rank": 20,
-      "flow_rank": 7,
-      "change_score": 68.2,
-      "flow_score": 95.65,
+      "name": "可燃冰",
+      "concept_code": "300277",
+      "plate_code": "885748",
+      "heat_score": 81.06,
+      "change_pct": 5.68,
+      "net_inflow_yi": 3.05,
+      "change_rank": 2,
+      "flow_rank": 119,
+      "change_score": 92.72,
+      "flow_score": 66.8,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002088",
+          "name": "鲁阳节能",
+          "reason": "实控人拟变更+新能源电池+陶瓷纤维龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:24",
+          "last_limit_up_time": "09:31:00",
+          "turnover_rate": 1.26,
+          "amount": 47845054.84
+        },
+        {
+          "code": "301158",
+          "name": "德石股份",
+          "reason": "油气开采+可燃冰+海外布局",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:01:15",
+          "last_limit_up_time": "10:18:00",
+          "turnover_rate": 10.03,
+          "amount": 276234558.88
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "金属锌",
+      "concept_code": "301582",
+      "plate_code": "885970",
+      "heat_score": 80.13,
+      "change_pct": 4.53,
+      "net_inflow_yi": 34.73,
+      "change_rank": 5,
+      "flow_rank": 21,
+      "change_score": 80.92,
+      "flow_score": 79.15,
       "limit_up_count": 4,
       "limit_up_stocks": [
         {
           "code": "000603",
           "name": "盛达资源",
           "reason": "白银龙头+黄金概念+铅锌+中报预增",
-          "consecutive_boards": null,
+          "consecutive_boards": 3,
           "first_limit_up_time": "10:07:33",
           "last_limit_up_time": "10:11:12",
-          "turnover_rate": 10.34,
-          "amount": 1650247599.21
+          "turnover_rate": 10.38,
+          "amount": 1656097547.21
         },
         {
           "code": "000688",
           "name": "国城矿业",
           "reason": "碳酸锂投产+钼矿整合+股份过户",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:14:27",
           "last_limit_up_time": "10:42:57",
-          "turnover_rate": 2.39,
-          "amount": 804301164.47
+          "turnover_rate": 2.4,
+          "amount": 807589991.95
         },
         {
           "code": "600173",
           "name": "卧龙新能",
           "reason": "风光储氢+储能项目+稀土",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:48:54",
           "last_limit_up_time": "10:51:21",
-          "turnover_rate": 3.0,
-          "amount": 125603268.24
+          "turnover_rate": 3.05,
+          "amount": 127635608.24
         },
         {
           "code": "601061",
           "name": "中信金属",
           "reason": "铜+铌+中报预增+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:56:01",
           "last_limit_up_time": "10:56:01",
           "turnover_rate": 0.5,
-          "amount": 274209105.59
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "小金属概念",
-      "concept_code": "300809",
-      "plate_code": "885552",
-      "heat_score": 79.26,
-      "change_pct": 2.86,
-      "net_inflow_yi": 75.43,
-      "change_rank": 44,
-      "flow_rank": 3,
-      "change_score": 63.3,
-      "flow_score": 98.76,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "600980",
-          "name": "北矿科技",
-          "reason": "半年报增长+矿冶装备+机器人+央企",
-          "consecutive_boards": null,
-          "first_limit_up_time": "09:30:04",
-          "last_limit_up_time": "09:30:04",
-          "turnover_rate": 1.02,
-          "amount": 33935674.32
-        },
-        {
-          "code": "603399",
-          "name": "永杉锂业",
-          "reason": "锂+钼+中报预计扭亏",
-          "consecutive_boards": null,
-          "first_limit_up_time": "09:49:07",
-          "last_limit_up_time": "10:14:25",
-          "turnover_rate": 9.71,
-          "amount": 663641973.35
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银龙头+黄金概念+铅锌+中报预增",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:07:33",
-          "last_limit_up_time": "10:11:12",
-          "turnover_rate": 10.34,
-          "amount": 1650247599.21
-        },
-        {
-          "code": "000688",
-          "name": "国城矿业",
-          "reason": "碳酸锂投产+钼矿整合+股份过户",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:14:27",
-          "last_limit_up_time": "10:42:57",
-          "turnover_rate": 2.39,
-          "amount": 804301164.47
-        },
-        {
-          "code": "002240",
-          "name": "盛新锂能",
-          "reason": "锂矿+固态电池+中报预计扭亏",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:46:48",
-          "last_limit_up_time": "10:46:48",
-          "turnover_rate": 6.44,
-          "amount": 1733021813.65
-        },
-        {
-          "code": "601061",
-          "name": "中信金属",
-          "reason": "铜+铌+中报预增+央企",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:56:01",
-          "last_limit_up_time": "10:56:01",
-          "turnover_rate": 0.5,
-          "amount": 274209105.59
-        },
-        {
-          "code": "000155",
-          "name": "川能动力",
-          "reason": "锂矿采选+中报预增+四川国资",
-          "consecutive_boards": null,
-          "first_limit_up_time": "11:29:48",
-          "last_limit_up_time": "13:00:24",
-          "turnover_rate": 4.45,
-          "amount": 967150017.88
+          "amount": 275439118.99
         }
       ]
     },
     {
       "rank": 8,
+      "name": "小金属概念",
+      "concept_code": "300809",
+      "plate_code": "885552",
+      "heat_score": 79.73,
+      "change_pct": 3.07,
+      "net_inflow_yi": 79.43,
+      "change_rank": 36,
+      "flow_rank": 3,
+      "change_score": 65.95,
+      "flow_score": 96.58,
+      "limit_up_count": 7,
+      "limit_up_stocks": [
+        {
+          "code": "000603",
+          "name": "盛达资源",
+          "reason": "白银龙头+黄金概念+铅锌+中报预增",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "10:07:33",
+          "last_limit_up_time": "10:11:12",
+          "turnover_rate": 10.38,
+          "amount": 1656097547.21
+        },
+        {
+          "code": "600980",
+          "name": "北矿科技",
+          "reason": "半年报增长+矿冶装备+机器人+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:04",
+          "last_limit_up_time": "09:30:04",
+          "turnover_rate": 1.03,
+          "amount": 34465774.32
+        },
+        {
+          "code": "603399",
+          "name": "永杉锂业",
+          "reason": "锂+钼+中报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:49:07",
+          "last_limit_up_time": "10:14:25",
+          "turnover_rate": 9.76,
+          "amount": 666896357.35
+        },
+        {
+          "code": "000688",
+          "name": "国城矿业",
+          "reason": "碳酸锂投产+钼矿整合+股份过户",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:14:27",
+          "last_limit_up_time": "10:42:57",
+          "turnover_rate": 2.4,
+          "amount": 807589991.95
+        },
+        {
+          "code": "002240",
+          "name": "盛新锂能",
+          "reason": "锂矿+固态电池+中报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:46:48",
+          "last_limit_up_time": "10:46:48",
+          "turnover_rate": 6.47,
+          "amount": 1740611299.45
+        },
+        {
+          "code": "601061",
+          "name": "中信金属",
+          "reason": "铜+铌+中报预增+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:56:01",
+          "last_limit_up_time": "10:56:01",
+          "turnover_rate": 0.5,
+          "amount": 275439118.99
+        },
+        {
+          "code": "000155",
+          "name": "川能动力",
+          "reason": "锂矿采选+中报预增+四川国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:29:48",
+          "last_limit_up_time": "13:00:24",
+          "turnover_rate": 4.47,
+          "amount": 973416541.4
+        }
+      ]
+    },
+    {
+      "rank": 9,
       "name": "盐湖提锂",
       "concept_code": "307904",
       "plate_code": "885922",
-      "heat_score": 79.22,
-      "change_pct": 3.46,
-      "net_inflow_yi": 57.33,
-      "change_rank": 16,
+      "heat_score": 79.41,
+      "change_pct": 3.66,
+      "net_inflow_yi": 58.61,
+      "change_rank": 12,
       "flow_rank": 9,
-      "change_score": 69.42,
-      "flow_score": 91.2,
+      "change_score": 72.0,
+      "flow_score": 88.46,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
           "code": "002240",
           "name": "盛新锂能",
           "reason": "锂矿+固态电池+中报预计扭亏",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:46:48",
           "last_limit_up_time": "10:46:48",
-          "turnover_rate": 6.44,
-          "amount": 1733021813.65
+          "turnover_rate": 6.47,
+          "amount": 1740611299.45
         },
         {
           "code": "000155",
           "name": "川能动力",
           "reason": "锂矿采选+中报预增+四川国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "11:29:48",
           "last_limit_up_time": "13:00:24",
-          "turnover_rate": 4.45,
-          "amount": 967150017.88
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "name": "金属锌",
-      "concept_code": "301582",
-      "plate_code": "885970",
-      "heat_score": 78.88,
-      "change_pct": 4.2,
-      "net_inflow_yi": 33.42,
-      "change_rank": 4,
-      "flow_rank": 21,
-      "change_score": 76.96,
-      "flow_score": 81.22,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银龙头+黄金概念+铅锌+中报预增",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:07:33",
-          "last_limit_up_time": "10:11:12",
-          "turnover_rate": 10.34,
-          "amount": 1650247599.21
-        },
-        {
-          "code": "000688",
-          "name": "国城矿业",
-          "reason": "碳酸锂投产+钼矿整合+股份过户",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:14:27",
-          "last_limit_up_time": "10:42:57",
-          "turnover_rate": 2.39,
-          "amount": 804301164.47
-        },
-        {
-          "code": "600173",
-          "name": "卧龙新能",
-          "reason": "风光储氢+储能项目+稀土",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:48:54",
-          "last_limit_up_time": "10:51:21",
-          "turnover_rate": 3.0,
-          "amount": 125603268.24
-        },
-        {
-          "code": "601061",
-          "name": "中信金属",
-          "reason": "铜+铌+中报预增+央企",
-          "consecutive_boards": null,
-          "first_limit_up_time": "10:56:01",
-          "last_limit_up_time": "10:56:01",
-          "turnover_rate": 0.5,
-          "amount": 274209105.59
+          "turnover_rate": 4.47,
+          "amount": 973416541.4
         }
       ]
     },
@@ -521,184 +541,194 @@
       "name": "特高压",
       "concept_code": "300353",
       "plate_code": "885425",
-      "heat_score": 78.15,
-      "change_pct": 4.08,
-      "net_inflow_yi": 33.13,
-      "change_rank": 5,
-      "flow_rank": 22,
-      "change_score": 75.74,
-      "flow_score": 81.1,
-      "limit_up_count": 17,
+      "heat_score": 78.72,
+      "change_pct": 4.25,
+      "net_inflow_yi": 35.72,
+      "change_rank": 6,
+      "flow_rank": 18,
+      "change_score": 78.05,
+      "flow_score": 79.54,
+      "limit_up_count": 18,
       "limit_up_stocks": [
         {
           "code": "001258",
           "name": "立新能源",
           "reason": "风电光伏+定增获批+半年报预增+新疆国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 6,
           "first_limit_up_time": "09:31:45",
           "last_limit_up_time": "09:48:06",
-          "turnover_rate": 11.27,
-          "amount": 1266391641.8
+          "turnover_rate": 11.3,
+          "amount": 1270567169.8
         },
         {
           "code": "002339",
           "name": "积成电子",
           "reason": "智能电网+虚拟电厂+储能",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:33:24",
           "last_limit_up_time": "13:37:36",
-          "turnover_rate": 9.13,
-          "amount": 297336629.11
+          "turnover_rate": 9.34,
+          "amount": 304396341.11
         },
         {
           "code": "002498",
           "name": "汉缆股份",
           "reason": "新型电网+海上风电+超高压海缆+一季报增长",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:49:18",
           "last_limit_up_time": "09:51:00",
-          "turnover_rate": 2.29,
-          "amount": 436314433.75
+          "turnover_rate": 2.31,
+          "amount": 439663063.39
         },
         {
           "code": "600379",
           "name": "宝光股份",
           "reason": "氦气+电子特气+真空灭弧室+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:49:55",
           "last_limit_up_time": "09:49:55",
-          "turnover_rate": 3.83,
-          "amount": 141934713.8
+          "turnover_rate": 3.84,
+          "amount": 142304505.8
         },
         {
           "code": "001382",
           "name": "新亚电缆",
           "reason": "电网设备+架空导线+特高压",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "09:54:09",
           "last_limit_up_time": "09:55:27",
-          "turnover_rate": 10.42,
-          "amount": 105843987.24
+          "turnover_rate": 10.57,
+          "amount": 107411509.24
         },
         {
           "code": "601179",
           "name": "中国西电",
           "reason": "特高压中标+固态变压器+电网设备+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:07:38",
           "last_limit_up_time": "10:07:38",
-          "turnover_rate": 3.52,
-          "amount": 2378212112.58
+          "turnover_rate": 3.57,
+          "amount": 2411991166.98
         },
         {
           "code": "002300",
           "name": "太阳电缆",
           "reason": "海缆+数据中心+特高压+电网设备",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:19:00",
           "last_limit_up_time": "10:19:00",
-          "turnover_rate": 4.28,
-          "amount": 191957927.84
+          "turnover_rate": 4.32,
+          "amount": 193780697.84
         },
         {
           "code": "001208",
           "name": "华菱线缆",
           "reason": "商业航天+电网设备+英伟达液冷+湖南国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:19:09",
           "last_limit_up_time": "10:19:09",
-          "turnover_rate": 6.89,
-          "amount": 289788296.88
+          "turnover_rate": 6.96,
+          "amount": 292657284.88
         },
         {
           "code": "600550",
           "name": "保变电气",
           "reason": "电网设备+中报预增+央企",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "10:19:51",
           "last_limit_up_time": "10:19:51",
-          "turnover_rate": 3.38,
-          "amount": 695255788.99
+          "turnover_rate": 3.42,
+          "amount": 703789460.59
         },
         {
           "code": "300444",
           "name": "双杰电气",
           "reason": "输变电设备+海外出口",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:03:06",
           "last_limit_up_time": "13:03:06",
-          "turnover_rate": 16.98,
-          "amount": 939329680.88
+          "turnover_rate": 17.06,
+          "amount": 944382064.88
         },
         {
           "code": "002560",
           "name": "通达股份",
           "reason": "电网设备+机器人线束+航空零部件",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:07:21",
           "last_limit_up_time": "13:07:21",
-          "turnover_rate": 8.83,
-          "amount": 322390985.0
+          "turnover_rate": 8.88,
+          "amount": 324349083.4
         },
         {
           "code": "002606",
           "name": "大连电瓷",
           "reason": "特高压+绝缘子龙头+国家电网预中标+中报预增",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:35:54",
           "last_limit_up_time": "13:35:54",
-          "turnover_rate": 9.08,
-          "amount": 499817419.27
+          "turnover_rate": 9.2,
+          "amount": 506778648.46
         },
         {
           "code": "002358",
           "name": "森源电气",
           "reason": "新型电网+数据中心+河南国资",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "13:37:36",
           "last_limit_up_time": "13:37:36",
-          "turnover_rate": 5.17,
-          "amount": 253793932.44
+          "turnover_rate": 5.21,
+          "amount": 255931782.44
         },
         {
           "code": "601700",
           "name": "风范股份",
           "reason": "特高压中标+中报预增+国企改革",
-          "consecutive_boards": null,
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:34:54",
           "last_limit_up_time": "14:34:54",
-          "turnover_rate": 4.18,
-          "amount": 225012452.75
+          "turnover_rate": 4.39,
+          "amount": 236918192.75
         },
         {
           "code": "603861",
           "name": "白云电器",
-          "reason": "其他",
-          "consecutive_boards": null,
+          "reason": "AIDC直流配电+变压器出海+电网设备",
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:40:25",
           "last_limit_up_time": "14:40:25",
-          "turnover_rate": 3.81,
-          "amount": 232205888.05
+          "turnover_rate": 3.97,
+          "amount": 242282768.05
         },
         {
           "code": "001388",
           "name": "信通电子",
-          "reason": "其他",
-          "consecutive_boards": null,
+          "reason": "电力智能运维+算力租赁+防冰机器人+高送转",
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:42:36",
           "last_limit_up_time": "14:42:36",
-          "turnover_rate": 14.72,
-          "amount": 400415110.06
+          "turnover_rate": 14.98,
+          "amount": 408115711.12
         },
         {
           "code": "600268",
           "name": "国电南自",
-          "reason": "其他",
-          "consecutive_boards": null,
+          "reason": "虚拟电厂+AI电力+储能+央企",
+          "consecutive_boards": 1,
           "first_limit_up_time": "14:43:39",
           "last_limit_up_time": "14:43:39",
-          "turnover_rate": 4.47,
-          "amount": 506138042.54
+          "turnover_rate": 4.74,
+          "amount": 539003758.06
+        },
+        {
+          "code": "300510",
+          "name": "金冠股份",
+          "reason": "电网设备+充电桩+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:52:03",
+          "last_limit_up_time": "14:52:03",
+          "turnover_rate": 11.94,
+          "amount": 343554869.83
         }
       ]
     }
