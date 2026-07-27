@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-27 10:58:39",
+  "generated_at": "2026-07-27 13:25:40",
   "latest_trade_date": "2026-07-27",
   "summary": [
     {
       "date": "2026-07-27",
-      "up_count": 400,
-      "down_count": 0,
-      "flat_count": 0,
+      "up_count": null,
+      "down_count": null,
+      "flat_count": null,
       "limit_up_count": 111,
       "limit_down_count": 6
     },
@@ -965,17 +965,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000862",
-        "name": "银星能源",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 460882912.0,
-        "turnover_rate": 13.05,
-        "first_limit_up_time": "13:34:03",
-        "last_limit_up_time": "13:54:24",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002725",
         "name": "跃岭股份",
         "reason": "汽车零部",
@@ -984,6 +973,17 @@
         "turnover_rate": 4.61,
         "first_limit_up_time": "13:34:03",
         "last_limit_up_time": "13:34:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000862",
+        "name": "银星能源",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 460882912.0,
+        "turnover_rate": 13.05,
+        "first_limit_up_time": "13:34:03",
+        "last_limit_up_time": "13:54:24",
         "consecutive_boards": 1
       },
       {
@@ -1308,17 +1308,6 @@
     ],
     "2026-07-24": [
       {
-        "code": "000595",
-        "name": "新能股份",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 727000480.0,
-        "turnover_rate": 10.58,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:28:42",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002879",
         "name": "长缆科技",
         "reason": "电网设备",
@@ -1330,17 +1319,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "000533",
-        "name": "顺钠股份",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 79096070.0,
-        "turnover_rate": 1.21,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "301234",
         "name": "五洲医疗",
         "reason": "医疗器械",
@@ -1350,6 +1328,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
+      },
+      {
+        "code": "000595",
+        "name": "新能股份",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 727000480.0,
+        "turnover_rate": 10.58,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:28:42",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "000533",
+        "name": "顺钠股份",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 79096070.0,
+        "turnover_rate": 1.21,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "603221",
@@ -1396,17 +1396,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002374",
-        "name": "中锐股份",
-        "reason": "包装印刷",
-        "concepts": [],
-        "amount": 79526628.0,
-        "turnover_rate": 2.39,
-        "first_limit_up_time": "09:31:33",
-        "last_limit_up_time": "09:31:33",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002298",
         "name": "中电鑫龙",
         "reason": "电网设备",
@@ -1416,6 +1405,17 @@
         "first_limit_up_time": "09:31:33",
         "last_limit_up_time": "09:32:18",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002374",
+        "name": "中锐股份",
+        "reason": "包装印刷",
+        "concepts": [],
+        "amount": 79526628.0,
+        "turnover_rate": 2.39,
+        "first_limit_up_time": "09:31:33",
+        "last_limit_up_time": "09:31:33",
+        "consecutive_boards": 1
       },
       {
         "code": "300414",
