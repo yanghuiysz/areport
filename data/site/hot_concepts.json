@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29 09:47:12",
-  "latest_trade_date": "2026-07-24",
+  "generated_at": "2026-07-29 12:39:17",
+  "latest_trade_date": "2026-07-27",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -144,19 +144,8 @@
       "flow_rank": 9,
       "change_score": 44.12,
       "flow_score": 49.03,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "603068",
-          "name": "博通集成",
-          "reason": "中报预增+端侧AI+Wi-Fi MCU芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:37",
-          "last_limit_up_time": "09:44:25",
-          "turnover_rate": 7.57,
-          "amount": 447041017.0
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
@@ -170,8 +159,19 @@
       "flow_rank": 18,
       "change_score": 56.21,
       "flow_score": 31.6,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002580",
+          "name": "圣阳股份",
+          "reason": "液冷储能+算力+固态电池+山东国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:24:03",
+          "last_limit_up_time": "13:22:57",
+          "turnover_rate": 25.48,
+          "amount": 2022325527.74
+        }
+      ]
     }
   ],
   "all_count": 293
