@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06 09:49:35",
+  "generated_at": "2026-08-06 12:31:50",
   "latest_trade_date": "2026-08-06",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -39,8 +39,29 @@
       "flow_rank": 8,
       "change_score": 83.06,
       "flow_score": 84.96,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603773",
+          "name": "沃格光电",
+          "reason": "TGV玻璃基板+CPO+先进封装",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "09:48:39",
+          "last_limit_up_time": "09:49:36",
+          "turnover_rate": 5.97,
+          "amount": 1135934680.36
+        },
+        {
+          "code": "603738",
+          "name": "泰晶科技",
+          "reason": "光模块晶振+CPO+半年报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:53:23",
+          "last_limit_up_time": "14:53:23",
+          "turnover_rate": 15.84,
+          "amount": 2134032533.37
+        }
+      ]
     },
     {
       "rank": 3,
@@ -54,8 +75,39 @@
       "flow_rank": 58,
       "change_score": 86.36,
       "flow_score": 80.88,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "600206",
+          "name": "有研新材",
+          "reason": "半年报增长+半导体靶材+聚焦集成电路+央企",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:51:11",
+          "last_limit_up_time": "13:12:35",
+          "turnover_rate": 12.17,
+          "amount": 4413325529.97
+        },
+        {
+          "code": "688549",
+          "name": "中巨芯",
+          "reason": "六氟化钨+存储芯片+电子化学品",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:54:48",
+          "last_limit_up_time": "14:41:21",
+          "turnover_rate": 32.2,
+          "amount": 4944339555.42
+        },
+        {
+          "code": "600584",
+          "name": "长电科技",
+          "reason": "先进封装+半年报预增+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:48:14",
+          "last_limit_up_time": "14:54:17",
+          "turnover_rate": 13.18,
+          "amount": 17259959742.53
+        }
+      ]
     },
     {
       "rank": 4,
@@ -84,8 +136,19 @@
       "flow_rank": 15,
       "change_score": 83.68,
       "flow_score": 83.13,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "半导体级氢氟酸+六氟磷酸锂+中报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:50:33",
+          "last_limit_up_time": "14:50:33",
+          "turnover_rate": 20.73,
+          "amount": 7607945020.5
+        }
+      ]
     },
     {
       "rank": 6,
@@ -99,8 +162,29 @@
       "flow_rank": 2,
       "change_score": 70.45,
       "flow_score": 98.99,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002975",
+          "name": "博杰股份",
+          "reason": "AI服务器测试+MLCC设备+英伟达+中报预增",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "10:00:39",
+          "last_limit_up_time": "13:00:51",
+          "turnover_rate": 11.46,
+          "amount": 1433678552.85
+        },
+        {
+          "code": "301251",
+          "name": "威尔高",
+          "reason": "AI服务器电源PCB+定增扩产+光模块",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:02:48",
+          "last_limit_up_time": "13:02:48",
+          "turnover_rate": 17.76,
+          "amount": 498119236.93
+        }
+      ]
     },
     {
       "rank": 7,
@@ -114,8 +198,19 @@
       "flow_rank": 28,
       "change_score": 83.26,
       "flow_score": 82.48,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600127",
+          "name": "金健米业",
+          "reason": "粮食概念+大健康食品+湖南国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:26:29",
+          "last_limit_up_time": "11:27:05",
+          "turnover_rate": 7.4,
+          "amount": 283422997.15
+        }
+      ]
     },
     {
       "rank": 8,
@@ -129,8 +224,29 @@
       "flow_rank": 10,
       "change_score": 81.4,
       "flow_score": 84.68,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603823",
+          "name": "百合花",
+          "reason": "光刻胶+PEEK材料+战略入股",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:36:09",
+          "last_limit_up_time": "14:53:12",
+          "turnover_rate": 4.11,
+          "amount": 1134316622.18
+        },
+        {
+          "code": "603078",
+          "name": "江化微",
+          "reason": "实控人拟变更+G5级湿电子化学品+半导体+上海国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:19:56",
+          "last_limit_up_time": "11:11:41",
+          "turnover_rate": 8.48,
+          "amount": 1082564804.99
+        }
+      ]
     },
     {
       "rank": 9,
@@ -159,8 +275,59 @@
       "flow_rank": 102,
       "change_score": 86.78,
       "flow_score": 76.74,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "600206",
+          "name": "有研新材",
+          "reason": "半年报增长+半导体靶材+聚焦集成电路+央企",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:51:11",
+          "last_limit_up_time": "13:12:35",
+          "turnover_rate": 12.17,
+          "amount": 4413325529.97
+        },
+        {
+          "code": "603078",
+          "name": "江化微",
+          "reason": "实控人拟变更+G5级湿电子化学品+半导体+上海国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:19:56",
+          "last_limit_up_time": "11:11:41",
+          "turnover_rate": 8.48,
+          "amount": 1082564804.99
+        },
+        {
+          "code": "688549",
+          "name": "中巨芯",
+          "reason": "六氟化钨+存储芯片+电子化学品",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "10:54:48",
+          "last_limit_up_time": "14:41:21",
+          "turnover_rate": 32.2,
+          "amount": 4944339555.42
+        },
+        {
+          "code": "600584",
+          "name": "长电科技",
+          "reason": "先进封装+半年报预增+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:48:14",
+          "last_limit_up_time": "14:54:17",
+          "turnover_rate": 13.18,
+          "amount": 17259959742.53
+        },
+        {
+          "code": "002407",
+          "name": "多氟多",
+          "reason": "半导体级氢氟酸+六氟磷酸锂+中报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:50:33",
+          "last_limit_up_time": "14:50:33",
+          "turnover_rate": 20.73,
+          "amount": 7607945020.5
+        }
+      ]
     }
   ],
   "all_count": 294
