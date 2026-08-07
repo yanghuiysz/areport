@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 05:53:15",
+  "generated_at": "2026-08-07 08:27:15",
   "latest_trade_date": "2026-08-07",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -14,123 +14,17 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "存储芯片",
-      "concept_code": "307940",
-      "plate_code": "886042",
-      "heat_score": 82.44,
-      "change_pct": 3.89,
-      "net_inflow_yi": 117.18,
-      "change_rank": 8,
-      "flow_rank": 1,
-      "change_score": 68.08,
-      "flow_score": 100.0,
-      "limit_up_count": 9,
-      "limit_up_stocks": [
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+6G",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:10",
-          "last_limit_up_time": "10:03:16",
-          "turnover_rate": 9.68,
-          "amount": 2044469150.33
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半年报增长+半导体靶材+稀土+央企",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "10:00:37",
-          "last_limit_up_time": "10:00:37",
-          "turnover_rate": 10.64,
-          "amount": 4209757278.4
-        },
-        {
-          "code": "603459",
-          "name": "红板科技",
-          "reason": "HDI技改扩产+AI算力+PCB",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "09:51:45",
-          "turnover_rate": 22.84,
-          "amount": 1874312043.39
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "AI服务器PCB+800G光模块+陶瓷衬板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:16:05",
-          "last_limit_up_time": "10:16:05",
-          "turnover_rate": 6.73,
-          "amount": 647056696.02
-        },
-        {
-          "code": "600183",
-          "name": "生益科技",
-          "reason": "AI覆铜板+PCB+半年报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:20:35",
-          "last_limit_up_time": "11:27:14",
-          "turnover_rate": 2.68,
-          "amount": 8823300198.35
-        },
-        {
-          "code": "600641",
-          "name": "先导基电",
-          "reason": "铟+铋材料+半导体设备+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:50:32",
-          "last_limit_up_time": "11:23:20",
-          "turnover_rate": 8.36,
-          "amount": 2326918541.41
-        },
-        {
-          "code": "688419",
-          "name": "耐科装备",
-          "reason": "先进封装+存储芯片+订单饱满",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:29",
-          "last_limit_up_time": "13:06:47",
-          "turnover_rate": 6.09,
-          "amount": 312848580.78
-        },
-        {
-          "code": "002579",
-          "name": "中京电子",
-          "reason": "PCB+高阶HDI+AIPC+定增通过",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:08:33",
-          "last_limit_up_time": "13:09:54",
-          "turnover_rate": 25.25,
-          "amount": 2110213264.35
-        },
-        {
-          "code": "301511",
-          "name": "德福科技",
-          "reason": "AI铜箔+PCB链+定增扩产",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:25:09",
-          "last_limit_up_time": "13:42:45",
-          "turnover_rate": 15.13,
-          "amount": 4928625081.86
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 81.67,
-      "change_pct": 6.75,
-      "net_inflow_yi": 48.13,
+      "heat_score": 93.21,
+      "change_pct": 8.05,
+      "net_inflow_yi": 61.08,
       "change_rank": 1,
-      "flow_rank": 9,
+      "flow_rank": 5,
       "change_score": 100.0,
-      "flow_score": 59.26,
-      "limit_up_count": 6,
+      "flow_score": 84.91,
+      "limit_up_count": 8,
       "limit_up_stocks": [
         {
           "code": "600721",
@@ -139,8 +33,8 @@
           "consecutive_boards": 4,
           "first_limit_up_time": "09:31:00",
           "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.37,
-          "amount": 618413190.3
+          "turnover_rate": 15.62,
+          "amount": 628410380.3
         },
         {
           "code": "002821",
@@ -149,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:18:06",
           "last_limit_up_time": "10:18:06",
-          "turnover_rate": 3.32,
-          "amount": 1746667016.96
+          "turnover_rate": 3.42,
+          "amount": 1802066694.26
         },
         {
           "code": "000739",
@@ -159,8 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:22:21",
           "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.4,
-          "amount": 883096944.71
+          "turnover_rate": 3.63,
+          "amount": 946186051.95
         },
         {
           "code": "688137",
@@ -169,8 +63,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:26:55",
           "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.44,
-          "amount": 165595063.59
+          "turnover_rate": 5.62,
+          "amount": 171227019.43
         },
         {
           "code": "301047",
@@ -179,8 +73,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:15",
           "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.22,
-          "amount": 1321811716.79
+          "turnover_rate": 11.6,
+          "amount": 1370944799.75
         },
         {
           "code": "300363",
@@ -189,23 +83,43 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:22:51",
           "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.04,
-          "amount": 1309894208.94
+          "turnover_rate": 14.77,
+          "amount": 1383423818.1
+        },
+        {
+          "code": "603127",
+          "name": "昭衍新药",
+          "reason": "实验猴涨价+中报预增+CRO",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:29",
+          "last_limit_up_time": "14:07:29",
+          "turnover_rate": 9.48,
+          "amount": 2888425195.0
+        },
+        {
+          "code": "301230",
+          "name": "泓博医药",
+          "reason": "AI制药+CRO+创新药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:35:27",
+          "last_limit_up_time": "14:35:27",
+          "turnover_rate": 15.65,
+          "amount": 757602236.49
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 71.68,
-      "change_pct": 5.53,
-      "net_inflow_yi": 38.71,
-      "change_rank": 3,
-      "flow_rank": 16,
-      "change_score": 86.38,
-      "flow_score": 53.71,
+      "heat_score": 84.78,
+      "change_pct": 6.62,
+      "net_inflow_yi": 59.18,
+      "change_rank": 2,
+      "flow_rank": 6,
+      "change_score": 85.74,
+      "flow_score": 83.6,
       "limit_up_count": 6,
       "limit_up_stocks": [
         {
@@ -215,8 +129,8 @@
           "consecutive_boards": 4,
           "first_limit_up_time": "09:31:00",
           "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.37,
-          "amount": 618413190.3
+          "turnover_rate": 15.62,
+          "amount": 628410380.3
         },
         {
           "code": "002742",
@@ -225,8 +139,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:33:45",
           "last_limit_up_time": "09:34:39",
-          "turnover_rate": 2.68,
-          "amount": 56955462.0
+          "turnover_rate": 3.44,
+          "amount": 73389971.0
         },
         {
           "code": "600267",
@@ -235,8 +149,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:37:48",
           "last_limit_up_time": "09:38:57",
-          "turnover_rate": 4.66,
-          "amount": 707459420.94
+          "turnover_rate": 4.82,
+          "amount": 731855688.84
         },
         {
           "code": "002821",
@@ -245,8 +159,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:18:06",
           "last_limit_up_time": "10:18:06",
-          "turnover_rate": 3.32,
-          "amount": 1746667016.96
+          "turnover_rate": 3.42,
+          "amount": 1802066694.26
         },
         {
           "code": "000739",
@@ -255,8 +169,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:22:21",
           "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.4,
-          "amount": 883096944.71
+          "turnover_rate": 3.63,
+          "amount": 946186051.95
         },
         {
           "code": "300363",
@@ -265,140 +179,24 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:22:51",
           "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.04,
-          "amount": 1309894208.94
+          "turnover_rate": 14.77,
+          "amount": 1383423818.1
         }
       ]
     },
     {
-      "rank": 4,
-      "name": "PET铜箔",
-      "concept_code": "309030",
-      "plate_code": "886020",
-      "heat_score": 68.67,
-      "change_pct": 6.08,
-      "net_inflow_yi": 14.65,
-      "change_rank": 2,
-      "flow_rank": 56,
-      "change_score": 92.52,
-      "flow_score": 39.51,
-      "limit_up_count": 10,
-      "limit_up_stocks": [
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+6G",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:10",
-          "last_limit_up_time": "10:03:16",
-          "turnover_rate": 9.68,
-          "amount": 2044469150.33
-        },
-        {
-          "code": "001223",
-          "name": "欧克科技",
-          "reason": "PCB设备+PI膜+薄膜材料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:34:09",
-          "last_limit_up_time": "09:37:33",
-          "turnover_rate": 4.57,
-          "amount": 128022115.04
-        },
-        {
-          "code": "600110",
-          "name": "诺德股份",
-          "reason": "铜箔+HVLP+固态电池+半年报扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:09:11",
-          "last_limit_up_time": "10:09:11",
-          "turnover_rate": 6.86,
-          "amount": 1182867762.8
-        },
-        {
-          "code": "688020",
-          "name": "方邦股份",
-          "reason": "可剥铜+铜箔+电磁屏蔽膜",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:11:33",
-          "last_limit_up_time": "10:11:33",
-          "turnover_rate": 6.65,
-          "amount": 738747476.32
-        },
-        {
-          "code": "688813",
-          "name": "泰金新能",
-          "reason": "PCB+铜箔装备+CPO+陕西国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:32:18",
-          "last_limit_up_time": "10:32:18",
-          "turnover_rate": 23.19,
-          "amount": 827023041.69
-        },
-        {
-          "code": "002741",
-          "name": "光华科技",
-          "reason": "PCB化学品+先进封装+半年度预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:06",
-          "last_limit_up_time": "13:01:06",
-          "turnover_rate": 7.93,
-          "amount": 860777868.53
-        },
-        {
-          "code": "603124",
-          "name": "江南新材",
-          "reason": "定增扩产+液冷散热+铜基材料+半年报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:03:08",
-          "last_limit_up_time": "13:03:08",
-          "turnover_rate": 8.94,
-          "amount": 946130522.69
-        },
-        {
-          "code": "301217",
-          "name": "铜冠铜箔",
-          "reason": "高频高速铜箔+半年报预增+PCB概念+安徽国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:06:03",
-          "last_limit_up_time": "13:06:03",
-          "turnover_rate": 7.16,
-          "amount": 6504822958.02
-        },
-        {
-          "code": "601208",
-          "name": "东材科技",
-          "reason": "高速电子树脂+AI算力+中报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:17:46",
-          "last_limit_up_time": "13:17:46",
-          "turnover_rate": 8.01,
-          "amount": 3553887528.47
-        },
-        {
-          "code": "301511",
-          "name": "德福科技",
-          "reason": "AI铜箔+PCB链+定增扩产",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:25:09",
-          "last_limit_up_time": "13:42:45",
-          "turnover_rate": 15.13,
-          "amount": 4928625081.86
-        }
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "name": "细胞免疫治疗",
       "concept_code": "301543",
       "plate_code": "885769",
-      "heat_score": 68.41,
-      "change_pct": 5.06,
-      "net_inflow_yi": 37.27,
-      "change_rank": 5,
-      "flow_rank": 20,
-      "change_score": 81.14,
-      "flow_score": 52.86,
-      "limit_up_count": 5,
+      "heat_score": 79.46,
+      "change_pct": 5.98,
+      "net_inflow_yi": 53.37,
+      "change_rank": 4,
+      "flow_rank": 10,
+      "change_score": 79.36,
+      "flow_score": 79.59,
+      "limit_up_count": 6,
       "limit_up_stocks": [
         {
           "code": "600721",
@@ -407,8 +205,8 @@
           "consecutive_boards": 4,
           "first_limit_up_time": "09:31:00",
           "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.37,
-          "amount": 618413190.3
+          "turnover_rate": 15.62,
+          "amount": 628410380.3
         },
         {
           "code": "301080",
@@ -417,8 +215,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:36:42",
           "last_limit_up_time": "10:45:03",
-          "turnover_rate": 11.42,
-          "amount": 889521275.25
+          "turnover_rate": 11.74,
+          "amount": 915450283.25
         },
         {
           "code": "688137",
@@ -427,8 +225,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:26:55",
           "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.44,
-          "amount": 165595063.59
+          "turnover_rate": 5.62,
+          "amount": 171227019.43
         },
         {
           "code": "301047",
@@ -437,8 +235,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:15",
           "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.22,
-          "amount": 1321811716.79
+          "turnover_rate": 11.6,
+          "amount": 1370944799.75
         },
         {
           "code": "300363",
@@ -447,25 +245,45 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:22:51",
           "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.04,
-          "amount": 1309894208.94
+          "turnover_rate": 14.77,
+          "amount": 1383423818.1
+        },
+        {
+          "code": "603127",
+          "name": "昭衍新药",
+          "reason": "实验猴涨价+中报预增+CRO",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:07:29",
+          "last_limit_up_time": "14:07:29",
+          "turnover_rate": 9.48,
+          "amount": 2888425195.0
         }
       ]
     },
     {
-      "rank": 6,
-      "name": "国家大基金持股",
-      "concept_code": "307816",
-      "plate_code": "885893",
-      "heat_score": 68.06,
-      "change_pct": 3.87,
-      "net_inflow_yi": 63.46,
-      "change_rank": 9,
-      "flow_rank": 2,
-      "change_score": 67.86,
-      "flow_score": 68.31,
-      "limit_up_count": 1,
+      "rank": 4,
+      "name": "存储芯片",
+      "concept_code": "307940",
+      "plate_code": "886042",
+      "heat_score": 75.54,
+      "change_pct": 3.59,
+      "net_inflow_yi": 82.96,
+      "change_rank": 14,
+      "flow_rank": 1,
+      "change_score": 55.53,
+      "flow_score": 100.0,
+      "limit_up_count": 7,
       "limit_up_stocks": [
+        {
+          "code": "603773",
+          "name": "沃格光电",
+          "reason": "TGV玻璃基板+先进封装+6G",
+          "consecutive_boards": 4,
+          "first_limit_up_time": "09:31:10",
+          "last_limit_up_time": "10:03:16",
+          "turnover_rate": 9.74,
+          "amount": 2058335109.83
+        },
         {
           "code": "600206",
           "name": "有研新材",
@@ -473,23 +291,73 @@
           "consecutive_boards": 3,
           "first_limit_up_time": "10:00:37",
           "last_limit_up_time": "10:00:37",
-          "turnover_rate": 10.64,
-          "amount": 4209757278.4
+          "turnover_rate": 10.83,
+          "amount": 4287778275.57
+        },
+        {
+          "code": "603459",
+          "name": "红板科技",
+          "reason": "HDI技改扩产+AI算力+PCB",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:39:18",
+          "last_limit_up_time": "09:51:45",
+          "turnover_rate": 24.12,
+          "amount": 1981697461.39
+        },
+        {
+          "code": "603936",
+          "name": "博敏电子",
+          "reason": "AI服务器PCB+800G光模块+陶瓷衬板",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:16:05",
+          "last_limit_up_time": "10:16:05",
+          "turnover_rate": 6.89,
+          "amount": 663102985.02
+        },
+        {
+          "code": "600183",
+          "name": "生益科技",
+          "reason": "AI覆铜板+PCB+半年报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:20:35",
+          "last_limit_up_time": "15:14:26",
+          "turnover_rate": 3.25,
+          "amount": 10729352256.43
+        },
+        {
+          "code": "600641",
+          "name": "先导基电",
+          "reason": "铟+铋材料+半导体设备+存储芯片",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:50:32",
+          "last_limit_up_time": "11:23:20",
+          "turnover_rate": 8.58,
+          "amount": 2390774159.01
+        },
+        {
+          "code": "688419",
+          "name": "耐科装备",
+          "reason": "先进封装+存储芯片+订单饱满",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:02:29",
+          "last_limit_up_time": "14:31:47",
+          "turnover_rate": 6.83,
+          "amount": 354893416.95
         }
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "name": "重组蛋白",
       "concept_code": "308822",
       "plate_code": "885955",
-      "heat_score": 66.03,
-      "change_pct": 5.52,
-      "net_inflow_yi": 17.67,
-      "change_rank": 4,
-      "flow_rank": 47,
-      "change_score": 86.27,
-      "flow_score": 41.3,
+      "heat_score": 74.72,
+      "change_pct": 6.61,
+      "net_inflow_yi": 26.96,
+      "change_rank": 3,
+      "flow_rank": 29,
+      "change_score": 85.64,
+      "flow_score": 61.37,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -499,8 +367,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:36:42",
           "last_limit_up_time": "10:45:03",
-          "turnover_rate": 11.42,
-          "amount": 889521275.25
+          "turnover_rate": 11.74,
+          "amount": 915450283.25
         },
         {
           "code": "688137",
@@ -509,8 +377,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:26:55",
           "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.44,
-          "amount": 165595063.59
+          "turnover_rate": 5.62,
+          "amount": 171227019.43
         },
         {
           "code": "301047",
@@ -519,166 +387,358 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "13:02:15",
           "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.22,
-          "amount": 1321811716.79
+          "turnover_rate": 11.6,
+          "amount": 1370944799.75
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "国家大基金持股",
+      "concept_code": "307816",
+      "plate_code": "885893",
+      "heat_score": 70.61,
+      "change_pct": 3.74,
+      "net_inflow_yi": 64.42,
+      "change_rank": 10,
+      "flow_rank": 4,
+      "change_score": 57.03,
+      "flow_score": 87.21,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600206",
+          "name": "有研新材",
+          "reason": "半年报增长+半导体靶材+稀土+央企",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "10:00:37",
+          "last_limit_up_time": "10:00:37",
+          "turnover_rate": 10.83,
+          "amount": 4287778275.57
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "仿制药一致性评价",
+      "concept_code": "308572",
+      "plate_code": "885856",
+      "heat_score": 68.32,
+      "change_pct": 3.71,
+      "net_inflow_yi": 57.56,
+      "change_rank": 11,
+      "flow_rank": 7,
+      "change_score": 56.73,
+      "flow_score": 82.48,
+      "limit_up_count": 6,
+      "limit_up_stocks": [
+        {
+          "code": "600664",
+          "name": "哈药股份",
+          "reason": "创新药+拟中标集采+业绩预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:33:28",
+          "last_limit_up_time": "09:33:28",
+          "turnover_rate": 10.71,
+          "amount": 1806257752.84
+        },
+        {
+          "code": "600267",
+          "name": "海正药业",
+          "reason": "创新药+宠物药+中报预增+椒江国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:48",
+          "last_limit_up_time": "09:38:57",
+          "turnover_rate": 4.82,
+          "amount": 731855688.84
+        },
+        {
+          "code": "002437",
+          "name": "誉衡药业",
+          "reason": "创新药+CNS研发+业绩增长+仿制药龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:41:06",
+          "last_limit_up_time": "11:00:09",
+          "turnover_rate": 10.87,
+          "amount": 703776134.43
+        },
+        {
+          "code": "603567",
+          "name": "珍宝岛",
+          "reason": "中药+创新药+CXO概念",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:42:03",
+          "last_limit_up_time": "11:08:24",
+          "turnover_rate": 14.1,
+          "amount": 918982605.31
+        },
+        {
+          "code": "002900",
+          "name": "哈三联",
+          "reason": "创新药+化学制药+中报预计减亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:48:54",
+          "last_limit_up_time": "09:48:54",
+          "turnover_rate": 19.65,
+          "amount": 414891610.06
+        },
+        {
+          "code": "000739",
+          "name": "普洛药业",
+          "reason": "氟泽雷塞获批+CDMO+创新药合作",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:22:21",
+          "last_limit_up_time": "11:22:21",
+          "turnover_rate": 3.63,
+          "amount": 946186051.95
         }
       ]
     },
     {
       "rank": 8,
-      "name": "玻璃基板",
-      "concept_code": "309268",
-      "plate_code": "886111",
-      "heat_score": 61.88,
-      "change_pct": 3.9,
-      "net_inflow_yi": 39.48,
-      "change_rank": 7,
-      "flow_rank": 14,
-      "change_score": 68.19,
-      "flow_score": 54.16,
-      "limit_up_count": 1,
+      "name": "金属铜",
+      "concept_code": "301577",
+      "plate_code": "885973",
+      "heat_score": 64.75,
+      "change_pct": 2.26,
+      "net_inflow_yi": 71.69,
+      "change_rank": 44,
+      "flow_rank": 2,
+      "change_score": 42.27,
+      "flow_score": 92.23,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+6G",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:10",
-          "last_limit_up_time": "10:03:16",
-          "turnover_rate": 9.68,
-          "amount": 2044469150.33
+          "code": "000506",
+          "name": "招金黄金",
+          "reason": "黄金+半年报预增+国企改革",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:50:45",
+          "last_limit_up_time": "13:50:45",
+          "turnover_rate": 10.29,
+          "amount": 1651156742.71
+        },
+        {
+          "code": "000603",
+          "name": "盛达资源",
+          "reason": "白银龙头+铜金矿投产+技改获批+半年报增长",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:55:06",
+          "last_limit_up_time": "14:55:06",
+          "turnover_rate": 16.92,
+          "amount": 3615996168.55
         }
       ]
     },
     {
       "rank": 9,
-      "name": "第三代半导体",
-      "concept_code": "308700",
-      "plate_code": "885908",
-      "heat_score": 60.38,
-      "change_pct": 3.3,
-      "net_inflow_yi": 47.71,
-      "change_rank": 14,
-      "flow_rank": 10,
-      "change_score": 61.5,
-      "flow_score": 59.02,
-      "limit_up_count": 6,
+      "name": "合成生物",
+      "concept_code": "309129",
+      "plate_code": "886077",
+      "heat_score": 62.1,
+      "change_pct": 3.33,
+      "net_inflow_yi": 44.26,
+      "change_rank": 19,
+      "flow_rank": 13,
+      "change_score": 52.94,
+      "flow_score": 73.3,
+      "limit_up_count": 7,
       "limit_up_stocks": [
         {
-          "code": "002428",
-          "name": "云南锗业",
-          "reason": "磷化铟+重大合同+锗业龙头",
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+创新药+金华国资入主",
           "consecutive_boards": 4,
-          "first_limit_up_time": "10:10:57",
-          "last_limit_up_time": "10:48:42",
-          "turnover_rate": 17.93,
-          "amount": 11518007518.75
+          "first_limit_up_time": "09:31:00",
+          "last_limit_up_time": "09:32:03",
+          "turnover_rate": 15.62,
+          "amount": 628410380.3
         },
         {
-          "code": "688693",
-          "name": "锴威特",
-          "reason": "资产重组+功率半导体+SiC MOSFET",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:02",
-          "last_limit_up_time": "09:25:02",
-          "turnover_rate": 1.83,
-          "amount": 66459386.42
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "AI服务器PCB+800G光模块+陶瓷衬板",
+          "code": "600267",
+          "name": "海正药业",
+          "reason": "创新药+宠物药+中报预增+椒江国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:16:05",
-          "last_limit_up_time": "10:16:05",
-          "turnover_rate": 6.73,
-          "amount": 647056696.02
+          "first_limit_up_time": "09:37:48",
+          "last_limit_up_time": "09:38:57",
+          "turnover_rate": 4.82,
+          "amount": 731855688.84
         },
         {
-          "code": "600641",
-          "name": "先导基电",
-          "reason": "铟+铋材料+半导体设备+存储芯片",
+          "code": "002821",
+          "name": "凯莱英",
+          "reason": "创新药+多肽CDMO+增资子公司",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:50:32",
-          "last_limit_up_time": "11:23:20",
-          "turnover_rate": 8.36,
-          "amount": 2326918541.41
+          "first_limit_up_time": "10:18:06",
+          "last_limit_up_time": "10:18:06",
+          "turnover_rate": 3.42,
+          "amount": 1802066694.26
         },
         {
-          "code": "300400",
-          "name": "劲拓股份",
-          "reason": "先进封装+PCB+电子热工龙头",
+          "code": "000739",
+          "name": "普洛药业",
+          "reason": "氟泽雷塞获批+CDMO+创新药合作",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:11:12",
-          "last_limit_up_time": "13:11:12",
-          "turnover_rate": 11.13,
-          "amount": 787231349.29
+          "first_limit_up_time": "11:22:21",
+          "last_limit_up_time": "11:22:21",
+          "turnover_rate": 3.63,
+          "amount": 946186051.95
         },
         {
-          "code": "002943",
-          "name": "宇晶股份",
-          "reason": "碳化硅设备+机器人+稀土永磁+定增",
+          "code": "688137",
+          "name": "近岸蛋白",
+          "reason": "CRO+重组蛋白+AI医药",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:32:36",
-          "last_limit_up_time": "13:32:36",
-          "turnover_rate": 7.99,
-          "amount": 515719547.75
+          "first_limit_up_time": "11:26:55",
+          "last_limit_up_time": "11:26:55",
+          "turnover_rate": 5.62,
+          "amount": 171227019.43
+        },
+        {
+          "code": "301047",
+          "name": "义翘神州",
+          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:02:15",
+          "last_limit_up_time": "13:38:39",
+          "turnover_rate": 11.6,
+          "amount": 1370944799.75
+        },
+        {
+          "code": "301230",
+          "name": "泓博医药",
+          "reason": "AI制药+CRO+创新药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:35:27",
+          "last_limit_up_time": "14:35:27",
+          "turnover_rate": 15.65,
+          "amount": 757602236.49
         }
       ]
     },
     {
       "rank": 10,
-      "name": "富士康概念",
-      "concept_code": "307954",
-      "plate_code": "885786",
-      "heat_score": 59.83,
-      "change_pct": 3.61,
-      "net_inflow_yi": 38.47,
-      "change_rank": 11,
-      "flow_rank": 17,
-      "change_score": 64.96,
-      "flow_score": 53.57,
-      "limit_up_count": 4,
+      "name": "流感",
+      "concept_code": "300038",
+      "plate_code": "885879",
+      "heat_score": 62.06,
+      "change_pct": 3.67,
+      "net_inflow_yi": 38.12,
+      "change_rank": 12,
+      "flow_rank": 16,
+      "change_score": 56.33,
+      "flow_score": 69.07,
+      "limit_up_count": 11,
       "limit_up_stocks": [
         {
-          "code": "603459",
-          "name": "红板科技",
-          "reason": "HDI技改扩产+AI算力+PCB",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "09:51:45",
-          "turnover_rate": 22.84,
-          "amount": 1874312043.39
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+创新药+金华国资入主",
+          "consecutive_boards": 4,
+          "first_limit_up_time": "09:31:00",
+          "last_limit_up_time": "09:32:03",
+          "turnover_rate": 15.62,
+          "amount": 628410380.3
         },
         {
-          "code": "002913",
-          "name": "奥士康",
-          "reason": "PCB+AI服务器+回购完成",
+          "code": "600664",
+          "name": "哈药股份",
+          "reason": "创新药+拟中标集采+业绩预增",
           "consecutive_boards": 1,
-          "first_limit_up_time": "10:49:06",
-          "last_limit_up_time": "10:49:06",
-          "turnover_rate": 2.14,
-          "amount": 348854047.86
+          "first_limit_up_time": "09:33:28",
+          "last_limit_up_time": "09:33:28",
+          "turnover_rate": 10.71,
+          "amount": 1806257752.84
         },
         {
-          "code": "002741",
-          "name": "光华科技",
-          "reason": "PCB化学品+先进封装+半年度预增",
+          "code": "002742",
+          "name": "冀衡医药",
+          "reason": "减肥药+医药制造+资产注入+高管增持",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:01:06",
-          "last_limit_up_time": "13:01:06",
-          "turnover_rate": 7.93,
-          "amount": 860777868.53
+          "first_limit_up_time": "09:33:45",
+          "last_limit_up_time": "09:34:39",
+          "turnover_rate": 3.44,
+          "amount": 73389971.0
         },
         {
-          "code": "300400",
-          "name": "劲拓股份",
-          "reason": "先进封装+PCB+电子热工龙头",
+          "code": "600267",
+          "name": "海正药业",
+          "reason": "创新药+宠物药+中报预增+椒江国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "13:11:12",
-          "last_limit_up_time": "13:11:12",
-          "turnover_rate": 11.13,
-          "amount": 787231349.29
+          "first_limit_up_time": "09:37:48",
+          "last_limit_up_time": "09:38:57",
+          "turnover_rate": 4.82,
+          "amount": 731855688.84
+        },
+        {
+          "code": "603567",
+          "name": "珍宝岛",
+          "reason": "中药+创新药+CXO概念",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:42:03",
+          "last_limit_up_time": "11:08:24",
+          "turnover_rate": 14.1,
+          "amount": 918982605.31
+        },
+        {
+          "code": "002900",
+          "name": "哈三联",
+          "reason": "创新药+化学制药+中报预计减亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:48:54",
+          "last_limit_up_time": "09:48:54",
+          "turnover_rate": 19.65,
+          "amount": 414891610.06
+        },
+        {
+          "code": "000739",
+          "name": "普洛药业",
+          "reason": "氟泽雷塞获批+CDMO+创新药合作",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:22:21",
+          "last_limit_up_time": "11:22:21",
+          "turnover_rate": 3.63,
+          "amount": 946186051.95
+        },
+        {
+          "code": "688137",
+          "name": "近岸蛋白",
+          "reason": "CRO+重组蛋白+AI医药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:26:55",
+          "last_limit_up_time": "11:26:55",
+          "turnover_rate": 5.62,
+          "amount": 171227019.43
+        },
+        {
+          "code": "301047",
+          "name": "义翘神州",
+          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:02:15",
+          "last_limit_up_time": "13:38:39",
+          "turnover_rate": 11.6,
+          "amount": 1370944799.75
+        },
+        {
+          "code": "300363",
+          "name": "博腾股份",
+          "reason": "细胞与基因治疗+药品生产许可证+创新药CDMO",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:22:51",
+          "last_limit_up_time": "13:33:42",
+          "turnover_rate": 14.77,
+          "amount": 1383423818.1
+        },
+        {
+          "code": "301230",
+          "name": "泓博医药",
+          "reason": "AI制药+CRO+创新药",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:35:27",
+          "last_limit_up_time": "14:35:27",
+          "turnover_rate": 15.65,
+          "amount": 757602236.49
         }
       ]
     }
