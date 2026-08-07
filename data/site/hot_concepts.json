@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07 08:27:15",
+  "generated_at": "2026-08-07 11:17:37",
   "latest_trade_date": "2026-08-07",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -24,89 +24,8 @@
       "flow_rank": 5,
       "change_score": 100.0,
       "flow_score": 84.91,
-      "limit_up_count": 8,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资入主",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:00",
-          "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.62,
-          "amount": 628410380.3
-        },
-        {
-          "code": "002821",
-          "name": "凯莱英",
-          "reason": "创新药+多肽CDMO+增资子公司",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:18:06",
-          "last_limit_up_time": "10:18:06",
-          "turnover_rate": 3.42,
-          "amount": 1802066694.26
-        },
-        {
-          "code": "000739",
-          "name": "普洛药业",
-          "reason": "氟泽雷塞获批+CDMO+创新药合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:21",
-          "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.63,
-          "amount": 946186051.95
-        },
-        {
-          "code": "688137",
-          "name": "近岸蛋白",
-          "reason": "CRO+重组蛋白+AI医药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:26:55",
-          "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.62,
-          "amount": 171227019.43
-        },
-        {
-          "code": "301047",
-          "name": "义翘神州",
-          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:15",
-          "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.6,
-          "amount": 1370944799.75
-        },
-        {
-          "code": "300363",
-          "name": "博腾股份",
-          "reason": "细胞与基因治疗+药品生产许可证+创新药CDMO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:22:51",
-          "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.77,
-          "amount": 1383423818.1
-        },
-        {
-          "code": "603127",
-          "name": "昭衍新药",
-          "reason": "实验猴涨价+中报预增+CRO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:29",
-          "last_limit_up_time": "14:07:29",
-          "turnover_rate": 9.48,
-          "amount": 2888425195.0
-        },
-        {
-          "code": "301230",
-          "name": "泓博医药",
-          "reason": "AI制药+CRO+创新药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:27",
-          "last_limit_up_time": "14:35:27",
-          "turnover_rate": 15.65,
-          "amount": 757602236.49
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 2,
@@ -120,69 +39,8 @@
       "flow_rank": 6,
       "change_score": 85.74,
       "flow_score": 83.6,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资入主",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:00",
-          "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.62,
-          "amount": 628410380.3
-        },
-        {
-          "code": "002742",
-          "name": "冀衡医药",
-          "reason": "减肥药+医药制造+资产注入+高管增持",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:33:45",
-          "last_limit_up_time": "09:34:39",
-          "turnover_rate": 3.44,
-          "amount": 73389971.0
-        },
-        {
-          "code": "600267",
-          "name": "海正药业",
-          "reason": "创新药+宠物药+中报预增+椒江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:48",
-          "last_limit_up_time": "09:38:57",
-          "turnover_rate": 4.82,
-          "amount": 731855688.84
-        },
-        {
-          "code": "002821",
-          "name": "凯莱英",
-          "reason": "创新药+多肽CDMO+增资子公司",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:18:06",
-          "last_limit_up_time": "10:18:06",
-          "turnover_rate": 3.42,
-          "amount": 1802066694.26
-        },
-        {
-          "code": "000739",
-          "name": "普洛药业",
-          "reason": "氟泽雷塞获批+CDMO+创新药合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:21",
-          "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.63,
-          "amount": 946186051.95
-        },
-        {
-          "code": "300363",
-          "name": "博腾股份",
-          "reason": "细胞与基因治疗+药品生产许可证+创新药CDMO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:22:51",
-          "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.77,
-          "amount": 1383423818.1
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 3,
@@ -196,69 +54,8 @@
       "flow_rank": 10,
       "change_score": 79.36,
       "flow_score": 79.59,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资入主",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:00",
-          "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.62,
-          "amount": 628410380.3
-        },
-        {
-          "code": "301080",
-          "name": "百普赛斯",
-          "reason": "AI蛋白质设计+创新药+CGT+回购注销",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:42",
-          "last_limit_up_time": "10:45:03",
-          "turnover_rate": 11.74,
-          "amount": 915450283.25
-        },
-        {
-          "code": "688137",
-          "name": "近岸蛋白",
-          "reason": "CRO+重组蛋白+AI医药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:26:55",
-          "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.62,
-          "amount": 171227019.43
-        },
-        {
-          "code": "301047",
-          "name": "义翘神州",
-          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:15",
-          "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.6,
-          "amount": 1370944799.75
-        },
-        {
-          "code": "300363",
-          "name": "博腾股份",
-          "reason": "细胞与基因治疗+药品生产许可证+创新药CDMO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:22:51",
-          "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.77,
-          "amount": 1383423818.1
-        },
-        {
-          "code": "603127",
-          "name": "昭衍新药",
-          "reason": "实验猴涨价+中报预增+CRO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:07:29",
-          "last_limit_up_time": "14:07:29",
-          "turnover_rate": 9.48,
-          "amount": 2888425195.0
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 4,
@@ -272,79 +69,8 @@
       "flow_rank": 1,
       "change_score": 55.53,
       "flow_score": 100.0,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "603773",
-          "name": "沃格光电",
-          "reason": "TGV玻璃基板+先进封装+6G",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:10",
-          "last_limit_up_time": "10:03:16",
-          "turnover_rate": 9.74,
-          "amount": 2058335109.83
-        },
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半年报增长+半导体靶材+稀土+央企",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "10:00:37",
-          "last_limit_up_time": "10:00:37",
-          "turnover_rate": 10.83,
-          "amount": 4287778275.57
-        },
-        {
-          "code": "603459",
-          "name": "红板科技",
-          "reason": "HDI技改扩产+AI算力+PCB",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:18",
-          "last_limit_up_time": "09:51:45",
-          "turnover_rate": 24.12,
-          "amount": 1981697461.39
-        },
-        {
-          "code": "603936",
-          "name": "博敏电子",
-          "reason": "AI服务器PCB+800G光模块+陶瓷衬板",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:16:05",
-          "last_limit_up_time": "10:16:05",
-          "turnover_rate": 6.89,
-          "amount": 663102985.02
-        },
-        {
-          "code": "600183",
-          "name": "生益科技",
-          "reason": "AI覆铜板+PCB+半年报预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:20:35",
-          "last_limit_up_time": "15:14:26",
-          "turnover_rate": 3.25,
-          "amount": 10729352256.43
-        },
-        {
-          "code": "600641",
-          "name": "先导基电",
-          "reason": "铟+铋材料+半导体设备+存储芯片",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:50:32",
-          "last_limit_up_time": "11:23:20",
-          "turnover_rate": 8.58,
-          "amount": 2390774159.01
-        },
-        {
-          "code": "688419",
-          "name": "耐科装备",
-          "reason": "先进封装+存储芯片+订单饱满",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:29",
-          "last_limit_up_time": "14:31:47",
-          "turnover_rate": 6.83,
-          "amount": 354893416.95
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
@@ -358,39 +84,8 @@
       "flow_rank": 29,
       "change_score": 85.64,
       "flow_score": 61.37,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "301080",
-          "name": "百普赛斯",
-          "reason": "AI蛋白质设计+创新药+CGT+回购注销",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:36:42",
-          "last_limit_up_time": "10:45:03",
-          "turnover_rate": 11.74,
-          "amount": 915450283.25
-        },
-        {
-          "code": "688137",
-          "name": "近岸蛋白",
-          "reason": "CRO+重组蛋白+AI医药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:26:55",
-          "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.62,
-          "amount": 171227019.43
-        },
-        {
-          "code": "301047",
-          "name": "义翘神州",
-          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:15",
-          "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.6,
-          "amount": 1370944799.75
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 6,
@@ -404,19 +99,8 @@
       "flow_rank": 4,
       "change_score": 57.03,
       "flow_score": 87.21,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600206",
-          "name": "有研新材",
-          "reason": "半年报增长+半导体靶材+稀土+央企",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "10:00:37",
-          "last_limit_up_time": "10:00:37",
-          "turnover_rate": 10.83,
-          "amount": 4287778275.57
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 7,
@@ -430,69 +114,8 @@
       "flow_rank": 7,
       "change_score": 56.73,
       "flow_score": 82.48,
-      "limit_up_count": 6,
-      "limit_up_stocks": [
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "创新药+拟中标集采+业绩预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:33:28",
-          "last_limit_up_time": "09:33:28",
-          "turnover_rate": 10.71,
-          "amount": 1806257752.84
-        },
-        {
-          "code": "600267",
-          "name": "海正药业",
-          "reason": "创新药+宠物药+中报预增+椒江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:48",
-          "last_limit_up_time": "09:38:57",
-          "turnover_rate": 4.82,
-          "amount": 731855688.84
-        },
-        {
-          "code": "002437",
-          "name": "誉衡药业",
-          "reason": "创新药+CNS研发+业绩增长+仿制药龙头",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:41:06",
-          "last_limit_up_time": "11:00:09",
-          "turnover_rate": 10.87,
-          "amount": 703776134.43
-        },
-        {
-          "code": "603567",
-          "name": "珍宝岛",
-          "reason": "中药+创新药+CXO概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:42:03",
-          "last_limit_up_time": "11:08:24",
-          "turnover_rate": 14.1,
-          "amount": 918982605.31
-        },
-        {
-          "code": "002900",
-          "name": "哈三联",
-          "reason": "创新药+化学制药+中报预计减亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:48:54",
-          "last_limit_up_time": "09:48:54",
-          "turnover_rate": 19.65,
-          "amount": 414891610.06
-        },
-        {
-          "code": "000739",
-          "name": "普洛药业",
-          "reason": "氟泽雷塞获批+CDMO+创新药合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:21",
-          "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.63,
-          "amount": 946186051.95
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 8,
@@ -506,29 +129,8 @@
       "flow_rank": 2,
       "change_score": 42.27,
       "flow_score": 92.23,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "000506",
-          "name": "招金黄金",
-          "reason": "黄金+半年报预增+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:50:45",
-          "last_limit_up_time": "13:50:45",
-          "turnover_rate": 10.29,
-          "amount": 1651156742.71
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "白银龙头+铜金矿投产+技改获批+半年报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:55:06",
-          "last_limit_up_time": "14:55:06",
-          "turnover_rate": 16.92,
-          "amount": 3615996168.55
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 9,
@@ -542,79 +144,8 @@
       "flow_rank": 13,
       "change_score": 52.94,
       "flow_score": 73.3,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资入主",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:00",
-          "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.62,
-          "amount": 628410380.3
-        },
-        {
-          "code": "600267",
-          "name": "海正药业",
-          "reason": "创新药+宠物药+中报预增+椒江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:48",
-          "last_limit_up_time": "09:38:57",
-          "turnover_rate": 4.82,
-          "amount": 731855688.84
-        },
-        {
-          "code": "002821",
-          "name": "凯莱英",
-          "reason": "创新药+多肽CDMO+增资子公司",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:18:06",
-          "last_limit_up_time": "10:18:06",
-          "turnover_rate": 3.42,
-          "amount": 1802066694.26
-        },
-        {
-          "code": "000739",
-          "name": "普洛药业",
-          "reason": "氟泽雷塞获批+CDMO+创新药合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:21",
-          "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.63,
-          "amount": 946186051.95
-        },
-        {
-          "code": "688137",
-          "name": "近岸蛋白",
-          "reason": "CRO+重组蛋白+AI医药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:26:55",
-          "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.62,
-          "amount": 171227019.43
-        },
-        {
-          "code": "301047",
-          "name": "义翘神州",
-          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:15",
-          "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.6,
-          "amount": 1370944799.75
-        },
-        {
-          "code": "301230",
-          "name": "泓博医药",
-          "reason": "AI制药+CRO+创新药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:27",
-          "last_limit_up_time": "14:35:27",
-          "turnover_rate": 15.65,
-          "amount": 757602236.49
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
@@ -628,119 +159,8 @@
       "flow_rank": 16,
       "change_score": 56.33,
       "flow_score": 69.07,
-      "limit_up_count": 11,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资入主",
-          "consecutive_boards": 4,
-          "first_limit_up_time": "09:31:00",
-          "last_limit_up_time": "09:32:03",
-          "turnover_rate": 15.62,
-          "amount": 628410380.3
-        },
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "创新药+拟中标集采+业绩预增",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:33:28",
-          "last_limit_up_time": "09:33:28",
-          "turnover_rate": 10.71,
-          "amount": 1806257752.84
-        },
-        {
-          "code": "002742",
-          "name": "冀衡医药",
-          "reason": "减肥药+医药制造+资产注入+高管增持",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:33:45",
-          "last_limit_up_time": "09:34:39",
-          "turnover_rate": 3.44,
-          "amount": 73389971.0
-        },
-        {
-          "code": "600267",
-          "name": "海正药业",
-          "reason": "创新药+宠物药+中报预增+椒江国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:37:48",
-          "last_limit_up_time": "09:38:57",
-          "turnover_rate": 4.82,
-          "amount": 731855688.84
-        },
-        {
-          "code": "603567",
-          "name": "珍宝岛",
-          "reason": "中药+创新药+CXO概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:42:03",
-          "last_limit_up_time": "11:08:24",
-          "turnover_rate": 14.1,
-          "amount": 918982605.31
-        },
-        {
-          "code": "002900",
-          "name": "哈三联",
-          "reason": "创新药+化学制药+中报预计减亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:48:54",
-          "last_limit_up_time": "09:48:54",
-          "turnover_rate": 19.65,
-          "amount": 414891610.06
-        },
-        {
-          "code": "000739",
-          "name": "普洛药业",
-          "reason": "氟泽雷塞获批+CDMO+创新药合作",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:22:21",
-          "last_limit_up_time": "11:22:21",
-          "turnover_rate": 3.63,
-          "amount": 946186051.95
-        },
-        {
-          "code": "688137",
-          "name": "近岸蛋白",
-          "reason": "CRO+重组蛋白+AI医药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:26:55",
-          "last_limit_up_time": "11:26:55",
-          "turnover_rate": 5.62,
-          "amount": 171227019.43
-        },
-        {
-          "code": "301047",
-          "name": "义翘神州",
-          "reason": "阿尔茨海默病+p-Tau217蛋白+CRO概念+生物试剂",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:02:15",
-          "last_limit_up_time": "13:38:39",
-          "turnover_rate": 11.6,
-          "amount": 1370944799.75
-        },
-        {
-          "code": "300363",
-          "name": "博腾股份",
-          "reason": "细胞与基因治疗+药品生产许可证+创新药CDMO",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:22:51",
-          "last_limit_up_time": "13:33:42",
-          "turnover_rate": 14.77,
-          "amount": 1383423818.1
-        },
-        {
-          "code": "301230",
-          "name": "泓博医药",
-          "reason": "AI制药+CRO+创新药",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:35:27",
-          "last_limit_up_time": "14:35:27",
-          "turnover_rate": 15.65,
-          "amount": 757602236.49
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
   "all_count": 294
