@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 05:48:03",
+  "generated_at": "2026-08-10 08:51:28",
   "latest_trade_date": "2026-08-10",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,13 +17,13 @@
       "name": "兵装重组概念",
       "concept_code": "309185",
       "plate_code": "886101",
-      "heat_score": 94.57,
-      "change_pct": 6.37,
-      "net_inflow_yi": 0.91,
+      "heat_score": 94.38,
+      "change_pct": 7.17,
+      "net_inflow_yi": 1.16,
       "change_rank": 1,
-      "flow_rank": 52,
+      "flow_rank": 74,
       "change_score": 100.0,
-      "flow_score": 87.93,
+      "flow_score": 87.52,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -33,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:54:14",
           "last_limit_up_time": "09:54:14",
-          "turnover_rate": 5.3,
-          "amount": 1334278268.85
+          "turnover_rate": 5.43,
+          "amount": 1367567486.85
         },
         {
           "code": "600698",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:06:25",
           "last_limit_up_time": "10:06:25",
-          "turnover_rate": 5.68,
-          "amount": 331137456.66
+          "turnover_rate": 5.75,
+          "amount": 335146000.66
         }
       ]
     },
@@ -53,13 +53,13 @@
       "name": "猪肉",
       "concept_code": "300451",
       "plate_code": "885573",
-      "heat_score": 81.9,
-      "change_pct": 3.86,
-      "net_inflow_yi": 14.77,
+      "heat_score": 78.31,
+      "change_pct": 4.07,
+      "net_inflow_yi": 15.8,
       "change_rank": 3,
-      "flow_rank": 4,
-      "change_score": 72.23,
-      "flow_score": 93.72,
+      "flow_rank": 5,
+      "change_score": 63.87,
+      "flow_score": 95.96,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -69,8 +69,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:21",
           "last_limit_up_time": "09:38:21",
-          "turnover_rate": 3.64,
-          "amount": 346929407.4
+          "turnover_rate": 3.77,
+          "amount": 360006347.37
         }
       ]
     },
@@ -79,13 +79,13 @@
       "name": "养鸡",
       "concept_code": "301576",
       "plate_code": "885808",
-      "heat_score": 80.08,
-      "change_pct": 3.87,
-      "net_inflow_yi": 4.73,
+      "heat_score": 77.15,
+      "change_pct": 4.3,
+      "net_inflow_yi": 5.64,
       "change_rank": 2,
-      "flow_rank": 14,
-      "change_score": 72.35,
-      "flow_score": 89.53,
+      "flow_rank": 31,
+      "change_score": 66.55,
+      "flow_score": 90.1,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -95,8 +95,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:21",
           "last_limit_up_time": "09:38:21",
-          "turnover_rate": 3.64,
-          "amount": 346929407.4
+          "turnover_rate": 3.77,
+          "amount": 360006347.37
         }
       ]
     },
@@ -105,13 +105,13 @@
       "name": "乳业",
       "concept_code": "300983",
       "plate_code": "885462",
-      "heat_score": 78.76,
-      "change_pct": 3.66,
-      "net_inflow_yi": 4.55,
+      "heat_score": 73.69,
+      "change_pct": 3.82,
+      "net_inflow_yi": 4.16,
       "change_rank": 4,
-      "flow_rank": 15,
-      "change_score": 70.02,
-      "flow_score": 89.45,
+      "flow_rank": 42,
+      "change_score": 60.96,
+      "flow_score": 89.25,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -121,8 +121,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:38:21",
           "last_limit_up_time": "09:38:21",
-          "turnover_rate": 3.64,
-          "amount": 346929407.4
+          "turnover_rate": 3.77,
+          "amount": 360006347.37
         },
         {
           "code": "605179",
@@ -131,8 +131,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:59:45",
           "last_limit_up_time": "10:02:39",
-          "turnover_rate": 7.48,
-          "amount": 714419955.98
+          "turnover_rate": 7.74,
+          "amount": 740795955.98
         },
         {
           "code": "002329",
@@ -141,23 +141,85 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:07:15",
           "last_limit_up_time": "11:21:03",
-          "turnover_rate": 13.66,
-          "amount": 296707957.91
+          "turnover_rate": 13.83,
+          "amount": 300558963.91
         }
       ]
     },
     {
       "rank": 5,
+      "name": "金属铅",
+      "concept_code": "308864",
+      "plate_code": "885971",
+      "heat_score": 73.18,
+      "change_pct": 3.03,
+      "net_inflow_yi": 21.74,
+      "change_rank": 5,
+      "flow_rank": 2,
+      "change_score": 51.75,
+      "flow_score": 99.38,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "601020",
+          "name": "华钰矿业",
+          "reason": "锑资源+黄金概念+有色金属采选+控制权变更",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:39:16",
+          "last_limit_up_time": "13:39:16",
+          "turnover_rate": 6.01,
+          "amount": 1113472948.35
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "金属锌",
+      "concept_code": "301582",
+      "plate_code": "885970",
+      "heat_score": 70.48,
+      "change_pct": 2.93,
+      "net_inflow_yi": 13.8,
+      "change_rank": 6,
+      "flow_rank": 8,
+      "change_score": 50.58,
+      "flow_score": 94.8,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "600490",
+          "name": "鹏欣资源",
+          "reason": "黄金+铜+半年度预增+回购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:01",
+          "last_limit_up_time": "09:38:40",
+          "turnover_rate": 4.39,
+          "amount": 686712890.16
+        },
+        {
+          "code": "601020",
+          "name": "华钰矿业",
+          "reason": "锑资源+黄金概念+有色金属采选+控制权变更",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:39:16",
+          "last_limit_up_time": "13:39:16",
+          "turnover_rate": 6.01,
+          "amount": 1113472948.35
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "name": "预制菜",
       "concept_code": "308814",
       "plate_code": "885951",
-      "heat_score": 74.37,
-      "change_pct": 2.74,
-      "net_inflow_yi": 10.96,
-      "change_rank": 5,
-      "flow_rank": 5,
-      "change_score": 59.85,
-      "flow_score": 92.13,
+      "heat_score": 70.13,
+      "change_pct": 2.93,
+      "net_inflow_yi": 12.43,
+      "change_rank": 6,
+      "flow_rank": 11,
+      "change_score": 50.58,
+      "flow_score": 94.01,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -167,8 +229,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:58:33",
           "last_limit_up_time": "10:06:36",
-          "turnover_rate": 6.95,
-          "amount": 137399340.16
+          "turnover_rate": 8.59,
+          "amount": 170534190.16
         },
         {
           "code": "000428",
@@ -177,8 +239,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:21:24",
           "last_limit_up_time": "10:21:24",
-          "turnover_rate": 5.09,
-          "amount": 213156694.51
+          "turnover_rate": 5.18,
+          "amount": 217110358.51
         },
         {
           "code": "600327",
@@ -187,38 +249,89 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:13:58",
           "last_limit_up_time": "11:18:10",
-          "turnover_rate": 4.26,
-          "amount": 144516516.96
+          "turnover_rate": 4.51,
+          "amount": 153080942.24
         }
       ]
     },
     {
-      "rank": 6,
-      "name": "白酒概念",
-      "concept_code": "301496",
-      "plate_code": "885525",
-      "heat_score": 71.95,
-      "change_pct": 1.85,
-      "net_inflow_yi": 26.85,
-      "change_rank": 24,
-      "flow_rank": 2,
-      "change_score": 50.0,
-      "flow_score": 98.77,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "rank": 8,
+      "name": "黄金概念",
+      "concept_code": "300248",
+      "plate_code": "885530",
+      "heat_score": 69.8,
+      "change_pct": 2.71,
+      "net_inflow_yi": 16.61,
+      "change_rank": 9,
+      "flow_rank": 4,
+      "change_score": 48.02,
+      "flow_score": 96.42,
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "002552",
+          "name": "宝鼎科技",
+          "reason": "覆铜板+黄金+业绩预增+地方国资",
+          "consecutive_boards": 5,
+          "first_limit_up_time": "09:25:00",
+          "last_limit_up_time": "10:16:51",
+          "turnover_rate": 6.46,
+          "amount": 1234617870.0
+        },
+        {
+          "code": "000506",
+          "name": "招金黄金",
+          "reason": "黄金+半年报预增+国企改革",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "13:53:39",
+          "last_limit_up_time": "13:53:39",
+          "turnover_rate": 13.08,
+          "amount": 2294767518.55
+        },
+        {
+          "code": "600490",
+          "name": "鹏欣资源",
+          "reason": "黄金+铜+半年度预增+回购",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:25:01",
+          "last_limit_up_time": "09:38:40",
+          "turnover_rate": 4.39,
+          "amount": 686712890.16
+        },
+        {
+          "code": "002345",
+          "name": "潮宏基",
+          "reason": "黄金+国际金价上涨+一季报增长",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:57:15",
+          "last_limit_up_time": "09:57:15",
+          "turnover_rate": 4.0,
+          "amount": 393649410.07
+        },
+        {
+          "code": "601020",
+          "name": "华钰矿业",
+          "reason": "锑资源+黄金概念+有色金属采选+控制权变更",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:39:16",
+          "last_limit_up_time": "13:39:16",
+          "turnover_rate": 6.01,
+          "amount": 1113472948.35
+        }
+      ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "生态农业",
       "concept_code": "300923",
       "plate_code": "885505",
-      "heat_score": 71.52,
-      "change_pct": 2.37,
-      "net_inflow_yi": 7.78,
-      "change_rank": 8,
-      "flow_rank": 7,
-      "change_score": 55.75,
-      "flow_score": 90.8,
+      "heat_score": 68.57,
+      "change_pct": 2.76,
+      "net_inflow_yi": 10.64,
+      "change_rank": 7,
+      "flow_rank": 12,
+      "change_score": 48.6,
+      "flow_score": 92.98,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -228,8 +341,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:19:18",
           "last_limit_up_time": "10:35:03",
-          "turnover_rate": 7.13,
-          "amount": 263019006.93
+          "turnover_rate": 7.24,
+          "amount": 266913625.68
         },
         {
           "code": "002329",
@@ -238,23 +351,23 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "11:07:15",
           "last_limit_up_time": "11:21:03",
-          "turnover_rate": 13.66,
-          "amount": 296707957.91
+          "turnover_rate": 13.83,
+          "amount": 300558963.91
         }
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "青蒿素",
       "concept_code": "301794",
       "plate_code": "885852",
-      "heat_score": 71.42,
-      "change_pct": 2.71,
-      "net_inflow_yi": -3.76,
-      "change_rank": 6,
-      "flow_rank": 107,
-      "change_score": 59.51,
-      "flow_score": 85.98,
+      "heat_score": 66.59,
+      "change_pct": 3.03,
+      "net_inflow_yi": -3.67,
+      "change_rank": 5,
+      "flow_rank": 134,
+      "change_score": 51.75,
+      "flow_score": 84.74,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
@@ -264,41 +377,11 @@
           "consecutive_boards": 5,
           "first_limit_up_time": "09:25:03",
           "last_limit_up_time": "09:25:03",
-          "turnover_rate": 1.24,
-          "amount": 55371897.22
+          "turnover_rate": 1.33,
+          "amount": 59325246.22
         }
       ]
-    },
-    {
-      "rank": 9,
-      "name": "超级品牌",
-      "concept_code": "306750",
-      "plate_code": "885761",
-      "heat_score": 70.86,
-      "change_pct": 1.58,
-      "net_inflow_yi": 29.78,
-      "change_rank": 42,
-      "flow_rank": 1,
-      "change_score": 47.01,
-      "flow_score": 100.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 10,
-      "name": "草甘膦",
-      "concept_code": "300157",
-      "plate_code": "885640",
-      "heat_score": 70.51,
-      "change_pct": 2.41,
-      "net_inflow_yi": 1.07,
-      "change_rank": 7,
-      "flow_rank": 50,
-      "change_score": 56.19,
-      "flow_score": 88.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
     }
   ],
-  "all_count": 297
+  "all_count": 294
 }
