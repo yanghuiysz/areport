@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 03:29:15",
+  "generated_at": "2026-08-11 05:25:23",
   "latest_trade_date": "2026-08-11",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,14 +17,14 @@
       "name": "MLCC概念",
       "concept_code": "309269",
       "plate_code": "886112",
-      "heat_score": 81.86,
-      "change_pct": 4.31,
-      "net_inflow_yi": -3.21,
+      "heat_score": 86.83,
+      "change_pct": 3.9,
+      "net_inflow_yi": -11.79,
       "change_rank": 1,
-      "flow_rank": 171,
+      "flow_rank": 248,
       "change_score": 100.0,
-      "flow_score": 59.69,
-      "limit_up_count": 4,
+      "flow_score": 70.73,
+      "limit_up_count": 3,
       "limit_up_stocks": [
         {
           "code": "000859",
@@ -33,8 +33,8 @@
           "consecutive_boards": 2,
           "first_limit_up_time": "09:44:30",
           "last_limit_up_time": "10:02:42",
-          "turnover_rate": 13.3,
-          "amount": 1215528770.82
+          "turnover_rate": 13.45,
+          "amount": 1230057718.82
         },
         {
           "code": "002585",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:32:36",
           "last_limit_up_time": "09:32:36",
-          "turnover_rate": 6.0,
-          "amount": 547130099.86
+          "turnover_rate": 6.11,
+          "amount": 557863655.86
         },
         {
           "code": "002859",
@@ -53,18 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:48:15",
           "last_limit_up_time": "09:52:33",
-          "turnover_rate": 4.14,
-          "amount": 1388671054.71
-        },
-        {
-          "code": "301566",
-          "name": "达利凯普",
-          "reason": "射频微波MLCC+全球市占率前六+5G通信",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:41:24",
-          "last_limit_up_time": "10:41:24",
-          "turnover_rate": 22.43,
-          "amount": 1303833460.89
+          "turnover_rate": 4.18,
+          "amount": 1404478930.83
         }
       ]
     },
@@ -73,13 +63,13 @@
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 71.66,
-      "change_pct": 2.5,
-      "net_inflow_yi": 13.4,
+      "heat_score": 83.64,
+      "change_pct": 2.96,
+      "net_inflow_yi": 17.15,
       "change_rank": 2,
-      "flow_rank": 29,
-      "change_score": 71.89,
-      "flow_score": 71.37,
+      "flow_rank": 20,
+      "change_score": 83.96,
+      "flow_score": 83.25,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -89,8 +79,8 @@
           "consecutive_boards": 6,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.04,
-          "amount": 834902237.53
+          "turnover_rate": 17.12,
+          "amount": 838810176.28
         },
         {
           "code": "603087",
@@ -99,18 +89,18 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:33:58",
           "last_limit_up_time": "09:33:58",
-          "turnover_rate": 2.65,
-          "amount": 1098833836.47
+          "turnover_rate": 2.69,
+          "amount": 1119010738.27
         },
         {
           "code": "301520",
           "name": "万邦医药",
-          "reason": "其他",
+          "reason": "创新药+CRO+收购赛德盛",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "11:24:54",
-          "turnover_rate": 56.1,
-          "amount": 1204045261.14
+          "last_limit_up_time": "13:03:57",
+          "turnover_rate": 57.65,
+          "amount": 1239606651.87
         }
       ]
     },
@@ -119,13 +109,13 @@
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 71.46,
-      "change_pct": 2.31,
-      "net_inflow_yi": 17.92,
+      "heat_score": 82.99,
+      "change_pct": 2.86,
+      "net_inflow_yi": 18.63,
       "change_rank": 3,
-      "flow_rank": 20,
-      "change_score": 68.94,
-      "flow_score": 74.54,
+      "flow_rank": 14,
+      "change_score": 82.25,
+      "flow_score": 83.89,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -135,47 +125,144 @@
           "consecutive_boards": 6,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.04,
-          "amount": 834902237.53
+          "turnover_rate": 17.12,
+          "amount": 838810176.28
         },
         {
           "code": "301520",
           "name": "万邦医药",
-          "reason": "其他",
+          "reason": "创新药+CRO+收购赛德盛",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "11:24:54",
-          "turnover_rate": 56.1,
-          "amount": 1204045261.14
+          "last_limit_up_time": "13:03:57",
+          "turnover_rate": 57.65,
+          "amount": 1239606651.87
         }
       ]
     },
     {
       "rank": 4,
+      "name": "创新药",
+      "concept_code": null,
+      "plate_code": "886015",
+      "heat_score": 80.02,
+      "change_pct": 1.89,
+      "net_inflow_yi": 50.12,
+      "change_rank": 7,
+      "flow_rank": 2,
+      "change_score": 65.7,
+      "flow_score": 97.52,
+      "limit_up_count": 4,
+      "limit_up_stocks": [
+        {
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+创新药+金华国资",
+          "consecutive_boards": 6,
+          "first_limit_up_time": "09:25:01",
+          "last_limit_up_time": "09:30:34",
+          "turnover_rate": 17.12,
+          "amount": 838810176.28
+        },
+        {
+          "code": "603087",
+          "name": "甘李药业",
+          "reason": "GLP-1出海+独家许可协议+创新药+胰岛素龙头",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:33:58",
+          "last_limit_up_time": "09:33:58",
+          "turnover_rate": 2.69,
+          "amount": 1119010738.27
+        },
+        {
+          "code": "301520",
+          "name": "万邦医药",
+          "reason": "创新药+CRO+收购赛德盛",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:33",
+          "last_limit_up_time": "13:03:57",
+          "turnover_rate": 57.65,
+          "amount": 1239606651.87
+        },
+        {
+          "code": "600881",
+          "name": "亚泰集团",
+          "reason": "创新药+预重整+重整投资人招募+长春国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:06:35",
+          "last_limit_up_time": "11:06:35",
+          "turnover_rate": 5.07,
+          "amount": 292227825.73
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "细胞免疫治疗",
+      "concept_code": "301543",
+      "plate_code": "885769",
+      "heat_score": 78.09,
+      "change_pct": 2.45,
+      "net_inflow_yi": 13.2,
+      "change_rank": 4,
+      "flow_rank": 32,
+      "change_score": 75.26,
+      "flow_score": 81.55,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+创新药+金华国资",
+          "consecutive_boards": 6,
+          "first_limit_up_time": "09:25:01",
+          "last_limit_up_time": "09:30:34",
+          "turnover_rate": 17.12,
+          "amount": 838810176.28
+        }
+      ]
+    },
+    {
+      "rank": 6,
       "name": "中国AI 50",
       "concept_code": "309187",
       "plate_code": "886102",
-      "heat_score": 70.96,
-      "change_pct": 1.33,
-      "net_inflow_yi": 42.79,
-      "change_rank": 9,
-      "flow_rank": 2,
-      "change_score": 53.73,
-      "flow_score": 92.03,
+      "heat_score": 75.78,
+      "change_pct": 1.53,
+      "net_inflow_yi": 45.73,
+      "change_rank": 11,
+      "flow_rank": 3,
+      "change_score": 59.56,
+      "flow_score": 95.62,
       "limit_up_count": 0,
       "limit_up_stocks": []
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "name": "重组蛋白",
+      "concept_code": "308822",
+      "plate_code": "885955",
+      "heat_score": 74.91,
+      "change_pct": 2.2,
+      "net_inflow_yi": 8.92,
+      "change_rank": 5,
+      "flow_rank": 42,
+      "change_score": 70.99,
+      "flow_score": 79.69,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 8,
       "name": "AI眼镜",
       "concept_code": "309152",
       "plate_code": "886085",
-      "heat_score": 68.06,
-      "change_pct": 0.57,
-      "net_inflow_yi": 54.13,
-      "change_rank": 37,
+      "heat_score": 73.06,
+      "change_pct": 1.03,
+      "net_inflow_yi": 55.86,
+      "change_rank": 23,
       "flow_rank": 1,
-      "change_score": 41.93,
+      "change_score": 51.02,
       "flow_score": 100.0,
       "limit_up_count": 1,
       "limit_up_stocks": [
@@ -186,118 +273,52 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:39:42",
           "last_limit_up_time": "09:39:42",
-          "turnover_rate": 1.57,
-          "amount": 81736904.5
-        }
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "细胞免疫治疗",
-      "concept_code": "301543",
-      "plate_code": "885769",
-      "heat_score": 66.85,
-      "change_pct": 2.0,
-      "net_inflow_yi": 11.72,
-      "change_rank": 5,
-      "flow_rank": 31,
-      "change_score": 64.13,
-      "flow_score": 70.18,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资",
-          "consecutive_boards": 6,
-          "first_limit_up_time": "09:25:01",
-          "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.04,
-          "amount": 834902237.53
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "重组蛋白",
-      "concept_code": "308822",
-      "plate_code": "885955",
-      "heat_score": 65.54,
-      "change_pct": 2.08,
-      "net_inflow_yi": 5.39,
-      "change_rank": 4,
-      "flow_rank": 53,
-      "change_score": 65.37,
-      "flow_score": 65.73,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
-      "name": "仿制药一致性评价",
-      "concept_code": "308572",
-      "plate_code": "885856",
-      "heat_score": 63.62,
-      "change_pct": 1.39,
-      "net_inflow_yi": 17.96,
-      "change_rank": 8,
-      "flow_rank": 19,
-      "change_score": 54.66,
-      "flow_score": 74.57,
-      "limit_up_count": 2,
-      "limit_up_stocks": [
-        {
-          "code": "600664",
-          "name": "哈药股份",
-          "reason": "其他",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:47:04",
-          "last_limit_up_time": "11:24:19",
-          "turnover_rate": 24.32,
-          "amount": 4947019119.52
-        },
-        {
-          "code": "301520",
-          "name": "万邦医药",
-          "reason": "其他",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "11:24:54",
-          "turnover_rate": 56.1,
-          "amount": 1204045261.14
+          "turnover_rate": 1.58,
+          "amount": 82246696.5
         }
       ]
     },
     {
       "rank": 9,
-      "name": "MCU芯片",
-      "concept_code": "308300",
-      "plate_code": "885925",
-      "heat_score": 62.62,
-      "change_pct": 0.71,
-      "net_inflow_yi": 33.16,
-      "change_rank": 26,
-      "flow_rank": 5,
-      "change_score": 44.1,
-      "flow_score": 85.26,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "name": "仿制药一致性评价",
+      "concept_code": "308572",
+      "plate_code": "885856",
+      "heat_score": 72.19,
+      "change_pct": 1.65,
+      "net_inflow_yi": 21.48,
+      "change_rank": 8,
+      "flow_rank": 11,
+      "change_score": 61.6,
+      "flow_score": 85.13,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "301520",
+          "name": "万邦医药",
+          "reason": "创新药+CRO+收购赛德盛",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "11:02:33",
+          "last_limit_up_time": "13:03:57",
+          "turnover_rate": 57.65,
+          "amount": 1239606651.87
+        }
+      ]
     },
     {
       "rank": 10,
-      "name": "汽车芯片",
-      "concept_code": "308725",
-      "plate_code": "885945",
-      "heat_score": 61.64,
-      "change_pct": 0.64,
-      "net_inflow_yi": 31.94,
-      "change_rank": 31,
-      "flow_rank": 6,
-      "change_score": 43.01,
-      "flow_score": 84.4,
+      "name": "MCU芯片",
+      "concept_code": "308300",
+      "plate_code": "885925",
+      "heat_score": 71.87,
+      "change_pct": 1.27,
+      "net_inflow_yi": 38.15,
+      "change_rank": 16,
+      "flow_rank": 4,
+      "change_score": 55.12,
+      "flow_score": 92.34,
       "limit_up_count": 0,
       "limit_up_stocks": []
     }
   ],
-  "all_count": 294
+  "all_count": 300
 }
