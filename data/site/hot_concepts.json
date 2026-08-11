@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11 05:25:23",
+  "generated_at": "2026-08-11 08:20:45",
   "latest_trade_date": "2026-08-11",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -14,62 +14,16 @@
   "top_concepts": [
     {
       "rank": 1,
-      "name": "MLCC概念",
-      "concept_code": "309269",
-      "plate_code": "886112",
-      "heat_score": 86.83,
-      "change_pct": 3.9,
-      "net_inflow_yi": -11.79,
-      "change_rank": 1,
-      "flow_rank": 248,
-      "change_score": 100.0,
-      "flow_score": 70.73,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000859",
-          "name": "国风新材",
-          "reason": "光刻胶+MLCC+聚酰亚胺+并购重组",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:44:30",
-          "last_limit_up_time": "10:02:42",
-          "turnover_rate": 13.45,
-          "amount": 1230057718.82
-        },
-        {
-          "code": "002585",
-          "name": "双星新材",
-          "reason": "MLCC离型膜+复合铜箔+光学膜+半年报预计扭亏",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:36",
-          "last_limit_up_time": "09:32:36",
-          "turnover_rate": 6.11,
-          "amount": 557863655.86
-        },
-        {
-          "code": "002859",
-          "name": "洁美科技",
-          "reason": "拟收购埃福思科技+MLCC离型膜+载带满产",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:48:15",
-          "last_limit_up_time": "09:52:33",
-          "turnover_rate": 4.18,
-          "amount": 1404478930.83
-        }
-      ]
-    },
-    {
-      "rank": 2,
       "name": "减肥药",
       "concept_code": "309081",
       "plate_code": "886051",
-      "heat_score": 83.64,
-      "change_pct": 2.96,
-      "net_inflow_yi": 17.15,
+      "heat_score": 88.2,
+      "change_pct": 1.26,
+      "net_inflow_yi": -3.39,
       "change_rank": 2,
-      "flow_rank": 20,
-      "change_score": 83.96,
-      "flow_score": 83.25,
+      "flow_rank": 78,
+      "change_score": 89.63,
+      "flow_score": 86.45,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -79,8 +33,8 @@
           "consecutive_boards": 6,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.12,
-          "amount": 838810176.28
+          "turnover_rate": 17.38,
+          "amount": 851697289.78
         },
         {
           "code": "603087",
@@ -89,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:33:58",
           "last_limit_up_time": "09:33:58",
-          "turnover_rate": 2.69,
-          "amount": 1119010738.27
+          "turnover_rate": 2.95,
+          "amount": 1227027983.87
         },
         {
           "code": "301520",
@@ -98,24 +52,24 @@
           "reason": "创新药+CRO+收购赛德盛",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "13:03:57",
-          "turnover_rate": 57.65,
-          "amount": 1239606651.87
+          "last_limit_up_time": "14:41:03",
+          "turnover_rate": 64.83,
+          "amount": 1404170947.33
         }
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "CRO概念",
       "concept_code": "308734",
       "plate_code": "885927",
-      "heat_score": 82.99,
-      "change_pct": 2.86,
-      "net_inflow_yi": 18.63,
+      "heat_score": 87.31,
+      "change_pct": 1.08,
+      "net_inflow_yi": 2.42,
       "change_rank": 3,
-      "flow_rank": 14,
-      "change_score": 82.25,
-      "flow_score": 83.89,
+      "flow_rank": 19,
+      "change_score": 86.11,
+      "flow_score": 88.78,
       "limit_up_count": 2,
       "limit_up_stocks": [
         {
@@ -125,8 +79,8 @@
           "consecutive_boards": 6,
           "first_limit_up_time": "09:25:01",
           "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.12,
-          "amount": 838810176.28
+          "turnover_rate": 17.38,
+          "amount": 851697289.78
         },
         {
           "code": "301520",
@@ -134,173 +88,220 @@
           "reason": "创新药+CRO+收购赛德盛",
           "consecutive_boards": 1,
           "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "13:03:57",
-          "turnover_rate": 57.65,
-          "amount": 1239606651.87
+          "last_limit_up_time": "14:41:03",
+          "turnover_rate": 64.83,
+          "amount": 1404170947.33
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "MLCC概念",
+      "concept_code": "309269",
+      "plate_code": "886112",
+      "heat_score": 87.16,
+      "change_pct": 1.79,
+      "net_inflow_yi": -40.81,
+      "change_rank": 1,
+      "flow_rank": 260,
+      "change_score": 100.0,
+      "flow_score": 71.46,
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "000859",
+          "name": "国风新材",
+          "reason": "光刻胶+MLCC+聚酰亚胺+并购重组",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:44:30",
+          "last_limit_up_time": "10:02:42",
+          "turnover_rate": 13.99,
+          "amount": 1280296176.9
+        },
+        {
+          "code": "002585",
+          "name": "双星新材",
+          "reason": "MLCC离型膜+复合铜箔+光学膜+半年报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:32:36",
+          "last_limit_up_time": "09:32:36",
+          "turnover_rate": 6.81,
+          "amount": 622982119.22
+        },
+        {
+          "code": "002859",
+          "name": "洁美科技",
+          "reason": "拟收购埃福思科技+MLCC离型膜+载带满产",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:48:15",
+          "last_limit_up_time": "09:52:33",
+          "turnover_rate": 4.52,
+          "amount": 1521094494.39
         }
       ]
     },
     {
       "rank": 4,
-      "name": "创新药",
-      "concept_code": null,
-      "plate_code": "886015",
-      "heat_score": 80.02,
-      "change_pct": 1.89,
-      "net_inflow_yi": 50.12,
-      "change_rank": 7,
-      "flow_rank": 2,
-      "change_score": 65.7,
-      "flow_score": 97.52,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资",
-          "consecutive_boards": 6,
-          "first_limit_up_time": "09:25:01",
-          "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.12,
-          "amount": 838810176.28
-        },
-        {
-          "code": "603087",
-          "name": "甘李药业",
-          "reason": "GLP-1出海+独家许可协议+创新药+胰岛素龙头",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:33:58",
-          "last_limit_up_time": "09:33:58",
-          "turnover_rate": 2.69,
-          "amount": 1119010738.27
-        },
-        {
-          "code": "301520",
-          "name": "万邦医药",
-          "reason": "创新药+CRO+收购赛德盛",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "13:03:57",
-          "turnover_rate": 57.65,
-          "amount": 1239606651.87
-        },
-        {
-          "code": "600881",
-          "name": "亚泰集团",
-          "reason": "创新药+预重整+重整投资人招募+长春国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:06:35",
-          "last_limit_up_time": "11:06:35",
-          "turnover_rate": 5.07,
-          "amount": 292227825.73
-        }
-      ]
+      "name": "中国AI 50",
+      "concept_code": "309187",
+      "plate_code": "886102",
+      "heat_score": 86.76,
+      "change_pct": 0.56,
+      "net_inflow_yi": 30.44,
+      "change_rank": 9,
+      "flow_rank": 1,
+      "change_score": 75.93,
+      "flow_score": 100.0,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
-      "name": "细胞免疫治疗",
-      "concept_code": "301543",
-      "plate_code": "885769",
-      "heat_score": 78.09,
-      "change_pct": 2.45,
-      "net_inflow_yi": 13.2,
+      "name": "EDR概念",
+      "concept_code": "308803",
+      "plate_code": "885943",
+      "heat_score": 85.46,
+      "change_pct": 1.07,
+      "net_inflow_yi": -7.22,
       "change_rank": 4,
-      "flow_rank": 32,
-      "change_score": 75.26,
-      "flow_score": 81.55,
+      "flow_rank": 122,
+      "change_score": 85.91,
+      "flow_score": 84.92,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
-          "code": "600721",
-          "name": "百花医药",
-          "reason": "CRO+创新药+金华国资",
-          "consecutive_boards": 6,
-          "first_limit_up_time": "09:25:01",
-          "last_limit_up_time": "09:30:34",
-          "turnover_rate": 17.12,
-          "amount": 838810176.28
+          "code": "002212",
+          "name": "天融信",
+          "reason": "AI安全+智算云+车联网安全",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:34:03",
+          "last_limit_up_time": "09:34:03",
+          "turnover_rate": 6.07,
+          "amount": 496362093.97
         }
       ]
     },
     {
       "rank": 6,
-      "name": "中国AI 50",
-      "concept_code": "309187",
-      "plate_code": "886102",
-      "heat_score": 75.78,
-      "change_pct": 1.53,
-      "net_inflow_yi": 45.73,
-      "change_rank": 11,
-      "flow_rank": 3,
-      "change_score": 59.56,
-      "flow_score": 95.62,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "name": "减速器",
+      "concept_code": "309000",
+      "plate_code": "886008",
+      "heat_score": 85.01,
+      "change_pct": 0.78,
+      "net_inflow_yi": 7.59,
+      "change_rank": 6,
+      "flow_rank": 11,
+      "change_score": 80.23,
+      "flow_score": 90.85,
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002031",
+          "name": "巨轮智能",
+          "reason": "人形机器人+RV减速器+轮胎模具",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:06:24",
+          "last_limit_up_time": "13:06:24",
+          "turnover_rate": 6.48,
+          "amount": 806525609.34
+        },
+        {
+          "code": "301550",
+          "name": "斯菱智驱",
+          "reason": "机器人+谐波减速器+汽车轮毂轴承",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:20:09",
+          "last_limit_up_time": "13:20:09",
+          "turnover_rate": 7.09,
+          "amount": 1173063680.09
+        }
+      ]
     },
     {
       "rank": 7,
-      "name": "重组蛋白",
-      "concept_code": "308822",
-      "plate_code": "885955",
-      "heat_score": 74.91,
-      "change_pct": 2.2,
-      "net_inflow_yi": 8.92,
+      "name": "细胞免疫治疗",
+      "concept_code": "301543",
+      "plate_code": "885769",
+      "heat_score": 84.96,
+      "change_pct": 0.92,
+      "net_inflow_yi": -1.05,
       "change_rank": 5,
-      "flow_rank": 42,
-      "change_score": 70.99,
-      "flow_score": 79.69,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 8,
-      "name": "AI眼镜",
-      "concept_code": "309152",
-      "plate_code": "886085",
-      "heat_score": 73.06,
-      "change_pct": 1.03,
-      "net_inflow_yi": 55.86,
-      "change_rank": 23,
-      "flow_rank": 1,
-      "change_score": 51.02,
-      "flow_score": 100.0,
+      "flow_rank": 40,
+      "change_score": 82.97,
+      "flow_score": 87.39,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
-          "code": "002047",
-          "name": "宝鹰股份",
-          "reason": "光耦合器+股权转让+国企改革",
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+创新药+金华国资",
+          "consecutive_boards": 6,
+          "first_limit_up_time": "09:25:01",
+          "last_limit_up_time": "09:30:34",
+          "turnover_rate": 17.38,
+          "amount": 851697289.78
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "name": "AI手机",
+      "concept_code": "309120",
+      "plate_code": "886070",
+      "heat_score": 82.89,
+      "change_pct": 0.55,
+      "net_inflow_yi": 9.54,
+      "change_rank": 10,
+      "flow_rank": 7,
+      "change_score": 75.73,
+      "flow_score": 91.63,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002256",
+          "name": "兆新股份",
+          "reason": "光伏+收购新能源运维公司+盐湖提锂+定增",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:39:42",
-          "last_limit_up_time": "09:39:42",
-          "turnover_rate": 1.58,
-          "amount": 82246696.5
+          "first_limit_up_time": "09:37:54",
+          "last_limit_up_time": "09:37:54",
+          "turnover_rate": 4.18,
+          "amount": 327544749.4
         }
       ]
     },
     {
       "rank": 9,
-      "name": "仿制药一致性评价",
-      "concept_code": "308572",
-      "plate_code": "885856",
-      "heat_score": 72.19,
-      "change_pct": 1.65,
-      "net_inflow_yi": 21.48,
-      "change_rank": 8,
-      "flow_rank": 11,
-      "change_score": 61.6,
-      "flow_score": 85.13,
-      "limit_up_count": 1,
+      "name": "数字水印",
+      "concept_code": "309050",
+      "plate_code": "886034",
+      "heat_score": 82.36,
+      "change_pct": 0.7,
+      "net_inflow_yi": -2.35,
+      "change_rank": 7,
+      "flow_rank": 59,
+      "change_score": 78.67,
+      "flow_score": 86.87,
+      "limit_up_count": 2,
       "limit_up_stocks": [
         {
-          "code": "301520",
-          "name": "万邦医药",
-          "reason": "创新药+CRO+收购赛德盛",
+          "code": "002212",
+          "name": "天融信",
+          "reason": "AI安全+智算云+车联网安全",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:02:33",
-          "last_limit_up_time": "13:03:57",
-          "turnover_rate": 57.65,
-          "amount": 1239606651.87
+          "first_limit_up_time": "09:34:03",
+          "last_limit_up_time": "09:34:03",
+          "turnover_rate": 6.07,
+          "amount": 496362093.97
+        },
+        {
+          "code": "002229",
+          "name": "鸿博股份",
+          "reason": "算力租赁+彩票印刷",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:50:54",
+          "last_limit_up_time": "10:08:45",
+          "turnover_rate": 14.84,
+          "amount": 840333599.34
         }
       ]
     },
@@ -309,16 +310,16 @@
       "name": "MCU芯片",
       "concept_code": "308300",
       "plate_code": "885925",
-      "heat_score": 71.87,
-      "change_pct": 1.27,
-      "net_inflow_yi": 38.15,
-      "change_rank": 16,
-      "flow_rank": 4,
-      "change_score": 55.12,
-      "flow_score": 92.34,
+      "heat_score": 81.61,
+      "change_pct": 0.28,
+      "net_inflow_yi": 18.57,
+      "change_rank": 20,
+      "flow_rank": 2,
+      "change_score": 70.45,
+      "flow_score": 95.25,
       "limit_up_count": 0,
       "limit_up_stocks": []
     }
   ],
-  "all_count": 300
+  "all_count": 294
 }
