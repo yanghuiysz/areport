@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12 05:50:31",
+  "generated_at": "2026-08-12 08:35:13",
   "latest_trade_date": "2026-08-12",
   "source": {
     "name": "同花顺概念板块公开网页",
@@ -17,12 +17,12 @@
       "name": "存储芯片",
       "concept_code": "307940",
       "plate_code": "886042",
-      "heat_score": 78.16,
-      "change_pct": 1.8,
-      "net_inflow_yi": 160.13,
-      "change_rank": 16,
+      "heat_score": 84.32,
+      "change_pct": 2.38,
+      "net_inflow_yi": 166.86,
+      "change_rank": 11,
       "flow_rank": 1,
-      "change_score": 60.29,
+      "change_score": 71.49,
       "flow_score": 100.0,
       "limit_up_count": 3,
       "limit_up_stocks": [
@@ -33,8 +33,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:46:28",
           "last_limit_up_time": "09:46:28",
-          "turnover_rate": 6.36,
-          "amount": 644265005.47
+          "turnover_rate": 6.57,
+          "amount": 666696814.87
         },
         {
           "code": "688167",
@@ -43,8 +43,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:50:43",
           "last_limit_up_time": "09:50:43",
-          "turnover_rate": 6.23,
-          "amount": 1876129670.55
+          "turnover_rate": 6.62,
+          "amount": 2001940256.55
         },
         {
           "code": "600641",
@@ -53,8 +53,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:28:59",
           "last_limit_up_time": "10:28:59",
-          "turnover_rate": 7.81,
-          "amount": 2446907327.35
+          "turnover_rate": 8.07,
+          "amount": 2532560136.75
         }
       ]
     },
@@ -63,14 +63,14 @@
       "name": "光纤概念",
       "concept_code": "309151",
       "plate_code": "886084",
-      "heat_score": 77.03,
-      "change_pct": 2.96,
-      "net_inflow_yi": 96.03,
+      "heat_score": 80.01,
+      "change_pct": 3.29,
+      "net_inflow_yi": 95.61,
       "change_rank": 3,
       "flow_rank": 2,
-      "change_score": 84.41,
-      "flow_score": 68.02,
-      "limit_up_count": 4,
+      "change_score": 91.14,
+      "flow_score": 66.4,
+      "limit_up_count": 5,
       "limit_up_stocks": [
         {
           "code": "603690",
@@ -79,8 +79,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:46:28",
           "last_limit_up_time": "09:46:28",
-          "turnover_rate": 6.36,
-          "amount": 644265005.47
+          "turnover_rate": 6.57,
+          "amount": 666696814.87
         },
         {
           "code": "688167",
@@ -89,8 +89,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:50:43",
           "last_limit_up_time": "09:50:43",
-          "turnover_rate": 6.23,
-          "amount": 1876129670.55
+          "turnover_rate": 6.62,
+          "amount": 2001940256.55
         },
         {
           "code": "002491",
@@ -99,8 +99,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:10:15",
           "last_limit_up_time": "10:10:15",
-          "turnover_rate": 6.78,
-          "amount": 1438626509.83
+          "turnover_rate": 6.93,
+          "amount": 1472346436.03
         },
         {
           "code": "600105",
@@ -109,23 +109,105 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:44:39",
           "last_limit_up_time": "13:33:12",
-          "turnover_rate": 13.64,
-          "amount": 7984080342.79
+          "turnover_rate": 13.94,
+          "amount": 8165109773.71
+        },
+        {
+          "code": "688635",
+          "name": "长进光子",
+          "reason": "光通信+掺稀土光纤+商业航天+次新股",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:28:33",
+          "last_limit_up_time": "14:28:33",
+          "turnover_rate": 25.39,
+          "amount": 1256980443.06
         }
       ]
     },
     {
       "rank": 3,
+      "name": "F5G概念",
+      "concept_code": "308977",
+      "plate_code": "885998",
+      "heat_score": 67.07,
+      "change_pct": 2.71,
+      "net_inflow_yi": 67.1,
+      "change_rank": 4,
+      "flow_rank": 3,
+      "change_score": 78.62,
+      "flow_score": 52.95,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002792",
+          "name": "通宇通讯",
+          "reason": "拟入股佳贤通信+英伟达概念+卫星通信+光模块",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:51:39",
+          "last_limit_up_time": "14:27:51",
+          "turnover_rate": 27.19,
+          "amount": 3280191851.59
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "租售同权",
+      "concept_code": "302034",
+      "plate_code": "885758",
+      "heat_score": 66.76,
+      "change_pct": 3.58,
+      "net_inflow_yi": 16.97,
+      "change_rank": 2,
+      "flow_rank": 43,
+      "change_score": 97.41,
+      "flow_score": 29.31,
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "600604",
+          "name": "市北高新",
+          "reason": "间接投资长存+园区数字经济+上海国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:36:03",
+          "last_limit_up_time": "09:36:03",
+          "turnover_rate": 2.64,
+          "amount": 184122214.33
+        },
+        {
+          "code": "002244",
+          "name": "滨江集团",
+          "reason": "民营房企龙头+销售额逆势增长+杭州地产",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:58:06",
+          "last_limit_up_time": "13:58:06",
+          "turnover_rate": 2.15,
+          "amount": 540867804.36
+        },
+        {
+          "code": "600376",
+          "name": "首开股份",
+          "reason": "间接持股宇树科技+房地产+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:26:16",
+          "last_limit_up_time": "14:26:16",
+          "turnover_rate": 9.66,
+          "amount": 1043388332.26
+        }
+      ]
+    },
+    {
+      "rank": 5,
       "name": "青蒿素",
       "concept_code": "301794",
       "plate_code": "885852",
-      "heat_score": 63.16,
-      "change_pct": 3.71,
-      "net_inflow_yi": -3.95,
+      "heat_score": 63.13,
+      "change_pct": 3.7,
+      "net_inflow_yi": -6.87,
       "change_rank": 1,
-      "flow_rank": 201,
+      "flow_rank": 223,
       "change_score": 100.0,
-      "flow_score": 18.14,
+      "flow_score": 18.06,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -134,9 +216,9 @@
           "reason": "CRO+金华国资+仿制药",
           "consecutive_boards": 7,
           "first_limit_up_time": "09:33:45",
-          "last_limit_up_time": "09:55:15",
-          "turnover_rate": 30.1,
-          "amount": 1607307938.07
+          "last_limit_up_time": "15:30:51",
+          "turnover_rate": 34.43,
+          "amount": 1840794639.98
         },
         {
           "code": "000593",
@@ -145,8 +227,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:40:57",
           "last_limit_up_time": "09:40:57",
-          "turnover_rate": 4.94,
-          "amount": 430537257.33
+          "turnover_rate": 5.02,
+          "amount": 437659202.51
         },
         {
           "code": "600216",
@@ -155,74 +237,34 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:25:30",
           "last_limit_up_time": "10:25:30",
-          "turnover_rate": 6.91,
-          "amount": 875970487.41
+          "turnover_rate": 7.16,
+          "amount": 908486965.41
         }
       ]
     },
     {
-      "rank": 4,
-      "name": "F5G概念",
-      "concept_code": "308977",
-      "plate_code": "885998",
-      "heat_score": 62.01,
-      "change_pct": 2.15,
-      "net_inflow_yi": 70.38,
-      "change_rank": 8,
-      "flow_rank": 3,
-      "change_score": 67.57,
-      "flow_score": 55.22,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "name": "科创次新股",
       "concept_code": "308699",
       "plate_code": "885907",
-      "heat_score": 60.2,
-      "change_pct": 2.21,
-      "net_inflow_yi": 59.25,
-      "change_rank": 6,
-      "flow_rank": 6,
-      "change_score": 68.81,
-      "flow_score": 49.67,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
-    },
-    {
-      "rank": 6,
-      "name": "高压氧舱",
-      "concept_code": "309023",
-      "plate_code": "886018",
-      "heat_score": 56.83,
-      "change_pct": 3.08,
-      "net_inflow_yi": -0.06,
-      "change_rank": 2,
-      "flow_rank": 143,
-      "change_score": 86.9,
-      "flow_score": 20.08,
-      "limit_up_count": 2,
+      "heat_score": 62.13,
+      "change_pct": 2.39,
+      "net_inflow_yi": 61.76,
+      "change_rank": 10,
+      "flow_rank": 8,
+      "change_score": 71.71,
+      "flow_score": 50.43,
+      "limit_up_count": 1,
       "limit_up_stocks": [
         {
-          "code": "002173",
-          "name": "创新医疗",
-          "reason": "脑机接口+医疗器械注册证+医疗服务",
+          "code": "688635",
+          "name": "长进光子",
+          "reason": "光通信+掺稀土光纤+商业航天+次新股",
           "consecutive_boards": 1,
-          "first_limit_up_time": "11:06:06",
-          "last_limit_up_time": "11:06:06",
-          "turnover_rate": 18.32,
-          "amount": 1718920275.6
-        },
-        {
-          "code": "002172",
-          "name": "澳洋健康",
-          "reason": "脑机接口+医疗服务+高压氧舱+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "11:08:09",
-          "last_limit_up_time": "11:25:21",
-          "turnover_rate": 6.67,
-          "amount": 187466927.5
+          "first_limit_up_time": "14:28:33",
+          "last_limit_up_time": "14:28:33",
+          "turnover_rate": 25.39,
+          "amount": 1256980443.06
         }
       ]
     },
@@ -231,13 +273,13 @@
       "name": "第三代半导体",
       "concept_code": "308700",
       "plate_code": "885908",
-      "heat_score": 55.96,
-      "change_pct": 1.85,
-      "net_inflow_yi": 58.68,
-      "change_rank": 15,
+      "heat_score": 61.87,
+      "change_pct": 2.36,
+      "net_inflow_yi": 62.2,
+      "change_rank": 12,
       "flow_rank": 7,
-      "change_score": 61.33,
-      "flow_score": 49.39,
+      "change_score": 71.06,
+      "flow_score": 50.64,
       "limit_up_count": 3,
       "limit_up_stocks": [
         {
@@ -247,8 +289,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:34:54",
           "last_limit_up_time": "09:34:54",
-          "turnover_rate": 2.44,
-          "amount": 276670927.2
+          "turnover_rate": 2.51,
+          "amount": 283909133.0
         },
         {
           "code": "603690",
@@ -257,8 +299,8 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "09:46:28",
           "last_limit_up_time": "09:46:28",
-          "turnover_rate": 6.36,
-          "amount": 644265005.47
+          "turnover_rate": 6.57,
+          "amount": 666696814.87
         },
         {
           "code": "600641",
@@ -267,34 +309,34 @@
           "consecutive_boards": 1,
           "first_limit_up_time": "10:28:59",
           "last_limit_up_time": "10:28:59",
-          "turnover_rate": 7.81,
-          "amount": 2446907327.35
+          "turnover_rate": 8.07,
+          "amount": 2532560136.75
         }
       ]
     },
     {
       "rank": 8,
-      "name": "租售同权",
-      "concept_code": "302034",
-      "plate_code": "885758",
-      "heat_score": 54.88,
-      "change_pct": 2.73,
-      "net_inflow_yi": 9.05,
-      "change_rank": 4,
-      "flow_rank": 59,
-      "change_score": 79.63,
-      "flow_score": 24.63,
+      "name": "MiniLED",
+      "concept_code": "308628",
+      "plate_code": "885875",
+      "heat_score": 59.86,
+      "change_pct": 2.19,
+      "net_inflow_yi": 62.25,
+      "change_rank": 15,
+      "flow_rank": 6,
+      "change_score": 67.39,
+      "flow_score": 50.66,
       "limit_up_count": 1,
       "limit_up_stocks": [
         {
-          "code": "600604",
-          "name": "市北高新",
-          "reason": "间接投资长存+园区数字经济+上海国资",
+          "code": "002005",
+          "name": "德豪润达",
+          "reason": "LED+车载照明+小家电+摘帽",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:03",
-          "last_limit_up_time": "09:36:03",
-          "turnover_rate": 2.58,
-          "amount": 179961409.33
+          "first_limit_up_time": "09:52:39",
+          "last_limit_up_time": "09:52:39",
+          "turnover_rate": 2.0,
+          "amount": 85493485.0
         }
       ]
     },
@@ -303,49 +345,170 @@
       "name": "铜缆高速连接",
       "concept_code": "309125",
       "plate_code": "886073",
-      "heat_score": 54.07,
-      "change_pct": 2.08,
-      "net_inflow_yi": 38.56,
-      "change_rank": 10,
-      "flow_rank": 14,
-      "change_score": 66.11,
-      "flow_score": 39.35,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "heat_score": 58.24,
+      "change_pct": 2.46,
+      "net_inflow_yi": 39.5,
+      "change_rank": 7,
+      "flow_rank": 16,
+      "change_score": 73.22,
+      "flow_score": 39.93,
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002792",
+          "name": "通宇通讯",
+          "reason": "拟入股佳贤通信+英伟达概念+卫星通信+光模块",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:51:39",
+          "last_limit_up_time": "14:27:51",
+          "turnover_rate": 27.19,
+          "amount": 3280191851.59
+        }
+      ]
     },
     {
       "rank": 10,
-      "name": "横琴新区",
-      "concept_code": "300087",
-      "plate_code": "885827",
-      "heat_score": 53.7,
-      "change_pct": 2.7,
-      "net_inflow_yi": 5.34,
-      "change_rank": 5,
-      "flow_rank": 80,
-      "change_score": 79.0,
-      "flow_score": 22.77,
-      "limit_up_count": 2,
+      "name": "物业管理",
+      "concept_code": "308717",
+      "plate_code": "885915",
+      "heat_score": 56.44,
+      "change_pct": 2.45,
+      "net_inflow_yi": 31.56,
+      "change_rank": 8,
+      "flow_rank": 20,
+      "change_score": 73.0,
+      "flow_score": 36.19,
+      "limit_up_count": 13,
       "limit_up_stocks": [
         {
-          "code": "002047",
-          "name": "宝鹰股份",
-          "reason": "光耦合器+股权转让+国企改革",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:32:09",
-          "last_limit_up_time": "09:32:09",
-          "turnover_rate": 2.44,
-          "amount": 141353514.1
+          "code": "600721",
+          "name": "百花医药",
+          "reason": "CRO+金华国资+仿制药",
+          "consecutive_boards": 7,
+          "first_limit_up_time": "09:33:45",
+          "last_limit_up_time": "15:30:51",
+          "turnover_rate": 34.43,
+          "amount": 1840794639.98
         },
         {
-          "code": "002005",
-          "name": "德豪润达",
-          "reason": "LED+车载照明+小家电+摘帽",
+          "code": "600683",
+          "name": "京投发展",
+          "reason": "资产重组+拟购光电子资产+TOD轨道物业+北京国资",
+          "consecutive_boards": 3,
+          "first_limit_up_time": "09:25:02",
+          "last_limit_up_time": "09:25:02",
+          "turnover_rate": 0.32,
+          "amount": 27408050.0
+        },
+        {
+          "code": "600162",
+          "name": "香江控股",
+          "reason": "算力+IDC+家居商贸+房地产",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:33:40",
+          "last_limit_up_time": "10:12:49",
+          "turnover_rate": 5.21,
+          "amount": 789468109.51
+        },
+        {
+          "code": "600881",
+          "name": "亚泰集团",
+          "reason": "创新药+预重整+重整投资人招募+长春国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "13:05:45",
+          "last_limit_up_time": "13:05:45",
+          "turnover_rate": 11.9,
+          "amount": 755997414.56
+        },
+        {
+          "code": "000665",
+          "name": "湖北广电",
+          "reason": "算力租赁+广电网络+湖北国资",
           "consecutive_boards": 1,
-          "first_limit_up_time": "09:52:39",
-          "last_limit_up_time": "09:52:39",
-          "turnover_rate": 1.96,
-          "amount": 83776394.0
+          "first_limit_up_time": "09:33:21",
+          "last_limit_up_time": "09:33:36",
+          "turnover_rate": 2.96,
+          "amount": 146807569.58
+        },
+        {
+          "code": "000048",
+          "name": "京基智农",
+          "reason": "机器人+算力+生猪养殖",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:36:42",
+          "last_limit_up_time": "11:23:36",
+          "turnover_rate": 4.77,
+          "amount": 602957724.58
+        },
+        {
+          "code": "002146",
+          "name": "荣盛发展",
+          "reason": "债务重组+物业管理+业绩减亏+高管增持",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:40:15",
+          "last_limit_up_time": "13:48:45",
+          "turnover_rate": 10.27,
+          "amount": 493880800.9
+        },
+        {
+          "code": "000720",
+          "name": "新能泰山",
+          "reason": "光纤+电缆+终止委托管理+实控人中国华能",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:28:24",
+          "last_limit_up_time": "14:04:54",
+          "turnover_rate": 10.6,
+          "amount": 520377640.2
+        },
+        {
+          "code": "000736",
+          "name": "中交发展",
+          "reason": "轻资产运营+中交房地产控股+数据中心+中报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:49:39",
+          "last_limit_up_time": "13:49:39",
+          "turnover_rate": 4.75,
+          "amount": 167812541.38
+        },
+        {
+          "code": "002244",
+          "name": "滨江集团",
+          "reason": "民营房企龙头+销售额逆势增长+杭州地产",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:58:06",
+          "last_limit_up_time": "13:58:06",
+          "turnover_rate": 2.15,
+          "amount": 540867804.36
+        },
+        {
+          "code": "601155",
+          "name": "新城控股",
+          "reason": "地产开发+商业运营+物业管理",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:04:44",
+          "last_limit_up_time": "14:04:44",
+          "turnover_rate": 2.07,
+          "amount": 545589276.42
+        },
+        {
+          "code": "600234",
+          "name": "科新发展",
+          "reason": "算力租赁+定增+建筑工程",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:15:06",
+          "last_limit_up_time": "14:15:06",
+          "turnover_rate": 1.36,
+          "amount": 80274108.0
+        },
+        {
+          "code": "600376",
+          "name": "首开股份",
+          "reason": "间接持股宇树科技+房地产+北京国资",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:26:16",
+          "last_limit_up_time": "14:26:16",
+          "turnover_rate": 9.66,
+          "amount": 1043388332.26
         }
       ]
     }
