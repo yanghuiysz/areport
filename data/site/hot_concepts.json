@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14 08:28:13",
-  "latest_trade_date": "2026-08-10",
+  "generated_at": "2026-08-14 11:14:52",
+  "latest_trade_date": "2026-08-14",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -24,8 +24,39 @@
       "flow_rank": 1,
       "change_score": 100.0,
       "flow_score": 100.0,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "603118",
+          "name": "共进股份",
+          "reason": "数据中心交换机+机器人+网通设备+唐山国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:32:44",
+          "last_limit_up_time": "09:52:20",
+          "turnover_rate": 14.31,
+          "amount": 1949605838.63
+        },
+        {
+          "code": "603083",
+          "name": "剑桥科技",
+          "reason": "高速光模块+CPO+中报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:41:11",
+          "last_limit_up_time": "13:40:17",
+          "turnover_rate": 14.44,
+          "amount": 7130649388.33
+        },
+        {
+          "code": "600487",
+          "name": "亨通光电",
+          "reason": "光纤光缆+硅光芯片+CPO+海洋通信",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:59:06",
+          "last_limit_up_time": "14:49:09",
+          "turnover_rate": 12.97,
+          "amount": 19196727611.12
+        }
+      ]
     },
     {
       "rank": 2,
@@ -39,8 +70,39 @@
       "flow_rank": 3,
       "change_score": 91.36,
       "flow_score": 94.48,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "603618",
+          "name": "杭电股份",
+          "reason": "光纤光缆+定增扩产+PCB铜箔",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:35:42",
+          "last_limit_up_time": "13:08:45",
+          "turnover_rate": 16.37,
+          "amount": 3281343144.92
+        },
+        {
+          "code": "688485",
+          "name": "九州一轨",
+          "reason": "半导体切割+光纤传感+声纹监测",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:45:58",
+          "last_limit_up_time": "14:53:01",
+          "turnover_rate": 12.25,
+          "amount": 1278614814.66
+        },
+        {
+          "code": "600487",
+          "name": "亨通光电",
+          "reason": "光纤光缆+硅光芯片+CPO+海洋通信",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:59:06",
+          "last_limit_up_time": "14:49:09",
+          "turnover_rate": 12.97,
+          "amount": 19196727611.12
+        }
+      ]
     },
     {
       "rank": 3,
@@ -54,8 +116,59 @@
       "flow_rank": 2,
       "change_score": 86.37,
       "flow_score": 95.87,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 5,
+      "limit_up_stocks": [
+        {
+          "code": "603118",
+          "name": "共进股份",
+          "reason": "数据中心交换机+机器人+网通设备+唐山国资",
+          "consecutive_boards": 2,
+          "first_limit_up_time": "09:32:44",
+          "last_limit_up_time": "09:52:20",
+          "turnover_rate": 14.31,
+          "amount": 1949605838.63
+        },
+        {
+          "code": "603186",
+          "name": "华正新材",
+          "reason": "覆铜板+AI算力+定增受理+半年报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:37:30",
+          "last_limit_up_time": "09:37:30",
+          "turnover_rate": 6.02,
+          "amount": 1538855227.68
+        },
+        {
+          "code": "600288",
+          "name": "大恒科技",
+          "reason": "机器视觉+半导体+半年报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:41:35",
+          "last_limit_up_time": "10:01:38",
+          "turnover_rate": 11.26,
+          "amount": 638464912.88
+        },
+        {
+          "code": "600487",
+          "name": "亨通光电",
+          "reason": "光纤光缆+硅光芯片+CPO+海洋通信",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:59:06",
+          "last_limit_up_time": "14:49:09",
+          "turnover_rate": 12.97,
+          "amount": 19196727611.12
+        },
+        {
+          "code": "003031",
+          "name": "中瓷电子",
+          "reason": "电子陶瓷+CPO+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:26:30",
+          "last_limit_up_time": "14:26:30",
+          "turnover_rate": 3.84,
+          "amount": 1631796073.92
+        }
+      ]
     },
     {
       "rank": 4,
@@ -69,8 +182,29 @@
       "flow_rank": 11,
       "change_score": 96.16,
       "flow_score": 81.95,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "600288",
+          "name": "大恒科技",
+          "reason": "机器视觉+半导体+半年报预计扭亏",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:41:35",
+          "last_limit_up_time": "10:01:38",
+          "turnover_rate": 11.26,
+          "amount": 638464912.88
+        },
+        {
+          "code": "600487",
+          "name": "亨通光电",
+          "reason": "光纤光缆+硅光芯片+CPO+海洋通信",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:59:06",
+          "last_limit_up_time": "14:49:09",
+          "turnover_rate": 12.97,
+          "amount": 19196727611.12
+        }
+      ]
     },
     {
       "rank": 5,
@@ -84,8 +218,29 @@
       "flow_rank": 4,
       "change_score": 87.72,
       "flow_score": 92.09,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "301419",
+          "name": "阿莱德",
+          "reason": "CPO+存储芯片+导热材料",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:31:42",
+          "last_limit_up_time": "10:31:42",
+          "turnover_rate": 12.31,
+          "amount": 437866171.8
+        },
+        {
+          "code": "000620",
+          "name": "盈新发展",
+          "reason": "存储芯片+AI算力+转型科技",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:34:00",
+          "last_limit_up_time": "13:34:00",
+          "turnover_rate": 11.62,
+          "amount": 1582394874.56
+        }
+      ]
     },
     {
       "rank": 6,
@@ -99,8 +254,19 @@
       "flow_rank": 10,
       "change_score": 88.87,
       "flow_score": 82.24,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "601609",
+          "name": "金田股份",
+          "reason": "算力散热+液冷服务器+铜加工龙头+稀土",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:47:31",
+          "last_limit_up_time": "09:48:28",
+          "turnover_rate": 3.42,
+          "amount": 636052605.68
+        }
+      ]
     },
     {
       "rank": 7,
@@ -114,8 +280,29 @@
       "flow_rank": 18,
       "change_score": 90.6,
       "flow_score": 78.3,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "600353",
+          "name": "旭光电子",
+          "reason": "氮化铝+可控核聚变+光刻机+真空灭弧室",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:39:52",
+          "last_limit_up_time": "13:39:52",
+          "turnover_rate": 8.37,
+          "amount": 2071321655.36
+        },
+        {
+          "code": "003031",
+          "name": "中瓷电子",
+          "reason": "电子陶瓷+CPO+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:26:30",
+          "last_limit_up_time": "14:26:30",
+          "turnover_rate": 3.84,
+          "amount": 1631796073.92
+        }
+      ]
     },
     {
       "rank": 8,
@@ -129,8 +316,39 @@
       "flow_rank": 6,
       "change_score": 83.88,
       "flow_score": 86.12,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "601609",
+          "name": "金田股份",
+          "reason": "算力散热+液冷服务器+铜加工龙头+稀土",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:47:31",
+          "last_limit_up_time": "09:48:28",
+          "turnover_rate": 3.42,
+          "amount": 636052605.68
+        },
+        {
+          "code": "000831",
+          "name": "中国稀土",
+          "reason": "稀土+半年报增长+央企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:53:21",
+          "last_limit_up_time": "14:09:18",
+          "turnover_rate": 8.54,
+          "amount": 5416567454.71
+        },
+        {
+          "code": "002645",
+          "name": "华宏科技",
+          "reason": "稀土永磁+机器人概念+中报预增",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "13:56:48",
+          "last_limit_up_time": "13:56:48",
+          "turnover_rate": 7.39,
+          "amount": 1049041068.38
+        }
+      ]
     },
     {
       "rank": 9,
@@ -144,8 +362,29 @@
       "flow_rank": 15,
       "change_score": 87.14,
       "flow_score": 80.17,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "603618",
+          "name": "杭电股份",
+          "reason": "光纤光缆+定增扩产+PCB铜箔",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "10:35:42",
+          "last_limit_up_time": "13:08:45",
+          "turnover_rate": 16.37,
+          "amount": 3281343144.92
+        },
+        {
+          "code": "300120",
+          "name": "经纬辉开",
+          "reason": "专网通信+电磁线+液晶显示+收购完成",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "14:53:54",
+          "last_limit_up_time": "14:55:27",
+          "turnover_rate": 20.49,
+          "amount": 903252374.44
+        }
+      ]
     },
     {
       "rank": 10,
