@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18 07:50:33",
-  "latest_trade_date": "2026-08-18",
+  "generated_at": "2026-08-18 10:58:21",
+  "latest_trade_date": "2026-08-15",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -17,981 +17,151 @@
       "name": "转基因",
       "concept_code": "300435",
       "plate_code": "885877",
-      "heat_score": 98.0,
+      "heat_score": 96.21,
       "change_pct": 9.3,
       "net_inflow_yi": 7.02,
       "change_rank": 1,
-      "flow_rank": 9,
+      "flow_rank": 8,
       "change_score": 100.0,
-      "flow_score": 95.56,
-      "limit_up_count": 10,
-      "limit_up_stocks": [
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "000505",
-          "name": "京粮控股",
-          "reason": "粮食概念+油脂加工+国企改革",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:19:33",
-          "last_limit_up_time": "10:52:36",
-          "turnover_rate": 12.21,
-          "amount": 508426813.32
-        },
-        {
-          "code": "600371",
-          "name": "万向德农",
-          "reason": "转基因+粮食概念+玉米种业",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:12",
-          "last_limit_up_time": "09:33:33",
-          "turnover_rate": 3.7,
-          "amount": 87294606.76
-        },
-        {
-          "code": "002041",
-          "name": "登海种业",
-          "reason": "转基因+玉米种业+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:06",
-          "last_limit_up_time": "09:56:54",
-          "turnover_rate": 5.37,
-          "amount": 448275755.08
-        },
-        {
-          "code": "920087",
-          "name": "秋乐种业",
-          "reason": "转基因玉米+粮食概念+河南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:19:47",
-          "last_limit_up_time": "13:59:17",
-          "turnover_rate": 19.89,
-          "amount": 468511129.17
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600354",
-          "name": "敦煌种业",
-          "reason": "种业+粮食概念+中报预增+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:25:32",
-          "last_limit_up_time": "14:25:32",
-          "turnover_rate": 23.37,
-          "amount": 830720660.67
-        },
-        {
-          "code": "000998",
-          "name": "隆平高科",
-          "reason": "转基因+粮食概念+种业振兴+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:40:27",
-          "last_limit_up_time": "14:40:27",
-          "turnover_rate": 8.71,
-          "amount": 1022271719.55
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        },
-        {
-          "code": "000713",
-          "name": "国投丰乐",
-          "reason": "转基因+种业+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:00",
-          "last_limit_up_time": "14:56:00",
-          "turnover_rate": 7.72,
-          "amount": 297375899.14
-        }
-      ]
+      "flow_score": 91.59,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 2,
       "name": "玉米",
       "concept_code": "301572",
       "plate_code": "885811",
-      "heat_score": 89.53,
+      "heat_score": 87.88,
       "change_pct": 7.47,
       "net_inflow_yi": 8.61,
       "change_rank": 2,
-      "flow_rank": 7,
+      "flow_rank": 6,
       "change_score": 84.32,
-      "flow_score": 95.89,
-      "limit_up_count": 13,
-      "limit_up_stocks": [
-        {
-          "code": "600127",
-          "name": "金健米业",
-          "reason": "粮食安全+粮油加工+湖南国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:57",
-          "last_limit_up_time": "09:30:57",
-          "turnover_rate": 8.54,
-          "amount": 383381062.64
-        },
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "600371",
-          "name": "万向德农",
-          "reason": "转基因+粮食概念+玉米种业",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:12",
-          "last_limit_up_time": "09:33:33",
-          "turnover_rate": 3.7,
-          "amount": 87294606.76
-        },
-        {
-          "code": "600108",
-          "name": "亚盛集团",
-          "reason": "粮食概念+玉米制种+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:22",
-          "last_limit_up_time": "09:37:25",
-          "turnover_rate": 4.38,
-          "amount": 295959389.43
-        },
-        {
-          "code": "002041",
-          "name": "登海种业",
-          "reason": "转基因+玉米种业+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:06",
-          "last_limit_up_time": "09:56:54",
-          "turnover_rate": 5.37,
-          "amount": 448275755.08
-        },
-        {
-          "code": "920087",
-          "name": "秋乐种业",
-          "reason": "转基因玉米+粮食概念+河南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:19:47",
-          "last_limit_up_time": "13:59:17",
-          "turnover_rate": 19.89,
-          "amount": 468511129.17
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "600354",
-          "name": "敦煌种业",
-          "reason": "种业+粮食概念+中报预增+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:25:32",
-          "last_limit_up_time": "14:25:32",
-          "turnover_rate": 23.37,
-          "amount": 830720660.67
-        },
-        {
-          "code": "000998",
-          "name": "隆平高科",
-          "reason": "转基因+粮食概念+种业振兴+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:40:27",
-          "last_limit_up_time": "14:40:27",
-          "turnover_rate": 8.71,
-          "amount": 1022271719.55
-        },
-        {
-          "code": "601952",
-          "name": "苏垦农发",
-          "reason": "种植业+粮食概念+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:44:28",
-          "last_limit_up_time": "14:44:28",
-          "turnover_rate": 4.49,
-          "amount": 557972538.31
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        },
-        {
-          "code": "000713",
-          "name": "国投丰乐",
-          "reason": "转基因+种业+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:00",
-          "last_limit_up_time": "14:56:00",
-          "turnover_rate": 7.72,
-          "amount": 297375899.14
-        }
-      ]
+      "flow_score": 92.22,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 3,
       "name": "粮食概念",
       "concept_code": "308956",
       "plate_code": "885995",
-      "heat_score": 84.71,
+      "heat_score": 82.76,
       "change_pct": 6.52,
       "net_inflow_yi": 5.05,
       "change_rank": 3,
-      "flow_rank": 14,
+      "flow_rank": 13,
       "change_score": 76.18,
-      "flow_score": 95.14,
-      "limit_up_count": 17,
-      "limit_up_stocks": [
-        {
-          "code": "600127",
-          "name": "金健米业",
-          "reason": "粮食安全+粮油加工+湖南国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:57",
-          "last_limit_up_time": "09:30:57",
-          "turnover_rate": 8.54,
-          "amount": 383381062.64
-        },
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "000505",
-          "name": "京粮控股",
-          "reason": "粮食概念+油脂加工+国企改革",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:19:33",
-          "last_limit_up_time": "10:52:36",
-          "turnover_rate": 12.21,
-          "amount": 508426813.32
-        },
-        {
-          "code": "600371",
-          "name": "万向德农",
-          "reason": "转基因+粮食概念+玉米种业",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:12",
-          "last_limit_up_time": "09:33:33",
-          "turnover_rate": 3.7,
-          "amount": 87294606.76
-        },
-        {
-          "code": "600108",
-          "name": "亚盛集团",
-          "reason": "粮食概念+玉米制种+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:22",
-          "last_limit_up_time": "09:37:25",
-          "turnover_rate": 4.38,
-          "amount": 295959389.43
-        },
-        {
-          "code": "002041",
-          "name": "登海种业",
-          "reason": "转基因+玉米种业+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:06",
-          "last_limit_up_time": "09:56:54",
-          "turnover_rate": 5.37,
-          "amount": 448275755.08
-        },
-        {
-          "code": "000019",
-          "name": "深粮控股",
-          "reason": "粮食概念+农业种业+深圳国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:04:06",
-          "last_limit_up_time": "13:00:09",
-          "turnover_rate": 13.11,
-          "amount": 370254387.64
-        },
-        {
-          "code": "000716",
-          "name": "黑芝麻",
-          "reason": "大消费+半年报预增+广西国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:17:33",
-          "last_limit_up_time": "10:17:33",
-          "turnover_rate": 13.97,
-          "amount": 576452139.95
-        },
-        {
-          "code": "920087",
-          "name": "秋乐种业",
-          "reason": "转基因玉米+粮食概念+河南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:19:47",
-          "last_limit_up_time": "13:59:17",
-          "turnover_rate": 19.89,
-          "amount": 468511129.17
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "600354",
-          "name": "敦煌种业",
-          "reason": "种业+粮食概念+中报预增+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:25:32",
-          "last_limit_up_time": "14:25:32",
-          "turnover_rate": 23.37,
-          "amount": 830720660.67
-        },
-        {
-          "code": "600359",
-          "name": "新农开发",
-          "reason": "种业+粮食概念+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:26:58",
-          "last_limit_up_time": "14:26:58",
-          "turnover_rate": 9.63,
-          "amount": 246587203.93
-        },
-        {
-          "code": "000998",
-          "name": "隆平高科",
-          "reason": "转基因+粮食概念+种业振兴+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:40:27",
-          "last_limit_up_time": "14:40:27",
-          "turnover_rate": 8.71,
-          "amount": 1022271719.55
-        },
-        {
-          "code": "601952",
-          "name": "苏垦农发",
-          "reason": "种植业+粮食概念+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:44:28",
-          "last_limit_up_time": "14:44:28",
-          "turnover_rate": 4.49,
-          "amount": 557972538.31
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        },
-        {
-          "code": "000713",
-          "name": "国投丰乐",
-          "reason": "转基因+种业+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:00",
-          "last_limit_up_time": "14:56:00",
-          "turnover_rate": 7.72,
-          "amount": 297375899.14
-        }
-      ]
+      "flow_score": 90.8,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 4,
       "name": "大豆",
       "concept_code": "301123",
       "plate_code": "885810",
-      "heat_score": 84.32,
+      "heat_score": 82.23,
       "change_pct": 6.47,
       "net_inflow_yi": 3.44,
       "change_rank": 4,
-      "flow_rank": 18,
+      "flow_rank": 17,
       "change_score": 75.75,
-      "flow_score": 94.8,
-      "limit_up_count": 5,
-      "limit_up_stocks": [
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "920087",
-          "name": "秋乐种业",
-          "reason": "转基因玉米+粮食概念+河南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:19:47",
-          "last_limit_up_time": "13:59:17",
-          "turnover_rate": 19.89,
-          "amount": 468511129.17
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "601952",
-          "name": "苏垦农发",
-          "reason": "种植业+粮食概念+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:44:28",
-          "last_limit_up_time": "14:44:28",
-          "turnover_rate": 4.49,
-          "amount": 557972538.31
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        }
-      ]
+      "flow_score": 90.15,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
       "name": "农业种植",
       "concept_code": "308016",
       "plate_code": "885812",
-      "heat_score": 72.27,
+      "heat_score": 70.32,
       "change_pct": 3.88,
       "net_inflow_yi": 5.07,
       "change_rank": 5,
-      "flow_rank": 13,
+      "flow_rank": 12,
       "change_score": 53.56,
-      "flow_score": 95.14,
-      "limit_up_count": 16,
-      "limit_up_stocks": [
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "600371",
-          "name": "万向德农",
-          "reason": "转基因+粮食概念+玉米种业",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:32:12",
-          "last_limit_up_time": "09:33:33",
-          "turnover_rate": 3.7,
-          "amount": 87294606.76
-        },
-        {
-          "code": "600108",
-          "name": "亚盛集团",
-          "reason": "粮食概念+玉米制种+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:22",
-          "last_limit_up_time": "09:37:25",
-          "turnover_rate": 4.38,
-          "amount": 295959389.43
-        },
-        {
-          "code": "300970",
-          "name": "华绿生物",
-          "reason": "鹿茸菇+金针菇+一季报增长",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:48:42",
-          "last_limit_up_time": "09:56:18",
-          "turnover_rate": 9.09,
-          "amount": 230669295.25
-        },
-        {
-          "code": "002041",
-          "name": "登海种业",
-          "reason": "转基因+玉米种业+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:06",
-          "last_limit_up_time": "09:56:54",
-          "turnover_rate": 5.37,
-          "amount": 448275755.08
-        },
-        {
-          "code": "000716",
-          "name": "黑芝麻",
-          "reason": "大消费+半年报预增+广西国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:17:33",
-          "last_limit_up_time": "10:17:33",
-          "turnover_rate": 13.97,
-          "amount": 576452139.95
-        },
-        {
-          "code": "920087",
-          "name": "秋乐种业",
-          "reason": "转基因玉米+粮食概念+河南国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:19:47",
-          "last_limit_up_time": "13:59:17",
-          "turnover_rate": 19.89,
-          "amount": 468511129.17
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "600737",
-          "name": "中粮糖业",
-          "reason": "食糖全产业链+药用糖+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "13:04:59",
-          "last_limit_up_time": "13:55:56",
-          "turnover_rate": 5.21,
-          "amount": 1610815117.93
-        },
-        {
-          "code": "600354",
-          "name": "敦煌种业",
-          "reason": "种业+粮食概念+中报预增+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:25:32",
-          "last_limit_up_time": "14:25:32",
-          "turnover_rate": 23.37,
-          "amount": 830720660.67
-        },
-        {
-          "code": "600359",
-          "name": "新农开发",
-          "reason": "种业+粮食概念+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:26:58",
-          "last_limit_up_time": "14:26:58",
-          "turnover_rate": 9.63,
-          "amount": 246587203.93
-        },
-        {
-          "code": "000998",
-          "name": "隆平高科",
-          "reason": "转基因+粮食概念+种业振兴+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:40:27",
-          "last_limit_up_time": "14:40:27",
-          "turnover_rate": 8.71,
-          "amount": 1022271719.55
-        },
-        {
-          "code": "601952",
-          "name": "苏垦农发",
-          "reason": "种植业+粮食概念+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:44:28",
-          "last_limit_up_time": "14:44:28",
-          "turnover_rate": 4.49,
-          "amount": 557972538.31
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        },
-        {
-          "code": "000713",
-          "name": "国投丰乐",
-          "reason": "转基因+种业+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:00",
-          "last_limit_up_time": "14:56:00",
-          "turnover_rate": 7.72,
-          "amount": 297375899.14
-        }
-      ]
+      "flow_score": 90.81,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 6,
-      "name": "土地流转",
-      "concept_code": "300858",
-      "plate_code": "885439",
-      "heat_score": 69.14,
-      "change_pct": 3.3,
-      "net_inflow_yi": 0.93,
-      "change_rank": 6,
-      "flow_rank": 27,
-      "change_score": 48.59,
-      "flow_score": 94.27,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "300313",
-          "name": "天山生物",
-          "reason": "肉牛全产业链+活畜销售增长+摘帽",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:31:30",
-          "last_limit_up_time": "09:31:30",
-          "turnover_rate": 7.64,
-          "amount": 187806821.8
-        },
-        {
-          "code": "600313",
-          "name": "农发种业",
-          "reason": "种业+粮食概念+央企",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:38:08",
-          "last_limit_up_time": "09:39:05",
-          "turnover_rate": 8.76,
-          "amount": 627830916.62
-        },
-        {
-          "code": "600108",
-          "name": "亚盛集团",
-          "reason": "粮食概念+玉米制种+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:22",
-          "last_limit_up_time": "09:37:25",
-          "turnover_rate": 4.38,
-          "amount": 295959389.43
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "600359",
-          "name": "新农开发",
-          "reason": "种业+粮食概念+国企改革",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:26:58",
-          "last_limit_up_time": "14:26:58",
-          "turnover_rate": 9.63,
-          "amount": 246587203.93
-        },
-        {
-          "code": "601952",
-          "name": "苏垦农发",
-          "reason": "种植业+粮食概念+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:44:28",
-          "last_limit_up_time": "14:44:28",
-          "turnover_rate": 4.49,
-          "amount": 557972538.31
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "name": "猪肉",
       "concept_code": "300451",
       "plate_code": "885573",
-      "heat_score": 68.15,
+      "heat_score": 66.89,
       "change_pct": 2.84,
       "net_inflow_yi": 13.25,
       "change_rank": 7,
-      "flow_rank": 4,
+      "flow_rank": 3,
       "change_score": 44.64,
-      "flow_score": 96.87,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000735",
-          "name": "罗牛山",
-          "reason": "“牛”字炒作+生猪养殖+海南自贸区",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:45:21",
-          "last_limit_up_time": "09:45:21",
-          "turnover_rate": 10.37,
-          "amount": 706971859.04
-        },
-        {
-          "code": "002124",
-          "name": "天邦食品",
-          "reason": "生猪养殖+机器人概念+预重整",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:35:36",
-          "last_limit_up_time": "09:35:36",
-          "turnover_rate": 5.34,
-          "amount": 258215622.1
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        }
-      ]
+      "flow_score": 94.08,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
+    },
+    {
+      "rank": 7,
+      "name": "土地流转",
+      "concept_code": "300858",
+      "plate_code": "885439",
+      "heat_score": 66.84,
+      "change_pct": 3.3,
+      "net_inflow_yi": 0.93,
+      "change_rank": 6,
+      "flow_rank": 26,
+      "change_score": 48.59,
+      "flow_score": 89.15,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 8,
       "name": "生态农业",
       "concept_code": "300923",
       "plate_code": "885505",
-      "heat_score": 67.18,
+      "heat_score": 65.15,
       "change_pct": 2.82,
       "net_inflow_yi": 4.12,
       "change_rank": 8,
-      "flow_rank": 15,
+      "flow_rank": 14,
       "change_score": 44.47,
-      "flow_score": 94.94,
-      "limit_up_count": 7,
-      "limit_up_stocks": [
-        {
-          "code": "000735",
-          "name": "罗牛山",
-          "reason": "“牛”字炒作+生猪养殖+海南自贸区",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:45:21",
-          "last_limit_up_time": "09:45:21",
-          "turnover_rate": 10.37,
-          "amount": 706971859.04
-        },
-        {
-          "code": "600108",
-          "name": "亚盛集团",
-          "reason": "粮食概念+玉米制种+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:36:22",
-          "last_limit_up_time": "09:37:25",
-          "turnover_rate": 4.38,
-          "amount": 295959389.43
-        },
-        {
-          "code": "002041",
-          "name": "登海种业",
-          "reason": "转基因+玉米种业+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:54:06",
-          "last_limit_up_time": "09:56:54",
-          "turnover_rate": 5.37,
-          "amount": 448275755.08
-        },
-        {
-          "code": "300189",
-          "name": "神农种业",
-          "reason": "种业+水产养殖+粮食概念",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:21:03",
-          "last_limit_up_time": "13:05:03",
-          "turnover_rate": 44.12,
-          "amount": 2291043062.88
-        },
-        {
-          "code": "600598",
-          "name": "北大荒",
-          "reason": "粮食概念+大豆+玉米+国企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "10:22:25",
-          "last_limit_up_time": "13:13:54",
-          "turnover_rate": 5.76,
-          "amount": 1348672496.66
-        },
-        {
-          "code": "600354",
-          "name": "敦煌种业",
-          "reason": "种业+粮食概念+中报预增+甘肃国资",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:25:32",
-          "last_limit_up_time": "14:25:32",
-          "turnover_rate": 23.37,
-          "amount": 830720660.67
-        },
-        {
-          "code": "000998",
-          "name": "隆平高科",
-          "reason": "转基因+粮食概念+种业振兴+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:40:27",
-          "last_limit_up_time": "14:40:27",
-          "turnover_rate": 8.71,
-          "amount": 1022271719.55
-        }
-      ]
+      "flow_score": 90.42,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 9,
       "name": "动物疫苗",
       "concept_code": "308537",
       "plate_code": "885846",
-      "heat_score": 66.48,
+      "heat_score": 64.23,
       "change_pct": 2.72,
       "net_inflow_yi": 1.64,
       "change_rank": 9,
-      "flow_rank": 23,
+      "flow_rank": 22,
       "change_score": 43.62,
-      "flow_score": 94.42,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "000735",
-          "name": "罗牛山",
-          "reason": "“牛”字炒作+生猪养殖+海南自贸区",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:45:21",
-          "last_limit_up_time": "09:45:21",
-          "turnover_rate": 10.37,
-          "amount": 706971859.04
-        },
-        {
-          "code": "603739",
-          "name": "蔚蓝生物",
-          "reason": "新兽药注册+动物疫苗+合成生物",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "09:53:55",
-          "last_limit_up_time": "09:54:13",
-          "turnover_rate": 3.81,
-          "amount": 129767697.8
-        },
-        {
-          "code": "002385",
-          "name": "大北农",
-          "reason": "转基因+种业+猪肉+饲料",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:50:48",
-          "last_limit_up_time": "14:50:48",
-          "turnover_rate": 8.99,
-          "amount": 1049420951.21
-        }
-      ]
+      "flow_score": 89.43,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
       "name": "草甘膦",
       "concept_code": "300157",
       "plate_code": "885640",
-      "heat_score": 65.13,
+      "heat_score": 62.86,
       "change_pct": 2.44,
       "net_inflow_yi": 1.36,
       "change_rank": 11,
-      "flow_rank": 26,
+      "flow_rank": 25,
       "change_score": 41.22,
-      "flow_score": 94.36,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "000713",
-          "name": "国投丰乐",
-          "reason": "转基因+种业+央企",
-          "consecutive_boards": 1,
-          "first_limit_up_time": "14:56:00",
-          "last_limit_up_time": "14:56:00",
-          "turnover_rate": 7.72,
-          "amount": 297375899.14
-        }
-      ]
+      "flow_score": 89.32,
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     }
   ],
-  "all_count": 313
+  "all_count": 293
 }
