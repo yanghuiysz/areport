@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21 04:55:06",
+  "generated_at": "2026-08-21 07:56:29",
   "latest_trade_date": "2026-08-21",
   "summary": [
     {
@@ -7,21 +7,21 @@
       "up_count": null,
       "down_count": null,
       "flat_count": null,
-      "limit_up_count": 45,
-      "limit_down_count": 8
+      "limit_up_count": 54,
+      "limit_down_count": 13
     },
     {
       "date": "2026-08-20",
-      "up_count": 4096,
-      "down_count": 906,
+      "up_count": 2996,
+      "down_count": 1347,
       "flat_count": 98,
-      "limit_up_count": 79,
+      "limit_up_count": 16,
       "limit_down_count": 12
     },
     {
       "date": "2026-08-19",
       "up_count": 449,
-      "down_count": 4869,
+      "down_count": 4669,
       "flat_count": 23,
       "limit_up_count": 3,
       "limit_down_count": 119
@@ -45,8 +45,8 @@
           "2026中报预增",
           "融资融券"
         ],
-        "amount": 216622240.04,
-        "turnover_rate": 4.27,
+        "amount": 229530341.02,
+        "turnover_rate": 4.53,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
@@ -62,8 +62,8 @@
           "煤炭概念",
           "融资融券"
         ],
-        "amount": 471651564.55,
-        "turnover_rate": 26.71,
+        "amount": 529328786.55,
+        "turnover_rate": 30.23,
         "first_limit_up_time": "09:32:09",
         "last_limit_up_time": "09:36:51",
         "consecutive_boards": 0
@@ -78,8 +78,8 @@
           "阿里巴巴概念",
           "工业互联网"
         ],
-        "amount": 444250207.13,
-        "turnover_rate": 13.41,
+        "amount": 546822233.33,
+        "turnover_rate": 16.71,
         "first_limit_up_time": "09:30:44",
         "last_limit_up_time": "09:30:44",
         "consecutive_boards": 0
@@ -87,873 +87,357 @@
     ],
     "2026-08-20": [
       {
-        "code": "000931",
-        "name": "中 关 村",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 53753740.0,
-        "turnover_rate": 1.55,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002038",
-        "name": "双鹭药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 109523779.0,
-        "turnover_rate": 2.0,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002412",
-        "name": "汉森制药",
-        "reason": "中药Ⅱ",
-        "concepts": [],
-        "amount": 40263425.0,
-        "turnover_rate": 0.87,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "300006",
-        "name": "莱美药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 332679168.0,
-        "turnover_rate": 5.3,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300142",
-        "name": "沃森生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 1014376480.0,
-        "turnover_rate": 4.25,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "688185",
         "name": "康希诺",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 212586914.0,
-        "turnover_rate": 2.88,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688276",
-        "name": "百克生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 121420828.0,
-        "turnover_rate": 1.57,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688658",
-        "name": "悦康药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 205507689.0,
-        "turnover_rate": 2.95,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688356",
-        "name": "键凯科技",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 51894775.0,
-        "turnover_rate": 0.96,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 1
+        "reason": "其他",
+        "concepts": [
+          "猴痘概念",
+          "生物疫苗",
+          "CRO概念",
+          "流感",
+          "合成生物",
+          "三胎概念",
+          "京津冀一体化",
+          "沪股通",
+          "融资融券"
+        ],
+        "amount": 1891019107.46,
+        "turnover_rate": 22.38,
+        "first_limit_up_time": "10:37:08",
+        "last_limit_up_time": "14:50:08",
+        "consecutive_boards": 0
       },
       {
         "code": "688137",
         "name": "近岸蛋白",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 155992742.0,
-        "turnover_rate": 3.31,
+        "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+        "concepts": [
+          "重组蛋白",
+          "CRO概念",
+          "细胞免疫治疗",
+          "流感",
+          "合成生物",
+          "专精特新",
+          "融资融券"
+        ],
+        "amount": 794653561.18,
+        "turnover_rate": 15.12,
+        "first_limit_up_time": "10:18:19",
+        "last_limit_up_time": "10:26:19",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "688356",
+        "name": "键凯科技",
+        "reason": "mRNA疫苗+LNP递送+聚乙二醇+创新药",
+        "concepts": [
+          "创新药",
+          "医美概念",
+          "医疗器械概念",
+          "人民币贬值受益",
+          "3D打印",
+          "沪股通",
+          "融资融券"
+        ],
+        "amount": 351028205.64,
+        "turnover_rate": 5.39,
         "first_limit_up_time": "09:25:04",
         "last_limit_up_time": "09:25:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002399",
-        "name": "海普瑞",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 98805010.0,
-        "turnover_rate": 0.7,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:31:33",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300122",
-        "name": "智飞生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 892674496.0,
-        "turnover_rate": 4.36,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001277",
-        "name": "速达股份",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 222483222.0,
-        "turnover_rate": 13.56,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:37:27",
         "consecutive_boards": 2
-      },
-      {
-        "code": "603590",
-        "name": "康辰药业",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 88614847.0,
-        "turnover_rate": 1.63,
-        "first_limit_up_time": "09:30:01",
-        "last_limit_up_time": "09:30:01",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002940",
-        "name": "昂利康",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 520697280.0,
-        "turnover_rate": 10.01,
-        "first_limit_up_time": "09:30:03",
-        "last_limit_up_time": "10:00:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600613",
-        "name": "神奇制药",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 514941968.0,
-        "turnover_rate": 12.55,
-        "first_limit_up_time": "09:30:04",
-        "last_limit_up_time": "09:30:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002365",
-        "name": "永安药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 1141291968.0,
-        "turnover_rate": 29.81,
-        "first_limit_up_time": "09:30:06",
-        "last_limit_up_time": "14:38:03",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000590",
-        "name": "古汉医药",
-        "reason": "中药Ⅱ",
-        "concepts": [],
-        "amount": 33544631.0,
-        "turnover_rate": 1.45,
-        "first_limit_up_time": "09:30:24",
-        "last_limit_up_time": "09:30:24",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "920344",
-        "name": "三元基因",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 134015324.0,
-        "turnover_rate": 4.89,
-        "first_limit_up_time": "09:30:30",
-        "last_limit_up_time": "09:30:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688105",
-        "name": "诺唯赞",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 323206288.0,
-        "turnover_rate": 2.47,
-        "first_limit_up_time": "09:31:02",
-        "last_limit_up_time": "09:31:02",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600127",
-        "name": "金健米业",
-        "reason": "农产品加",
-        "concepts": [],
-        "amount": 2357097472.0,
-        "turnover_rate": 43.41,
-        "first_limit_up_time": "09:31:06",
-        "last_limit_up_time": "13:04:27",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "000710",
-        "name": "贝瑞基因",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 142630809.0,
-        "turnover_rate": 4.65,
-        "first_limit_up_time": "09:31:12",
-        "last_limit_up_time": "09:31:12",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603801",
-        "name": "志邦家居",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 147231727.0,
-        "turnover_rate": 4.76,
-        "first_limit_up_time": "09:31:25",
-        "last_limit_up_time": "09:33:19",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603988",
-        "name": "中电电机",
-        "reason": "电机Ⅱ",
-        "concepts": [],
-        "amount": 135831445.0,
-        "turnover_rate": 2.74,
-        "first_limit_up_time": "09:31:38",
-        "last_limit_up_time": "09:36:53",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601700",
-        "name": "风范股份",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 612844896.0,
-        "turnover_rate": 7.25,
-        "first_limit_up_time": "09:31:41",
-        "last_limit_up_time": "09:32:17",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002030",
-        "name": "达安基因",
-        "reason": "医疗器械",
-        "concepts": [],
-        "amount": 213092196.0,
-        "turnover_rate": 2.56,
-        "first_limit_up_time": "09:31:45",
-        "last_limit_up_time": "09:32:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688114",
-        "name": "华大智造",
-        "reason": "医疗器械",
-        "concepts": [],
-        "amount": 467601056.0,
-        "turnover_rate": 1.66,
-        "first_limit_up_time": "09:32:20",
-        "last_limit_up_time": "09:32:20",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001210",
-        "name": "金房能源",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 145946381.0,
-        "turnover_rate": 3.72,
-        "first_limit_up_time": "09:32:21",
-        "last_limit_up_time": "09:33:06",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300841",
-        "name": "康华生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 506960592.0,
-        "turnover_rate": 6.96,
-        "first_limit_up_time": "09:32:54",
-        "last_limit_up_time": "09:32:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688426",
-        "name": "康为世纪",
-        "reason": "医疗器械",
-        "concepts": [],
-        "amount": 47767775.0,
-        "turnover_rate": 1.9,
-        "first_limit_up_time": "09:32:55",
-        "last_limit_up_time": "09:34:07",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603036",
-        "name": "如通股份",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 284477840.0,
-        "turnover_rate": 9.06,
-        "first_limit_up_time": "09:33:27",
-        "last_limit_up_time": "11:03:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002880",
-        "name": "卫光生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 58704783.0,
-        "turnover_rate": 1.19,
-        "first_limit_up_time": "09:33:45",
-        "last_limit_up_time": "09:33:45",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603392",
-        "name": "万泰生物",
-        "reason": "医疗器械",
-        "concepts": [],
-        "amount": 208890650.0,
-        "turnover_rate": 0.54,
-        "first_limit_up_time": "09:33:54",
-        "last_limit_up_time": "09:33:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002743",
-        "name": "富煌钢构",
-        "reason": "专业工程",
-        "concepts": [],
-        "amount": 200992734.0,
-        "turnover_rate": 10.72,
-        "first_limit_up_time": "09:34:21",
-        "last_limit_up_time": "09:45:39",
-        "consecutive_boards": 1
       },
       {
         "code": "000017",
         "name": "深中华A",
-        "reason": "饰品",
-        "concepts": [],
-        "amount": 66504400.0,
-        "turnover_rate": 2.38,
-        "first_limit_up_time": "09:34:39",
-        "last_limit_up_time": "09:34:39",
-        "consecutive_boards": 1
+        "reason": "黄金珠宝+黄金涨价+年报增长",
+        "concepts": [
+          "两轮车",
+          "粤港澳大湾区",
+          "锂电池概念",
+          "黄金概念",
+          "智能穿戴"
+        ],
+        "amount": 294182280.08,
+        "turnover_rate": 9.43,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:39:09",
+        "consecutive_boards": 2
       },
       {
-        "code": "000520",
-        "name": "凤凰航运",
-        "reason": "航运港口",
-        "concepts": [],
-        "amount": 135718201.0,
-        "turnover_rate": 3.09,
-        "first_limit_up_time": "09:37:12",
-        "last_limit_up_time": "09:37:12",
-        "consecutive_boards": 1
+        "code": "002412",
+        "name": "汉森制药",
+        "reason": "创新药+中药+中报预增",
+        "concepts": [
+          "流感",
+          "仿制药一致性评价",
+          "肝炎概念",
+          "医药电商",
+          "幽门螺杆菌概念",
+          "创新药",
+          "农业种植",
+          "参股银行",
+          "2026中报预增",
+          "融资融券"
+        ],
+        "amount": 229530341.02,
+        "turnover_rate": 4.53,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
-        "code": "601877",
-        "name": "正泰电器",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 1034728768.0,
-        "turnover_rate": 1.84,
-        "first_limit_up_time": "09:37:32",
-        "last_limit_up_time": "10:10:35",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603285",
-        "name": "键邦股份",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 175136820.0,
-        "turnover_rate": 7.61,
-        "first_limit_up_time": "09:37:49",
-        "last_limit_up_time": "09:37:49",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301166",
-        "name": "优宁维",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 184690587.0,
-        "turnover_rate": 9.88,
-        "first_limit_up_time": "09:37:54",
-        "last_limit_up_time": "09:37:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603376",
-        "name": "大明电子",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 119941809.0,
-        "turnover_rate": 13.34,
-        "first_limit_up_time": "09:40:28",
-        "last_limit_up_time": "09:55:04",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002579",
-        "name": "中京电子",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 495325952.0,
-        "turnover_rate": 5.7,
-        "first_limit_up_time": "09:40:45",
-        "last_limit_up_time": "09:40:45",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603519",
-        "name": "立霸股份",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 333642624.0,
-        "turnover_rate": 7.67,
-        "first_limit_up_time": "09:42:00",
-        "last_limit_up_time": "11:06:33",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603882",
-        "name": "金域医学",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 331003648.0,
-        "turnover_rate": 2.37,
-        "first_limit_up_time": "09:42:02",
-        "last_limit_up_time": "09:42:35",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300109",
-        "name": "新开源",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 1362583744.0,
-        "turnover_rate": 16.78,
-        "first_limit_up_time": "09:42:21",
-        "last_limit_up_time": "14:51:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603958",
-        "name": "哈森股份",
-        "reason": "服装家纺",
-        "concepts": [],
-        "amount": 299677168.0,
-        "turnover_rate": 7.69,
-        "first_limit_up_time": "09:42:50",
-        "last_limit_up_time": "09:42:50",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600250",
-        "name": "南京商旅",
-        "reason": "旅游及景",
-        "concepts": [],
-        "amount": 248528336.0,
-        "turnover_rate": 8.83,
-        "first_limit_up_time": "09:43:17",
-        "last_limit_up_time": "10:21:38",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603016",
-        "name": "新宏泰",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 157191578.0,
-        "turnover_rate": 3.53,
-        "first_limit_up_time": "09:44:02",
-        "last_limit_up_time": "10:08:35",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300363",
-        "name": "博腾股份",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 1283285648.0,
-        "turnover_rate": 11.01,
-        "first_limit_up_time": "09:45:57",
-        "last_limit_up_time": "09:45:57",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603177",
-        "name": "德创环保",
-        "reason": "环境治理",
-        "concepts": [],
-        "amount": 73558904.0,
-        "turnover_rate": 3.38,
-        "first_limit_up_time": "09:47:28",
-        "last_limit_up_time": "09:47:28",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002437",
-        "name": "誉衡药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 2222111536.0,
-        "turnover_rate": 22.96,
-        "first_limit_up_time": "09:48:18",
-        "last_limit_up_time": "09:48:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603637",
-        "name": "镇海股份",
-        "reason": "专业工程",
-        "concepts": [],
-        "amount": 153321761.0,
-        "turnover_rate": 4.68,
-        "first_limit_up_time": "09:50:37",
-        "last_limit_up_time": "09:50:37",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603716",
-        "name": "塞力医疗",
-        "reason": "医药商业",
-        "concepts": [],
-        "amount": 350012624.0,
-        "turnover_rate": 9.15,
-        "first_limit_up_time": "09:50:46",
-        "last_limit_up_time": "09:50:46",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000007",
-        "name": "全新好",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 214508937.0,
-        "turnover_rate": 5.23,
-        "first_limit_up_time": "09:52:03",
-        "last_limit_up_time": "10:42:09",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002552",
-        "name": "宝鼎科技",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 2128262368.0,
-        "turnover_rate": 10.45,
-        "first_limit_up_time": "09:52:03",
-        "last_limit_up_time": "14:06:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300765",
-        "name": "石药创新",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 3228159920.0,
-        "turnover_rate": 4.59,
-        "first_limit_up_time": "09:52:42",
-        "last_limit_up_time": "10:19:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605116",
-        "name": "奥锐特",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 175428024.0,
-        "turnover_rate": 2.01,
-        "first_limit_up_time": "09:54:05",
-        "last_limit_up_time": "09:54:05",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600539",
-        "name": "狮头股份",
-        "reason": "互联网电",
-        "concepts": [],
-        "amount": 432388000.0,
-        "turnover_rate": 12.49,
-        "first_limit_up_time": "09:57:47",
-        "last_limit_up_time": "10:26:26",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002491",
-        "name": "通鼎互联",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 4235345280.0,
-        "turnover_rate": 19.1,
-        "first_limit_up_time": "10:00:12",
-        "last_limit_up_time": "14:06:12",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300601",
-        "name": "康泰生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 1447691312.0,
-        "turnover_rate": 11.36,
-        "first_limit_up_time": "10:00:36",
-        "last_limit_up_time": "13:00:09",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001360",
-        "name": "南矿集团",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 106572249.0,
-        "turnover_rate": 4.79,
-        "first_limit_up_time": "10:13:27",
-        "last_limit_up_time": "10:13:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601118",
-        "name": "海南橡胶",
-        "reason": "种植业",
-        "concepts": [],
-        "amount": 1162765616.0,
-        "turnover_rate": 4.57,
-        "first_limit_up_time": "10:17:29",
-        "last_limit_up_time": "13:33:50",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603578",
-        "name": "三星新材",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 75630301.0,
-        "turnover_rate": 3.15,
-        "first_limit_up_time": "10:20:31",
-        "last_limit_up_time": "10:20:31",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002811",
-        "name": "郑中设计",
-        "reason": "装修装饰",
-        "concepts": [],
-        "amount": 214846231.0,
-        "turnover_rate": 5.87,
-        "first_limit_up_time": "10:20:57",
-        "last_limit_up_time": "10:20:57",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603580",
-        "name": "艾艾精工",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 957283136.0,
-        "turnover_rate": 10.12,
-        "first_limit_up_time": "10:30:57",
-        "last_limit_up_time": "10:30:57",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605080",
-        "name": "浙江自然",
-        "reason": "文娱用品",
-        "concepts": [],
-        "amount": 222597846.0,
-        "turnover_rate": 7.25,
-        "first_limit_up_time": "10:41:50",
-        "last_limit_up_time": "14:55:05",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688433",
-        "name": "华曙高科",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 1071039360.0,
-        "turnover_rate": 2.64,
-        "first_limit_up_time": "10:42:45",
-        "last_limit_up_time": "10:54:42",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300710",
-        "name": "万隆光电",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 201260048.0,
-        "turnover_rate": 8.85,
-        "first_limit_up_time": "10:45:12",
-        "last_limit_up_time": "10:45:12",
-        "consecutive_boards": 1
+        "code": "000710",
+        "name": "贝瑞基因",
+        "reason": "AI医疗+基因测序+三代测序",
+        "concepts": [
+          "基因测序",
+          "辅助生殖",
+          "三胎概念",
+          "智能医疗",
+          "医疗器械概念",
+          "AI应用",
+          "京津冀一体化",
+          "数据要素",
+          "人工智能",
+          "AI智能体",
+          "DeepSeek概念",
+          "AI语料",
+          "西部大开发",
+          "腾讯概念",
+          "智谱AI",
+          "海峡两岸"
+        ],
+        "amount": 591543041.0,
+        "turnover_rate": 17.65,
+        "first_limit_up_time": "09:30:03",
+        "last_limit_up_time": "09:48:33",
+        "consecutive_boards": 2
       },
       {
         "code": "603626",
         "name": "科森科技",
-        "reason": "消费电子",
-        "concepts": [],
-        "amount": 814107504.0,
-        "turnover_rate": 8.9,
-        "first_limit_up_time": "10:51:49",
-        "last_limit_up_time": "11:23:13",
-        "consecutive_boards": 1
+        "reason": "折叠屏+机器人+消费电子+中报扭亏",
+        "concepts": [
+          "智能音箱",
+          "特斯拉概念",
+          "机器人概念",
+          "虚拟现实",
+          "柔性屏(折叠屏)",
+          "苹果概念",
+          "元宇宙",
+          "智能穿戴",
+          "富士康概念",
+          "消费电子概念",
+          "人民币贬值受益",
+          "华为概念",
+          "无线耳机",
+          "海峡两岸",
+          "新型烟草(电子烟)",
+          "AI",
+          "PC",
+          "储能",
+          "固态电池",
+          "沪股通",
+          "融资融券"
+        ],
+        "amount": 800520925.9,
+        "turnover_rate": 7.87,
+        "first_limit_up_time": "09:34:21",
+        "last_limit_up_time": "11:20:15",
+        "consecutive_boards": 2
       },
       {
-        "code": "002313",
-        "name": "日海智能",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 179593968.0,
-        "turnover_rate": 5.6,
-        "first_limit_up_time": "11:07:30",
-        "last_limit_up_time": "11:22:06",
-        "consecutive_boards": 1
+        "code": "002491",
+        "name": "通鼎互联",
+        "reason": "中报扭亏+光纤光缆+储能安防",
+        "concepts": [
+          "光纤概念",
+          "5G",
+          "数据中心(AIDC)",
+          "数字水印",
+          "专精特新",
+          "储能",
+          "网络安全",
+          "数据安全",
+          "长三角一体化",
+          "独角兽概念",
+          "固态电池",
+          "深股通",
+          "融资融券"
+        ],
+        "amount": 7263185994.29,
+        "turnover_rate": 30.46,
+        "first_limit_up_time": "14:27:09",
+        "last_limit_up_time": "14:49:54",
+        "consecutive_boards": 2
       },
       {
-        "code": "600327",
-        "name": "大东方",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 215283196.0,
-        "turnover_rate": 5.87,
-        "first_limit_up_time": "11:14:55",
-        "last_limit_up_time": "11:15:58",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600211",
-        "name": "西藏药业",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 596200864.0,
-        "turnover_rate": 4.5,
-        "first_limit_up_time": "11:29:06",
-        "last_limit_up_time": "11:29:06",
-        "consecutive_boards": 1
+        "code": "603958",
+        "name": "哈森股份",
+        "reason": "苹果产业链+机器人概念+重组+中报预计扭亏",
+        "concepts": [
+          "3D打印",
+          "苹果概念",
+          "机器人概念",
+          "消费电子概念",
+          "工业母机",
+          "海峡两岸",
+          "华为概念",
+          "智能穿戴",
+          "DeepSeek概念",
+          "股权转让(并购重组)"
+        ],
+        "amount": 313260441.5,
+        "turnover_rate": 6.99,
+        "first_limit_up_time": "09:30:39",
+        "last_limit_up_time": "09:33:57",
+        "consecutive_boards": 2
       },
       {
         "code": "002903",
         "name": "宇环数控",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 638273888.0,
-        "turnover_rate": 20.08,
-        "first_limit_up_time": "13:00:21",
-        "last_limit_up_time": "13:03:06",
-        "consecutive_boards": 1
+        "reason": "机器人+消费电子+数控机床",
+        "concepts": [
+          "工业母机",
+          "减速器",
+          "新型工业化",
+          "富士康概念",
+          "苹果概念",
+          "同花顺新质50",
+          "专精特新",
+          "消费电子概念",
+          "比亚迪概念",
+          "机器人概念",
+          "军工",
+          "新能源汽车",
+          "小米概念",
+          "芯片概念",
+          "华为概念",
+          "第三代半导体",
+          "融资融券"
+        ],
+        "amount": 857018770.51,
+        "turnover_rate": 24.66,
+        "first_limit_up_time": "11:02:12",
+        "last_limit_up_time": "11:02:12",
+        "consecutive_boards": 2
       },
       {
-        "code": "300009",
-        "name": "安科生物",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 1966375312.0,
-        "turnover_rate": 16.32,
-        "first_limit_up_time": "13:00:33",
-        "last_limit_up_time": "14:08:48",
-        "consecutive_boards": 1
+        "code": "002038",
+        "name": "双鹭药业",
+        "reason": "mRNA平台+GLP-1+创新药+国企改革",
+        "concepts": [
+          "仿制药一致性评价",
+          "创新药",
+          "医药电商",
+          "减肥药",
+          "流感",
+          "幽门螺杆菌概念",
+          "肝炎概念",
+          "生物疫苗",
+          "辅助生殖",
+          "猴痘概念",
+          "医美概念",
+          "民营医院",
+          "基因测序",
+          "NMN概念",
+          "工业大麻",
+          "国企改革",
+          "京津冀一体化",
+          "创投",
+          "深股通",
+          "融资融券"
+        ],
+        "amount": 414613845.96,
+        "turnover_rate": 6.88,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:39:06",
+        "consecutive_boards": 2
       },
       {
-        "code": "600683",
-        "name": "京投发展",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 795905648.0,
-        "turnover_rate": 10.4,
-        "first_limit_up_time": "13:05:55",
-        "last_limit_up_time": "14:44:52",
-        "consecutive_boards": 1
+        "code": "000931",
+        "name": "中关村",
+        "reason": "mRNA疫苗平台+创新药+麻精镇痛+药品获批",
+        "concepts": [
+          "仿制药一致性评价",
+          "创新药",
+          "养老概念",
+          "京津冀一体化",
+          "雄安新区",
+          "创投",
+          "融资融券"
+        ],
+        "amount": 318517400.98,
+        "turnover_rate": 8.35,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:44:09",
+        "consecutive_boards": 2
       },
       {
-        "code": "002172",
-        "name": "澳洋健康",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 829644048.0,
-        "turnover_rate": 26.36,
-        "first_limit_up_time": "13:10:45",
-        "last_limit_up_time": "13:10:45",
-        "consecutive_boards": 1
+        "code": "603580",
+        "name": "艾艾精工",
+        "reason": "其他",
+        "concepts": [
+          "海峡两岸",
+          "消费电子概念",
+          "人民币贬值受益",
+          "摘帽"
+        ],
+        "amount": 1443238963.72,
+        "turnover_rate": 13.87,
+        "first_limit_up_time": "10:03:23",
+        "last_limit_up_time": "10:03:23",
+        "consecutive_boards": 0
       },
       {
-        "code": "001333",
-        "name": "光华股份",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 110018984.0,
-        "turnover_rate": 3.98,
-        "first_limit_up_time": "13:27:36",
-        "last_limit_up_time": "13:53:21",
-        "consecutive_boards": 1
+        "code": "600250",
+        "name": "南京商旅",
+        "reason": "其他",
+        "concepts": [
+          "旅游概念",
+          "IP经济(谷子经济)",
+          "养老概念",
+          "跨境电商",
+          "国企改革",
+          "低空经济"
+        ],
+        "amount": 528110022.9,
+        "turnover_rate": 17.43,
+        "first_limit_up_time": "09:30:30",
+        "last_limit_up_time": "09:30:30",
+        "consecutive_boards": 0
       },
       {
-        "code": "003010",
-        "name": "若羽臣",
-        "reason": "互联网电",
-        "concepts": [],
-        "amount": 437117568.0,
-        "turnover_rate": 6.87,
-        "first_limit_up_time": "14:17:15",
-        "last_limit_up_time": "14:17:15",
-        "consecutive_boards": 1
+        "code": "001277",
+        "name": "速达股份",
+        "reason": "其他",
+        "concepts": [
+          "农机",
+          "新型工业化",
+          "数据中心(AIDC)",
+          "煤炭概念",
+          "融资融券"
+        ],
+        "amount": 529328786.55,
+        "turnover_rate": 30.23,
+        "first_limit_up_time": "09:32:09",
+        "last_limit_up_time": "09:36:51",
+        "consecutive_boards": 0
       },
       {
-        "code": "000523",
-        "name": "红棉股份",
-        "reason": "综合Ⅱ",
-        "concepts": [],
-        "amount": 646299424.0,
-        "turnover_rate": 15.01,
-        "first_limit_up_time": "14:22:51",
-        "last_limit_up_time": "14:49:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603666",
-        "name": "亿嘉和",
-        "reason": "自动化设",
-        "concepts": [],
-        "amount": 160637436.0,
-        "turnover_rate": 3.13,
-        "first_limit_up_time": "14:55:34",
-        "last_limit_up_time": "14:55:34",
-        "consecutive_boards": 1
+        "code": "603801",
+        "name": "志邦家居",
+        "reason": "其他",
+        "concepts": [
+          "高股息精选",
+          "智能家居",
+          "阿里巴巴概念",
+          "工业互联网"
+        ],
+        "amount": 546822233.33,
+        "turnover_rate": 16.71,
+        "first_limit_up_time": "09:30:44",
+        "last_limit_up_time": "09:30:44",
+        "consecutive_boards": 0
       }
     ],
     "2026-08-21": [
@@ -962,8 +446,8 @@
         "name": "深中华A",
         "reason": "饰品",
         "concepts": [],
-        "amount": 282330624.0,
-        "turnover_rate": 9.05,
+        "amount": 294182288.0,
+        "turnover_rate": 9.43,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:39:09",
         "consecutive_boards": 2
@@ -973,8 +457,8 @@
         "name": "双鹭药业",
         "reason": "化学制药",
         "concepts": [],
-        "amount": 399425120.0,
-        "turnover_rate": 6.62,
+        "amount": 414613840.0,
+        "turnover_rate": 6.88,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:39:06",
         "consecutive_boards": 2
@@ -984,8 +468,8 @@
         "name": "达 意 隆",
         "reason": "专用设备",
         "concepts": [],
-        "amount": 186451874.0,
-        "turnover_rate": 8.98,
+        "amount": 206290574.0,
+        "turnover_rate": 9.94,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:42:36",
         "consecutive_boards": 1
@@ -995,8 +479,8 @@
         "name": "汉森制药",
         "reason": "中药Ⅱ",
         "concepts": [],
-        "amount": 216622240.0,
-        "turnover_rate": 4.27,
+        "amount": 229530341.0,
+        "turnover_rate": 4.52,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
@@ -1006,8 +490,8 @@
         "name": "新华百货",
         "reason": "一般零售",
         "concepts": [],
-        "amount": 44525631.0,
-        "turnover_rate": 1.45,
+        "amount": 49663325.0,
+        "turnover_rate": 1.61,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 1
@@ -1017,8 +501,8 @@
         "name": "键凯科技",
         "reason": "化学制药",
         "concepts": [],
-        "amount": 222500363.0,
-        "turnover_rate": 3.42,
+        "amount": 351028208.0,
+        "turnover_rate": 5.39,
         "first_limit_up_time": "09:25:04",
         "last_limit_up_time": "09:25:04",
         "consecutive_boards": 2
@@ -1028,8 +512,8 @@
         "name": "中 关 村",
         "reason": "化学制药",
         "concepts": [],
-        "amount": 294927392.0,
-        "turnover_rate": 7.74,
+        "amount": 318517408.0,
+        "turnover_rate": 8.35,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:44:09",
         "consecutive_boards": 2
@@ -1039,8 +523,8 @@
         "name": "杭齿前进",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 124094665.0,
-        "turnover_rate": 2.21,
+        "amount": 128693980.0,
+        "turnover_rate": 2.29,
         "first_limit_up_time": "09:30:02",
         "last_limit_up_time": "09:30:02",
         "consecutive_boards": 1
@@ -1050,8 +534,8 @@
         "name": "贝瑞基因",
         "reason": "医疗服务",
         "concepts": [],
-        "amount": 570924080.0,
-        "turnover_rate": 17.04,
+        "amount": 591543040.0,
+        "turnover_rate": 17.65,
         "first_limit_up_time": "09:30:03",
         "last_limit_up_time": "09:48:33",
         "consecutive_boards": 2
@@ -1061,8 +545,8 @@
         "name": "楚天龙",
         "reason": "通信设备",
         "concepts": [],
-        "amount": 379048656.0,
-        "turnover_rate": 6.5,
+        "amount": 397633808.0,
+        "turnover_rate": 6.82,
         "first_limit_up_time": "09:30:03",
         "last_limit_up_time": "09:40:33",
         "consecutive_boards": 1
@@ -1072,8 +556,8 @@
         "name": "哈森股份",
         "reason": "服装家纺",
         "concepts": [],
-        "amount": 306181072.0,
-        "turnover_rate": 6.84,
+        "amount": 313260448.0,
+        "turnover_rate": 6.99,
         "first_limit_up_time": "09:30:39",
         "last_limit_up_time": "09:33:57",
         "consecutive_boards": 2
@@ -1083,8 +567,8 @@
         "name": "福华尚纬",
         "reason": "电网设备",
         "concepts": [],
-        "amount": 149526758.0,
-        "turnover_rate": 2.46,
+        "amount": 182185418.0,
+        "turnover_rate": 2.99,
         "first_limit_up_time": "09:31:05",
         "last_limit_up_time": "09:31:50",
         "consecutive_boards": 1
@@ -1094,8 +578,8 @@
         "name": "亿利达",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 229054411.0,
-        "turnover_rate": 6.57,
+        "amount": 237551515.0,
+        "turnover_rate": 6.81,
         "first_limit_up_time": "09:31:57",
         "last_limit_up_time": "09:45:54",
         "consecutive_boards": 1
@@ -1105,8 +589,8 @@
         "name": "和远气体",
         "reason": "化学制品",
         "concepts": [],
-        "amount": 299871136.0,
-        "turnover_rate": 4.09,
+        "amount": 323853600.0,
+        "turnover_rate": 4.41,
         "first_limit_up_time": "09:32:00",
         "last_limit_up_time": "09:32:00",
         "consecutive_boards": 1
@@ -1116,30 +600,19 @@
         "name": "科森科技",
         "reason": "消费电子",
         "concepts": [],
-        "amount": 764789392.0,
-        "turnover_rate": 7.52,
+        "amount": 800520928.0,
+        "turnover_rate": 7.87,
         "first_limit_up_time": "09:34:21",
         "last_limit_up_time": "11:20:15",
         "consecutive_boards": 2
-      },
-      {
-        "code": "001367",
-        "name": "海森药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 191054987.0,
-        "turnover_rate": 7.34,
-        "first_limit_up_time": "09:34:24",
-        "last_limit_up_time": "11:27:03",
-        "consecutive_boards": 1
       },
       {
         "code": "603095",
         "name": "越剑智能",
         "reason": "专用设备",
         "concepts": [],
-        "amount": 112273650.0,
-        "turnover_rate": 2.91,
+        "amount": 116838526.0,
+        "turnover_rate": 3.03,
         "first_limit_up_time": "09:35:36",
         "last_limit_up_time": "09:35:36",
         "consecutive_boards": 1
@@ -1149,8 +622,8 @@
         "name": "士兰微",
         "reason": "半导体",
         "concepts": [],
-        "amount": 2494835600.0,
-        "turnover_rate": 4.29,
+        "amount": 2699276816.0,
+        "turnover_rate": 4.63,
         "first_limit_up_time": "09:36:09",
         "last_limit_up_time": "09:36:09",
         "consecutive_boards": 1
@@ -1160,8 +633,8 @@
         "name": "圣达生物",
         "reason": "化学制品",
         "concepts": [],
-        "amount": 142851986.0,
-        "turnover_rate": 5.62,
+        "amount": 160811789.0,
+        "turnover_rate": 6.3,
         "first_limit_up_time": "09:37:29",
         "last_limit_up_time": "09:37:29",
         "consecutive_boards": 1
@@ -1171,8 +644,8 @@
         "name": "水发燃气",
         "reason": "燃气Ⅱ",
         "concepts": [],
-        "amount": 332595104.0,
-        "turnover_rate": 7.7,
+        "amount": 416796176.0,
+        "turnover_rate": 9.63,
         "first_limit_up_time": "09:38:26",
         "last_limit_up_time": "09:38:56",
         "consecutive_boards": 1
@@ -1182,8 +655,8 @@
         "name": "可川科技",
         "reason": "消费电子",
         "concepts": [],
-        "amount": 260560762.0,
-        "turnover_rate": 2.31,
+        "amount": 271758768.0,
+        "turnover_rate": 2.41,
         "first_limit_up_time": "09:40:50",
         "last_limit_up_time": "09:40:50",
         "consecutive_boards": 1
@@ -1193,8 +666,8 @@
         "name": "白银有色",
         "reason": "工业金属",
         "concepts": [],
-        "amount": 1945549680.0,
-        "turnover_rate": 4.39,
+        "amount": 2015909280.0,
+        "turnover_rate": 4.54,
         "first_limit_up_time": "09:41:19",
         "last_limit_up_time": "10:08:10",
         "consecutive_boards": 1
@@ -1204,8 +677,8 @@
         "name": "飞龙股份",
         "reason": "汽车零部",
         "concepts": [],
-        "amount": 1594386448.0,
-        "turnover_rate": 6.36,
+        "amount": 1653153392.0,
+        "turnover_rate": 6.59,
         "first_limit_up_time": "09:41:33",
         "last_limit_up_time": "09:41:33",
         "consecutive_boards": 1
@@ -1215,8 +688,8 @@
         "name": "瑞斯康达",
         "reason": "通信设备",
         "concepts": [],
-        "amount": 247749266.0,
-        "turnover_rate": 5.31,
+        "amount": 261119318.0,
+        "turnover_rate": 5.58,
         "first_limit_up_time": "09:43:14",
         "last_limit_up_time": "09:43:14",
         "consecutive_boards": 1
@@ -1226,8 +699,8 @@
         "name": "星网锐捷",
         "reason": "通信设备",
         "concepts": [],
-        "amount": 2325226288.0,
-        "turnover_rate": 9.48,
+        "amount": 2406313232.0,
+        "turnover_rate": 9.8,
         "first_limit_up_time": "09:44:30",
         "last_limit_up_time": "10:44:45",
         "consecutive_boards": 1
@@ -1237,8 +710,8 @@
         "name": "金富科技",
         "reason": "包装印刷",
         "concepts": [],
-        "amount": 339560736.0,
-        "turnover_rate": 2.86,
+        "amount": 376032224.0,
+        "turnover_rate": 3.16,
         "first_limit_up_time": "09:45:15",
         "last_limit_up_time": "09:45:15",
         "consecutive_boards": 1
@@ -1248,8 +721,8 @@
         "name": "东信和平",
         "reason": "通信设备",
         "concepts": [],
-        "amount": 443986256.0,
-        "turnover_rate": 5.38,
+        "amount": 470577312.0,
+        "turnover_rate": 5.7,
         "first_limit_up_time": "09:45:54",
         "last_limit_up_time": "10:41:57",
         "consecutive_boards": 1
@@ -1259,8 +732,8 @@
         "name": "江钨装备",
         "reason": "专用设备",
         "concepts": [],
-        "amount": 1753501120.0,
-        "turnover_rate": 10.02,
+        "amount": 1812964032.0,
+        "turnover_rate": 10.35,
         "first_limit_up_time": "09:48:16",
         "last_limit_up_time": "11:20:49",
         "consecutive_boards": 1
@@ -1270,8 +743,8 @@
         "name": "宿迁联盛",
         "reason": "化学制品",
         "concepts": [],
-        "amount": 561297696.0,
-        "turnover_rate": 7.95,
+        "amount": 585270272.0,
+        "turnover_rate": 8.28,
         "first_limit_up_time": "09:49:43",
         "last_limit_up_time": "10:02:46",
         "consecutive_boards": 1
@@ -1281,8 +754,8 @@
         "name": "福达合金",
         "reason": "金属新材",
         "concepts": [],
-        "amount": 430231104.0,
-        "turnover_rate": 5.69,
+        "amount": 477820944.0,
+        "turnover_rate": 6.31,
         "first_limit_up_time": "09:56:12",
         "last_limit_up_time": "10:08:06",
         "consecutive_boards": 1
@@ -1292,8 +765,8 @@
         "name": "博汇股份",
         "reason": "炼化及贸",
         "concepts": [],
-        "amount": 211919167.0,
-        "turnover_rate": 6.34,
+        "amount": 225948952.0,
+        "turnover_rate": 6.74,
         "first_limit_up_time": "09:56:18",
         "last_limit_up_time": "09:56:18",
         "consecutive_boards": 1
@@ -1303,8 +776,8 @@
         "name": "旭光电子",
         "reason": "其他电子",
         "concepts": [],
-        "amount": 3624786048.0,
-        "turnover_rate": 11.83,
+        "amount": 3782619184.0,
+        "turnover_rate": 12.33,
         "first_limit_up_time": "09:56:19",
         "last_limit_up_time": "10:51:43",
         "consecutive_boards": 1
@@ -1314,8 +787,8 @@
         "name": "共达电声",
         "reason": "消费电子",
         "concepts": [],
-        "amount": 1153575440.0,
-        "turnover_rate": 8.66,
+        "amount": 1201894592.0,
+        "turnover_rate": 9.01,
         "first_limit_up_time": "09:57:33",
         "last_limit_up_time": "10:04:03",
         "consecutive_boards": 1
@@ -1325,8 +798,8 @@
         "name": "豪美新材",
         "reason": "工业金属",
         "concepts": [],
-        "amount": 269736976.0,
-        "turnover_rate": 4.57,
+        "amount": 280388784.0,
+        "turnover_rate": 4.75,
         "first_limit_up_time": "10:06:39",
         "last_limit_up_time": "10:18:48",
         "consecutive_boards": 1
@@ -1336,8 +809,8 @@
         "name": "天洋新材",
         "reason": "塑料",
         "concepts": [],
-        "amount": 1097311760.0,
-        "turnover_rate": 28.1,
+        "amount": 1127323856.0,
+        "turnover_rate": 28.84,
         "first_limit_up_time": "10:06:44",
         "last_limit_up_time": "10:43:20",
         "consecutive_boards": 1
@@ -1347,10 +820,10 @@
         "name": "融捷股份",
         "reason": "能源金属",
         "concepts": [],
-        "amount": 1311260256.0,
-        "turnover_rate": 7.23,
+        "amount": 1971905872.0,
+        "turnover_rate": 10.76,
         "first_limit_up_time": "10:15:45",
-        "last_limit_up_time": "10:15:45",
+        "last_limit_up_time": "13:26:51",
         "consecutive_boards": 1
       },
       {
@@ -1358,10 +831,10 @@
         "name": "日科化学",
         "reason": "化学制品",
         "concepts": [],
-        "amount": 664008848.0,
-        "turnover_rate": 12.06,
+        "amount": 790411152.0,
+        "turnover_rate": 14.17,
         "first_limit_up_time": "10:17:36",
-        "last_limit_up_time": "10:17:36",
+        "last_limit_up_time": "14:34:36",
         "consecutive_boards": 1
       },
       {
@@ -1369,21 +842,10 @@
         "name": "近岸蛋白",
         "reason": "生物制品",
         "concepts": [],
-        "amount": 766631184.0,
-        "turnover_rate": 14.63,
+        "amount": 794653568.0,
+        "turnover_rate": 15.12,
         "first_limit_up_time": "10:18:19",
         "last_limit_up_time": "10:26:19",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "688185",
-        "name": "康希诺",
-        "reason": "生物制品",
-        "concepts": [],
-        "amount": 1505734688.0,
-        "turnover_rate": 18.02,
-        "first_limit_up_time": "10:37:08",
-        "last_limit_up_time": "10:46:02",
         "consecutive_boards": 2
       },
       {
@@ -1391,8 +853,8 @@
         "name": "精达股份",
         "reason": "电网设备",
         "concepts": [],
-        "amount": 980318832.0,
-        "turnover_rate": 5.23,
+        "amount": 1025608080.0,
+        "turnover_rate": 5.47,
         "first_limit_up_time": "10:39:10",
         "last_limit_up_time": "11:03:34",
         "consecutive_boards": 1
@@ -1402,10 +864,10 @@
         "name": "湖南白银",
         "reason": "贵金属",
         "concepts": [],
-        "amount": 3828849264.0,
-        "turnover_rate": 16.29,
+        "amount": 4312985600.0,
+        "turnover_rate": 18.29,
         "first_limit_up_time": "10:40:36",
-        "last_limit_up_time": "10:40:36",
+        "last_limit_up_time": "13:23:36",
         "consecutive_boards": 1
       },
       {
@@ -1413,8 +875,8 @@
         "name": "高新发展",
         "reason": "房屋建设",
         "concepts": [],
-        "amount": 676420160.0,
-        "turnover_rate": 8.09,
+        "amount": 731645344.0,
+        "turnover_rate": 8.72,
         "first_limit_up_time": "11:00:42",
         "last_limit_up_time": "11:00:42",
         "consecutive_boards": 1
@@ -1424,32 +886,153 @@
         "name": "宇环数控",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 837139168.0,
-        "turnover_rate": 24.12,
+        "amount": 857018768.0,
+        "turnover_rate": 24.66,
         "first_limit_up_time": "11:02:12",
         "last_limit_up_time": "11:02:12",
         "consecutive_boards": 2
-      },
-      {
-        "code": "605018",
-        "name": "长华集团",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 84244745.0,
-        "turnover_rate": 1.39,
-        "first_limit_up_time": "11:29:29",
-        "last_limit_up_time": "11:29:53",
-        "consecutive_boards": 1
       },
       {
         "code": "002449",
         "name": "国星光电",
         "reason": "光学光电",
         "concepts": [],
-        "amount": 104428748.0,
-        "turnover_rate": 2.5,
+        "amount": 305651200.0,
+        "turnover_rate": 7.12,
         "first_limit_up_time": "11:29:51",
-        "last_limit_up_time": "11:29:51",
+        "last_limit_up_time": "13:19:57",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688328",
+        "name": "深科达",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 1103203328.0,
+        "turnover_rate": 13.53,
+        "first_limit_up_time": "13:02:26",
+        "last_limit_up_time": "13:54:26",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "003031",
+        "name": "中瓷电子",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 2202510032.0,
+        "turnover_rate": 4.74,
+        "first_limit_up_time": "13:12:30",
+        "last_limit_up_time": "13:18:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600110",
+        "name": "诺德股份",
+        "reason": "电池",
+        "concepts": [],
+        "amount": 2285226624.0,
+        "turnover_rate": 12.7,
+        "first_limit_up_time": "13:27:08",
+        "last_limit_up_time": "14:17:02",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603758",
+        "name": "秦安股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 383461392.0,
+        "turnover_rate": 7.97,
+        "first_limit_up_time": "13:36:31",
+        "last_limit_up_time": "13:36:31",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000603",
+        "name": "盛达资源",
+        "reason": "贵金属",
+        "concepts": [],
+        "amount": 3354818496.0,
+        "turnover_rate": 14.27,
+        "first_limit_up_time": "13:56:45",
+        "last_limit_up_time": "14:00:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002638",
+        "name": "勤上股份",
+        "reason": "照明设备",
+        "concepts": [],
+        "amount": 317387504.0,
+        "turnover_rate": 5.9,
+        "first_limit_up_time": "14:11:06",
+        "last_limit_up_time": "14:11:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002045",
+        "name": "国光电器",
+        "reason": "消费电子",
+        "concepts": [],
+        "amount": 490236848.0,
+        "turnover_rate": 9.89,
+        "first_limit_up_time": "14:26:30",
+        "last_limit_up_time": "14:26:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002491",
+        "name": "通鼎互联",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 7263185920.0,
+        "turnover_rate": 30.46,
+        "first_limit_up_time": "14:27:09",
+        "last_limit_up_time": "14:49:54",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "300016",
+        "name": "北陆药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 1230292512.0,
+        "turnover_rate": 22.65,
+        "first_limit_up_time": "14:30:09",
+        "last_limit_up_time": "14:30:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002886",
+        "name": "沃特股份",
+        "reason": "塑料",
+        "concepts": [],
+        "amount": 350051264.0,
+        "turnover_rate": 8.3,
+        "first_limit_up_time": "14:32:30",
+        "last_limit_up_time": "14:32:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002631",
+        "name": "德尔未来",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 376896752.0,
+        "turnover_rate": 5.18,
+        "first_limit_up_time": "14:34:54",
+        "last_limit_up_time": "14:34:54",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301591",
+        "name": "肯特股份",
+        "reason": "塑料",
+        "concepts": [],
+        "amount": 381200704.0,
+        "turnover_rate": 24.9,
+        "first_limit_up_time": "14:37:27",
+        "last_limit_up_time": "14:37:27",
         "consecutive_boards": 1
       }
     ]
@@ -1459,10 +1042,10 @@
       {
         "concept": "农机",
         "concept_code": "301306",
-        "change_pct": -0.14,
-        "net_inflow_yi": -1.12,
+        "change_pct": 0.28,
+        "net_inflow_yi": -2.14,
         "count": 1,
-        "amount": 471651564.55,
+        "amount": 529328786.55,
         "rows": [
           {
             "code": "001277",
@@ -1475,8 +1058,8 @@
               "煤炭概念",
               "融资融券"
             ],
-            "amount": 471651564.55,
-            "turnover_rate": 26.71,
+            "amount": 529328786.55,
+            "turnover_rate": 30.23,
             "first_limit_up_time": "09:32:09",
             "last_limit_up_time": "09:36:51",
             "consecutive_boards": 0
@@ -1486,10 +1069,10 @@
       {
         "concept": "煤炭概念",
         "concept_code": "308716",
-        "change_pct": -0.02,
-        "net_inflow_yi": 4.77,
+        "change_pct": 0.24,
+        "net_inflow_yi": 7.23,
         "count": 1,
-        "amount": 471651564.55,
+        "amount": 529328786.55,
         "rows": [
           {
             "code": "001277",
@@ -1502,8 +1085,8 @@
               "煤炭概念",
               "融资融券"
             ],
-            "amount": 471651564.55,
-            "turnover_rate": 26.71,
+            "amount": 529328786.55,
+            "turnover_rate": 30.23,
             "first_limit_up_time": "09:32:09",
             "last_limit_up_time": "09:36:51",
             "consecutive_boards": 0
@@ -1513,10 +1096,10 @@
       {
         "concept": "仿制药一致性评价",
         "concept_code": "308572",
-        "change_pct": -3.43,
-        "net_inflow_yi": -38.79,
+        "change_pct": -3.58,
+        "net_inflow_yi": -47.15,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1534,8 +1117,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1545,10 +1128,10 @@
       {
         "concept": "农业种植",
         "concept_code": "308016",
-        "change_pct": -2.97,
-        "net_inflow_yi": -21.33,
+        "change_pct": -2.76,
+        "net_inflow_yi": -25.47,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1566,8 +1149,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1577,10 +1160,10 @@
       {
         "concept": "医药电商",
         "concept_code": "301565",
-        "change_pct": -2.96,
-        "net_inflow_yi": -39.68,
+        "change_pct": -3.09,
+        "net_inflow_yi": -48.89,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1598,8 +1181,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1609,10 +1192,10 @@
       {
         "concept": "参股银行",
         "concept_code": "301270",
-        "change_pct": -0.77,
-        "net_inflow_yi": -18.92,
+        "change_pct": -0.35,
+        "net_inflow_yi": -21.74,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1630,8 +1213,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1641,10 +1224,10 @@
       {
         "concept": "幽门螺杆菌概念",
         "concept_code": "308818",
-        "change_pct": -2.72,
-        "net_inflow_yi": -19.65,
+        "change_pct": -2.96,
+        "net_inflow_yi": -25.32,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1662,8 +1245,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1673,10 +1256,10 @@
       {
         "concept": "流感",
         "concept_code": "300038",
-        "change_pct": -3.18,
-        "net_inflow_yi": -27.64,
+        "change_pct": -3.45,
+        "net_inflow_yi": -38.78,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1694,8 +1277,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1705,10 +1288,10 @@
       {
         "concept": "肝炎概念",
         "concept_code": "308915",
-        "change_pct": -3.61,
-        "net_inflow_yi": -29.79,
+        "change_pct": -3.8,
+        "net_inflow_yi": -39.98,
         "count": 1,
-        "amount": 216622240.04,
+        "amount": 229530341.02,
         "rows": [
           {
             "code": "002412",
@@ -1726,8 +1309,8 @@
               "2026中报预增",
               "融资融券"
             ],
-            "amount": 216622240.04,
-            "turnover_rate": 4.27,
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
             "first_limit_up_time": "09:25:00",
             "last_limit_up_time": "09:25:00",
             "consecutive_boards": 3
@@ -1735,7 +1318,2219 @@
         ]
       }
     ],
-    "2026-08-20": [],
+    "2026-08-20": [
+      {
+        "concept": "流感",
+        "concept_code": "300038",
+        "change_pct": -3.45,
+        "net_inflow_yi": -38.78,
+        "count": 4,
+        "amount": 3329816855.62,
+        "rows": [
+          {
+            "code": "688185",
+            "name": "康希诺",
+            "reason": "其他",
+            "concepts": [
+              "猴痘概念",
+              "生物疫苗",
+              "CRO概念",
+              "流感",
+              "合成生物",
+              "三胎概念",
+              "京津冀一体化",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 1891019107.46,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:37:08",
+            "last_limit_up_time": "14:50:08",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "688137",
+            "name": "近岸蛋白",
+            "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+            "concepts": [
+              "重组蛋白",
+              "CRO概念",
+              "细胞免疫治疗",
+              "流感",
+              "合成生物",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 794653561.18,
+            "turnover_rate": 15.12,
+            "first_limit_up_time": "10:18:19",
+            "last_limit_up_time": "10:26:19",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "苹果概念",
+        "concept_code": "300309",
+        "change_pct": 1.27,
+        "net_inflow_yi": 41.23,
+        "count": 3,
+        "amount": 1970800137.91,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "603958",
+            "name": "哈森股份",
+            "reason": "苹果产业链+机器人概念+重组+中报预计扭亏",
+            "concepts": [
+              "3D打印",
+              "苹果概念",
+              "机器人概念",
+              "消费电子概念",
+              "工业母机",
+              "海峡两岸",
+              "华为概念",
+              "智能穿戴",
+              "DeepSeek概念",
+              "股权转让(并购重组)"
+            ],
+            "amount": 313260441.5,
+            "turnover_rate": 6.99,
+            "first_limit_up_time": "09:30:39",
+            "last_limit_up_time": "09:33:57",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "仿制药一致性评价",
+        "concept_code": "308572",
+        "change_pct": -3.58,
+        "net_inflow_yi": -47.15,
+        "count": 3,
+        "amount": 962661587.96,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "000931",
+            "name": "中关村",
+            "reason": "mRNA疫苗平台+创新药+麻精镇痛+药品获批",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "养老概念",
+              "京津冀一体化",
+              "雄安新区",
+              "创投",
+              "融资融券"
+            ],
+            "amount": 318517400.98,
+            "turnover_rate": 8.35,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:44:09",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "CRO概念",
+        "concept_code": "308734",
+        "change_pct": -3.57,
+        "net_inflow_yi": -22.75,
+        "count": 2,
+        "amount": 2685672668.64,
+        "rows": [
+          {
+            "code": "688185",
+            "name": "康希诺",
+            "reason": "其他",
+            "concepts": [
+              "猴痘概念",
+              "生物疫苗",
+              "CRO概念",
+              "流感",
+              "合成生物",
+              "三胎概念",
+              "京津冀一体化",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 1891019107.46,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:37:08",
+            "last_limit_up_time": "14:50:08",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "688137",
+            "name": "近岸蛋白",
+            "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+            "concepts": [
+              "重组蛋白",
+              "CRO概念",
+              "细胞免疫治疗",
+              "流感",
+              "合成生物",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 794653561.18,
+            "turnover_rate": 15.12,
+            "first_limit_up_time": "10:18:19",
+            "last_limit_up_time": "10:26:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "合成生物",
+        "concept_code": "309129",
+        "change_pct": -2.43,
+        "net_inflow_yi": -42.87,
+        "count": 2,
+        "amount": 2685672668.64,
+        "rows": [
+          {
+            "code": "688185",
+            "name": "康希诺",
+            "reason": "其他",
+            "concepts": [
+              "猴痘概念",
+              "生物疫苗",
+              "CRO概念",
+              "流感",
+              "合成生物",
+              "三胎概念",
+              "京津冀一体化",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 1891019107.46,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:37:08",
+            "last_limit_up_time": "14:50:08",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "688137",
+            "name": "近岸蛋白",
+            "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+            "concepts": [
+              "重组蛋白",
+              "CRO概念",
+              "细胞免疫治疗",
+              "流感",
+              "合成生物",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 794653561.18,
+            "turnover_rate": 15.12,
+            "first_limit_up_time": "10:18:19",
+            "last_limit_up_time": "10:26:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "猴痘概念",
+        "concept_code": "308941",
+        "change_pct": -3.07,
+        "net_inflow_yi": -29.5,
+        "count": 2,
+        "amount": 2305632953.42,
+        "rows": [
+          {
+            "code": "688185",
+            "name": "康希诺",
+            "reason": "其他",
+            "concepts": [
+              "猴痘概念",
+              "生物疫苗",
+              "CRO概念",
+              "流感",
+              "合成生物",
+              "三胎概念",
+              "京津冀一体化",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 1891019107.46,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:37:08",
+            "last_limit_up_time": "14:50:08",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "生物疫苗",
+        "concept_code": "300106",
+        "change_pct": -3.4,
+        "net_inflow_yi": -26.66,
+        "count": 2,
+        "amount": 2305632953.42,
+        "rows": [
+          {
+            "code": "688185",
+            "name": "康希诺",
+            "reason": "其他",
+            "concepts": [
+              "猴痘概念",
+              "生物疫苗",
+              "CRO概念",
+              "流感",
+              "合成生物",
+              "三胎概念",
+              "京津冀一体化",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 1891019107.46,
+            "turnover_rate": 22.38,
+            "first_limit_up_time": "10:37:08",
+            "last_limit_up_time": "14:50:08",
+            "consecutive_boards": 0
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "富士康概念",
+        "concept_code": "307954",
+        "change_pct": 1.62,
+        "net_inflow_yi": 26.98,
+        "count": 2,
+        "amount": 1657539696.4099998,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "工业母机",
+        "concept_code": "300941",
+        "change_pct": 0.8,
+        "net_inflow_yi": 8.93,
+        "count": 2,
+        "amount": 1170279212.01,
+        "rows": [
+          {
+            "code": "603958",
+            "name": "哈森股份",
+            "reason": "苹果产业链+机器人概念+重组+中报预计扭亏",
+            "concepts": [
+              "3D打印",
+              "苹果概念",
+              "机器人概念",
+              "消费电子概念",
+              "工业母机",
+              "海峡两岸",
+              "华为概念",
+              "智能穿戴",
+              "DeepSeek概念",
+              "股权转让(并购重组)"
+            ],
+            "amount": 313260441.5,
+            "turnover_rate": 6.99,
+            "first_limit_up_time": "09:30:39",
+            "last_limit_up_time": "09:33:57",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "基因测序",
+        "concept_code": "301146",
+        "change_pct": -1.89,
+        "net_inflow_yi": -20.82,
+        "count": 2,
+        "amount": 1006156886.96,
+        "rows": [
+          {
+            "code": "000710",
+            "name": "贝瑞基因",
+            "reason": "AI医疗+基因测序+三代测序",
+            "concepts": [
+              "基因测序",
+              "辅助生殖",
+              "三胎概念",
+              "智能医疗",
+              "医疗器械概念",
+              "AI应用",
+              "京津冀一体化",
+              "数据要素",
+              "人工智能",
+              "AI智能体",
+              "DeepSeek概念",
+              "AI语料",
+              "西部大开发",
+              "腾讯概念",
+              "智谱AI",
+              "海峡两岸"
+            ],
+            "amount": 591543041.0,
+            "turnover_rate": 17.65,
+            "first_limit_up_time": "09:30:03",
+            "last_limit_up_time": "09:48:33",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "辅助生殖",
+        "concept_code": "308708",
+        "change_pct": -2.96,
+        "net_inflow_yi": -33.55,
+        "count": 2,
+        "amount": 1006156886.96,
+        "rows": [
+          {
+            "code": "000710",
+            "name": "贝瑞基因",
+            "reason": "AI医疗+基因测序+三代测序",
+            "concepts": [
+              "基因测序",
+              "辅助生殖",
+              "三胎概念",
+              "智能医疗",
+              "医疗器械概念",
+              "AI应用",
+              "京津冀一体化",
+              "数据要素",
+              "人工智能",
+              "AI智能体",
+              "DeepSeek概念",
+              "AI语料",
+              "西部大开发",
+              "腾讯概念",
+              "智谱AI",
+              "海峡两岸"
+            ],
+            "amount": 591543041.0,
+            "turnover_rate": 17.65,
+            "first_limit_up_time": "09:30:03",
+            "last_limit_up_time": "09:48:33",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "医美概念",
+        "concept_code": "308712",
+        "change_pct": -2.55,
+        "net_inflow_yi": -37.55,
+        "count": 2,
+        "amount": 765642051.5999999,
+        "rows": [
+          {
+            "code": "688356",
+            "name": "键凯科技",
+            "reason": "mRNA疫苗+LNP递送+聚乙二醇+创新药",
+            "concepts": [
+              "创新药",
+              "医美概念",
+              "医疗器械概念",
+              "人民币贬值受益",
+              "3D打印",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 351028205.64,
+            "turnover_rate": 5.39,
+            "first_limit_up_time": "09:25:04",
+            "last_limit_up_time": "09:25:04",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "3D打印",
+        "concept_code": "300127",
+        "change_pct": 0.87,
+        "net_inflow_yi": 31.03,
+        "count": 2,
+        "amount": 664288647.14,
+        "rows": [
+          {
+            "code": "688356",
+            "name": "键凯科技",
+            "reason": "mRNA疫苗+LNP递送+聚乙二醇+创新药",
+            "concepts": [
+              "创新药",
+              "医美概念",
+              "医疗器械概念",
+              "人民币贬值受益",
+              "3D打印",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 351028205.64,
+            "turnover_rate": 5.39,
+            "first_limit_up_time": "09:25:04",
+            "last_limit_up_time": "09:25:04",
+            "consecutive_boards": 2
+          },
+          {
+            "code": "603958",
+            "name": "哈森股份",
+            "reason": "苹果产业链+机器人概念+重组+中报预计扭亏",
+            "concepts": [
+              "3D打印",
+              "苹果概念",
+              "机器人概念",
+              "消费电子概念",
+              "工业母机",
+              "海峡两岸",
+              "华为概念",
+              "智能穿戴",
+              "DeepSeek概念",
+              "股权转让(并购重组)"
+            ],
+            "amount": 313260441.5,
+            "turnover_rate": 6.99,
+            "first_limit_up_time": "09:30:39",
+            "last_limit_up_time": "09:33:57",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "医药电商",
+        "concept_code": "301565",
+        "change_pct": -3.09,
+        "net_inflow_yi": -48.89,
+        "count": 2,
+        "amount": 644144186.98,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "幽门螺杆菌概念",
+        "concept_code": "308818",
+        "change_pct": -2.96,
+        "net_inflow_yi": -25.32,
+        "count": 2,
+        "amount": 644144186.98,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "肝炎概念",
+        "concept_code": "308915",
+        "change_pct": -3.8,
+        "net_inflow_yi": -39.98,
+        "count": 2,
+        "amount": 644144186.98,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          },
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "光纤概念",
+        "concept_code": "309151",
+        "change_pct": 0.67,
+        "net_inflow_yi": 16.41,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "数字水印",
+        "concept_code": "309050",
+        "change_pct": 0.63,
+        "net_inflow_yi": 7.32,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "数据安全",
+        "concept_code": "308801",
+        "change_pct": 0.28,
+        "net_inflow_yi": 5.42,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "独角兽概念",
+        "concept_code": "308002",
+        "change_pct": 0.09,
+        "net_inflow_yi": 17.35,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "网络安全",
+        "concept_code": "300756",
+        "change_pct": 0.15,
+        "net_inflow_yi": -8.51,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "长三角一体化",
+        "concept_code": "308432",
+        "change_pct": 0.13,
+        "net_inflow_yi": -5.29,
+        "count": 1,
+        "amount": 7263185994.29,
+        "rows": [
+          {
+            "code": "002491",
+            "name": "通鼎互联",
+            "reason": "中报扭亏+光纤光缆+储能安防",
+            "concepts": [
+              "光纤概念",
+              "5G",
+              "数据中心(AIDC)",
+              "数字水印",
+              "专精特新",
+              "储能",
+              "网络安全",
+              "数据安全",
+              "长三角一体化",
+              "独角兽概念",
+              "固态电池",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 7263185994.29,
+            "turnover_rate": 30.46,
+            "first_limit_up_time": "14:27:09",
+            "last_limit_up_time": "14:49:54",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "摘帽",
+        "concept_code": "301455",
+        "change_pct": 0.2,
+        "net_inflow_yi": 3.1,
+        "count": 1,
+        "amount": 1443238963.72,
+        "rows": [
+          {
+            "code": "603580",
+            "name": "艾艾精工",
+            "reason": "其他",
+            "concepts": [
+              "海峡两岸",
+              "消费电子概念",
+              "人民币贬值受益",
+              "摘帽"
+            ],
+            "amount": 1443238963.72,
+            "turnover_rate": 13.87,
+            "first_limit_up_time": "10:03:23",
+            "last_limit_up_time": "10:03:23",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "减速器",
+        "concept_code": "309000",
+        "change_pct": 0.71,
+        "net_inflow_yi": 2.86,
+        "count": 1,
+        "amount": 857018770.51,
+        "rows": [
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "同花顺新质50",
+        "concept_code": "309177",
+        "change_pct": 0.35,
+        "net_inflow_yi": 63.17,
+        "count": 1,
+        "amount": 857018770.51,
+        "rows": [
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "第三代半导体",
+        "concept_code": "308700",
+        "change_pct": 1.05,
+        "net_inflow_yi": -17.55,
+        "count": 1,
+        "amount": 857018770.51,
+        "rows": [
+          {
+            "code": "002903",
+            "name": "宇环数控",
+            "reason": "机器人+消费电子+数控机床",
+            "concepts": [
+              "工业母机",
+              "减速器",
+              "新型工业化",
+              "富士康概念",
+              "苹果概念",
+              "同花顺新质50",
+              "专精特新",
+              "消费电子概念",
+              "比亚迪概念",
+              "机器人概念",
+              "军工",
+              "新能源汽车",
+              "小米概念",
+              "芯片概念",
+              "华为概念",
+              "第三代半导体",
+              "融资融券"
+            ],
+            "amount": 857018770.51,
+            "turnover_rate": 24.66,
+            "first_limit_up_time": "11:02:12",
+            "last_limit_up_time": "11:02:12",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "元宇宙",
+        "concept_code": "308752",
+        "change_pct": 0.26,
+        "net_inflow_yi": 4.93,
+        "count": 1,
+        "amount": 800520925.9,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "新型烟草(电子烟)",
+        "concept_code": "301362",
+        "change_pct": 1.07,
+        "net_inflow_yi": -4.57,
+        "count": 1,
+        "amount": 800520925.9,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "无线耳机",
+        "concept_code": "308612",
+        "change_pct": 1.01,
+        "net_inflow_yi": 32.37,
+        "count": 1,
+        "amount": 800520925.9,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "智能音箱",
+        "concept_code": "302131",
+        "change_pct": 0.92,
+        "net_inflow_yi": 15.47,
+        "count": 1,
+        "amount": 800520925.9,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "柔性屏(折叠屏)",
+        "concept_code": "308467",
+        "change_pct": 1.14,
+        "net_inflow_yi": 15.69,
+        "count": 1,
+        "amount": 800520925.9,
+        "rows": [
+          {
+            "code": "603626",
+            "name": "科森科技",
+            "reason": "折叠屏+机器人+消费电子+中报扭亏",
+            "concepts": [
+              "智能音箱",
+              "特斯拉概念",
+              "机器人概念",
+              "虚拟现实",
+              "柔性屏(折叠屏)",
+              "苹果概念",
+              "元宇宙",
+              "智能穿戴",
+              "富士康概念",
+              "消费电子概念",
+              "人民币贬值受益",
+              "华为概念",
+              "无线耳机",
+              "海峡两岸",
+              "新型烟草(电子烟)",
+              "AI",
+              "PC",
+              "储能",
+              "固态电池",
+              "沪股通",
+              "融资融券"
+            ],
+            "amount": 800520925.9,
+            "turnover_rate": 7.87,
+            "first_limit_up_time": "09:34:21",
+            "last_limit_up_time": "11:20:15",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "细胞免疫治疗",
+        "concept_code": "301543",
+        "change_pct": -3.74,
+        "net_inflow_yi": -40.36,
+        "count": 1,
+        "amount": 794653561.18,
+        "rows": [
+          {
+            "code": "688137",
+            "name": "近岸蛋白",
+            "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+            "concepts": [
+              "重组蛋白",
+              "CRO概念",
+              "细胞免疫治疗",
+              "流感",
+              "合成生物",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 794653561.18,
+            "turnover_rate": 15.12,
+            "first_limit_up_time": "10:18:19",
+            "last_limit_up_time": "10:26:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "重组蛋白",
+        "concept_code": "308822",
+        "change_pct": -3.53,
+        "net_inflow_yi": -23.62,
+        "count": 1,
+        "amount": 794653561.18,
+        "rows": [
+          {
+            "code": "688137",
+            "name": "近岸蛋白",
+            "reason": "mRNA肿瘤疫苗+合成生物+mRNA原料酶",
+            "concepts": [
+              "重组蛋白",
+              "CRO概念",
+              "细胞免疫治疗",
+              "流感",
+              "合成生物",
+              "专精特新",
+              "融资融券"
+            ],
+            "amount": 794653561.18,
+            "turnover_rate": 15.12,
+            "first_limit_up_time": "10:18:19",
+            "last_limit_up_time": "10:26:19",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "AI语料",
+        "concept_code": "309126",
+        "change_pct": 0.25,
+        "net_inflow_yi": -9.4,
+        "count": 1,
+        "amount": 591543041.0,
+        "rows": [
+          {
+            "code": "000710",
+            "name": "贝瑞基因",
+            "reason": "AI医疗+基因测序+三代测序",
+            "concepts": [
+              "基因测序",
+              "辅助生殖",
+              "三胎概念",
+              "智能医疗",
+              "医疗器械概念",
+              "AI应用",
+              "京津冀一体化",
+              "数据要素",
+              "人工智能",
+              "AI智能体",
+              "DeepSeek概念",
+              "AI语料",
+              "西部大开发",
+              "腾讯概念",
+              "智谱AI",
+              "海峡两岸"
+            ],
+            "amount": 591543041.0,
+            "turnover_rate": 17.65,
+            "first_limit_up_time": "09:30:03",
+            "last_limit_up_time": "09:48:33",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "智谱AI",
+        "concept_code": "309164",
+        "change_pct": 0.09,
+        "net_inflow_yi": -1.11,
+        "count": 1,
+        "amount": 591543041.0,
+        "rows": [
+          {
+            "code": "000710",
+            "name": "贝瑞基因",
+            "reason": "AI医疗+基因测序+三代测序",
+            "concepts": [
+              "基因测序",
+              "辅助生殖",
+              "三胎概念",
+              "智能医疗",
+              "医疗器械概念",
+              "AI应用",
+              "京津冀一体化",
+              "数据要素",
+              "人工智能",
+              "AI智能体",
+              "DeepSeek概念",
+              "AI语料",
+              "西部大开发",
+              "腾讯概念",
+              "智谱AI",
+              "海峡两岸"
+            ],
+            "amount": 591543041.0,
+            "turnover_rate": 17.65,
+            "first_limit_up_time": "09:30:03",
+            "last_limit_up_time": "09:48:33",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "农机",
+        "concept_code": "301306",
+        "change_pct": 0.28,
+        "net_inflow_yi": -2.14,
+        "count": 1,
+        "amount": 529328786.55,
+        "rows": [
+          {
+            "code": "001277",
+            "name": "速达股份",
+            "reason": "其他",
+            "concepts": [
+              "农机",
+              "新型工业化",
+              "数据中心(AIDC)",
+              "煤炭概念",
+              "融资融券"
+            ],
+            "amount": 529328786.55,
+            "turnover_rate": 30.23,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:36:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "煤炭概念",
+        "concept_code": "308716",
+        "change_pct": 0.24,
+        "net_inflow_yi": 7.23,
+        "count": 1,
+        "amount": 529328786.55,
+        "rows": [
+          {
+            "code": "001277",
+            "name": "速达股份",
+            "reason": "其他",
+            "concepts": [
+              "农机",
+              "新型工业化",
+              "数据中心(AIDC)",
+              "煤炭概念",
+              "融资融券"
+            ],
+            "amount": 529328786.55,
+            "turnover_rate": 30.23,
+            "first_limit_up_time": "09:32:09",
+            "last_limit_up_time": "09:36:51",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "IP经济(谷子经济)",
+        "concept_code": "309174",
+        "change_pct": -0.66,
+        "net_inflow_yi": -16.94,
+        "count": 1,
+        "amount": 528110022.9,
+        "rows": [
+          {
+            "code": "600250",
+            "name": "南京商旅",
+            "reason": "其他",
+            "concepts": [
+              "旅游概念",
+              "IP经济(谷子经济)",
+              "养老概念",
+              "跨境电商",
+              "国企改革",
+              "低空经济"
+            ],
+            "amount": 528110022.9,
+            "turnover_rate": 17.43,
+            "first_limit_up_time": "09:30:30",
+            "last_limit_up_time": "09:30:30",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "旅游概念",
+        "concept_code": "301223",
+        "change_pct": -0.38,
+        "net_inflow_yi": -11.07,
+        "count": 1,
+        "amount": 528110022.9,
+        "rows": [
+          {
+            "code": "600250",
+            "name": "南京商旅",
+            "reason": "其他",
+            "concepts": [
+              "旅游概念",
+              "IP经济(谷子经济)",
+              "养老概念",
+              "跨境电商",
+              "国企改革",
+              "低空经济"
+            ],
+            "amount": 528110022.9,
+            "turnover_rate": 17.43,
+            "first_limit_up_time": "09:30:30",
+            "last_limit_up_time": "09:30:30",
+            "consecutive_boards": 0
+          }
+        ]
+      },
+      {
+        "concept": "NMN概念",
+        "concept_code": "308692",
+        "change_pct": -2.19,
+        "net_inflow_yi": -8.13,
+        "count": 1,
+        "amount": 414613845.96,
+        "rows": [
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "减肥药",
+        "concept_code": "309081",
+        "change_pct": -4.59,
+        "net_inflow_yi": -43.46,
+        "count": 1,
+        "amount": 414613845.96,
+        "rows": [
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "工业大麻",
+        "concept_code": "301477",
+        "change_pct": -1.4,
+        "net_inflow_yi": -10.9,
+        "count": 1,
+        "amount": 414613845.96,
+        "rows": [
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "民营医院",
+        "concept_code": "301346",
+        "change_pct": -2.66,
+        "net_inflow_yi": -0.1,
+        "count": 1,
+        "amount": 414613845.96,
+        "rows": [
+          {
+            "code": "002038",
+            "name": "双鹭药业",
+            "reason": "mRNA平台+GLP-1+创新药+国企改革",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "医药电商",
+              "减肥药",
+              "流感",
+              "幽门螺杆菌概念",
+              "肝炎概念",
+              "生物疫苗",
+              "辅助生殖",
+              "猴痘概念",
+              "医美概念",
+              "民营医院",
+              "基因测序",
+              "NMN概念",
+              "工业大麻",
+              "国企改革",
+              "京津冀一体化",
+              "创投",
+              "深股通",
+              "融资融券"
+            ],
+            "amount": 414613845.96,
+            "turnover_rate": 6.88,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:06",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "雄安新区",
+        "concept_code": "302182",
+        "change_pct": -0.2,
+        "net_inflow_yi": -24.35,
+        "count": 1,
+        "amount": 318517400.98,
+        "rows": [
+          {
+            "code": "000931",
+            "name": "中关村",
+            "reason": "mRNA疫苗平台+创新药+麻精镇痛+药品获批",
+            "concepts": [
+              "仿制药一致性评价",
+              "创新药",
+              "养老概念",
+              "京津冀一体化",
+              "雄安新区",
+              "创投",
+              "融资融券"
+            ],
+            "amount": 318517400.98,
+            "turnover_rate": 8.35,
+            "first_limit_up_time": "09:30:00",
+            "last_limit_up_time": "09:44:09",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "两轮车",
+        "concept_code": "301248",
+        "change_pct": 0.34,
+        "net_inflow_yi": -3.27,
+        "count": 1,
+        "amount": 294182280.08,
+        "rows": [
+          {
+            "code": "000017",
+            "name": "深中华A",
+            "reason": "黄金珠宝+黄金涨价+年报增长",
+            "concepts": [
+              "两轮车",
+              "粤港澳大湾区",
+              "锂电池概念",
+              "黄金概念",
+              "智能穿戴"
+            ],
+            "amount": 294182280.08,
+            "turnover_rate": 9.43,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:09",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "黄金概念",
+        "concept_code": "300248",
+        "change_pct": 2.46,
+        "net_inflow_yi": 81.09,
+        "count": 1,
+        "amount": 294182280.08,
+        "rows": [
+          {
+            "code": "000017",
+            "name": "深中华A",
+            "reason": "黄金珠宝+黄金涨价+年报增长",
+            "concepts": [
+              "两轮车",
+              "粤港澳大湾区",
+              "锂电池概念",
+              "黄金概念",
+              "智能穿戴"
+            ],
+            "amount": 294182280.08,
+            "turnover_rate": 9.43,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:39:09",
+            "consecutive_boards": 2
+          }
+        ]
+      },
+      {
+        "concept": "农业种植",
+        "concept_code": "308016",
+        "change_pct": -2.76,
+        "net_inflow_yi": -25.47,
+        "count": 1,
+        "amount": 229530341.02,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          }
+        ]
+      },
+      {
+        "concept": "参股银行",
+        "concept_code": "301270",
+        "change_pct": -0.35,
+        "net_inflow_yi": -21.74,
+        "count": 1,
+        "amount": 229530341.02,
+        "rows": [
+          {
+            "code": "002412",
+            "name": "汉森制药",
+            "reason": "创新药+中药+中报预增",
+            "concepts": [
+              "流感",
+              "仿制药一致性评价",
+              "肝炎概念",
+              "医药电商",
+              "幽门螺杆菌概念",
+              "创新药",
+              "农业种植",
+              "参股银行",
+              "2026中报预增",
+              "融资融券"
+            ],
+            "amount": 229530341.02,
+            "turnover_rate": 4.53,
+            "first_limit_up_time": "09:25:00",
+            "last_limit_up_time": "09:25:00",
+            "consecutive_boards": 3
+          }
+        ]
+      }
+    ],
     "2026-08-21": []
   }
 }
