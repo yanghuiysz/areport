@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24 08:07:50",
-  "latest_trade_date": "2026-08-21",
+  "generated_at": "2026-08-24 11:09:00",
+  "latest_trade_date": "2026-08-24",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -69,19 +69,8 @@
       "flow_rank": 33,
       "change_score": 95.77,
       "flow_score": 74.9,
-      "limit_up_count": 1,
-      "limit_up_stocks": [
-        {
-          "code": "600785",
-          "name": "新华百货",
-          "reason": "回购+新质零售+区域零售",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:25:01",
-          "last_limit_up_time": "09:31:16",
-          "turnover_rate": 5.01,
-          "amount": 169637651.83
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 5,
@@ -125,39 +114,8 @@
       "flow_rank": 167,
       "change_score": 95.58,
       "flow_score": 64.94,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "601212",
-          "name": "白银有色",
-          "reason": "白银+黄金+多金属综合+锂电材料",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:45",
-          "last_limit_up_time": "09:36:18",
-          "turnover_rate": 2.95,
-          "amount": 1457887764.79
-        },
-        {
-          "code": "002716",
-          "name": "湖南白银",
-          "reason": "半年报增长+白银+湖南国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:14:30",
-          "last_limit_up_time": "14:50:18",
-          "turnover_rate": 25.33,
-          "amount": 6608849620.09
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:19:03",
-          "last_limit_up_time": "10:19:03",
-          "turnover_rate": 18.69,
-          "amount": 4825303648.21
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 8,
@@ -171,49 +129,8 @@
       "flow_rank": 208,
       "change_score": 98.85,
       "flow_score": 59.97,
-      "limit_up_count": 4,
-      "limit_up_stocks": [
-        {
-          "code": "000017",
-          "name": "深中华A",
-          "reason": "黄金珠宝+黄金涨价+年报增长",
-          "consecutive_boards": 3,
-          "first_limit_up_time": "09:25:00",
-          "last_limit_up_time": "09:25:00",
-          "turnover_rate": 2.0,
-          "amount": 69120995.64
-        },
-        {
-          "code": "601212",
-          "name": "白银有色",
-          "reason": "白银+黄金+多金属综合+锂电材料",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:45",
-          "last_limit_up_time": "09:36:18",
-          "turnover_rate": 2.95,
-          "amount": 1457887764.79
-        },
-        {
-          "code": "002716",
-          "name": "湖南白银",
-          "reason": "半年报增长+白银+湖南国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:14:30",
-          "last_limit_up_time": "14:50:18",
-          "turnover_rate": 25.33,
-          "amount": 6608849620.09
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:19:03",
-          "last_limit_up_time": "10:19:03",
-          "turnover_rate": 18.69,
-          "amount": 4825303648.21
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 9,
@@ -227,39 +144,8 @@
       "flow_rank": 176,
       "change_score": 94.81,
       "flow_score": 63.88,
-      "limit_up_count": 3,
-      "limit_up_stocks": [
-        {
-          "code": "601212",
-          "name": "白银有色",
-          "reason": "白银+黄金+多金属综合+锂电材料",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "09:30:45",
-          "last_limit_up_time": "09:36:18",
-          "turnover_rate": 2.95,
-          "amount": 1457887764.79
-        },
-        {
-          "code": "002716",
-          "name": "湖南白银",
-          "reason": "半年报增长+白银+湖南国资",
-          "consecutive_boards": 2,
-          "first_limit_up_time": "10:14:30",
-          "last_limit_up_time": "14:50:18",
-          "turnover_rate": 25.33,
-          "amount": 6608849620.09
-        },
-        {
-          "code": "000603",
-          "name": "盛达资源",
-          "reason": "其他",
-          "consecutive_boards": 0,
-          "first_limit_up_time": "10:19:03",
-          "last_limit_up_time": "10:19:03",
-          "turnover_rate": 18.69,
-          "amount": 4825303648.21
-        }
-      ]
+      "limit_up_count": 0,
+      "limit_up_stocks": []
     },
     {
       "rank": 10,
