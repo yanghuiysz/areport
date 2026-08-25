@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25 07:57:30",
-  "latest_trade_date": "2026-08-25",
+  "generated_at": "2026-08-25 11:00:50",
+  "latest_trade_date": "2026-08-20",
   "source": {
     "name": "同花顺概念板块公开网页",
     "url": "https://q.10jqka.com.cn/gn/"
@@ -24,8 +24,39 @@
       "flow_rank": 45,
       "change_score": 87.94,
       "flow_score": 77.42,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 3,
+      "limit_up_stocks": [
+        {
+          "code": "002412",
+          "name": "汉森制药",
+          "reason": "中药+净利增长+集采中选",
+          "consecutive_boards": 5,
+          "first_limit_up_time": "09:45:36",
+          "last_limit_up_time": "09:45:36",
+          "turnover_rate": 21.27,
+          "amount": 1236227035.91
+        },
+        {
+          "code": "002880",
+          "name": "卫光生物",
+          "reason": "血液制品+定增扩产+合成生物",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:30:12",
+          "last_limit_up_time": "09:30:12",
+          "turnover_rate": 1.54,
+          "amount": 78240666.0
+        },
+        {
+          "code": "002437",
+          "name": "誉衡药业",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:42:45",
+          "last_limit_up_time": "10:10:45",
+          "turnover_rate": 37.64,
+          "amount": 3342669553.46
+        }
+      ]
     },
     {
       "rank": 2,
@@ -84,8 +115,29 @@
       "flow_rank": 24,
       "change_score": 80.23,
       "flow_score": 82.74,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 2,
+      "limit_up_stocks": [
+        {
+          "code": "002412",
+          "name": "汉森制药",
+          "reason": "中药+净利增长+集采中选",
+          "consecutive_boards": 5,
+          "first_limit_up_time": "09:45:36",
+          "last_limit_up_time": "09:45:36",
+          "turnover_rate": 21.27,
+          "amount": 1236227035.91
+        },
+        {
+          "code": "002437",
+          "name": "誉衡药业",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:42:45",
+          "last_limit_up_time": "10:10:45",
+          "turnover_rate": 37.64,
+          "amount": 3342669553.46
+        }
+      ]
     },
     {
       "rank": 6,
@@ -99,8 +151,19 @@
       "flow_rank": 99,
       "change_score": 88.61,
       "flow_score": 71.61,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002437",
+          "name": "誉衡药业",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:42:45",
+          "last_limit_up_time": "10:10:45",
+          "turnover_rate": 37.64,
+          "amount": 3342669553.46
+        }
+      ]
     },
     {
       "rank": 7,
@@ -129,8 +192,19 @@
       "flow_rank": 54,
       "change_score": 83.25,
       "flow_score": 76.02,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "002412",
+          "name": "汉森制药",
+          "reason": "中药+净利增长+集采中选",
+          "consecutive_boards": 5,
+          "first_limit_up_time": "09:45:36",
+          "last_limit_up_time": "09:45:36",
+          "turnover_rate": 21.27,
+          "amount": 1236227035.91
+        }
+      ]
     },
     {
       "rank": 9,
@@ -144,8 +218,19 @@
       "flow_rank": 46,
       "change_score": 82.08,
       "flow_score": 77.24,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "000523",
+          "name": "红棉股份",
+          "reason": "其他",
+          "consecutive_boards": 0,
+          "first_limit_up_time": "09:31:21",
+          "last_limit_up_time": "09:31:21",
+          "turnover_rate": 7.8,
+          "amount": 462142226.7
+        }
+      ]
     },
     {
       "rank": 10,
@@ -159,8 +244,19 @@
       "flow_rank": 259,
       "change_score": 96.48,
       "flow_score": 59.53,
-      "limit_up_count": 0,
-      "limit_up_stocks": []
+      "limit_up_count": 1,
+      "limit_up_stocks": [
+        {
+          "code": "600127",
+          "name": "金健米业",
+          "reason": "粮油食品+大健康食品+国企",
+          "consecutive_boards": 1,
+          "first_limit_up_time": "09:31:54",
+          "last_limit_up_time": "14:55:03",
+          "turnover_rate": 46.17,
+          "amount": 2715416625.23
+        }
+      ]
     }
   ],
   "all_count": 292
