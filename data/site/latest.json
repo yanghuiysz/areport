@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 12:01:44",
+  "generated_at": "2026-08-27 15:11:36",
   "latest_trade_date": "2026-08-27",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-08-25": [
       {
-        "code": "000017",
-        "name": "深中华A",
-        "reason": "饰品",
-        "concepts": [],
-        "amount": 497483920.0,
-        "turnover_rate": 13.12,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:58:12",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002445",
         "name": "中南文化",
         "reason": "通用设备",
@@ -61,6 +50,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "000017",
+        "name": "深中华A",
+        "reason": "饰品",
+        "concepts": [],
+        "amount": 497483920.0,
+        "turnover_rate": 13.12,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:58:12",
+        "consecutive_boards": 4
       },
       {
         "code": "600984",
