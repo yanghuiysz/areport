@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27 15:11:36",
+  "generated_at": "2026-08-27 18:16:08",
   "latest_trade_date": "2026-08-27",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-08-25": [
       {
-        "code": "002445",
-        "name": "中南文化",
-        "reason": "通用设备",
+        "code": "000017",
+        "name": "深中华A",
+        "reason": "饰品",
         "concepts": [],
-        "amount": 20938572.0,
-        "turnover_rate": 0.24,
+        "amount": 497483920.0,
+        "turnover_rate": 13.12,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
+        "last_limit_up_time": "09:58:12",
+        "consecutive_boards": 4
       },
       {
         "code": "002084",
@@ -52,15 +52,15 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000017",
-        "name": "深中华A",
-        "reason": "饰品",
+        "code": "002445",
+        "name": "中南文化",
+        "reason": "通用设备",
         "concepts": [],
-        "amount": 497483920.0,
-        "turnover_rate": 13.12,
+        "amount": 20938572.0,
+        "turnover_rate": 0.24,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:58:12",
-        "consecutive_boards": 4
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "600984",
@@ -758,12 +758,12 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002418",
-        "name": "康盛股份",
-        "reason": "家电零部",
+        "code": "002855",
+        "name": "捷荣技术",
+        "reason": "消费电子",
         "concepts": [],
-        "amount": 529807968.0,
-        "turnover_rate": 10.45,
+        "amount": 27442800.0,
+        "turnover_rate": 0.92,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -780,12 +780,12 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002855",
-        "name": "捷荣技术",
-        "reason": "消费电子",
+        "code": "002418",
+        "name": "康盛股份",
+        "reason": "家电零部",
         "concepts": [],
-        "amount": 27442800.0,
-        "turnover_rate": 0.92,
+        "amount": 529807968.0,
+        "turnover_rate": 10.45,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
