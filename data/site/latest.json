@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 09:24:23",
+  "generated_at": "2026-09-01 12:33:26",
   "latest_trade_date": "2026-09-01",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-08-28": [
       {
-        "code": "002942",
-        "name": "新农股份",
-        "reason": "农化制品",
+        "code": "002084",
+        "name": "海鸥住工",
+        "reason": "家居用品",
         "concepts": [],
-        "amount": 512135680.0,
-        "turnover_rate": 18.39,
+        "amount": 39002059.0,
+        "turnover_rate": 1.04,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:03:57",
-        "consecutive_boards": 3
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 5
       },
       {
         "code": "002855",
@@ -63,6 +63,17 @@
         "consecutive_boards": 3
       },
       {
+        "code": "002942",
+        "name": "新农股份",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 512135680.0,
+        "turnover_rate": 18.39,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:03:57",
+        "consecutive_boards": 3
+      },
+      {
         "code": "002886",
         "name": "沃特股份",
         "reason": "塑料",
@@ -72,17 +83,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
-      },
-      {
-        "code": "002084",
-        "name": "海鸥住工",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 39002059.0,
-        "turnover_rate": 1.04,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 5
       },
       {
         "code": "600371",
@@ -129,17 +129,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002631",
-        "name": "德尔未来",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 963976608.0,
-        "turnover_rate": 12.12,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "13:08:18",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002742",
         "name": "冀衡医药",
         "reason": "化学制药",
@@ -159,6 +148,17 @@
         "turnover_rate": 5.63,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002631",
+        "name": "德尔未来",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 963976608.0,
+        "turnover_rate": 12.12,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "13:08:18",
         "consecutive_boards": 1
       },
       {
@@ -272,17 +272,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "003005",
-        "name": "竞业达",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 90336480.0,
-        "turnover_rate": 4.54,
-        "first_limit_up_time": "09:36:09",
-        "last_limit_up_time": "09:36:09",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002396",
         "name": "星网锐捷",
         "reason": "通信设备",
@@ -292,6 +281,17 @@
         "first_limit_up_time": "09:36:09",
         "last_limit_up_time": "14:52:51",
         "consecutive_boards": 2
+      },
+      {
+        "code": "003005",
+        "name": "竞业达",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 90336480.0,
+        "turnover_rate": 4.54,
+        "first_limit_up_time": "09:36:09",
+        "last_limit_up_time": "09:36:09",
+        "consecutive_boards": 1
       },
       {
         "code": "600162",
@@ -934,28 +934,6 @@
     ],
     "2026-08-31": [
       {
-        "code": "000560",
-        "name": "我爱我家",
-        "reason": "房地产服",
-        "concepts": [],
-        "amount": 185611600.0,
-        "turnover_rate": 2.73,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002679",
-        "name": "福建金森",
-        "reason": "林业Ⅱ",
-        "concepts": [],
-        "amount": 59436861.0,
-        "turnover_rate": 2.15,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002084",
         "name": "海鸥住工",
         "reason": "家居用品",
@@ -976,6 +954,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 5
+      },
+      {
+        "code": "000560",
+        "name": "我爱我家",
+        "reason": "房地产服",
+        "concepts": [],
+        "amount": 185611600.0,
+        "turnover_rate": 2.73,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002679",
+        "name": "福建金森",
+        "reason": "林业Ⅱ",
+        "concepts": [],
+        "amount": 59436861.0,
+        "turnover_rate": 2.15,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "000011",
@@ -1506,17 +1506,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "001330",
-        "name": "博纳影业",
-        "reason": "影视院线",
-        "concepts": [],
-        "amount": 702824656.0,
-        "turnover_rate": 11.11,
-        "first_limit_up_time": "10:25:30",
-        "last_limit_up_time": "10:48:36",
-        "consecutive_boards": 1
-      },
-      {
         "code": "003005",
         "name": "竞业达",
         "reason": "IT服务Ⅱ",
@@ -1526,6 +1515,17 @@
         "first_limit_up_time": "10:25:30",
         "last_limit_up_time": "10:25:30",
         "consecutive_boards": 2
+      },
+      {
+        "code": "001330",
+        "name": "博纳影业",
+        "reason": "影视院线",
+        "concepts": [],
+        "amount": 702824656.0,
+        "turnover_rate": 11.11,
+        "first_limit_up_time": "10:25:30",
+        "last_limit_up_time": "10:48:36",
+        "consecutive_boards": 1
       },
       {
         "code": "603533",
