@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01 12:33:26",
+  "generated_at": "2026-09-01 15:02:51",
   "latest_trade_date": "2026-09-01",
   "summary": [
     {
@@ -52,17 +52,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "000712",
-        "name": "锦龙股份",
-        "reason": "证券Ⅱ",
-        "concepts": [],
-        "amount": 178845225.0,
-        "turnover_rate": 1.69,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002942",
         "name": "新农股份",
         "reason": "农化制品",
@@ -71,6 +60,17 @@
         "turnover_rate": 18.39,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "14:03:57",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "000712",
+        "name": "锦龙股份",
+        "reason": "证券Ⅱ",
+        "concepts": [],
+        "amount": 178845225.0,
+        "turnover_rate": 1.69,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
       },
       {
@@ -140,17 +140,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "002354",
-        "name": "天娱数科",
-        "reason": "广告营销",
-        "concepts": [],
-        "amount": 718716592.0,
-        "turnover_rate": 5.63,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002631",
         "name": "德尔未来",
         "reason": "家居用品",
@@ -159,6 +148,17 @@
         "turnover_rate": 12.12,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "13:08:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002354",
+        "name": "天娱数科",
+        "reason": "广告营销",
+        "concepts": [],
+        "amount": 718716592.0,
+        "turnover_rate": 5.63,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
       },
       {
@@ -934,28 +934,6 @@
     ],
     "2026-08-31": [
       {
-        "code": "002084",
-        "name": "海鸥住工",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 39838028.0,
-        "turnover_rate": 0.97,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 6
-      },
-      {
-        "code": "600371",
-        "name": "万向德农",
-        "reason": "种植业",
-        "concepts": [],
-        "amount": 174057944.0,
-        "turnover_rate": 4.69,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 5
-      },
-      {
         "code": "000560",
         "name": "我爱我家",
         "reason": "房地产服",
@@ -976,6 +954,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002084",
+        "name": "海鸥住工",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 39838028.0,
+        "turnover_rate": 0.97,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 6
+      },
+      {
+        "code": "600371",
+        "name": "万向德农",
+        "reason": "种植业",
+        "concepts": [],
+        "amount": 174057944.0,
+        "turnover_rate": 4.69,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 5
       },
       {
         "code": "000011",
@@ -1506,17 +1506,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "003005",
-        "name": "竞业达",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 396006304.0,
-        "turnover_rate": 18.75,
-        "first_limit_up_time": "10:25:30",
-        "last_limit_up_time": "10:25:30",
-        "consecutive_boards": 2
-      },
-      {
         "code": "001330",
         "name": "博纳影业",
         "reason": "影视院线",
@@ -1526,6 +1515,17 @@
         "first_limit_up_time": "10:25:30",
         "last_limit_up_time": "10:48:36",
         "consecutive_boards": 1
+      },
+      {
+        "code": "003005",
+        "name": "竞业达",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 396006304.0,
+        "turnover_rate": 18.75,
+        "first_limit_up_time": "10:25:30",
+        "last_limit_up_time": "10:25:30",
+        "consecutive_boards": 2
       },
       {
         "code": "603533",
