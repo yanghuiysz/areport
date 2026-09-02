@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02 08:46:55",
+  "generated_at": "2026-09-02 12:06:33",
   "latest_trade_date": "2026-09-02",
   "summary": [
     {
@@ -30,37 +30,15 @@
   "limit_up_details_by_date": {
     "2026-08-31": [
       {
-        "code": "000965",
-        "name": "天保基建",
-        "reason": "房地产开",
+        "code": "002084",
+        "name": "海鸥住工",
+        "reason": "家居用品",
         "concepts": [],
-        "amount": 480043392.0,
-        "turnover_rate": 12.12,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:50:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002133",
-        "name": "广宇集团",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 96606416.0,
-        "turnover_rate": 4.05,
+        "amount": 39838028.0,
+        "turnover_rate": 0.97,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000011",
-        "name": "深物业A",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 115646357.0,
-        "turnover_rate": 2.18,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
+        "consecutive_boards": 6
       },
       {
         "code": "600371",
@@ -74,15 +52,15 @@
         "consecutive_boards": 5
       },
       {
-        "code": "002084",
-        "name": "海鸥住工",
-        "reason": "家居用品",
+        "code": "000011",
+        "name": "深物业A",
+        "reason": "房地产开",
         "concepts": [],
-        "amount": 39838028.0,
-        "turnover_rate": 0.97,
+        "amount": 115646357.0,
+        "turnover_rate": 2.18,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 6
+        "consecutive_boards": 2
       },
       {
         "code": "002679",
@@ -105,6 +83,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "000965",
+        "name": "天保基建",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 480043392.0,
+        "turnover_rate": 12.12,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:50:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002133",
+        "name": "广宇集团",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 96606416.0,
+        "turnover_rate": 4.05,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "601086",
