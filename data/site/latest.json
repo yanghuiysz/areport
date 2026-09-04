@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04 08:50:49",
+  "generated_at": "2026-09-04 12:07:51",
   "latest_trade_date": "2026-09-04",
   "summary": [
     {
@@ -604,17 +604,6 @@
     ],
     "2026-09-03": [
       {
-        "code": "002909",
-        "name": "集泰股份",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 368352048.0,
-        "turnover_rate": 12.09,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:01:54",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002059",
         "name": "云南旅游",
         "reason": "旅游及景",
@@ -624,6 +613,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002909",
+        "name": "集泰股份",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 368352048.0,
+        "turnover_rate": 12.09,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:01:54",
+        "consecutive_boards": 4
       },
       {
         "code": "605398",
