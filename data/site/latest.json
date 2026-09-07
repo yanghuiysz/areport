@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 13:30:23",
+  "generated_at": "2026-09-07 15:59:21",
   "latest_trade_date": "2026-09-07",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-03": [
       {
-        "code": "002909",
-        "name": "集泰股份",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 368352048.0,
-        "turnover_rate": 12.09,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:01:54",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002059",
         "name": "云南旅游",
         "reason": "旅游及景",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002909",
+        "name": "集泰股份",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 368352048.0,
+        "turnover_rate": 12.09,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:01:54",
+        "consecutive_boards": 4
       },
       {
         "code": "605398",
@@ -516,23 +516,23 @@
     ],
     "2026-09-04": [
       {
-        "code": "605398",
-        "name": "新炬网络",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 109420985.0,
-        "turnover_rate": 2.52,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 2
-      },
-      {
         "code": "605580",
         "name": "恒盛能源",
         "reason": "电力",
         "concepts": [],
         "amount": 81332412.0,
         "turnover_rate": 1.29,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "605398",
+        "name": "新炬网络",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 109420985.0,
+        "turnover_rate": 2.52,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
