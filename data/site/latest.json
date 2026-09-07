@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07 09:25:43",
+  "generated_at": "2026-09-07 13:30:23",
   "latest_trade_date": "2026-09-07",
   "summary": [
     {
@@ -516,23 +516,23 @@
     ],
     "2026-09-04": [
       {
-        "code": "605580",
-        "name": "恒盛能源",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 81332412.0,
-        "turnover_rate": 1.29,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 2
-      },
-      {
         "code": "605398",
         "name": "新炬网络",
         "reason": "IT服务Ⅱ",
         "concepts": [],
         "amount": 109420985.0,
         "turnover_rate": 2.52,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "605580",
+        "name": "恒盛能源",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 81332412.0,
+        "turnover_rate": 1.29,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
