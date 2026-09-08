@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 08:51:59",
+  "generated_at": "2026-09-08 12:08:13",
   "latest_trade_date": "2026-09-08",
   "summary": [
     {
@@ -516,17 +516,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603083",
-        "name": "剑桥科技",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 3544718640.0,
-        "turnover_rate": 6.23,
-        "first_limit_up_time": "09:30:01",
-        "last_limit_up_time": "09:33:52",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600865",
         "name": "百大集团",
         "reason": "一般零售",
@@ -536,6 +525,17 @@
         "first_limit_up_time": "09:30:01",
         "last_limit_up_time": "09:30:01",
         "consecutive_boards": 3
+      },
+      {
+        "code": "603083",
+        "name": "剑桥科技",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 3544718640.0,
+        "turnover_rate": 6.23,
+        "first_limit_up_time": "09:30:01",
+        "last_limit_up_time": "09:33:52",
+        "consecutive_boards": 1
       },
       {
         "code": "000735",
