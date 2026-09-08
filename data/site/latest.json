@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08 12:08:13",
+  "generated_at": "2026-09-08 14:42:47",
   "latest_trade_date": "2026-09-08",
   "summary": [
     {
@@ -494,6 +494,17 @@
         "consecutive_boards": 3
       },
       {
+        "code": "001296",
+        "name": "长江材料",
+        "reason": "非金属材",
+        "concepts": [],
+        "amount": 123925208.0,
+        "turnover_rate": 6.96,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
         "code": "001366",
         "name": "播恩集团",
         "reason": "饲料",
@@ -505,14 +516,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "001296",
-        "name": "长江材料",
-        "reason": "非金属材",
+        "code": "603083",
+        "name": "剑桥科技",
+        "reason": "通信设备",
         "concepts": [],
-        "amount": 123925208.0,
-        "turnover_rate": 6.96,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
+        "amount": 3544718640.0,
+        "turnover_rate": 6.23,
+        "first_limit_up_time": "09:30:01",
+        "last_limit_up_time": "09:33:52",
         "consecutive_boards": 1
       },
       {
@@ -525,17 +536,6 @@
         "first_limit_up_time": "09:30:01",
         "last_limit_up_time": "09:30:01",
         "consecutive_boards": 3
-      },
-      {
-        "code": "603083",
-        "name": "剑桥科技",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 3544718640.0,
-        "turnover_rate": 6.23,
-        "first_limit_up_time": "09:30:01",
-        "last_limit_up_time": "09:33:52",
-        "consecutive_boards": 1
       },
       {
         "code": "000735",
