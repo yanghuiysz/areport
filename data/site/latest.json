@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09 08:58:37",
+  "generated_at": "2026-09-09 12:19:56",
   "latest_trade_date": "2026-09-09",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-07": [
       {
-        "code": "002702",
-        "name": "海欣食品",
-        "reason": "食品加工",
-        "concepts": [],
-        "amount": 58517144.0,
-        "turnover_rate": 2.07,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002881",
         "name": "美格智能",
         "reason": "通信设备",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002702",
+        "name": "海欣食品",
+        "reason": "食品加工",
+        "concepts": [],
+        "amount": 58517144.0,
+        "turnover_rate": 2.07,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "600108",
@@ -1121,23 +1121,23 @@
         "consecutive_boards": 4
       },
       {
-        "code": "603999",
-        "name": "读者传媒",
-        "reason": "出版",
-        "concepts": [],
-        "amount": 69140110.0,
-        "turnover_rate": 1.65,
-        "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "09:25:03",
-        "consecutive_boards": 2
-      },
-      {
         "code": "603042",
         "name": "华脉科技",
         "reason": "通信设备",
         "concepts": [],
         "amount": 112590112.0,
         "turnover_rate": 3.18,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603999",
+        "name": "读者传媒",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 69140110.0,
+        "turnover_rate": 1.65,
         "first_limit_up_time": "09:25:03",
         "last_limit_up_time": "09:25:03",
         "consecutive_boards": 2
