@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 08:57:12",
+  "generated_at": "2026-09-10 12:31:28",
   "latest_trade_date": "2026-09-10",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-08": [
       {
-        "code": "002702",
-        "name": "海欣食品",
-        "reason": "食品加工",
-        "concepts": [],
-        "amount": 598325984.0,
-        "turnover_rate": 19.39,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:36:39",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002403",
         "name": "爱仕达",
         "reason": "小家电",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:34:03",
         "consecutive_boards": 4
+      },
+      {
+        "code": "002702",
+        "name": "海欣食品",
+        "reason": "食品加工",
+        "concepts": [],
+        "amount": 598325984.0,
+        "turnover_rate": 19.39,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:36:39",
+        "consecutive_boards": 3
       },
       {
         "code": "000523",
@@ -85,6 +85,28 @@
         "consecutive_boards": 1
       },
       {
+        "code": "600108",
+        "name": "亚盛集团",
+        "reason": "种植业",
+        "concepts": [],
+        "amount": 88953005.0,
+        "turnover_rate": 0.87,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "603999",
+        "name": "读者传媒",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 69140110.0,
+        "turnover_rate": 1.65,
+        "first_limit_up_time": "09:25:03",
+        "last_limit_up_time": "09:25:03",
+        "consecutive_boards": 2
+      },
+      {
         "code": "603042",
         "name": "华脉科技",
         "reason": "通信设备",
@@ -105,28 +127,6 @@
         "first_limit_up_time": "09:25:03",
         "last_limit_up_time": "09:25:03",
         "consecutive_boards": 1
-      },
-      {
-        "code": "603999",
-        "name": "读者传媒",
-        "reason": "出版",
-        "concepts": [],
-        "amount": 69140110.0,
-        "turnover_rate": 1.65,
-        "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "09:25:03",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600108",
-        "name": "亚盛集团",
-        "reason": "种植业",
-        "concepts": [],
-        "amount": 88953005.0,
-        "turnover_rate": 0.87,
-        "first_limit_up_time": "09:25:03",
-        "last_limit_up_time": "09:25:03",
-        "consecutive_boards": 4
       },
       {
         "code": "000978",
@@ -835,15 +835,15 @@
     ],
     "2026-09-09": [
       {
-        "code": "002162",
-        "name": "悦心健康",
-        "reason": "家居用品",
+        "code": "002470",
+        "name": "金正大",
+        "reason": "农化制品",
         "concepts": [],
-        "amount": 491451008.0,
-        "turnover_rate": 12.0,
+        "amount": 296155888.0,
+        "turnover_rate": 3.24,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:09:57",
-        "consecutive_boards": 1
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "000912",
@@ -854,17 +854,6 @@
         "turnover_rate": 9.43,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "10:11:39",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002295",
-        "name": "精艺股份",
-        "reason": "工业金属",
-        "concepts": [],
-        "amount": 84449026.0,
-        "turnover_rate": 2.91,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
       },
       {
@@ -879,17 +868,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002470",
-        "name": "金正大",
-        "reason": "农化制品",
-        "concepts": [],
-        "amount": 296155888.0,
-        "turnover_rate": 3.24,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "000523",
         "name": "红棉股份",
         "reason": "综合Ⅱ",
@@ -899,6 +877,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002295",
+        "name": "精艺股份",
+        "reason": "工业金属",
+        "concepts": [],
+        "amount": 84449026.0,
+        "turnover_rate": 2.91,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002162",
+        "name": "悦心健康",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 491451008.0,
+        "turnover_rate": 12.0,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:09:57",
+        "consecutive_boards": 1
       },
       {
         "code": "603042",
@@ -912,17 +912,6 @@
         "consecutive_boards": 3
       },
       {
-        "code": "603421",
-        "name": "鼎信通讯",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 176790298.0,
-        "turnover_rate": 4.14,
-        "first_limit_up_time": "09:30:33",
-        "last_limit_up_time": "09:35:57",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000980",
         "name": "众泰汽车",
         "reason": "汽车零部",
@@ -932,6 +921,17 @@
         "first_limit_up_time": "09:30:33",
         "last_limit_up_time": "09:30:51",
         "consecutive_boards": 2
+      },
+      {
+        "code": "603421",
+        "name": "鼎信通讯",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 176790298.0,
+        "turnover_rate": 4.14,
+        "first_limit_up_time": "09:30:33",
+        "last_limit_up_time": "09:35:57",
+        "consecutive_boards": 1
       },
       {
         "code": "002077",
