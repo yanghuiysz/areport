@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10 12:31:28",
+  "generated_at": "2026-09-10 14:51:59",
   "latest_trade_date": "2026-09-10",
   "summary": [
     {
@@ -857,6 +857,17 @@
         "consecutive_boards": 2
       },
       {
+        "code": "002295",
+        "name": "精艺股份",
+        "reason": "工业金属",
+        "concepts": [],
+        "amount": 84449026.0,
+        "turnover_rate": 2.91,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "002790",
         "name": "瑞尔特",
         "reason": "家居用品",
@@ -874,17 +885,6 @@
         "concepts": [],
         "amount": 108357676.0,
         "turnover_rate": 1.38,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002295",
-        "name": "精艺股份",
-        "reason": "工业金属",
-        "concepts": [],
-        "amount": 84449026.0,
-        "turnover_rate": 2.91,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
