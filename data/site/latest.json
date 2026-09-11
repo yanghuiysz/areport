@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11 12:13:55",
+  "generated_at": "2026-09-11 14:34:36",
   "latest_trade_date": "2026-09-11",
   "summary": [
     {
@@ -30,6 +30,17 @@
   "limit_up_details_by_date": {
     "2026-09-09": [
       {
+        "code": "000523",
+        "name": "红棉股份",
+        "reason": "综合Ⅱ",
+        "concepts": [],
+        "amount": 108357676.0,
+        "turnover_rate": 1.38,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "002470",
         "name": "金正大",
         "reason": "农化制品",
@@ -41,14 +52,14 @@
         "consecutive_boards": 3
       },
       {
-        "code": "000912",
-        "name": "泸天化",
-        "reason": "农化制品",
+        "code": "002790",
+        "name": "瑞尔特",
+        "reason": "家居用品",
         "concepts": [],
-        "amount": 767886016.0,
-        "turnover_rate": 9.43,
+        "amount": 170843793.0,
+        "turnover_rate": 8.52,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:11:39",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
       },
       {
@@ -63,25 +74,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002790",
-        "name": "瑞尔特",
-        "reason": "家居用品",
+        "code": "000912",
+        "name": "泸天化",
+        "reason": "农化制品",
         "concepts": [],
-        "amount": 170843793.0,
-        "turnover_rate": 8.52,
+        "amount": 767886016.0,
+        "turnover_rate": 9.43,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000523",
-        "name": "红棉股份",
-        "reason": "综合Ⅱ",
-        "concepts": [],
-        "amount": 108357676.0,
-        "turnover_rate": 1.38,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:11:39",
         "consecutive_boards": 2
       },
       {
