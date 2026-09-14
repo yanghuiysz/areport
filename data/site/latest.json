@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14 09:50:24",
+  "generated_at": "2026-09-14 13:54:30",
   "latest_trade_date": "2026-09-14",
   "summary": [
     {
@@ -417,15 +417,15 @@
     ],
     "2026-09-11": [
       {
-        "code": "002790",
-        "name": "瑞尔特",
-        "reason": "家居用品",
+        "code": "002912",
+        "name": "中新赛克",
+        "reason": "计算机设",
         "concepts": [],
-        "amount": 99158762.0,
-        "turnover_rate": 4.09,
+        "amount": 80764679.0,
+        "turnover_rate": 2.12,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "consecutive_boards": 2
       },
       {
         "code": "000993",
@@ -439,17 +439,6 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002912",
-        "name": "中新赛克",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 80764679.0,
-        "turnover_rate": 2.12,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002161",
         "name": "远 望 谷",
         "reason": "其他电子",
@@ -459,6 +448,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002790",
+        "name": "瑞尔特",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 99158762.0,
+        "turnover_rate": 4.09,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
       },
       {
         "code": "600876",
