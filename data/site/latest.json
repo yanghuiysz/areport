@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 12:40:01",
+  "generated_at": "2026-09-15 15:10:37",
   "latest_trade_date": "2026-09-15",
   "summary": [
     {
@@ -472,12 +472,12 @@
     ],
     "2026-09-14": [
       {
-        "code": "000981",
-        "name": "山子高科",
-        "reason": "汽车零部",
+        "code": "002212",
+        "name": "天融信",
+        "reason": "软件开发",
         "concepts": [],
-        "amount": 773003856.0,
-        "turnover_rate": 2.85,
+        "amount": 407014848.0,
+        "turnover_rate": 4.71,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
@@ -494,25 +494,14 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002212",
-        "name": "天融信",
-        "reason": "软件开发",
+        "code": "000981",
+        "name": "山子高科",
+        "reason": "汽车零部",
         "concepts": [],
-        "amount": 407014848.0,
-        "turnover_rate": 4.71,
+        "amount": 773003856.0,
+        "turnover_rate": 2.85,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "688004",
-        "name": "博汇科技",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 32153220.0,
-        "turnover_rate": 1.76,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
         "consecutive_boards": 1
       },
       {
@@ -525,6 +514,17 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
+      },
+      {
+        "code": "688004",
+        "name": "博汇科技",
+        "reason": "IT服务Ⅱ",
+        "concepts": [],
+        "amount": 32153220.0,
+        "turnover_rate": 1.76,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 1
       },
       {
         "code": "000839",
@@ -549,17 +549,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002560",
-        "name": "通达股份",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 591996384.0,
-        "turnover_rate": 12.42,
-        "first_limit_up_time": "09:30:09",
-        "last_limit_up_time": "09:34:30",
-        "consecutive_boards": 2
-      },
-      {
         "code": "000978",
         "name": "桂林旅游",
         "reason": "旅游及景",
@@ -569,6 +558,17 @@
         "first_limit_up_time": "09:30:09",
         "last_limit_up_time": "14:26:27",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002560",
+        "name": "通达股份",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 591996384.0,
+        "turnover_rate": 12.42,
+        "first_limit_up_time": "09:30:09",
+        "last_limit_up_time": "09:34:30",
+        "consecutive_boards": 2
       },
       {
         "code": "600088",
