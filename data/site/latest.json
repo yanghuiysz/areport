@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 09:24:45",
+  "generated_at": "2026-09-15 12:40:01",
   "latest_trade_date": "2026-09-15",
   "summary": [
     {
@@ -41,17 +41,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "002161",
-        "name": "远 望 谷",
-        "reason": "其他电子",
-        "concepts": [],
-        "amount": 151052642.0,
-        "turnover_rate": 2.54,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000993",
         "name": "闽东电力",
         "reason": "电力",
@@ -72,6 +61,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002161",
+        "name": "远 望 谷",
+        "reason": "其他电子",
+        "concepts": [],
+        "amount": 151052642.0,
+        "turnover_rate": 2.54,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "600876",
@@ -472,6 +472,17 @@
     ],
     "2026-09-14": [
       {
+        "code": "000981",
+        "name": "山子高科",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 773003856.0,
+        "turnover_rate": 2.85,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
         "code": "002912",
         "name": "中新赛克",
         "reason": "计算机设",
@@ -494,14 +505,14 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000981",
-        "name": "山子高科",
-        "reason": "汽车零部",
+        "code": "688004",
+        "name": "博汇科技",
+        "reason": "IT服务Ⅱ",
         "concepts": [],
-        "amount": 773003856.0,
-        "turnover_rate": 2.85,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
+        "amount": 32153220.0,
+        "turnover_rate": 1.76,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
         "consecutive_boards": 1
       },
       {
@@ -514,17 +525,6 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
-      },
-      {
-        "code": "688004",
-        "name": "博汇科技",
-        "reason": "IT服务Ⅱ",
-        "concepts": [],
-        "amount": 32153220.0,
-        "turnover_rate": 1.76,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 1
       },
       {
         "code": "000839",
