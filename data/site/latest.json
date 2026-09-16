@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16 09:17:39",
+  "generated_at": "2026-09-16 12:35:55",
   "latest_trade_date": "2026-09-16",
   "summary": [
     {
@@ -41,23 +41,23 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002212",
-        "name": "天融信",
-        "reason": "软件开发",
-        "concepts": [],
-        "amount": 407014848.0,
-        "turnover_rate": 4.71,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000981",
         "name": "山子高科",
         "reason": "汽车零部",
         "concepts": [],
         "amount": 773003856.0,
         "turnover_rate": 2.85,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002212",
+        "name": "天融信",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 407014848.0,
+        "turnover_rate": 4.71,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
