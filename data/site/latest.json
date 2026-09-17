@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17 12:35:48",
+  "generated_at": "2026-09-17 15:09:21",
   "latest_trade_date": "2026-09-17",
   "summary": [
     {
@@ -384,17 +384,6 @@
     ],
     "2026-09-16": [
       {
-        "code": "001216",
-        "name": "华瓷股份",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 75532907.0,
-        "turnover_rate": 1.69,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002442",
         "name": "龙星科技",
         "reason": "橡胶",
@@ -404,6 +393,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "001216",
+        "name": "华瓷股份",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 75532907.0,
+        "turnover_rate": 1.69,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "003001",
@@ -967,17 +967,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000731",
-        "name": "四川美丰",
-        "reason": "农化制品",
-        "concepts": [],
-        "amount": 234380842.0,
-        "turnover_rate": 5.48,
-        "first_limit_up_time": "11:00:09",
-        "last_limit_up_time": "11:11:09",
-        "consecutive_boards": 1
-      },
-      {
         "code": "688478",
         "name": "晶升股份",
         "reason": "半导体",
@@ -986,6 +975,17 @@
         "turnover_rate": 6.16,
         "first_limit_up_time": "11:00:09",
         "last_limit_up_time": "11:00:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000731",
+        "name": "四川美丰",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 234380842.0,
+        "turnover_rate": 5.48,
+        "first_limit_up_time": "11:00:09",
+        "last_limit_up_time": "11:11:09",
         "consecutive_boards": 1
       },
       {
