@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 07:06:14",
+  "generated_at": "2026-09-21 09:56:50",
   "latest_trade_date": "2026-09-21",
   "summary": [
     {
@@ -615,17 +615,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000504",
-        "name": "南华生物",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 187856694.0,
-        "turnover_rate": 5.75,
-        "first_limit_up_time": "09:30:09",
-        "last_limit_up_time": "09:31:39",
-        "consecutive_boards": 2
-      },
-      {
         "code": "001216",
         "name": "华瓷股份",
         "reason": "家居用品",
@@ -635,6 +624,17 @@
         "first_limit_up_time": "09:30:09",
         "last_limit_up_time": "09:56:39",
         "consecutive_boards": 4
+      },
+      {
+        "code": "000504",
+        "name": "南华生物",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 187856694.0,
+        "turnover_rate": 5.75,
+        "first_limit_up_time": "09:30:09",
+        "last_limit_up_time": "09:31:39",
+        "consecutive_boards": 2
       },
       {
         "code": "600630",
@@ -857,17 +857,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002300",
-        "name": "太阳电缆",
-        "reason": "电网设备",
-        "concepts": [],
-        "amount": 649264240.0,
-        "turnover_rate": 10.63,
-        "first_limit_up_time": "09:45:09",
-        "last_limit_up_time": "09:45:09",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002713",
         "name": "东易日盛",
         "reason": "装修装饰",
@@ -876,6 +865,17 @@
         "turnover_rate": 4.88,
         "first_limit_up_time": "09:45:09",
         "last_limit_up_time": "09:49:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002300",
+        "name": "太阳电缆",
+        "reason": "电网设备",
+        "concepts": [],
+        "amount": 649264240.0,
+        "turnover_rate": 10.63,
+        "first_limit_up_time": "09:45:09",
+        "last_limit_up_time": "09:45:09",
         "consecutive_boards": 1
       },
       {
@@ -1757,7 +1757,7 @@
         "amount": 322960944.0,
         "turnover_rate": 7.12,
         "first_limit_up_time": "09:36:56",
-        "last_limit_up_time": "13:50:59",
+        "last_limit_up_time": "15:00:00",
         "consecutive_boards": 2
       },
       {
