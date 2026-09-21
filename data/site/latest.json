@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 09:56:50",
+  "generated_at": "2026-09-21 13:59:55",
   "latest_trade_date": "2026-09-21",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-17": [
       {
-        "code": "003026",
-        "name": "中晶科技",
-        "reason": "半导体",
-        "concepts": [],
-        "amount": 560828080.0,
-        "turnover_rate": 10.54,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:59:39",
-        "consecutive_boards": 3
-      },
-      {
         "code": "301390",
         "name": "经纬股份",
         "reason": "工程咨询",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "003026",
+        "name": "中晶科技",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 560828080.0,
+        "turnover_rate": 10.54,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:59:39",
+        "consecutive_boards": 3
       },
       {
         "code": "603230",
@@ -615,17 +615,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "001216",
-        "name": "华瓷股份",
-        "reason": "家居用品",
-        "concepts": [],
-        "amount": 496116528.0,
-        "turnover_rate": 9.3,
-        "first_limit_up_time": "09:30:09",
-        "last_limit_up_time": "09:56:39",
-        "consecutive_boards": 4
-      },
-      {
         "code": "000504",
         "name": "南华生物",
         "reason": "医疗服务",
@@ -635,6 +624,17 @@
         "first_limit_up_time": "09:30:09",
         "last_limit_up_time": "09:31:39",
         "consecutive_boards": 2
+      },
+      {
+        "code": "001216",
+        "name": "华瓷股份",
+        "reason": "家居用品",
+        "concepts": [],
+        "amount": 496116528.0,
+        "turnover_rate": 9.3,
+        "first_limit_up_time": "09:30:09",
+        "last_limit_up_time": "09:56:39",
+        "consecutive_boards": 4
       },
       {
         "code": "600630",
@@ -857,17 +857,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002713",
-        "name": "东易日盛",
-        "reason": "装修装饰",
-        "concepts": [],
-        "amount": 275149296.0,
-        "turnover_rate": 4.88,
-        "first_limit_up_time": "09:45:09",
-        "last_limit_up_time": "09:49:33",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002300",
         "name": "太阳电缆",
         "reason": "电网设备",
@@ -876,6 +865,17 @@
         "turnover_rate": 10.63,
         "first_limit_up_time": "09:45:09",
         "last_limit_up_time": "09:45:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002713",
+        "name": "东易日盛",
+        "reason": "装修装饰",
+        "concepts": [],
+        "amount": 275149296.0,
+        "turnover_rate": 4.88,
+        "first_limit_up_time": "09:45:09",
+        "last_limit_up_time": "09:49:33",
         "consecutive_boards": 1
       },
       {
