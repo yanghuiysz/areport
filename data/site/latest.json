@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21 13:59:55",
+  "generated_at": "2026-09-21 16:36:18",
   "latest_trade_date": "2026-09-21",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-17": [
       {
-        "code": "301390",
-        "name": "经纬股份",
-        "reason": "工程咨询",
-        "concepts": [],
-        "amount": 26682615.0,
-        "turnover_rate": 1.21,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "003026",
         "name": "中晶科技",
         "reason": "半导体",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:59:39",
         "consecutive_boards": 3
+      },
+      {
+        "code": "301390",
+        "name": "经纬股份",
+        "reason": "工程咨询",
+        "concepts": [],
+        "amount": 26682615.0,
+        "turnover_rate": 1.21,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "603230",
