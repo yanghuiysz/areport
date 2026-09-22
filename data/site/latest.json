@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22 09:18:36",
+  "generated_at": "2026-09-22 12:34:32",
   "latest_trade_date": "2026-09-22",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-09-18": [
       {
-        "code": "002453",
-        "name": "华软科技",
-        "reason": "化学制品",
+        "code": "001376",
+        "name": "百通能源",
+        "reason": "电力",
         "concepts": [],
-        "amount": 446859296.0,
-        "turnover_rate": 13.44,
+        "amount": 147380124.0,
+        "turnover_rate": 5.41,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:41:15",
-        "consecutive_boards": 2
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "301390",
@@ -52,26 +52,15 @@
         "consecutive_boards": 2
       },
       {
-        "code": "001376",
-        "name": "百通能源",
-        "reason": "电力",
+        "code": "002453",
+        "name": "华软科技",
+        "reason": "化学制品",
         "concepts": [],
-        "amount": 147380124.0,
-        "turnover_rate": 5.41,
+        "amount": 446859296.0,
+        "turnover_rate": 13.44,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603230",
-        "name": "内蒙新华",
-        "reason": "出版",
-        "concepts": [],
-        "amount": 867115984.0,
-        "turnover_rate": 18.47,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "14:13:07",
-        "consecutive_boards": 3
+        "last_limit_up_time": "10:41:15",
+        "consecutive_boards": 2
       },
       {
         "code": "600448",
@@ -83,6 +72,17 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
+      },
+      {
+        "code": "603230",
+        "name": "内蒙新华",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 867115984.0,
+        "turnover_rate": 18.47,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "14:13:07",
+        "consecutive_boards": 3
       },
       {
         "code": "603686",
@@ -956,17 +956,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "600301",
-        "name": "华锡有色",
-        "reason": "小金属",
-        "concepts": [],
-        "amount": 286094576.0,
-        "turnover_rate": 2.08,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:31:02",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600825",
         "name": "新华传媒",
         "reason": "出版",
@@ -975,6 +964,17 @@
         "turnover_rate": 0.24,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600301",
+        "name": "华锡有色",
+        "reason": "小金属",
+        "concepts": [],
+        "amount": 286094576.0,
+        "turnover_rate": 2.08,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:31:02",
         "consecutive_boards": 1
       },
       {
@@ -2360,7 +2360,7 @@
         "reason": "广告营销",
         "concepts": [],
         "amount": 625033584.0,
-        "turnover_rate": 12.45,
+        "turnover_rate": 12.44,
         "first_limit_up_time": "09:47:14",
         "last_limit_up_time": "10:07:05",
         "consecutive_boards": 1
