@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24 09:18:34",
+  "generated_at": "2026-09-24 12:43:19",
   "latest_trade_date": "2026-09-24",
   "summary": [
     {
@@ -30,6 +30,50 @@
   "limit_up_details_by_date": {
     "2026-09-22": [
       {
+        "code": "000756",
+        "name": "新华制药",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 1563389472.0,
+        "turnover_rate": 19.45,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:10:27",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600743",
+        "name": "华远控股",
+        "reason": "房地产服",
+        "concepts": [],
+        "amount": 23129316.0,
+        "turnover_rate": 0.39,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002614",
+        "name": "奥佳华",
+        "reason": "其他家电",
+        "concepts": [],
+        "amount": 82802947.0,
+        "turnover_rate": 2.73,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000607",
+        "name": "华媒控股",
+        "reason": "广告营销",
+        "concepts": [],
+        "amount": 99855708.0,
+        "turnover_rate": 2.27,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "001216",
         "name": "华瓷股份",
         "reason": "家居用品",
@@ -50,50 +94,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 4
-      },
-      {
-        "code": "002614",
-        "name": "奥佳华",
-        "reason": "其他家电",
-        "concepts": [],
-        "amount": 82802947.0,
-        "turnover_rate": 2.73,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000756",
-        "name": "新华制药",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 1563389472.0,
-        "turnover_rate": 19.45,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:10:27",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000607",
-        "name": "华媒控股",
-        "reason": "广告营销",
-        "concepts": [],
-        "amount": 99855708.0,
-        "turnover_rate": 2.27,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600743",
-        "name": "华远控股",
-        "reason": "房地产服",
-        "concepts": [],
-        "amount": 23129316.0,
-        "turnover_rate": 0.39,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
       },
       {
         "code": "002290",
@@ -118,17 +118,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "601811",
-        "name": "新华文轩",
-        "reason": "出版",
-        "concepts": [],
-        "amount": 68201736.0,
-        "turnover_rate": 0.51,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 3
-      },
-      {
         "code": "603636",
         "name": "南威软件",
         "reason": "IT服务Ⅱ",
@@ -138,6 +127,17 @@
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 2
+      },
+      {
+        "code": "601811",
+        "name": "新华文轩",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 68201736.0,
+        "turnover_rate": 0.51,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
       },
       {
         "code": "600825",
