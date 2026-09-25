@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 06:35:53",
+  "generated_at": "2026-09-25 09:35:39",
   "latest_trade_date": "2026-09-25",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-09-23": [
       {
-        "code": "002238",
-        "name": "天威视讯",
-        "reason": "电视广播",
-        "concepts": [],
-        "amount": 87635096.0,
-        "turnover_rate": 1.43,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "001234",
         "name": "泰慕士",
         "reason": "服装家纺",
@@ -61,6 +50,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
+      },
+      {
+        "code": "002238",
+        "name": "天威视讯",
+        "reason": "电视广播",
+        "concepts": [],
+        "amount": 87635096.0,
+        "turnover_rate": 1.43,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "603636",
