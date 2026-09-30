@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 07:24:13",
+  "generated_at": "2026-09-30 10:29:01",
   "latest_trade_date": "2026-09-30",
   "summary": [
     {
@@ -8,7 +8,7 @@
       "down_count": null,
       "flat_count": null,
       "limit_up_count": 52,
-      "limit_down_count": 8
+      "limit_down_count": 9
     },
     {
       "date": "2026-09-29",
@@ -395,15 +395,15 @@
     ],
     "2026-09-29": [
       {
-        "code": "000011",
-        "name": "深物业A",
-        "reason": "房地产开",
+        "code": "600825",
+        "name": "新华传媒",
+        "reason": "出版",
         "concepts": [],
-        "amount": 467722496.0,
-        "turnover_rate": 8.0,
+        "amount": 147280304.0,
+        "turnover_rate": 1.5,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:39:42",
-        "consecutive_boards": 2
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 6
       },
       {
         "code": "000678",
@@ -417,15 +417,15 @@
         "consecutive_boards": 3
       },
       {
-        "code": "600825",
-        "name": "新华传媒",
-        "reason": "出版",
+        "code": "000011",
+        "name": "深物业A",
+        "reason": "房地产开",
         "concepts": [],
-        "amount": 147280304.0,
-        "turnover_rate": 1.5,
+        "amount": 467722496.0,
+        "turnover_rate": 8.0,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 6
+        "last_limit_up_time": "09:39:42",
+        "consecutive_boards": 2
       },
       {
         "code": "603949",
@@ -1447,7 +1447,7 @@
         "reason": "汽车零部",
         "concepts": [],
         "amount": 323471632.0,
-        "turnover_rate": 8.94,
+        "turnover_rate": 8.95,
         "first_limit_up_time": "10:14:42",
         "last_limit_up_time": "10:50:30",
         "consecutive_boards": 1
