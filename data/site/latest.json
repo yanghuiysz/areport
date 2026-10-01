@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01 07:46:35",
+  "generated_at": "2026-10-01 10:56:27",
   "latest_trade_date": "2026-10-01",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-09-29": [
       {
-        "code": "600825",
-        "name": "新华传媒",
-        "reason": "出版",
+        "code": "000011",
+        "name": "深物业A",
+        "reason": "房地产开",
         "concepts": [],
-        "amount": 147280304.0,
-        "turnover_rate": 1.5,
+        "amount": 467722496.0,
+        "turnover_rate": 8.0,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 6
+        "last_limit_up_time": "09:39:42",
+        "consecutive_boards": 2
       },
       {
         "code": "000678",
@@ -52,26 +52,15 @@
         "consecutive_boards": 3
       },
       {
-        "code": "000011",
-        "name": "深物业A",
-        "reason": "房地产开",
+        "code": "600825",
+        "name": "新华传媒",
+        "reason": "出版",
         "concepts": [],
-        "amount": 467722496.0,
-        "turnover_rate": 8.0,
+        "amount": 147280304.0,
+        "turnover_rate": 1.5,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:39:42",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "601238",
-        "name": "广汽集团",
-        "reason": "乘用车",
-        "concepts": [],
-        "amount": 45556174.0,
-        "turnover_rate": 0.11,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 1
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 6
       },
       {
         "code": "603949",
@@ -85,14 +74,14 @@
         "consecutive_boards": 4
       },
       {
-        "code": "605303",
-        "name": "园林股份",
-        "reason": "基础建设",
+        "code": "601238",
+        "name": "广汽集团",
+        "reason": "乘用车",
         "concepts": [],
-        "amount": 6608885.0,
-        "turnover_rate": 0.16,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
+        "amount": 45556174.0,
+        "turnover_rate": 0.11,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
         "consecutive_boards": 1
       },
       {
@@ -105,6 +94,17 @@
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 2
+      },
+      {
+        "code": "605303",
+        "name": "园林股份",
+        "reason": "基础建设",
+        "concepts": [],
+        "amount": 6608885.0,
+        "turnover_rate": 0.16,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 1
       },
       {
         "code": "600488",
