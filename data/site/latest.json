@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 07:58:19",
+  "generated_at": "2026-10-12 11:54:47",
   "latest_trade_date": "2026-10-12",
   "summary": [
     {
@@ -30,26 +30,15 @@
   "limit_up_details_by_date": {
     "2026-10-08": [
       {
-        "code": "600812",
-        "name": "华北制药",
-        "reason": "化学制药",
+        "code": "600825",
+        "name": "新华传媒",
+        "reason": "出版",
         "concepts": [],
-        "amount": 494359008.0,
-        "turnover_rate": 5.27,
+        "amount": 64324547.0,
+        "turnover_rate": 0.54,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:48:39",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002058",
-        "name": "紫竹高科",
-        "reason": "电池",
-        "concepts": [],
-        "amount": 104419028.0,
-        "turnover_rate": 3.3,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:30:42",
-        "consecutive_boards": 3
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 8
       },
       {
         "code": "002242",
@@ -63,15 +52,26 @@
         "consecutive_boards": 4
       },
       {
-        "code": "600825",
-        "name": "新华传媒",
-        "reason": "出版",
+        "code": "002058",
+        "name": "紫竹高科",
+        "reason": "电池",
         "concepts": [],
-        "amount": 64324547.0,
-        "turnover_rate": 0.54,
+        "amount": 104419028.0,
+        "turnover_rate": 3.3,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 8
+        "last_limit_up_time": "09:30:42",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "600812",
+        "name": "华北制药",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 494359008.0,
+        "turnover_rate": 5.27,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:48:39",
+        "consecutive_boards": 1
       },
       {
         "code": "605303",
@@ -505,17 +505,6 @@
     ],
     "2026-10-09": [
       {
-        "code": "002058",
-        "name": "紫竹高科",
-        "reason": "电池",
-        "concepts": [],
-        "amount": 100791831.0,
-        "turnover_rate": 2.88,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
-      },
-      {
         "code": "600825",
         "name": "新华传媒",
         "reason": "出版",
@@ -536,6 +525,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 5
+      },
+      {
+        "code": "002058",
+        "name": "紫竹高科",
+        "reason": "电池",
+        "concepts": [],
+        "amount": 100791831.0,
+        "turnover_rate": 2.88,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
       },
       {
         "code": "001300",
