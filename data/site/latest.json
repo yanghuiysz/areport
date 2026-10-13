@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13 14:59:06",
+  "generated_at": "2026-10-13 17:43:48",
   "latest_trade_date": "2026-10-13",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-10-09": [
       {
-        "code": "002058",
-        "name": "紫竹高科",
-        "reason": "电池",
+        "code": "600825",
+        "name": "新华传媒",
+        "reason": "出版",
         "concepts": [],
-        "amount": 100791831.0,
-        "turnover_rate": 2.88,
+        "amount": 625610976.0,
+        "turnover_rate": 4.78,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "consecutive_boards": 9
       },
       {
         "code": "600241",
@@ -52,15 +52,15 @@
         "consecutive_boards": 5
       },
       {
-        "code": "600825",
-        "name": "新华传媒",
-        "reason": "出版",
+        "code": "002058",
+        "name": "紫竹高科",
+        "reason": "电池",
         "concepts": [],
-        "amount": 625610976.0,
-        "turnover_rate": 4.78,
+        "amount": 100791831.0,
+        "turnover_rate": 2.88,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 9
+        "consecutive_boards": 4
       },
       {
         "code": "001300",
@@ -415,17 +415,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600354",
-        "name": "敦煌种业",
-        "reason": "种植业",
-        "concepts": [],
-        "amount": 712910464.0,
-        "turnover_rate": 3.17,
-        "first_limit_up_time": "13:14:14",
-        "last_limit_up_time": "13:14:14",
-        "consecutive_boards": 1
-      },
-      {
         "code": "601069",
         "name": "西部黄金",
         "reason": "贵金属",
@@ -776,6 +765,17 @@
         "first_limit_up_time": "14:38:33",
         "last_limit_up_time": "14:38:33",
         "consecutive_boards": 1
+      },
+      {
+        "code": "600400",
+        "name": "红豆股份",
+        "reason": "服装家纺",
+        "concepts": [],
+        "amount": 744163056.0,
+        "turnover_rate": 8.51,
+        "first_limit_up_time": "14:46:12",
+        "last_limit_up_time": "14:46:12",
+        "consecutive_boards": 2
       },
       {
         "code": "601118",
