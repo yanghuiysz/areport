@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14 12:51:32",
+  "generated_at": "2026-10-14 15:20:29",
   "latest_trade_date": "2026-10-14",
   "summary": [
     {
@@ -41,15 +41,15 @@
         "consecutive_boards": 6
       },
       {
-        "code": "600812",
-        "name": "华北制药",
-        "reason": "化学制药",
+        "code": "605287",
+        "name": "德才股份",
+        "reason": "装修装饰",
         "concepts": [],
-        "amount": 1002097840.0,
-        "turnover_rate": 8.83,
+        "amount": 103640160.0,
+        "turnover_rate": 1.67,
         "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:37:58",
-        "consecutive_boards": 3
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
       },
       {
         "code": "605136",
@@ -63,23 +63,23 @@
         "consecutive_boards": 2
       },
       {
+        "code": "600812",
+        "name": "华北制药",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 1002097840.0,
+        "turnover_rate": 8.83,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:37:58",
+        "consecutive_boards": 3
+      },
+      {
         "code": "603096",
         "name": "新经典",
         "reason": "出版",
         "concepts": [],
         "amount": 70752073.0,
         "turnover_rate": 2.41,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "605287",
-        "name": "德才股份",
-        "reason": "装修装饰",
-        "concepts": [],
-        "amount": 103640160.0,
-        "turnover_rate": 1.67,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
