@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 09:08:31",
+  "generated_at": "2026-10-15 12:37:56",
   "latest_trade_date": "2026-10-15",
   "summary": [
     {
@@ -30,28 +30,6 @@
   "limit_up_details_by_date": {
     "2026-10-13": [
       {
-        "code": "603096",
-        "name": "新经典",
-        "reason": "出版",
-        "concepts": [],
-        "amount": 90108761.0,
-        "turnover_rate": 2.79,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "002343",
-        "name": "慈文传媒",
-        "reason": "影视院线",
-        "concepts": [],
-        "amount": 117455149.0,
-        "turnover_rate": 3.37,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "000668",
         "name": "荣丰控股",
         "reason": "房地产开",
@@ -72,6 +50,28 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:36:48",
         "consecutive_boards": 1
+      },
+      {
+        "code": "603096",
+        "name": "新经典",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 90108761.0,
+        "turnover_rate": 2.79,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "002343",
+        "name": "慈文传媒",
+        "reason": "影视院线",
+        "concepts": [],
+        "amount": 117455149.0,
+        "turnover_rate": 3.37,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "600693",
@@ -769,59 +769,15 @@
     ],
     "2026-10-14": [
       {
-        "code": "000530",
-        "name": "冰山冷热",
-        "reason": "通用设备",
+        "code": "002696",
+        "name": "百洋股份",
+        "reason": "饲料",
         "concepts": [],
-        "amount": 114023435.0,
-        "turnover_rate": 3.02,
+        "amount": 32451120.0,
+        "turnover_rate": 1.0,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "001318",
-        "name": "阳光乳业",
-        "reason": "饮料乳品",
-        "concepts": [],
-        "amount": 617584592.0,
-        "turnover_rate": 14.24,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:09:36",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002552",
-        "name": "宝鼎科技",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 220861340.0,
-        "turnover_rate": 1.31,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000823",
-        "name": "超声电子",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 741429728.0,
-        "turnover_rate": 5.08,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:30:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002860",
-        "name": "星帅尔",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 51156653.0,
-        "turnover_rate": 0.73,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
+        "consecutive_boards": 4
       },
       {
         "code": "600202",
@@ -846,15 +802,59 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002696",
-        "name": "百洋股份",
-        "reason": "饲料",
+        "code": "001318",
+        "name": "阳光乳业",
+        "reason": "饮料乳品",
         "concepts": [],
-        "amount": 32451120.0,
-        "turnover_rate": 1.0,
+        "amount": 617584592.0,
+        "turnover_rate": 14.24,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:09:36",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002860",
+        "name": "星帅尔",
+        "reason": "家电零部",
+        "concepts": [],
+        "amount": 51156653.0,
+        "turnover_rate": 0.73,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000823",
+        "name": "超声电子",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 741429728.0,
+        "turnover_rate": 5.08,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:30:24",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000530",
+        "name": "冰山冷热",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 114023435.0,
+        "turnover_rate": 3.02,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002552",
+        "name": "宝鼎科技",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 220861340.0,
+        "turnover_rate": 1.31,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "605189",
@@ -890,15 +890,15 @@
         "consecutive_boards": 2
       },
       {
-        "code": "601188",
-        "name": "龙江交通",
-        "reason": "铁路公路",
+        "code": "603968",
+        "name": "醋化股份",
+        "reason": "化学制品",
         "concepts": [],
-        "amount": 679739936.0,
-        "turnover_rate": 14.81,
-        "first_limit_up_time": "09:30:04",
-        "last_limit_up_time": "10:16:55",
-        "consecutive_boards": 2
+        "amount": 596555872.0,
+        "turnover_rate": 18.76,
+        "first_limit_up_time": "09:30:09",
+        "last_limit_up_time": "10:34:33",
+        "consecutive_boards": 3
       },
       {
         "code": "002917",
@@ -923,7 +923,7 @@
         "consecutive_boards": 4
       },
       {
-        "code": "600847",
+        "code": "600097",
         "name": "开创国际",
         "reason": "渔业",
         "concepts": [],
