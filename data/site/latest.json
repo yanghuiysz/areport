@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 12:37:56",
+  "generated_at": "2026-10-15 15:12:12",
   "latest_trade_date": "2026-10-15",
   "summary": [
     {
@@ -30,26 +30,15 @@
   "limit_up_details_by_date": {
     "2026-10-13": [
       {
-        "code": "000668",
-        "name": "荣丰控股",
-        "reason": "房地产开",
+        "code": "002343",
+        "name": "慈文传媒",
+        "reason": "影视院线",
         "concepts": [],
-        "amount": 18497832.0,
-        "turnover_rate": 0.61,
+        "amount": 117455149.0,
+        "turnover_rate": 3.37,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002917",
-        "name": "金奥博",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 142022466.0,
-        "turnover_rate": 5.0,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:36:48",
-        "consecutive_boards": 1
+        "consecutive_boards": 3
       },
       {
         "code": "603096",
@@ -63,15 +52,26 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002343",
-        "name": "慈文传媒",
-        "reason": "影视院线",
+        "code": "002917",
+        "name": "金奥博",
+        "reason": "化学制品",
         "concepts": [],
-        "amount": 117455149.0,
-        "turnover_rate": 3.37,
+        "amount": 142022466.0,
+        "turnover_rate": 5.0,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:36:48",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000668",
+        "name": "荣丰控股",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 18497832.0,
+        "turnover_rate": 0.61,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
+        "consecutive_boards": 1
       },
       {
         "code": "600693",
@@ -206,17 +206,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600847",
-        "name": "万里股份",
-        "reason": "电池",
-        "concepts": [],
-        "amount": 75515922.0,
-        "turnover_rate": 3.6,
-        "first_limit_up_time": "09:34:34",
-        "last_limit_up_time": "09:34:34",
-        "consecutive_boards": 1
-      },
-      {
         "code": "603767",
         "name": "中马传动",
         "reason": "汽车零部",
@@ -225,6 +214,17 @@
         "turnover_rate": 4.34,
         "first_limit_up_time": "09:34:34",
         "last_limit_up_time": "09:35:34",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600847",
+        "name": "万里股份",
+        "reason": "电池",
+        "concepts": [],
+        "amount": 75515922.0,
+        "turnover_rate": 3.6,
+        "first_limit_up_time": "09:34:34",
+        "last_limit_up_time": "09:34:34",
         "consecutive_boards": 1
       },
       {
@@ -780,36 +780,14 @@
         "consecutive_boards": 4
       },
       {
-        "code": "600202",
-        "name": "哈空调",
+        "code": "000530",
+        "name": "冰山冷热",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 352555568.0,
-        "turnover_rate": 15.01,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "13:22:06",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000668",
-        "name": "荣丰控股",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 46913880.0,
-        "turnover_rate": 1.41,
+        "amount": 114023435.0,
+        "turnover_rate": 3.02,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "001318",
-        "name": "阳光乳业",
-        "reason": "饮料乳品",
-        "concepts": [],
-        "amount": 617584592.0,
-        "turnover_rate": 14.24,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:09:36",
         "consecutive_boards": 2
       },
       {
@@ -819,6 +797,17 @@
         "concepts": [],
         "amount": 51156653.0,
         "turnover_rate": 0.73,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000668",
+        "name": "荣丰控股",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 46913880.0,
+        "turnover_rate": 1.41,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -835,14 +824,25 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000530",
-        "name": "冰山冷热",
+        "code": "001318",
+        "name": "阳光乳业",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 617584592.0,
+        "turnover_rate": 14.24,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:09:36",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600202",
+        "name": "哈空调",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 114023435.0,
-        "turnover_rate": 3.02,
+        "amount": 352555568.0,
+        "turnover_rate": 15.01,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
+        "last_limit_up_time": "13:22:06",
         "consecutive_boards": 2
       },
       {
