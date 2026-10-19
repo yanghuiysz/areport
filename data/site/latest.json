@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19 14:36:41",
+  "generated_at": "2026-10-19 17:05:25",
   "latest_trade_date": "2026-10-19",
   "summary": [
     {
@@ -450,12 +450,12 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000573",
-        "name": "粤宏远Ａ",
-        "reason": "房地产开",
+        "code": "603636",
+        "name": "南威软件",
+        "reason": "IT服务Ⅱ",
         "concepts": [],
-        "amount": 35396531.0,
-        "turnover_rate": 1.25,
+        "amount": 88549248.0,
+        "turnover_rate": 1.9,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
@@ -472,12 +472,12 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603636",
-        "name": "南威软件",
-        "reason": "IT服务Ⅱ",
+        "code": "000573",
+        "name": "粤宏远Ａ",
+        "reason": "房地产开",
         "concepts": [],
-        "amount": 88549248.0,
-        "turnover_rate": 1.9,
+        "amount": 35396531.0,
+        "turnover_rate": 1.25,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
@@ -1033,17 +1033,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603013",
-        "name": "亚普股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 105970651.0,
-        "turnover_rate": 1.42,
-        "first_limit_up_time": "13:00:02",
-        "last_limit_up_time": "13:00:02",
-        "consecutive_boards": 1
-      },
-      {
         "code": "603305",
         "name": "旭升集团",
         "reason": "汽车零部",
@@ -1052,6 +1041,17 @@
         "turnover_rate": 3.03,
         "first_limit_up_time": "13:00:02",
         "last_limit_up_time": "14:26:59",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603013",
+        "name": "亚普股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 105970651.0,
+        "turnover_rate": 1.42,
+        "first_limit_up_time": "13:00:02",
+        "last_limit_up_time": "13:00:02",
         "consecutive_boards": 1
       },
       {
