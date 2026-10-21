@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 12:54:13",
+  "generated_at": "2026-10-21 15:29:09",
   "latest_trade_date": "2026-10-21",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-10-19": [
       {
-        "code": "002929",
-        "name": "润建股份",
-        "reason": "通信服务",
+        "code": "003029",
+        "name": "吉大正元",
+        "reason": "软件开发",
         "concepts": [],
-        "amount": 233190846.0,
-        "turnover_rate": 2.32,
+        "amount": 174389363.0,
+        "turnover_rate": 4.11,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:30:21",
-        "consecutive_boards": 1
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "002724",
@@ -52,15 +52,15 @@
         "consecutive_boards": 2
       },
       {
-        "code": "003029",
-        "name": "吉大正元",
-        "reason": "软件开发",
+        "code": "002929",
+        "name": "润建股份",
+        "reason": "通信服务",
         "concepts": [],
-        "amount": 174389363.0,
-        "turnover_rate": 4.11,
+        "amount": 233190846.0,
+        "turnover_rate": 2.32,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
+        "last_limit_up_time": "09:30:21",
+        "consecutive_boards": 1
       },
       {
         "code": "600860",
@@ -85,17 +85,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "600267",
-        "name": "海正药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 118360253.0,
-        "turnover_rate": 0.83,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 1
-      },
-      {
         "code": "603197",
         "name": "保隆科技",
         "reason": "汽车零部",
@@ -105,6 +94,17 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
+      },
+      {
+        "code": "600267",
+        "name": "海正药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 118360253.0,
+        "turnover_rate": 0.83,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 1
       },
       {
         "code": "600178",
