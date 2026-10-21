@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21 09:21:27",
+  "generated_at": "2026-10-21 12:54:13",
   "latest_trade_date": "2026-10-21",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-10-19": [
       {
-        "code": "003029",
-        "name": "吉大正元",
-        "reason": "软件开发",
-        "concepts": [],
-        "amount": 174389363.0,
-        "turnover_rate": 4.11,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002929",
         "name": "润建股份",
         "reason": "通信服务",
@@ -63,23 +52,23 @@
         "consecutive_boards": 2
       },
       {
+        "code": "003029",
+        "name": "吉大正元",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 174389363.0,
+        "turnover_rate": 4.11,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
+      },
+      {
         "code": "600860",
         "name": "京城股份",
         "reason": "通用设备",
         "concepts": [],
         "amount": 60002169.0,
         "turnover_rate": 1.55,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603197",
-        "name": "保隆科技",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 127763601.0,
-        "turnover_rate": 1.87,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
@@ -105,6 +94,17 @@
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
         "consecutive_boards": 1
+      },
+      {
+        "code": "603197",
+        "name": "保隆科技",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 127763601.0,
+        "turnover_rate": 1.87,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
       },
       {
         "code": "600178",
@@ -549,23 +549,23 @@
         "consecutive_boards": 4
       },
       {
-        "code": "600661",
-        "name": "昂立教育",
-        "reason": "教育",
-        "concepts": [],
-        "amount": 155072292.0,
-        "turnover_rate": 5.35,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002835",
         "name": "同为股份",
         "reason": "计算机设",
         "concepts": [],
         "amount": 33842641.0,
         "turnover_rate": 1.88,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600661",
+        "name": "昂立教育",
+        "reason": "教育",
+        "concepts": [],
+        "amount": 155072292.0,
+        "turnover_rate": 5.35,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
