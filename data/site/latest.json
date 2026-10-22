@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 09:23:47",
+  "generated_at": "2026-10-22 12:57:29",
   "latest_trade_date": "2026-10-22",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-10-20": [
       {
-        "code": "600661",
-        "name": "昂立教育",
-        "reason": "教育",
-        "concepts": [],
-        "amount": 155072292.0,
-        "turnover_rate": 5.35,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "003029",
         "name": "吉大正元",
         "reason": "软件开发",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:57:30",
         "consecutive_boards": 4
+      },
+      {
+        "code": "600661",
+        "name": "昂立教育",
+        "reason": "教育",
+        "concepts": [],
+        "amount": 155072292.0,
+        "turnover_rate": 5.35,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "002835",
@@ -626,47 +626,14 @@
     ],
     "2026-10-21": [
       {
-        "code": "002835",
-        "name": "同为股份",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 214884751.0,
-        "turnover_rate": 10.84,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:35:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002313",
-        "name": "日海智能",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 64604320.0,
-        "turnover_rate": 1.78,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002347",
-        "name": "泰尔股份",
+        "code": "603278",
+        "name": "大业股份",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 90872819.0,
-        "turnover_rate": 2.53,
+        "amount": 73724186.0,
+        "turnover_rate": 1.64,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600178",
-        "name": "东安动力",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 609056144.0,
-        "turnover_rate": 9.57,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:30:15",
         "consecutive_boards": 4
       },
       {
@@ -681,15 +648,48 @@
         "consecutive_boards": 4
       },
       {
-        "code": "603278",
-        "name": "大业股份",
+        "code": "600178",
+        "name": "东安动力",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 609056144.0,
+        "turnover_rate": 9.57,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:30:15",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "002347",
+        "name": "泰尔股份",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 73724186.0,
-        "turnover_rate": 1.64,
+        "amount": 90872819.0,
+        "turnover_rate": 2.53,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002313",
+        "name": "日海智能",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 64604320.0,
+        "turnover_rate": 1.78,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002835",
+        "name": "同为股份",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 214884751.0,
+        "turnover_rate": 10.84,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:35:24",
+        "consecutive_boards": 2
       },
       {
         "code": "600293",
@@ -703,17 +703,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603332",
-        "name": "苏州龙杰",
-        "reason": "化学纤维",
-        "concepts": [],
-        "amount": 47404425.0,
-        "turnover_rate": 1.73,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002076",
         "name": "星光股份",
         "reason": "照明设备",
@@ -723,6 +712,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "603332",
+        "name": "苏州龙杰",
+        "reason": "化学纤维",
+        "concepts": [],
+        "amount": 47404425.0,
+        "turnover_rate": 1.73,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
       },
       {
         "code": "001239",
@@ -758,17 +758,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002565",
-        "name": "顺灏股份",
-        "reason": "包装印刷",
-        "concepts": [],
-        "amount": 386844928.0,
-        "turnover_rate": 4.35,
-        "first_limit_up_time": "09:31:30",
-        "last_limit_up_time": "09:31:30",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002181",
         "name": "粤 传 媒",
         "reason": "出版",
@@ -778,6 +767,17 @@
         "first_limit_up_time": "09:31:30",
         "last_limit_up_time": "09:31:30",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002565",
+        "name": "顺灏股份",
+        "reason": "包装印刷",
+        "concepts": [],
+        "amount": 386844928.0,
+        "turnover_rate": 4.35,
+        "first_limit_up_time": "09:31:30",
+        "last_limit_up_time": "09:31:30",
+        "consecutive_boards": 1
       },
       {
         "code": "002086",
