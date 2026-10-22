@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 12:57:29",
+  "generated_at": "2026-10-22 15:27:53",
   "latest_trade_date": "2026-10-22",
   "summary": [
     {
@@ -30,6 +30,17 @@
   "limit_up_details_by_date": {
     "2026-10-20": [
       {
+        "code": "002835",
+        "name": "同为股份",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 33842641.0,
+        "turnover_rate": 1.88,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
         "code": "003029",
         "name": "吉大正元",
         "reason": "软件开发",
@@ -52,17 +63,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002835",
-        "name": "同为股份",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 33842641.0,
-        "turnover_rate": 1.88,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600178",
         "name": "东安动力",
         "reason": "汽车零部",
@@ -71,17 +71,6 @@
         "turnover_rate": 1.62,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "603278",
-        "name": "大业股份",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 101347729.0,
-        "turnover_rate": 2.47,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
         "consecutive_boards": 3
       },
       {
@@ -94,6 +83,17 @@
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 1
+      },
+      {
+        "code": "603278",
+        "name": "大业股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 101347729.0,
+        "turnover_rate": 2.47,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
       },
       {
         "code": "001323",
