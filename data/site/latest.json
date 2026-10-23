@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 09:19:31",
+  "generated_at": "2026-10-23 12:35:38",
   "latest_trade_date": "2026-10-23",
   "summary": [
     {
@@ -29,39 +29,6 @@
   ],
   "limit_up_details_by_date": {
     "2026-10-21": [
-      {
-        "code": "002835",
-        "name": "同为股份",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 214884751.0,
-        "turnover_rate": 10.84,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:35:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002313",
-        "name": "日海智能",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 64604320.0,
-        "turnover_rate": 1.78,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002347",
-        "name": "泰尔股份",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 90872819.0,
-        "turnover_rate": 2.53,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
       {
         "code": "600178",
         "name": "东安动力",
@@ -96,6 +63,39 @@
         "consecutive_boards": 4
       },
       {
+        "code": "002835",
+        "name": "同为股份",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 214884751.0,
+        "turnover_rate": 10.84,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:35:24",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002313",
+        "name": "日海智能",
+        "reason": "通信设备",
+        "concepts": [],
+        "amount": 64604320.0,
+        "turnover_rate": 1.78,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002347",
+        "name": "泰尔股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 90872819.0,
+        "turnover_rate": 2.53,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "600293",
         "name": "三峡新材",
         "reason": "玻璃玻纤",
@@ -104,6 +104,17 @@
         "turnover_rate": 0.26,
         "first_limit_up_time": "09:25:01",
         "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002076",
+        "name": "星光股份",
+        "reason": "照明设备",
+        "concepts": [],
+        "amount": 140619822.0,
+        "turnover_rate": 5.53,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
       },
       {
@@ -116,17 +127,6 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
-      },
-      {
-        "code": "002076",
-        "name": "星光股份",
-        "reason": "照明设备",
-        "concepts": [],
-        "amount": 140619822.0,
-        "turnover_rate": 5.53,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
       },
       {
         "code": "001239",
@@ -162,17 +162,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002565",
-        "name": "顺灏股份",
-        "reason": "包装印刷",
-        "concepts": [],
-        "amount": 386844928.0,
-        "turnover_rate": 4.35,
-        "first_limit_up_time": "09:31:30",
-        "last_limit_up_time": "09:31:30",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002181",
         "name": "粤 传 媒",
         "reason": "出版",
@@ -182,6 +171,17 @@
         "first_limit_up_time": "09:31:30",
         "last_limit_up_time": "09:31:30",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002565",
+        "name": "顺灏股份",
+        "reason": "包装印刷",
+        "concepts": [],
+        "amount": 386844928.0,
+        "turnover_rate": 4.35,
+        "first_limit_up_time": "09:31:30",
+        "last_limit_up_time": "09:31:30",
+        "consecutive_boards": 1
       },
       {
         "code": "002086",
