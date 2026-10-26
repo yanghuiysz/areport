@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26 14:08:40",
+  "generated_at": "2026-10-26 16:53:12",
   "latest_trade_date": "2026-10-26",
   "summary": [
     {
@@ -417,17 +417,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603028",
-        "name": "赛福天",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 42525357.0,
-        "turnover_rate": 1.76,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 2
-      },
-      {
         "code": "603933",
         "name": "睿能科技",
         "reason": "其他电子",
@@ -439,14 +428,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603280",
-        "name": "南方路机",
-        "reason": "工程机械",
+        "code": "603028",
+        "name": "赛福天",
+        "reason": "通用设备",
         "concepts": [],
-        "amount": 117520195.0,
-        "turnover_rate": 3.39,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
+        "amount": 42525357.0,
+        "turnover_rate": 1.76,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
         "consecutive_boards": 2
       },
       {
@@ -456,6 +445,17 @@
         "concepts": [],
         "amount": 169628444.0,
         "turnover_rate": 7.51,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603280",
+        "name": "南方路机",
+        "reason": "工程机械",
+        "concepts": [],
+        "amount": 117520195.0,
+        "turnover_rate": 3.39,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
