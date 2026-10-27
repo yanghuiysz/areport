@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27 09:48:10",
+  "generated_at": "2026-10-27 13:09:49",
   "latest_trade_date": "2026-10-27",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-10-23": [
       {
-        "code": "600838",
-        "name": "上海九百",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 234953015.0,
-        "turnover_rate": 5.33,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002982",
         "name": "湘佳股份",
         "reason": "养殖业",
@@ -52,15 +41,15 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603933",
-        "name": "睿能科技",
-        "reason": "其他电子",
+        "code": "600838",
+        "name": "上海九百",
+        "reason": "一般零售",
         "concepts": [],
-        "amount": 85692532.0,
-        "turnover_rate": 1.97,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 2
+        "amount": 234953015.0,
+        "turnover_rate": 5.33,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "603028",
@@ -74,14 +63,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002535",
-        "name": "林州重机",
-        "reason": "专用设备",
+        "code": "603933",
+        "name": "睿能科技",
+        "reason": "其他电子",
         "concepts": [],
-        "amount": 169628444.0,
-        "turnover_rate": 7.51,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
+        "amount": 85692532.0,
+        "turnover_rate": 1.97,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
         "consecutive_boards": 2
       },
       {
@@ -91,6 +80,17 @@
         "concepts": [],
         "amount": 117520195.0,
         "turnover_rate": 3.39,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002535",
+        "name": "林州重机",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 169628444.0,
+        "turnover_rate": 7.51,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
@@ -934,17 +934,6 @@
     ],
     "2026-10-26": [
       {
-        "code": "301502",
-        "name": "华阳智能",
-        "reason": "电机Ⅱ",
-        "concepts": [],
-        "amount": 622793312.0,
-        "turnover_rate": 34.94,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "301314",
         "name": "科瑞思",
         "reason": "通信设备",
@@ -954,6 +943,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "301502",
+        "name": "华阳智能",
+        "reason": "电机Ⅱ",
+        "concepts": [],
+        "amount": 622793312.0,
+        "turnover_rate": 34.94,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 3
       },
       {
         "code": "600838",
@@ -967,12 +967,12 @@
         "consecutive_boards": 4
       },
       {
-        "code": "603089",
-        "name": "正裕工业",
-        "reason": "汽车零部",
+        "code": "603528",
+        "name": "多伦科技",
+        "reason": "软件开发",
         "concepts": [],
-        "amount": 376359312.0,
-        "turnover_rate": 10.44,
+        "amount": 129807211.0,
+        "turnover_rate": 2.05,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 3
@@ -989,12 +989,12 @@
         "consecutive_boards": 3
       },
       {
-        "code": "603528",
-        "name": "多伦科技",
-        "reason": "软件开发",
+        "code": "603089",
+        "name": "正裕工业",
+        "reason": "汽车零部",
         "concepts": [],
-        "amount": 129807211.0,
-        "turnover_rate": 2.05,
+        "amount": 376359312.0,
+        "turnover_rate": 10.44,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 3
