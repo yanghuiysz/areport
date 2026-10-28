@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 07:22:59",
+  "generated_at": "2026-10-28 10:33:04",
   "latest_trade_date": "2026-10-28",
   "summary": [
     {
@@ -7,7 +7,7 @@
       "up_count": null,
       "down_count": null,
       "flat_count": null,
-      "limit_up_count": 73,
+      "limit_up_count": 72,
       "limit_down_count": 5
     },
     {
@@ -1450,17 +1450,6 @@
         "turnover_rate": 3.15,
         "first_limit_up_time": "10:09:33",
         "last_limit_up_time": "10:27:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "605488",
-        "name": "福莱新材",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 2444744240.0,
-        "turnover_rate": 17.16,
-        "first_limit_up_time": "10:12:48",
-        "last_limit_up_time": "15:00:00",
         "consecutive_boards": 1
       },
       {
