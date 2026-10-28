@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 13:59:32",
+  "generated_at": "2026-10-28 16:47:34",
   "latest_trade_date": "2026-10-28",
   "summary": [
     {
@@ -63,12 +63,12 @@
         "consecutive_boards": 4
       },
       {
-        "code": "603089",
-        "name": "正裕工业",
-        "reason": "汽车零部",
+        "code": "603528",
+        "name": "多伦科技",
+        "reason": "软件开发",
         "concepts": [],
-        "amount": 376359312.0,
-        "turnover_rate": 10.44,
+        "amount": 129807211.0,
+        "turnover_rate": 2.05,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 3
@@ -85,12 +85,12 @@
         "consecutive_boards": 3
       },
       {
-        "code": "603528",
-        "name": "多伦科技",
-        "reason": "软件开发",
+        "code": "603089",
+        "name": "正裕工业",
+        "reason": "汽车零部",
         "concepts": [],
-        "amount": 129807211.0,
-        "turnover_rate": 2.05,
+        "amount": 376359312.0,
+        "turnover_rate": 10.44,
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 3
@@ -692,17 +692,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002011",
-        "name": "盾安环境",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 312692608.0,
-        "turnover_rate": 2.6,
-        "first_limit_up_time": "09:30:06",
-        "last_limit_up_time": "09:30:45",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002284",
         "name": "亚太股份",
         "reason": "汽车零部",
@@ -711,6 +700,17 @@
         "turnover_rate": 6.79,
         "first_limit_up_time": "09:30:06",
         "last_limit_up_time": "14:49:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002011",
+        "name": "盾安环境",
+        "reason": "家电零部",
+        "concepts": [],
+        "amount": 312692608.0,
+        "turnover_rate": 2.6,
+        "first_limit_up_time": "09:30:06",
+        "last_limit_up_time": "09:30:45",
         "consecutive_boards": 1
       },
       {
