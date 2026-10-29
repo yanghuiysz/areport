@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29 07:41:58",
+  "generated_at": "2026-10-29 10:53:47",
   "latest_trade_date": "2026-10-29",
   "summary": [
     {
@@ -505,17 +505,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002708",
-        "name": "光洋股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 358318544.0,
-        "turnover_rate": 3.71,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "301488",
         "name": "豪恩汽电",
         "reason": "汽车零部",
@@ -525,6 +514,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:41:39",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002708",
+        "name": "光洋股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 358318544.0,
+        "turnover_rate": 3.71,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 3
       },
       {
         "code": "603006",
@@ -549,17 +549,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "601956",
-        "name": "东贝集团",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 198986298.0,
-        "turnover_rate": 5.3,
-        "first_limit_up_time": "09:30:17",
-        "last_limit_up_time": "09:30:17",
-        "consecutive_boards": 2
-      },
-      {
         "code": "603612",
         "name": "索通发展",
         "reason": "非金属材",
@@ -569,6 +558,17 @@
         "first_limit_up_time": "09:30:17",
         "last_limit_up_time": "10:12:29",
         "consecutive_boards": 1
+      },
+      {
+        "code": "601956",
+        "name": "东贝集团",
+        "reason": "家电零部",
+        "concepts": [],
+        "amount": 198986298.0,
+        "turnover_rate": 5.3,
+        "first_limit_up_time": "09:30:17",
+        "last_limit_up_time": "09:30:17",
+        "consecutive_boards": 2
       },
       {
         "code": "003028",
@@ -604,17 +604,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000678",
-        "name": "襄阳轴承",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 826162176.0,
-        "turnover_rate": 10.38,
-        "first_limit_up_time": "09:32:15",
-        "last_limit_up_time": "09:32:15",
-        "consecutive_boards": 5
-      },
-      {
         "code": "301359",
         "name": "东南电子",
         "reason": "其他电子",
@@ -624,6 +613,17 @@
         "first_limit_up_time": "09:32:15",
         "last_limit_up_time": "09:32:21",
         "consecutive_boards": 1
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 826162176.0,
+        "turnover_rate": 10.38,
+        "first_limit_up_time": "09:32:15",
+        "last_limit_up_time": "09:32:15",
+        "consecutive_boards": 5
       },
       {
         "code": "300613",
