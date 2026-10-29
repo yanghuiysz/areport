@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29 14:09:08",
+  "generated_at": "2026-10-29 17:02:44",
   "latest_trade_date": "2026-10-29",
   "summary": [
     {
@@ -483,17 +483,6 @@
     ],
     "2026-10-28": [
       {
-        "code": "002636",
-        "name": "金安国纪",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 1598783040.0,
-        "turnover_rate": 3.77,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:47:09",
-        "consecutive_boards": 1
-      },
-      {
         "code": "001219",
         "name": "青岛食品",
         "reason": "休闲食品",
@@ -503,6 +492,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
+      },
+      {
+        "code": "002636",
+        "name": "金安国纪",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 1598783040.0,
+        "turnover_rate": 3.77,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:47:09",
+        "consecutive_boards": 1
       },
       {
         "code": "002708",
@@ -637,17 +637,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603667",
-        "name": "五洲新春",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 700242112.0,
-        "turnover_rate": 3.72,
-        "first_limit_up_time": "09:33:54",
-        "last_limit_up_time": "09:34:27",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002526",
         "name": "山东矿机",
         "reason": "专用设备",
@@ -656,6 +645,17 @@
         "turnover_rate": 3.24,
         "first_limit_up_time": "09:33:54",
         "last_limit_up_time": "09:33:54",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603667",
+        "name": "五洲新春",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 700242112.0,
+        "turnover_rate": 3.72,
+        "first_limit_up_time": "09:33:54",
+        "last_limit_up_time": "09:34:27",
         "consecutive_boards": 1
       },
       {
