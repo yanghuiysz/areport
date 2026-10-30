@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30 10:52:16",
+  "generated_at": "2026-10-30 14:00:56",
   "latest_trade_date": "2026-10-30",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-10-28": [
       {
-        "code": "001219",
-        "name": "青岛食品",
-        "reason": "休闲食品",
-        "concepts": [],
-        "amount": 55085224.0,
-        "turnover_rate": 1.76,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002636",
         "name": "金安国纪",
         "reason": "元件",
@@ -52,15 +41,15 @@
         "consecutive_boards": 1
       },
       {
-        "code": "301488",
-        "name": "豪恩汽电",
-        "reason": "汽车零部",
+        "code": "001219",
+        "name": "青岛食品",
+        "reason": "休闲食品",
         "concepts": [],
-        "amount": 245557404.0,
-        "turnover_rate": 6.03,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:41:39",
-        "consecutive_boards": 1
+        "amount": 55085224.0,
+        "turnover_rate": 1.76,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "002708",
@@ -72,6 +61,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 3
+      },
+      {
+        "code": "301488",
+        "name": "豪恩汽电",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 245557404.0,
+        "turnover_rate": 6.03,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:41:39",
+        "consecutive_boards": 1
       },
       {
         "code": "603006",
@@ -96,17 +96,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603612",
-        "name": "索通发展",
-        "reason": "非金属材",
-        "concepts": [],
-        "amount": 265281817.0,
-        "turnover_rate": 3.36,
-        "first_limit_up_time": "09:30:17",
-        "last_limit_up_time": "10:12:29",
-        "consecutive_boards": 1
-      },
-      {
         "code": "601956",
         "name": "东贝集团",
         "reason": "家电零部",
@@ -116,6 +105,17 @@
         "first_limit_up_time": "09:30:17",
         "last_limit_up_time": "09:30:17",
         "consecutive_boards": 2
+      },
+      {
+        "code": "603612",
+        "name": "索通发展",
+        "reason": "非金属材",
+        "concepts": [],
+        "amount": 265281817.0,
+        "turnover_rate": 3.36,
+        "first_limit_up_time": "09:30:17",
+        "last_limit_up_time": "10:12:29",
+        "consecutive_boards": 1
       },
       {
         "code": "003028",
@@ -151,17 +151,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "301359",
-        "name": "东南电子",
-        "reason": "其他电子",
-        "concepts": [],
-        "amount": 69051581.0,
-        "turnover_rate": 5.25,
-        "first_limit_up_time": "09:32:15",
-        "last_limit_up_time": "09:32:21",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000678",
         "name": "襄阳轴承",
         "reason": "汽车零部",
@@ -171,6 +160,17 @@
         "first_limit_up_time": "09:32:15",
         "last_limit_up_time": "09:32:15",
         "consecutive_boards": 5
+      },
+      {
+        "code": "301359",
+        "name": "东南电子",
+        "reason": "其他电子",
+        "concepts": [],
+        "amount": 69051581.0,
+        "turnover_rate": 5.25,
+        "first_limit_up_time": "09:32:15",
+        "last_limit_up_time": "09:32:21",
+        "consecutive_boards": 1
       },
       {
         "code": "300613",
@@ -184,17 +184,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002526",
-        "name": "山东矿机",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 168489681.0,
-        "turnover_rate": 3.24,
-        "first_limit_up_time": "09:33:54",
-        "last_limit_up_time": "09:33:54",
-        "consecutive_boards": 1
-      },
-      {
         "code": "603667",
         "name": "五洲新春",
         "reason": "通用设备",
@@ -203,6 +192,17 @@
         "turnover_rate": 3.72,
         "first_limit_up_time": "09:33:54",
         "last_limit_up_time": "09:34:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002526",
+        "name": "山东矿机",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 168489681.0,
+        "turnover_rate": 3.24,
+        "first_limit_up_time": "09:33:54",
+        "last_limit_up_time": "09:33:54",
         "consecutive_boards": 1
       },
       {
@@ -835,17 +835,6 @@
         "consecutive_boards": 4
       },
       {
-        "code": "001219",
-        "name": "青岛食品",
-        "reason": "休闲食品",
-        "concepts": [],
-        "amount": 54276760.0,
-        "turnover_rate": 1.57,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002526",
         "name": "山东矿机",
         "reason": "专用设备",
@@ -855,6 +844,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "001219",
+        "name": "青岛食品",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 54276760.0,
+        "turnover_rate": 1.57,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
       },
       {
         "code": "002862",
