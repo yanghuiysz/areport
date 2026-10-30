@@ -1,7 +1,15 @@
 {
-  "generated_at": "2026-10-29 17:02:44",
-  "latest_trade_date": "2026-10-29",
+  "generated_at": "2026-10-30 07:49:46",
+  "latest_trade_date": "2026-10-30",
   "summary": [
+    {
+      "date": "2026-10-30",
+      "up_count": null,
+      "down_count": null,
+      "flat_count": null,
+      "limit_up_count": 47,
+      "limit_down_count": 82
+    },
     {
       "date": "2026-10-29",
       "up_count": null,
@@ -17,470 +25,9 @@
       "flat_count": null,
       "limit_up_count": 72,
       "limit_down_count": 5
-    },
-    {
-      "date": "2026-10-27",
-      "up_count": null,
-      "down_count": null,
-      "flat_count": null,
-      "limit_up_count": 41,
-      "limit_down_count": 22
     }
   ],
   "limit_up_details_by_date": {
-    "2026-10-27": [
-      {
-        "code": "001219",
-        "name": "青岛食品",
-        "reason": "休闲食品",
-        "concepts": [],
-        "amount": 221172383.0,
-        "turnover_rate": 7.77,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:38:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000058",
-        "name": "深 赛 格",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 59018704.0,
-        "turnover_rate": 0.76,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603528",
-        "name": "多伦科技",
-        "reason": "软件开发",
-        "concepts": [],
-        "amount": 809980208.0,
-        "turnover_rate": 11.65,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "14:49:13",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "603028",
-        "name": "赛福天",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 301969120.0,
-        "turnover_rate": 10.31,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "002708",
-        "name": "光洋股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 339166160.0,
-        "turnover_rate": 3.87,
-        "first_limit_up_time": "09:30:03",
-        "last_limit_up_time": "09:30:03",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002011",
-        "name": "盾安环境",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 312692608.0,
-        "turnover_rate": 2.6,
-        "first_limit_up_time": "09:30:06",
-        "last_limit_up_time": "09:30:45",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002284",
-        "name": "亚太股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 477655504.0,
-        "turnover_rate": 6.79,
-        "first_limit_up_time": "09:30:06",
-        "last_limit_up_time": "14:49:00",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600838",
-        "name": "上海九百",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 394260960.0,
-        "turnover_rate": 7.49,
-        "first_limit_up_time": "09:30:26",
-        "last_limit_up_time": "09:30:26",
-        "consecutive_boards": 5
-      },
-      {
-        "code": "002093",
-        "name": "国脉科技",
-        "reason": "教育",
-        "concepts": [],
-        "amount": 525082752.0,
-        "turnover_rate": 6.63,
-        "first_limit_up_time": "09:30:51",
-        "last_limit_up_time": "09:39:45",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603565",
-        "name": "中谷物流",
-        "reason": "航运港口",
-        "concepts": [],
-        "amount": 392124080.0,
-        "turnover_rate": 1.49,
-        "first_limit_up_time": "09:31:15",
-        "last_limit_up_time": "13:34:42",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601566",
-        "name": "九牧王",
-        "reason": "服装家纺",
-        "concepts": [],
-        "amount": 298270608.0,
-        "turnover_rate": 5.08,
-        "first_limit_up_time": "09:31:27",
-        "last_limit_up_time": "13:12:54",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600303",
-        "name": "曙光股份",
-        "reason": "商用车",
-        "concepts": [],
-        "amount": 250252483.0,
-        "turnover_rate": 12.08,
-        "first_limit_up_time": "09:32:42",
-        "last_limit_up_time": "10:48:12",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603758",
-        "name": "秦安股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 133730606.0,
-        "turnover_rate": 2.95,
-        "first_limit_up_time": "09:33:15",
-        "last_limit_up_time": "09:33:42",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601956",
-        "name": "东贝集团",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 142014964.0,
-        "turnover_rate": 4.15,
-        "first_limit_up_time": "09:33:58",
-        "last_limit_up_time": "09:40:43",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "000678",
-        "name": "襄阳轴承",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 1491865744.0,
-        "turnover_rate": 20.57,
-        "first_limit_up_time": "09:34:09",
-        "last_limit_up_time": "09:36:48",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "001400",
-        "name": "江顺科技",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 148195570.0,
-        "turnover_rate": 5.84,
-        "first_limit_up_time": "09:35:18",
-        "last_limit_up_time": "09:35:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001331",
-        "name": "胜通能源",
-        "reason": "燃气Ⅱ",
-        "concepts": [],
-        "amount": 716457984.0,
-        "turnover_rate": 6.69,
-        "first_limit_up_time": "09:39:18",
-        "last_limit_up_time": "13:34:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600828",
-        "name": "茂业商业",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 118112558.0,
-        "turnover_rate": 1.57,
-        "first_limit_up_time": "09:40:42",
-        "last_limit_up_time": "09:40:42",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600715",
-        "name": "文投控股",
-        "reason": "游戏Ⅱ",
-        "concepts": [],
-        "amount": 468573856.0,
-        "turnover_rate": 8.88,
-        "first_limit_up_time": "09:41:25",
-        "last_limit_up_time": "14:56:10",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002187",
-        "name": "广百股份",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 209233886.0,
-        "turnover_rate": 5.12,
-        "first_limit_up_time": "09:43:30",
-        "last_limit_up_time": "13:28:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603376",
-        "name": "大明电子",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 91797962.0,
-        "turnover_rate": 11.04,
-        "first_limit_up_time": "09:48:01",
-        "last_limit_up_time": "09:59:37",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301682",
-        "name": "宏明电子",
-        "reason": "军工电子",
-        "concepts": [],
-        "amount": 713663632.0,
-        "turnover_rate": 23.66,
-        "first_limit_up_time": "09:55:24",
-        "last_limit_up_time": "13:49:33",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002249",
-        "name": "大洋电机",
-        "reason": "电机Ⅱ",
-        "concepts": [],
-        "amount": 1418988704.0,
-        "turnover_rate": 10.16,
-        "first_limit_up_time": "09:56:57",
-        "last_limit_up_time": "14:55:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301479",
-        "name": "弘景光电",
-        "reason": "光学光电",
-        "concepts": [],
-        "amount": 742302800.0,
-        "turnover_rate": 19.17,
-        "first_limit_up_time": "09:57:06",
-        "last_limit_up_time": "14:55:36",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300539",
-        "name": "横河精密",
-        "reason": "塑料",
-        "concepts": [],
-        "amount": 473507456.0,
-        "turnover_rate": 11.44,
-        "first_limit_up_time": "10:04:51",
-        "last_limit_up_time": "10:04:51",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002724",
-        "name": "海洋王",
-        "reason": "照明设备",
-        "concepts": [],
-        "amount": 2090114224.0,
-        "turnover_rate": 28.85,
-        "first_limit_up_time": "10:07:42",
-        "last_limit_up_time": "14:55:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "001318",
-        "name": "阳光乳业",
-        "reason": "饮料乳品",
-        "concepts": [],
-        "amount": 557219472.0,
-        "turnover_rate": 15.54,
-        "first_limit_up_time": "10:11:54",
-        "last_limit_up_time": "14:20:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002820",
-        "name": "桂发祥",
-        "reason": "休闲食品",
-        "concepts": [],
-        "amount": 376734480.0,
-        "turnover_rate": 17.86,
-        "first_limit_up_time": "10:11:54",
-        "last_limit_up_time": "10:11:54",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "605333",
-        "name": "沪光股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 370270240.0,
-        "turnover_rate": 4.18,
-        "first_limit_up_time": "10:21:27",
-        "last_limit_up_time": "14:50:42",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "000888",
-        "name": "峨眉山Ａ",
-        "reason": "旅游及景",
-        "concepts": [],
-        "amount": 514333248.0,
-        "turnover_rate": 9.88,
-        "first_limit_up_time": "10:29:06",
-        "last_limit_up_time": "13:03:45",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603813",
-        "name": "原尚股份",
-        "reason": "物流",
-        "concepts": [],
-        "amount": 46672479.0,
-        "turnover_rate": 1.89,
-        "first_limit_up_time": "10:34:15",
-        "last_limit_up_time": "10:34:15",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002205",
-        "name": "国统股份",
-        "reason": "水泥",
-        "concepts": [],
-        "amount": 129420267.0,
-        "turnover_rate": 6.33,
-        "first_limit_up_time": "10:49:57",
-        "last_limit_up_time": "10:49:57",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603370",
-        "name": "华新精科",
-        "reason": "电机Ⅱ",
-        "concepts": [],
-        "amount": 318696224.0,
-        "turnover_rate": 12.71,
-        "first_limit_up_time": "10:51:48",
-        "last_limit_up_time": "11:05:27",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002823",
-        "name": "凯中精密",
-        "reason": "电机Ⅱ",
-        "concepts": [],
-        "amount": 302045952.0,
-        "turnover_rate": 10.28,
-        "first_limit_up_time": "11:05:33",
-        "last_limit_up_time": "13:20:03",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "300504",
-        "name": "天邑股份",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 438540944.0,
-        "turnover_rate": 11.95,
-        "first_limit_up_time": "11:12:18",
-        "last_limit_up_time": "11:12:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "603037",
-        "name": "凯众股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 250607183.0,
-        "turnover_rate": 8.18,
-        "first_limit_up_time": "13:01:47",
-        "last_limit_up_time": "13:01:47",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002623",
-        "name": "亚玛顿",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 232680089.0,
-        "turnover_rate": 6.72,
-        "first_limit_up_time": "13:19:18",
-        "last_limit_up_time": "13:19:18",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "600626",
-        "name": "申达股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 244587830.0,
-        "turnover_rate": 4.8,
-        "first_limit_up_time": "13:24:30",
-        "last_limit_up_time": "14:46:12",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301314",
-        "name": "科瑞思",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 563320192.0,
-        "turnover_rate": 30.24,
-        "first_limit_up_time": "13:46:48",
-        "last_limit_up_time": "13:53:30",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600785",
-        "name": "新华百货",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 822736560.0,
-        "turnover_rate": 19.86,
-        "first_limit_up_time": "14:50:56",
-        "last_limit_up_time": "14:55:32",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "601086",
-        "name": "国芳集团",
-        "reason": "一般零售",
-        "concepts": [],
-        "amount": 1197142128.0,
-        "turnover_rate": 14.9,
-        "first_limit_up_time": "14:52:06",
-        "last_limit_up_time": "14:52:06",
-        "consecutive_boards": 1
-      }
-    ],
     "2026-10-28": [
       {
         "code": "001219",
@@ -505,17 +52,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002708",
-        "name": "光洋股份",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 358318544.0,
-        "turnover_rate": 3.71,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "301488",
         "name": "豪恩汽电",
         "reason": "汽车零部",
@@ -525,6 +61,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:41:39",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002708",
+        "name": "光洋股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 358318544.0,
+        "turnover_rate": 3.71,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 3
       },
       {
         "code": "603006",
@@ -549,17 +96,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "601956",
-        "name": "东贝集团",
-        "reason": "家电零部",
-        "concepts": [],
-        "amount": 198986298.0,
-        "turnover_rate": 5.3,
-        "first_limit_up_time": "09:30:17",
-        "last_limit_up_time": "09:30:17",
-        "consecutive_boards": 2
-      },
-      {
         "code": "603612",
         "name": "索通发展",
         "reason": "非金属材",
@@ -569,6 +105,17 @@
         "first_limit_up_time": "09:30:17",
         "last_limit_up_time": "10:12:29",
         "consecutive_boards": 1
+      },
+      {
+        "code": "601956",
+        "name": "东贝集团",
+        "reason": "家电零部",
+        "concepts": [],
+        "amount": 198986298.0,
+        "turnover_rate": 5.3,
+        "first_limit_up_time": "09:30:17",
+        "last_limit_up_time": "09:30:17",
+        "consecutive_boards": 2
       },
       {
         "code": "003028",
@@ -604,17 +151,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000678",
-        "name": "襄阳轴承",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 826162176.0,
-        "turnover_rate": 10.38,
-        "first_limit_up_time": "09:32:15",
-        "last_limit_up_time": "09:32:15",
-        "consecutive_boards": 5
-      },
-      {
         "code": "301359",
         "name": "东南电子",
         "reason": "其他电子",
@@ -624,6 +160,17 @@
         "first_limit_up_time": "09:32:15",
         "last_limit_up_time": "09:32:21",
         "consecutive_boards": 1
+      },
+      {
+        "code": "000678",
+        "name": "襄阳轴承",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 826162176.0,
+        "turnover_rate": 10.38,
+        "first_limit_up_time": "09:32:15",
+        "last_limit_up_time": "09:32:15",
+        "consecutive_boards": 5
       },
       {
         "code": "300613",
@@ -1277,14 +824,14 @@
     ],
     "2026-10-29": [
       {
-        "code": "001219",
-        "name": "青岛食品",
-        "reason": "休闲食品",
+        "code": "002708",
+        "name": "光洋股份",
+        "reason": "汽车零部",
         "concepts": [],
-        "amount": 54276760.0,
-        "turnover_rate": 1.57,
+        "amount": 2887379408.0,
+        "turnover_rate": 27.9,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
+        "last_limit_up_time": "15:00:00",
         "consecutive_boards": 4
       },
       {
@@ -1299,14 +846,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002708",
-        "name": "光洋股份",
-        "reason": "汽车零部",
+        "code": "001219",
+        "name": "青岛食品",
+        "reason": "休闲食品",
         "concepts": [],
-        "amount": 2887379408.0,
-        "turnover_rate": 27.9,
+        "amount": 54276760.0,
+        "turnover_rate": 1.57,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "15:00:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 4
       },
       {
@@ -1705,11 +1252,530 @@
         "last_limit_up_time": "13:53:36",
         "consecutive_boards": 1
       }
+    ],
+    "2026-10-30": [
+      {
+        "code": "603703",
+        "name": "盛洋科技",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 91126637.0,
+        "turnover_rate": 1.84,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600261",
+        "name": "阳光照明",
+        "reason": "照明设备",
+        "concepts": [],
+        "amount": 137021270.0,
+        "turnover_rate": 2.51,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603131",
+        "name": "上海沪工",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 189684437.0,
+        "turnover_rate": 3.21,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "000897",
+        "name": "津滨发展",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 79671038.0,
+        "turnover_rate": 2.68,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001219",
+        "name": "青岛食品",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 944077296.0,
+        "turnover_rate": 24.9,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "13:00:00",
+        "consecutive_boards": 5
+      },
+      {
+        "code": "002365",
+        "name": "永安药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 121532523.0,
+        "turnover_rate": 4.05,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605169",
+        "name": "洪通燃气",
+        "reason": "燃气Ⅱ",
+        "concepts": [],
+        "amount": 36625271.0,
+        "turnover_rate": 1.02,
+        "first_limit_up_time": "09:30:01",
+        "last_limit_up_time": "09:30:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603029",
+        "name": "天鹅股份",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 58698389.0,
+        "turnover_rate": 3.02,
+        "first_limit_up_time": "09:30:02",
+        "last_limit_up_time": "09:30:02",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000716",
+        "name": "黑芝麻",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 160219355.0,
+        "turnover_rate": 4.15,
+        "first_limit_up_time": "09:30:06",
+        "last_limit_up_time": "09:30:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002275",
+        "name": "桂林三金",
+        "reason": "中药Ⅱ",
+        "concepts": [],
+        "amount": 352306512.0,
+        "turnover_rate": 4.18,
+        "first_limit_up_time": "09:30:06",
+        "last_limit_up_time": "09:30:06",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001287",
+        "name": "中电港",
+        "reason": "其他电子",
+        "concepts": [],
+        "amount": 627563344.0,
+        "turnover_rate": 4.09,
+        "first_limit_up_time": "09:30:12",
+        "last_limit_up_time": "09:32:30",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "003032",
+        "name": "传智教育",
+        "reason": "教育",
+        "concepts": [],
+        "amount": 185619135.0,
+        "turnover_rate": 6.64,
+        "first_limit_up_time": "09:31:12",
+        "last_limit_up_time": "09:31:12",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "600285",
+        "name": "羚锐制药",
+        "reason": "中药Ⅱ",
+        "concepts": [],
+        "amount": 443598704.0,
+        "turnover_rate": 3.57,
+        "first_limit_up_time": "09:32:07",
+        "last_limit_up_time": "10:09:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603587",
+        "name": "地素时尚",
+        "reason": "服装家纺",
+        "concepts": [],
+        "amount": 71902101.0,
+        "turnover_rate": 1.19,
+        "first_limit_up_time": "09:32:13",
+        "last_limit_up_time": "09:34:25",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "688045",
+        "name": "必易微",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 302054736.0,
+        "turnover_rate": 7.05,
+        "first_limit_up_time": "09:32:24",
+        "last_limit_up_time": "09:32:24",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000525",
+        "name": "红太阳",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 297493344.0,
+        "turnover_rate": 6.03,
+        "first_limit_up_time": "09:32:27",
+        "last_limit_up_time": "14:40:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000410",
+        "name": "沈阳机床",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 247683590.0,
+        "turnover_rate": 2.38,
+        "first_limit_up_time": "09:33:18",
+        "last_limit_up_time": "09:33:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600215",
+        "name": "派斯林",
+        "reason": "自动化设",
+        "concepts": [],
+        "amount": 270423120.0,
+        "turnover_rate": 9.45,
+        "first_limit_up_time": "09:33:28",
+        "last_limit_up_time": "10:54:22",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002432",
+        "name": "九安医疗",
+        "reason": "医疗器械",
+        "concepts": [],
+        "amount": 1131924960.0,
+        "turnover_rate": 4.65,
+        "first_limit_up_time": "09:33:42",
+        "last_limit_up_time": "09:42:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301187",
+        "name": "欧圣电气",
+        "reason": "小家电",
+        "concepts": [],
+        "amount": 130823087.0,
+        "turnover_rate": 3.15,
+        "first_limit_up_time": "09:35:18",
+        "last_limit_up_time": "09:35:18",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "601083",
+        "name": "锦江航运",
+        "reason": "航运港口",
+        "concepts": [],
+        "amount": 277469552.0,
+        "turnover_rate": 10.35,
+        "first_limit_up_time": "09:35:57",
+        "last_limit_up_time": "14:36:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000417",
+        "name": "合百集团",
+        "reason": "一般零售",
+        "concepts": [],
+        "amount": 223359313.0,
+        "turnover_rate": 5.1,
+        "first_limit_up_time": "09:36:09",
+        "last_limit_up_time": "09:36:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000676",
+        "name": "智度股份",
+        "reason": "广告营销",
+        "concepts": [],
+        "amount": 536148624.0,
+        "turnover_rate": 6.49,
+        "first_limit_up_time": "09:41:06",
+        "last_limit_up_time": "09:41:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603273",
+        "name": "天元智能",
+        "reason": "工程机械",
+        "concepts": [],
+        "amount": 89574536.0,
+        "turnover_rate": 2.76,
+        "first_limit_up_time": "09:42:21",
+        "last_limit_up_time": "09:42:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603198",
+        "name": "迎驾贡酒",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 389942144.0,
+        "turnover_rate": 1.11,
+        "first_limit_up_time": "09:44:13",
+        "last_limit_up_time": "09:45:04",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600189",
+        "name": "泉阳泉",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 247458657.0,
+        "turnover_rate": 4.05,
+        "first_limit_up_time": "09:53:51",
+        "last_limit_up_time": "09:53:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000596",
+        "name": "古井贡酒",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 991055664.0,
+        "turnover_rate": 2.56,
+        "first_limit_up_time": "09:54:09",
+        "last_limit_up_time": "11:20:03",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000995",
+        "name": "皇台酒业",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 707748112.0,
+        "turnover_rate": 28.78,
+        "first_limit_up_time": "09:54:24",
+        "last_limit_up_time": "10:34:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002086",
+        "name": "东方海洋",
+        "reason": "农产品加",
+        "concepts": [],
+        "amount": 1190255120.0,
+        "turnover_rate": 27.18,
+        "first_limit_up_time": "09:54:36",
+        "last_limit_up_time": "10:03:27",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002582",
+        "name": "好想你",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 598338240.0,
+        "turnover_rate": 17.72,
+        "first_limit_up_time": "09:58:00",
+        "last_limit_up_time": "11:24:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002636",
+        "name": "金安国纪",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 4080057728.0,
+        "turnover_rate": 9.2,
+        "first_limit_up_time": "10:03:30",
+        "last_limit_up_time": "10:09:48",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605058",
+        "name": "澳弘电子",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 726294112.0,
+        "turnover_rate": 10.68,
+        "first_limit_up_time": "10:18:24",
+        "last_limit_up_time": "10:47:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "300030",
+        "name": "阳普医疗",
+        "reason": "医疗器械",
+        "concepts": [],
+        "amount": 354017376.0,
+        "turnover_rate": 18.8,
+        "first_limit_up_time": "10:19:36",
+        "last_limit_up_time": "10:19:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 1288513792.0,
+        "turnover_rate": 29.99,
+        "first_limit_up_time": "10:25:39",
+        "last_limit_up_time": "10:50:12",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "603233",
+        "name": "大参林",
+        "reason": "医药商业",
+        "concepts": [],
+        "amount": 476049184.0,
+        "turnover_rate": 2.03,
+        "first_limit_up_time": "10:57:09",
+        "last_limit_up_time": "10:57:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002088",
+        "name": "鲁阳节能",
+        "reason": "装修建材",
+        "concepts": [],
+        "amount": 127306984.0,
+        "turnover_rate": 3.37,
+        "first_limit_up_time": "11:17:39",
+        "last_limit_up_time": "11:17:39",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301132",
+        "name": "满坤科技",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 835104928.0,
+        "turnover_rate": 17.3,
+        "first_limit_up_time": "11:26:42",
+        "last_limit_up_time": "11:26:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002652",
+        "name": "扬子新材",
+        "reason": "装修建材",
+        "concepts": [],
+        "amount": 94010169.0,
+        "turnover_rate": 5.03,
+        "first_limit_up_time": "11:28:42",
+        "last_limit_up_time": "11:28:42",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301520",
+        "name": "万邦医药",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 822522624.0,
+        "turnover_rate": 43.54,
+        "first_limit_up_time": "13:00:00",
+        "last_limit_up_time": "13:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600510",
+        "name": "黑牡丹",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 207917673.0,
+        "turnover_rate": 3.25,
+        "first_limit_up_time": "13:00:01",
+        "last_limit_up_time": "14:42:46",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600721",
+        "name": "百花医药",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 911678864.0,
+        "turnover_rate": 25.31,
+        "first_limit_up_time": "13:00:01",
+        "last_limit_up_time": "13:00:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600113",
+        "name": "浙江东日",
+        "reason": "一般零售",
+        "concepts": [],
+        "amount": 217709460.0,
+        "turnover_rate": 2.28,
+        "first_limit_up_time": "13:02:32",
+        "last_limit_up_time": "13:02:32",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603200",
+        "name": "上海洗霸",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 1150479968.0,
+        "turnover_rate": 13.22,
+        "first_limit_up_time": "13:07:18",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000568",
+        "name": "泸州老窖",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 3116403392.0,
+        "turnover_rate": 2.81,
+        "first_limit_up_time": "13:27:36",
+        "last_limit_up_time": "13:27:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600258",
+        "name": "首旅酒店",
+        "reason": "酒店餐饮",
+        "concepts": [],
+        "amount": 882301168.0,
+        "turnover_rate": 6.52,
+        "first_limit_up_time": "13:30:21",
+        "last_limit_up_time": "14:55:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605338",
+        "name": "巴比食品",
+        "reason": "食品加工",
+        "concepts": [],
+        "amount": 309524512.0,
+        "turnover_rate": 6.46,
+        "first_limit_up_time": "13:32:03",
+        "last_limit_up_time": "14:45:06",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002946",
+        "name": "新乳业",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 219927971.0,
+        "turnover_rate": 1.69,
+        "first_limit_up_time": "13:39:12",
+        "last_limit_up_time": "13:39:12",
+        "consecutive_boards": 1
+      }
     ]
   },
   "limit_up_concepts_by_date": {
-    "2026-10-27": [],
     "2026-10-28": [],
-    "2026-10-29": []
+    "2026-10-29": [],
+    "2026-10-30": []
   }
 }
