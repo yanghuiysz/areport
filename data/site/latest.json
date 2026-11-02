@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02 12:18:09",
+  "generated_at": "2026-11-02 17:00:29",
   "latest_trade_date": "2026-11-02",
   "summary": [
     {
@@ -140,9 +140,9 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002172",
-        "name": "澳洋健康",
-        "reason": "医疗服务",
+        "code": "603131",
+        "name": "上海沪工",
+        "reason": "通用设备",
         "concepts": [],
         "amount": 757232208.0,
         "turnover_rate": 18.6,
@@ -239,6 +239,17 @@
         "consecutive_boards": 1
       },
       {
+        "code": "001225",
+        "name": "和泰机电",
+        "reason": "专用设备",
+        "concepts": [],
+        "amount": 232527923.0,
+        "turnover_rate": 7.99,
+        "first_limit_up_time": "09:45:09",
+        "last_limit_up_time": "11:14:48",
+        "consecutive_boards": 1
+      },
+      {
         "code": "603103",
         "name": "横店影视",
         "reason": "影视院线",
@@ -250,36 +261,14 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603131",
-        "name": "上海沪工",
-        "reason": "通用设备",
+        "code": "603103",
+        "name": "横店影视",
+        "reason": "影视院线",
         "concepts": [],
-        "amount": 574523840.0,
-        "turnover_rate": 11.12,
-        "first_limit_up_time": "09:50:29",
-        "last_limit_up_time": "09:50:29",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002565",
-        "name": "顺灏股份",
-        "reason": "包装印刷",
-        "concepts": [],
-        "amount": 969166832.0,
-        "turnover_rate": 11.48,
-        "first_limit_up_time": "09:51:06",
-        "last_limit_up_time": "09:56:30",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002865",
-        "name": "钧达股份",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 1099486064.0,
-        "turnover_rate": 12.87,
-        "first_limit_up_time": "09:58:30",
-        "last_limit_up_time": "10:02:48",
+        "amount": 217694009.0,
+        "turnover_rate": 2.01,
+        "first_limit_up_time": "09:46:18",
+        "last_limit_up_time": "09:47:12",
         "consecutive_boards": 1
       },
       {
@@ -360,6 +349,28 @@
         "consecutive_boards": 1
       },
       {
+        "code": "600118",
+        "name": "中国卫星",
+        "reason": "航天装备",
+        "concepts": [],
+        "amount": 151196290.0,
+        "turnover_rate": 6.18,
+        "first_limit_up_time": "10:11:27",
+        "last_limit_up_time": "10:11:27",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "605179",
+        "name": "一鸣食品",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 889176464.0,
+        "turnover_rate": 9.72,
+        "first_limit_up_time": "10:12:37",
+        "last_limit_up_time": "14:53:55",
+        "consecutive_boards": 1
+      },
+      {
         "code": "605179",
         "name": "一鸣食品",
         "reason": "饮料乳品",
@@ -423,17 +434,6 @@
         "turnover_rate": 12.07,
         "first_limit_up_time": "10:54:12",
         "last_limit_up_time": "13:02:06",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002531",
-        "name": "天顺风能",
-        "reason": "风电设备",
-        "concepts": [],
-        "amount": 962133680.0,
-        "turnover_rate": 7.86,
-        "first_limit_up_time": "10:59:24",
-        "last_limit_up_time": "13:26:42",
         "consecutive_boards": 1
       },
       {
