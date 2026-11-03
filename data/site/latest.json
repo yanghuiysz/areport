@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03 08:33:52",
+  "generated_at": "2026-11-03 12:56:45",
   "latest_trade_date": "2026-11-03",
   "summary": [
     {
@@ -41,17 +41,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603131",
-        "name": "上海沪工",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 189684437.0,
-        "turnover_rate": 3.21,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 3
-      },
-      {
         "code": "600261",
         "name": "阳光照明",
         "reason": "照明设备",
@@ -63,12 +52,23 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000897",
-        "name": "津滨发展",
-        "reason": "房地产开",
+        "code": "603131",
+        "name": "上海沪工",
+        "reason": "通用设备",
         "concepts": [],
-        "amount": 79671038.0,
-        "turnover_rate": 2.68,
+        "amount": 189684437.0,
+        "turnover_rate": 3.21,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "002365",
+        "name": "永安药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 121532523.0,
+        "turnover_rate": 4.05,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
@@ -85,12 +85,12 @@
         "consecutive_boards": 5
       },
       {
-        "code": "002365",
-        "name": "永安药业",
-        "reason": "化学制药",
+        "code": "000897",
+        "name": "津滨发展",
+        "reason": "房地产开",
         "concepts": [],
-        "amount": 121532523.0,
-        "turnover_rate": 4.05,
+        "amount": 79671038.0,
+        "turnover_rate": 2.68,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
@@ -118,17 +118,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000716",
-        "name": "黑芝麻",
-        "reason": "休闲食品",
-        "concepts": [],
-        "amount": 160219355.0,
-        "turnover_rate": 4.15,
-        "first_limit_up_time": "09:30:06",
-        "last_limit_up_time": "09:30:06",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002275",
         "name": "桂林三金",
         "reason": "中药Ⅱ",
@@ -138,6 +127,17 @@
         "first_limit_up_time": "09:30:06",
         "last_limit_up_time": "09:30:06",
         "consecutive_boards": 2
+      },
+      {
+        "code": "000716",
+        "name": "黑芝麻",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 160219355.0,
+        "turnover_rate": 4.15,
+        "first_limit_up_time": "09:30:06",
+        "last_limit_up_time": "09:30:06",
+        "consecutive_boards": 1
       },
       {
         "code": "001287",
@@ -459,17 +459,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600510",
-        "name": "黑牡丹",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 207917673.0,
-        "turnover_rate": 3.25,
-        "first_limit_up_time": "13:00:01",
-        "last_limit_up_time": "14:42:46",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600721",
         "name": "百花医药",
         "reason": "医疗服务",
@@ -478,6 +467,17 @@
         "turnover_rate": 25.31,
         "first_limit_up_time": "13:00:01",
         "last_limit_up_time": "13:00:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600510",
+        "name": "黑牡丹",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 207917673.0,
+        "turnover_rate": 3.25,
+        "first_limit_up_time": "13:00:01",
+        "last_limit_up_time": "14:42:46",
         "consecutive_boards": 1
       },
       {
@@ -549,17 +549,6 @@
     ],
     "2026-11-02": [
       {
-        "code": "002275",
-        "name": "桂林三金",
-        "reason": "中药Ⅱ",
-        "concepts": [],
-        "amount": 178130639.0,
-        "turnover_rate": 1.91,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002086",
         "name": "东方海洋",
         "reason": "农产品加",
@@ -568,6 +557,17 @@
         "turnover_rate": 11.02,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:30:24",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "002275",
+        "name": "桂林三金",
+        "reason": "中药Ⅱ",
+        "concepts": [],
+        "amount": 178130639.0,
+        "turnover_rate": 1.91,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
       },
       {
@@ -593,23 +593,23 @@
         "consecutive_boards": 1
       },
       {
-        "code": "001230",
-        "name": "劲旅环境",
-        "reason": "环境治理",
-        "concepts": [],
-        "amount": 49837296.0,
-        "turnover_rate": 2.39,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002827",
         "name": "高争民爆",
         "reason": "化学制品",
         "concepts": [],
         "amount": 58928716.0,
         "turnover_rate": 0.37,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001230",
+        "name": "劲旅环境",
+        "reason": "环境治理",
+        "concepts": [],
+        "amount": 49837296.0,
+        "turnover_rate": 2.39,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
