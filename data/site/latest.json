@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04 12:03:05",
+  "generated_at": "2026-11-04 15:21:56",
   "latest_trade_date": "2026-11-04",
   "summary": [
     {
@@ -30,6 +30,28 @@
   "limit_up_details_by_date": {
     "2026-11-02": [
       {
+        "code": "600259",
+        "name": "中稀有色",
+        "reason": "小金属",
+        "concepts": [],
+        "amount": 859761904.0,
+        "turnover_rate": 4.43,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:12:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000525",
+        "name": "红太阳",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 75730506.0,
+        "turnover_rate": 1.38,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "002275",
         "name": "桂林三金",
         "reason": "中药Ⅱ",
@@ -50,28 +72,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:30:24",
         "consecutive_boards": 3
-      },
-      {
-        "code": "000525",
-        "name": "红太阳",
-        "reason": "农化制品",
-        "concepts": [],
-        "amount": 75730506.0,
-        "turnover_rate": 1.38,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "600259",
-        "name": "中稀有色",
-        "reason": "小金属",
-        "concepts": [],
-        "amount": 859761904.0,
-        "turnover_rate": 4.43,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:12:06",
-        "consecutive_boards": 1
       },
       {
         "code": "001230",
@@ -107,17 +107,6 @@
         "consecutive_boards": 3
       },
       {
-        "code": "000995",
-        "name": "皇台酒业",
-        "reason": "白酒Ⅱ",
-        "concepts": [],
-        "amount": 198402931.0,
-        "turnover_rate": 7.18,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "000037",
         "name": "深南电A",
         "reason": "电力",
@@ -127,6 +116,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "000995",
+        "name": "皇台酒业",
+        "reason": "白酒Ⅱ",
+        "concepts": [],
+        "amount": 198402931.0,
+        "turnover_rate": 7.18,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
       },
       {
         "code": "600960",
@@ -173,17 +173,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002172",
-        "name": "澳洋健康",
-        "reason": "医疗服务",
-        "concepts": [],
-        "amount": 1223546960.0,
-        "turnover_rate": 25.05,
-        "first_limit_up_time": "09:30:24",
-        "last_limit_up_time": "10:13:39",
-        "consecutive_boards": 4
-      },
-      {
         "code": "605303",
         "name": "园林股份",
         "reason": "基础建设",
@@ -193,6 +182,17 @@
         "first_limit_up_time": "09:30:24",
         "last_limit_up_time": "09:30:24",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002172",
+        "name": "澳洋健康",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 1223546960.0,
+        "turnover_rate": 25.05,
+        "first_limit_up_time": "09:30:24",
+        "last_limit_up_time": "10:13:39",
+        "consecutive_boards": 4
       },
       {
         "code": "600715",
