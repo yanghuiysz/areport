@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 15:23:55",
+  "generated_at": "2026-11-05 18:12:17",
   "latest_trade_date": "2026-11-05",
   "summary": [
     {
@@ -30,6 +30,17 @@
   "limit_up_details_by_date": {
     "2026-11-03": [
       {
+        "code": "002086",
+        "name": "东方海洋",
+        "reason": "农产品加",
+        "concepts": [],
+        "amount": 787760896.0,
+        "turnover_rate": 14.58,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:05:30",
+        "consecutive_boards": 4
+      },
+      {
         "code": "000995",
         "name": "皇台酒业",
         "reason": "白酒Ⅱ",
@@ -50,17 +61,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
-      },
-      {
-        "code": "002086",
-        "name": "东方海洋",
-        "reason": "农产品加",
-        "concepts": [],
-        "amount": 787760896.0,
-        "turnover_rate": 14.58,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:05:30",
-        "consecutive_boards": 4
       },
       {
         "code": "600892",
@@ -85,6 +85,17 @@
         "consecutive_boards": 2
       },
       {
+        "code": "605388",
+        "name": "均瑶健康",
+        "reason": "饮料乳品",
+        "concepts": [],
+        "amount": 30527903.0,
+        "turnover_rate": 0.77,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 1
+      },
+      {
         "code": "603289",
         "name": "泰瑞机器",
         "reason": "专用设备",
@@ -96,15 +107,15 @@
         "consecutive_boards": 1
       },
       {
-        "code": "605388",
-        "name": "均瑶健康",
-        "reason": "饮料乳品",
+        "code": "600261",
+        "name": "阳光照明",
+        "reason": "照明设备",
         "concepts": [],
-        "amount": 30527903.0,
-        "turnover_rate": 0.77,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 1
+        "amount": 1684795888.0,
+        "turnover_rate": 25.52,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:35:47",
+        "consecutive_boards": 4
       },
       {
         "code": "603258",
@@ -127,17 +138,6 @@
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 2
-      },
-      {
-        "code": "600261",
-        "name": "阳光照明",
-        "reason": "照明设备",
-        "concepts": [],
-        "amount": 1684795888.0,
-        "turnover_rate": 25.52,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:35:47",
-        "consecutive_boards": 4
       },
       {
         "code": "002692",
@@ -1209,17 +1209,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600206",
-        "name": "有研新材",
-        "reason": "半导体",
-        "concepts": [],
-        "amount": 2585950368.0,
-        "turnover_rate": 9.15,
-        "first_limit_up_time": "13:49:49",
-        "last_limit_up_time": "13:49:49",
-        "consecutive_boards": 1
-      },
-      {
         "code": "688517",
         "name": "金冠电气",
         "reason": "电网设备",
@@ -1228,6 +1217,17 @@
         "turnover_rate": 12.58,
         "first_limit_up_time": "13:49:49",
         "last_limit_up_time": "14:53:13",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600206",
+        "name": "有研新材",
+        "reason": "半导体",
+        "concepts": [],
+        "amount": 2585950368.0,
+        "turnover_rate": 9.15,
+        "first_limit_up_time": "13:49:49",
+        "last_limit_up_time": "13:49:49",
         "consecutive_boards": 1
       },
       {
@@ -1385,12 +1385,12 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603893",
-        "name": "瑞芯微",
-        "reason": "半导体",
+        "code": "603048",
+        "name": "浙江黎明",
+        "reason": "汽车零部",
         "concepts": [],
-        "amount": 2977127472.0,
-        "turnover_rate": 3.7,
+        "amount": 106547169.0,
+        "turnover_rate": 3.46,
         "first_limit_up_time": "14:01:22",
         "last_limit_up_time": "14:01:22",
         "consecutive_boards": 1
@@ -1407,12 +1407,12 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603048",
-        "name": "浙江黎明",
-        "reason": "汽车零部",
+        "code": "603893",
+        "name": "瑞芯微",
+        "reason": "半导体",
         "concepts": [],
-        "amount": 106547169.0,
-        "turnover_rate": 3.46,
+        "amount": 2977127472.0,
+        "turnover_rate": 3.7,
         "first_limit_up_time": "14:01:22",
         "last_limit_up_time": "14:01:22",
         "consecutive_boards": 1
