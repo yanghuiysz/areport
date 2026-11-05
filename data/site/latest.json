@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 12:14:48",
+  "generated_at": "2026-11-05 15:23:55",
   "latest_trade_date": "2026-11-05",
   "summary": [
     {
@@ -560,17 +560,6 @@
     ],
     "2026-11-04": [
       {
-        "code": "000096",
-        "name": "广聚能源",
-        "reason": "炼化及贸",
-        "concepts": [],
-        "amount": 78665310.0,
-        "turnover_rate": 1.82,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002827",
         "name": "高争民爆",
         "reason": "化学制品",
@@ -591,6 +580,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "000096",
+        "name": "广聚能源",
+        "reason": "炼化及贸",
+        "concepts": [],
+        "amount": 78665310.0,
+        "turnover_rate": 1.82,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "600892",
