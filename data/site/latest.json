@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 09:04:05",
+  "generated_at": "2026-11-06 12:02:54",
   "latest_trade_date": "2026-11-06",
   "summary": [
     {
@@ -16,7 +16,7 @@
       "down_count": null,
       "flat_count": null,
       "limit_up_count": 84,
-      "limit_down_count": null
+      "limit_down_count": 0
     },
     {
       "date": "2026-11-04",
@@ -24,11 +24,22 @@
       "down_count": null,
       "flat_count": null,
       "limit_up_count": 118,
-      "limit_down_count": null
+      "limit_down_count": 10
     }
   ],
   "limit_up_details_by_date": {
     "2026-11-04": [
+      {
+        "code": "000096",
+        "name": "广聚能源",
+        "reason": "炼化及贸",
+        "concepts": [],
+        "amount": 78665310.0,
+        "turnover_rate": 1.82,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
       {
         "code": "002827",
         "name": "高争民爆",
@@ -50,17 +61,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
-      },
-      {
-        "code": "000096",
-        "name": "广聚能源",
-        "reason": "炼化及贸",
-        "concepts": [],
-        "amount": 78665310.0,
-        "turnover_rate": 1.82,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
       },
       {
         "code": "600892",
@@ -866,17 +866,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603048",
-        "name": "浙江黎明",
-        "reason": "汽车零部",
-        "concepts": [],
-        "amount": 106547169.0,
-        "turnover_rate": 3.46,
-        "first_limit_up_time": "14:01:22",
-        "last_limit_up_time": "14:01:22",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600699",
         "name": "均胜电子",
         "reason": "汽车零部",
@@ -885,6 +874,17 @@
         "turnover_rate": 5.61,
         "first_limit_up_time": "14:01:22",
         "last_limit_up_time": "14:02:52",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603048",
+        "name": "浙江黎明",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 106547169.0,
+        "turnover_rate": 3.46,
+        "first_limit_up_time": "14:01:22",
+        "last_limit_up_time": "14:01:22",
         "consecutive_boards": 1
       },
       {
@@ -1330,17 +1330,6 @@
     ],
     "2026-11-05": [
       {
-        "code": "000017",
-        "name": "深中华A",
-        "reason": "饰品",
-        "concepts": [],
-        "amount": 77540112.0,
-        "turnover_rate": 2.51,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002578",
         "name": "闽发铝业",
         "reason": "工业金属",
@@ -1350,6 +1339,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 4
+      },
+      {
+        "code": "000017",
+        "name": "深中华A",
+        "reason": "饰品",
+        "concepts": [],
+        "amount": 77540112.0,
+        "turnover_rate": 2.51,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "002081",
@@ -1363,17 +1363,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603381",
-        "name": "永臻股份",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 64175014.0,
-        "turnover_rate": 2.4,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 3
-      },
-      {
         "code": "601599",
         "name": "浙文影业",
         "reason": "纺织制造",
@@ -1385,15 +1374,15 @@
         "consecutive_boards": 4
       },
       {
-        "code": "603598",
-        "name": "引力传媒",
-        "reason": "广告营销",
+        "code": "603381",
+        "name": "永臻股份",
+        "reason": "光伏设备",
         "concepts": [],
-        "amount": 171313078.0,
-        "turnover_rate": 2.93,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
+        "amount": 64175014.0,
+        "turnover_rate": 2.4,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
       },
       {
         "code": "000603",
@@ -1413,6 +1402,17 @@
         "concepts": [],
         "amount": 315824336.0,
         "turnover_rate": 23.54,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603598",
+        "name": "引力传媒",
+        "reason": "广告营销",
+        "concepts": [],
+        "amount": 171313078.0,
+        "turnover_rate": 2.93,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
