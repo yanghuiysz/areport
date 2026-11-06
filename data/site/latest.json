@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06 14:58:22",
+  "generated_at": "2026-11-06 17:38:54",
   "latest_trade_date": "2026-11-06",
   "summary": [
     {
@@ -1330,17 +1330,6 @@
     ],
     "2026-11-05": [
       {
-        "code": "002578",
-        "name": "闽发铝业",
-        "reason": "工业金属",
-        "concepts": [],
-        "amount": 87876971.0,
-        "turnover_rate": 2.24,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002081",
         "name": "金 螳 螂",
         "reason": "装修装饰",
@@ -1350,6 +1339,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002578",
+        "name": "闽发铝业",
+        "reason": "工业金属",
+        "concepts": [],
+        "amount": 87876971.0,
+        "turnover_rate": 2.24,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
       },
       {
         "code": "000017",
