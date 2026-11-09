@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 08:40:15",
+  "generated_at": "2026-11-09 12:47:53",
   "latest_trade_date": "2026-11-09",
   "summary": [
     {
@@ -41,17 +41,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002081",
-        "name": "金 螳 螂",
-        "reason": "装修装饰",
-        "concepts": [],
-        "amount": 177030183.0,
-        "turnover_rate": 1.41,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002578",
         "name": "闽发铝业",
         "reason": "工业金属",
@@ -63,15 +52,15 @@
         "consecutive_boards": 4
       },
       {
-        "code": "601599",
-        "name": "浙文影业",
-        "reason": "纺织制造",
+        "code": "002081",
+        "name": "金 螳 螂",
+        "reason": "装修装饰",
         "concepts": [],
-        "amount": 146939118.0,
-        "turnover_rate": 2.74,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 4
+        "amount": 177030183.0,
+        "turnover_rate": 1.41,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "603381",
@@ -85,12 +74,23 @@
         "consecutive_boards": 3
       },
       {
-        "code": "301697",
-        "name": "贝特利",
-        "reason": "光伏设备",
+        "code": "601599",
+        "name": "浙文影业",
+        "reason": "纺织制造",
         "concepts": [],
-        "amount": 315824336.0,
-        "turnover_rate": 23.54,
+        "amount": 146939118.0,
+        "turnover_rate": 2.74,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "603598",
+        "name": "引力传媒",
+        "reason": "广告营销",
+        "concepts": [],
+        "amount": 171313078.0,
+        "turnover_rate": 2.93,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
@@ -107,12 +107,12 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603598",
-        "name": "引力传媒",
-        "reason": "广告营销",
+        "code": "301697",
+        "name": "贝特利",
+        "reason": "光伏设备",
         "concepts": [],
-        "amount": 171313078.0,
-        "turnover_rate": 2.93,
+        "amount": 315824336.0,
+        "turnover_rate": 23.54,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
