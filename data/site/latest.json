@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 12:47:53",
+  "generated_at": "2026-11-09 17:25:27",
   "latest_trade_date": "2026-11-09",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-11-05": [
       {
-        "code": "000017",
-        "name": "深中华A",
-        "reason": "饰品",
-        "concepts": [],
-        "amount": 77540112.0,
-        "turnover_rate": 2.51,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002578",
         "name": "闽发铝业",
         "reason": "工业金属",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 4
+      },
+      {
+        "code": "000017",
+        "name": "深中华A",
+        "reason": "饰品",
+        "concepts": [],
+        "amount": 77540112.0,
+        "turnover_rate": 2.51,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "002081",
@@ -63,17 +63,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "603381",
-        "name": "永臻股份",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 64175014.0,
-        "turnover_rate": 2.4,
-        "first_limit_up_time": "09:25:02",
-        "last_limit_up_time": "09:25:02",
-        "consecutive_boards": 3
-      },
-      {
         "code": "601599",
         "name": "浙文影业",
         "reason": "纺织制造",
@@ -83,6 +72,17 @@
         "first_limit_up_time": "09:25:02",
         "last_limit_up_time": "09:25:02",
         "consecutive_boards": 4
+      },
+      {
+        "code": "603381",
+        "name": "永臻股份",
+        "reason": "光伏设备",
+        "concepts": [],
+        "amount": 64175014.0,
+        "turnover_rate": 2.4,
+        "first_limit_up_time": "09:25:02",
+        "last_limit_up_time": "09:25:02",
+        "consecutive_boards": 3
       },
       {
         "code": "603598",
