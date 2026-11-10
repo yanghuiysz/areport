@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 08:50:36",
+  "generated_at": "2026-11-10 12:33:00",
   "latest_trade_date": "2026-11-10",
   "summary": [
     {
@@ -41,15 +41,15 @@
         "consecutive_boards": 5
       },
       {
-        "code": "605339",
-        "name": "南侨食品",
-        "reason": "休闲食品",
+        "code": "601599",
+        "name": "浙文影业",
+        "reason": "纺织制造",
         "concepts": [],
-        "amount": 40375462.0,
-        "turnover_rate": 0.6,
+        "amount": 1295102704.0,
+        "turnover_rate": 21.97,
         "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
-        "consecutive_boards": 2
+        "last_limit_up_time": "10:07:58",
+        "consecutive_boards": 5
       },
       {
         "code": "603381",
@@ -63,15 +63,15 @@
         "consecutive_boards": 4
       },
       {
-        "code": "601599",
-        "name": "浙文影业",
-        "reason": "纺织制造",
+        "code": "605339",
+        "name": "南侨食品",
+        "reason": "休闲食品",
         "concepts": [],
-        "amount": 1295102704.0,
-        "turnover_rate": 21.97,
+        "amount": 40375462.0,
+        "turnover_rate": 0.6,
         "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "10:07:58",
-        "consecutive_boards": 5
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
       },
       {
         "code": "600229",
@@ -384,15 +384,15 @@
     ],
     "2026-11-09": [
       {
-        "code": "002578",
-        "name": "闽发铝业",
-        "reason": "工业金属",
+        "code": "002037",
+        "name": "保利联合",
+        "reason": "化学制品",
         "concepts": [],
-        "amount": 707302624.0,
-        "turnover_rate": 14.94,
+        "amount": 25227639.0,
+        "turnover_rate": 0.72,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 6
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
       },
       {
         "code": "002310",
@@ -406,15 +406,15 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002037",
-        "name": "保利联合",
-        "reason": "化学制品",
+        "code": "002578",
+        "name": "闽发铝业",
+        "reason": "工业金属",
         "concepts": [],
-        "amount": 25227639.0,
-        "turnover_rate": 0.72,
+        "amount": 707302624.0,
+        "turnover_rate": 14.94,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 6
       },
       {
         "code": "603366",
@@ -428,17 +428,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002889",
-        "name": "东方嘉盛",
-        "reason": "物流",
-        "concepts": [],
-        "amount": 156102948.0,
-        "turnover_rate": 3.79,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002149",
         "name": "西部材料",
         "reason": "小金属",
@@ -448,6 +437,17 @@
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002889",
+        "name": "东方嘉盛",
+        "reason": "物流",
+        "concepts": [],
+        "amount": 156102948.0,
+        "turnover_rate": 3.79,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
       },
       {
         "code": "601188",
