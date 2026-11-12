@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 15:57:07",
+  "generated_at": "2026-11-12 18:31:02",
   "latest_trade_date": "2026-11-12",
   "summary": [
     {
@@ -1154,25 +1154,14 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603536",
-        "name": "惠发食品",
-        "reason": "食品加工",
+        "code": "002313",
+        "name": "日海智能",
+        "reason": "通信",
         "concepts": [],
         "amount": 111829190.0,
         "turnover_rate": 3.93,
         "first_limit_up_time": "09:30:01",
         "last_limit_up_time": "09:30:01",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002313",
-        "name": "日海智能",
-        "reason": "通信设备",
-        "concepts": [],
-        "amount": 321007072.0,
-        "turnover_rate": 8.49,
-        "first_limit_up_time": "09:30:09",
-        "last_limit_up_time": "09:31:45",
         "consecutive_boards": 2
       },
       {
@@ -1893,6 +1882,17 @@
       {
         "code": "002916",
         "name": "深南电路",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 2826443840.0,
+        "turnover_rate": 1.94,
+        "first_limit_up_time": "13:55:51",
+        "last_limit_up_time": "13:55:51",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603228",
+        "name": "景旺电子",
         "reason": "元件",
         "concepts": [],
         "amount": 2826443840.0,
