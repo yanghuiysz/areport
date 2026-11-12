@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12 12:35:58",
+  "generated_at": "2026-11-12 15:57:07",
   "latest_trade_date": "2026-11-12",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-11-10": [
       {
-        "code": "002623",
-        "name": "亚玛顿",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 28292019.0,
-        "turnover_rate": 0.69,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002310",
         "name": "东方新能",
         "reason": "电力",
@@ -50,6 +39,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
+      },
+      {
+        "code": "002623",
+        "name": "亚玛顿",
+        "reason": "光伏设备",
+        "concepts": [],
+        "amount": 28292019.0,
+        "turnover_rate": 0.69,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
       },
       {
         "code": "603366",
@@ -74,23 +74,23 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002347",
-        "name": "泰尔股份",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 321997824.0,
-        "turnover_rate": 8.49,
-        "first_limit_up_time": "09:30:12",
-        "last_limit_up_time": "09:30:12",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002708",
         "name": "光洋股份",
         "reason": "汽车零部",
         "concepts": [],
         "amount": 383005696.0,
         "turnover_rate": 3.14,
+        "first_limit_up_time": "09:30:12",
+        "last_limit_up_time": "09:30:12",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002347",
+        "name": "泰尔股份",
+        "reason": "通用设备",
+        "concepts": [],
+        "amount": 321997824.0,
+        "turnover_rate": 8.49,
         "first_limit_up_time": "09:30:12",
         "last_limit_up_time": "09:30:12",
         "consecutive_boards": 2
@@ -1055,12 +1055,12 @@
     ],
     "2026-11-11": [
       {
-        "code": "002861",
-        "name": "瀛通通讯",
-        "reason": "消费电子",
+        "code": "002209",
+        "name": "达 意 隆",
+        "reason": "专用设备",
         "concepts": [],
-        "amount": 38122704.0,
-        "turnover_rate": 1.87,
+        "amount": 36581273.0,
+        "turnover_rate": 1.66,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -1077,12 +1077,23 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002209",
-        "name": "达 意 隆",
-        "reason": "专用设备",
+        "code": "600715",
+        "name": "文投控股",
+        "reason": "游戏Ⅱ",
         "concepts": [],
-        "amount": 36581273.0,
-        "turnover_rate": 1.66,
+        "amount": 2177443328.0,
+        "turnover_rate": 24.43,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "10:12:48",
+        "consecutive_boards": 3
+      },
+      {
+        "code": "002861",
+        "name": "瀛通通讯",
+        "reason": "消费电子",
+        "concepts": [],
+        "amount": 38122704.0,
+        "turnover_rate": 1.87,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -1108,17 +1119,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:45:33",
         "consecutive_boards": 2
-      },
-      {
-        "code": "600715",
-        "name": "文投控股",
-        "reason": "游戏Ⅱ",
-        "concepts": [],
-        "amount": 2177443328.0,
-        "turnover_rate": 24.43,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "10:12:48",
-        "consecutive_boards": 3
       },
       {
         "code": "603366",
@@ -1484,17 +1484,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002362",
-        "name": "汉王科技",
-        "reason": "软件开发",
-        "concepts": [],
-        "amount": 484569744.0,
-        "turnover_rate": 12.81,
-        "first_limit_up_time": "10:07:54",
-        "last_limit_up_time": "10:18:12",
-        "consecutive_boards": 1
-      },
-      {
         "code": "301636",
         "name": "泽润新能",
         "reason": "光伏设备",
@@ -1503,6 +1492,17 @@
         "turnover_rate": 22.21,
         "first_limit_up_time": "10:07:54",
         "last_limit_up_time": "10:19:36",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002362",
+        "name": "汉王科技",
+        "reason": "软件开发",
+        "concepts": [],
+        "amount": 484569744.0,
+        "turnover_rate": 12.81,
+        "first_limit_up_time": "10:07:54",
+        "last_limit_up_time": "10:18:12",
         "consecutive_boards": 1
       },
       {
