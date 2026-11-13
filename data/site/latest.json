@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13 12:07:28",
+  "generated_at": "2026-11-13 15:19:28",
   "latest_trade_date": "2026-11-13",
   "summary": [
     {
@@ -30,6 +30,39 @@
   "limit_up_details_by_date": {
     "2026-11-11": [
       {
+        "code": "002160",
+        "name": "常铝股份",
+        "reason": "工业金属",
+        "concepts": [],
+        "amount": 540990000.0,
+        "turnover_rate": 11.95,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:45:33",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002076",
+        "name": "星光股份",
+        "reason": "照明设备",
+        "concepts": [],
+        "amount": 249808760.0,
+        "turnover_rate": 10.79,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:32:57",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002861",
+        "name": "瀛通通讯",
+        "reason": "消费电子",
+        "concepts": [],
+        "amount": 38122704.0,
+        "turnover_rate": 1.87,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
         "code": "600715",
         "name": "文投控股",
         "reason": "游戏Ⅱ",
@@ -52,28 +85,6 @@
         "consecutive_boards": 3
       },
       {
-        "code": "002160",
-        "name": "常铝股份",
-        "reason": "工业金属",
-        "concepts": [],
-        "amount": 540990000.0,
-        "turnover_rate": 11.95,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:45:33",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002861",
-        "name": "瀛通通讯",
-        "reason": "消费电子",
-        "concepts": [],
-        "amount": 38122704.0,
-        "turnover_rate": 1.87,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002209",
         "name": "达 意 隆",
         "reason": "专用设备",
@@ -83,17 +94,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
-      },
-      {
-        "code": "002076",
-        "name": "星光股份",
-        "reason": "照明设备",
-        "concepts": [],
-        "amount": 249808760.0,
-        "turnover_rate": 10.79,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:32:57",
-        "consecutive_boards": 1
       },
       {
         "code": "600327",
