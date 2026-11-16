@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 08:35:19",
+  "generated_at": "2026-11-16 12:40:48",
   "latest_trade_date": "2026-11-16",
   "summary": [
     {
@@ -30,15 +30,26 @@
   "limit_up_details_by_date": {
     "2026-11-12": [
       {
-        "code": "002086",
-        "name": "东方海洋",
-        "reason": "农产品加",
+        "code": "002623",
+        "name": "亚玛顿",
+        "reason": "光伏设备",
         "concepts": [],
-        "amount": 2851430016.0,
-        "turnover_rate": 35.14,
+        "amount": 38862070.0,
+        "turnover_rate": 0.79,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 1
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "002148",
+        "name": "北纬科技",
+        "reason": "通信服务",
+        "concepts": [],
+        "amount": 954756768.0,
+        "turnover_rate": 30.01,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:39:00",
+        "consecutive_boards": 2
       },
       {
         "code": "603725",
@@ -63,26 +74,15 @@
         "consecutive_boards": 1
       },
       {
-        "code": "002148",
-        "name": "北纬科技",
-        "reason": "通信服务",
+        "code": "002086",
+        "name": "东方海洋",
+        "reason": "农产品加",
         "concepts": [],
-        "amount": 954756768.0,
-        "turnover_rate": 30.01,
+        "amount": 2851430016.0,
+        "turnover_rate": 35.14,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:39:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002623",
-        "name": "亚玛顿",
-        "reason": "光伏设备",
-        "concepts": [],
-        "amount": 38862070.0,
-        "turnover_rate": 0.79,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
       },
       {
         "code": "603396",
@@ -439,6 +439,17 @@
     ],
     "2026-11-13": [
       {
+        "code": "002685",
+        "name": "华东重机",
+        "reason": "工程机械",
+        "concepts": [],
+        "amount": 618358384.0,
+        "turnover_rate": 11.09,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "13:24:57",
+        "consecutive_boards": 1
+      },
+      {
         "code": "001358",
         "name": "兴欣新材",
         "reason": "化学制品",
@@ -459,17 +470,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:42:06",
         "consecutive_boards": 2
-      },
-      {
-        "code": "002685",
-        "name": "华东重机",
-        "reason": "工程机械",
-        "concepts": [],
-        "amount": 618358384.0,
-        "turnover_rate": 11.09,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "13:24:57",
-        "consecutive_boards": 1
       },
       {
         "code": "600467",
