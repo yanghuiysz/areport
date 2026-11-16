@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 16:57:59",
+  "generated_at": "2026-11-16 20:37:52",
   "latest_trade_date": "2026-11-16",
   "summary": [
     {
@@ -30,15 +30,15 @@
   "limit_up_details_by_date": {
     "2026-11-12": [
       {
-        "code": "002086",
-        "name": "东方海洋",
-        "reason": "农产品加",
+        "code": "002623",
+        "name": "亚玛顿",
+        "reason": "光伏设备",
         "concepts": [],
-        "amount": 2851430016.0,
-        "turnover_rate": 35.14,
+        "amount": 38862070.0,
+        "turnover_rate": 0.79,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "15:00:00",
-        "consecutive_boards": 1
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
       },
       {
         "code": "603725",
@@ -52,17 +52,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000573",
-        "name": "粤宏远Ａ",
-        "reason": "房地产开",
-        "concepts": [],
-        "amount": 27012921.0,
-        "turnover_rate": 0.98,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002148",
         "name": "北纬科技",
         "reason": "通信服务",
@@ -74,15 +63,26 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002623",
-        "name": "亚玛顿",
-        "reason": "光伏设备",
+        "code": "002086",
+        "name": "东方海洋",
+        "reason": "农产品加",
         "concepts": [],
-        "amount": 38862070.0,
-        "turnover_rate": 0.79,
+        "amount": 2851430016.0,
+        "turnover_rate": 35.14,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "000573",
+        "name": "粤宏远Ａ",
+        "reason": "房地产开",
+        "concepts": [],
+        "amount": 27012921.0,
+        "turnover_rate": 0.98,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
+        "consecutive_boards": 1
       },
       {
         "code": "603396",
