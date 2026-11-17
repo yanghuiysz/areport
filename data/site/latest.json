@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 16:51:31",
+  "generated_at": "2026-11-17 19:17:27",
   "latest_trade_date": "2026-11-17",
   "summary": [
     {
@@ -439,17 +439,6 @@
     ],
     "2026-11-16": [
       {
-        "code": "002148",
-        "name": "北纬科技",
-        "reason": "通信服务",
-        "concepts": [],
-        "amount": 1653207440.0,
-        "turnover_rate": 42.59,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:02:00",
-        "consecutive_boards": 4
-      },
-      {
         "code": "002905",
         "name": "金逸影视",
         "reason": "影视院线",
@@ -459,6 +448,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
+      },
+      {
+        "code": "002148",
+        "name": "北纬科技",
+        "reason": "通信服务",
+        "concepts": [],
+        "amount": 1653207440.0,
+        "turnover_rate": 42.59,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "14:02:00",
+        "consecutive_boards": 4
       },
       {
         "code": "000819",
@@ -747,17 +747,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "000595",
-        "name": "新能股份",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 921459472.0,
-        "turnover_rate": 13.84,
-        "first_limit_up_time": "11:14:51",
-        "last_limit_up_time": "14:47:12",
-        "consecutive_boards": 2
-      },
-      {
         "code": "000628",
         "name": "高新发展",
         "reason": "房屋建设",
@@ -767,6 +756,17 @@
         "first_limit_up_time": "11:14:51",
         "last_limit_up_time": "11:15:33",
         "consecutive_boards": 1
+      },
+      {
+        "code": "000595",
+        "name": "新能股份",
+        "reason": "电力",
+        "concepts": [],
+        "amount": 921459472.0,
+        "turnover_rate": 13.84,
+        "first_limit_up_time": "11:14:51",
+        "last_limit_up_time": "14:47:12",
+        "consecutive_boards": 2
       },
       {
         "code": "603118",
