@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 09:45:06",
+  "generated_at": "2026-11-17 13:13:37",
   "latest_trade_date": "2026-11-17",
   "summary": [
     {
@@ -30,17 +30,6 @@
   "limit_up_details_by_date": {
     "2026-11-13": [
       {
-        "code": "001358",
-        "name": "兴欣新材",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 41239093.0,
-        "turnover_rate": 3.04,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002187",
         "name": "广百股份",
         "reason": "一般零售",
@@ -49,6 +38,17 @@
         "turnover_rate": 16.08,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:42:06",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001358",
+        "name": "兴欣新材",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 41239093.0,
+        "turnover_rate": 3.04,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
       },
       {
@@ -439,15 +439,15 @@
     ],
     "2026-11-16": [
       {
-        "code": "002148",
-        "name": "北纬科技",
-        "reason": "通信服务",
+        "code": "000819",
+        "name": "岳阳兴长",
+        "reason": "炼化及贸",
         "concepts": [],
-        "amount": 1653207440.0,
-        "turnover_rate": 42.59,
+        "amount": 819767344.0,
+        "turnover_rate": 15.96,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:02:00",
-        "consecutive_boards": 4
+        "last_limit_up_time": "14:49:00",
+        "consecutive_boards": 2
       },
       {
         "code": "002905",
@@ -461,14 +461,25 @@
         "consecutive_boards": 2
       },
       {
-        "code": "000819",
-        "name": "岳阳兴长",
-        "reason": "炼化及贸",
+        "code": "002148",
+        "name": "北纬科技",
+        "reason": "通信服务",
         "concepts": [],
-        "amount": 819767344.0,
-        "turnover_rate": 15.96,
+        "amount": 1653207440.0,
+        "turnover_rate": 42.59,
         "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "14:49:00",
+        "last_limit_up_time": "14:02:00",
+        "consecutive_boards": 4
+      },
+      {
+        "code": "002548",
+        "name": "金新农",
+        "reason": "饲料",
+        "concepts": [],
+        "amount": 228236128.0,
+        "turnover_rate": 6.75,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
       },
       {
@@ -480,17 +491,6 @@
         "turnover_rate": 20.27,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:38:24",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002548",
-        "name": "金新农",
-        "reason": "饲料",
-        "concepts": [],
-        "amount": 228236128.0,
-        "turnover_rate": 6.75,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
       },
       {
