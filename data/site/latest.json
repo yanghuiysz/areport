@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 13:00:14",
+  "generated_at": "2026-11-18 16:23:36",
   "latest_trade_date": "2026-11-18",
   "summary": [
     {
@@ -384,17 +384,6 @@
     ],
     "2026-11-17": [
       {
-        "code": "002685",
-        "name": "华东重机",
-        "reason": "工程机械",
-        "concepts": [],
-        "amount": 227901016.0,
-        "turnover_rate": 3.38,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
         "code": "002451",
         "name": "摩恩电气",
         "reason": "电网设备",
@@ -404,6 +393,17 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "002685",
+        "name": "华东重机",
+        "reason": "工程机械",
+        "concepts": [],
+        "amount": 227901016.0,
+        "turnover_rate": 3.38,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "600881",
