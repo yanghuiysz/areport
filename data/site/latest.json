@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23 09:45:28",
+  "generated_at": "2026-11-23 14:29:50",
   "latest_trade_date": "2026-11-23",
   "summary": [
     {
@@ -30,6 +30,17 @@
   "limit_up_details_by_date": {
     "2026-11-19": [
       {
+        "code": "002420",
+        "name": "毅昌科技",
+        "reason": "综合Ⅱ",
+        "concepts": [],
+        "amount": 47635758.0,
+        "turnover_rate": 1.84,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
         "code": "002771",
         "name": "真视通",
         "reason": "IT服务Ⅱ",
@@ -50,17 +61,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 3
-      },
-      {
-        "code": "002420",
-        "name": "毅昌科技",
-        "reason": "综合Ⅱ",
-        "concepts": [],
-        "amount": 47635758.0,
-        "turnover_rate": 1.84,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
       },
       {
         "code": "002242",
