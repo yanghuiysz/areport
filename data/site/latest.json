@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 14:47:31",
+  "generated_at": "2026-11-24 18:51:02",
   "latest_trade_date": "2026-11-24",
   "summary": [
     {
@@ -351,17 +351,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002036",
-        "name": "联创电子",
-        "reason": "光学光电",
-        "concepts": [],
-        "amount": 64085996.0,
-        "turnover_rate": 1.25,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
-      },
-      {
         "code": "000593",
         "name": "德龙汇能",
         "reason": "燃气Ⅱ",
@@ -384,6 +373,17 @@
         "consecutive_boards": 5
       },
       {
+        "code": "002036",
+        "name": "联创电子",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 64085996.0,
+        "turnover_rate": 1.25,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 1
+      },
+      {
         "code": "002642",
         "name": "荣联科技",
         "reason": "IT服务Ⅱ",
@@ -395,17 +395,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002685",
-        "name": "华东重机",
-        "reason": "工程机械",
-        "concepts": [],
-        "amount": 1636997392.0,
-        "turnover_rate": 20.15,
-        "first_limit_up_time": "09:30:15",
-        "last_limit_up_time": "09:38:21",
-        "consecutive_boards": 1
-      },
-      {
         "code": "001229",
         "name": "魅视科技",
         "reason": "计算机设",
@@ -414,6 +403,17 @@
         "turnover_rate": 1.38,
         "first_limit_up_time": "09:30:15",
         "last_limit_up_time": "09:30:15",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002685",
+        "name": "华东重机",
+        "reason": "工程机械",
+        "concepts": [],
+        "amount": 1636997392.0,
+        "turnover_rate": 20.15,
+        "first_limit_up_time": "09:30:15",
+        "last_limit_up_time": "09:38:21",
         "consecutive_boards": 1
       },
       {
@@ -1044,6 +1044,17 @@
         "consecutive_boards": 1
       },
       {
+        "code": "002584",
+        "name": "西陇科学",
+        "reason": "电子化学",
+        "concepts": [],
+        "amount": 1026190768.0,
+        "turnover_rate": 26.62,
+        "first_limit_up_time": "11:30:00",
+        "last_limit_up_time": "13:35:57",
+        "consecutive_boards": 1
+      },
+      {
         "code": "002148",
         "name": "北纬科技",
         "reason": "通信服务",
@@ -1052,17 +1063,6 @@
         "turnover_rate": 40.5,
         "first_limit_up_time": "13:02:45",
         "last_limit_up_time": "13:17:09",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "003032",
-        "name": "传智教育",
-        "reason": "教育",
-        "concepts": [],
-        "amount": 288052528.0,
-        "turnover_rate": 11.88,
-        "first_limit_up_time": "13:03:03",
-        "last_limit_up_time": "13:19:45",
         "consecutive_boards": 1
       },
       {
