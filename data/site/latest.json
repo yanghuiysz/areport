@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25 10:26:01",
+  "generated_at": "2026-11-25 14:14:07",
   "latest_trade_date": "2026-11-25",
   "summary": [
     {
@@ -41,23 +41,23 @@
         "consecutive_boards": 5
       },
       {
-        "code": "000593",
-        "name": "德龙汇能",
-        "reason": "燃气Ⅱ",
-        "concepts": [],
-        "amount": 74872653.0,
-        "turnover_rate": 1.08,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "603960",
         "name": "克来机电",
         "reason": "汽车零部",
         "concepts": [],
         "amount": 37138531.0,
         "turnover_rate": 0.92,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "000593",
+        "name": "德龙汇能",
+        "reason": "燃气Ⅱ",
+        "concepts": [],
+        "amount": 74872653.0,
+        "turnover_rate": 1.08,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -85,17 +85,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "001229",
-        "name": "魅视科技",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 27981032.0,
-        "turnover_rate": 1.38,
-        "first_limit_up_time": "09:30:15",
-        "last_limit_up_time": "09:30:15",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002685",
         "name": "华东重机",
         "reason": "工程机械",
@@ -104,6 +93,17 @@
         "turnover_rate": 20.15,
         "first_limit_up_time": "09:30:15",
         "last_limit_up_time": "09:38:21",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001229",
+        "name": "魅视科技",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 27981032.0,
+        "turnover_rate": 1.38,
+        "first_limit_up_time": "09:30:15",
+        "last_limit_up_time": "09:30:15",
         "consecutive_boards": 1
       },
       {
@@ -1295,17 +1295,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "001331",
-        "name": "胜通能源",
-        "reason": "燃气Ⅱ",
-        "concepts": [],
-        "amount": 340843056.0,
-        "turnover_rate": 4.46,
-        "first_limit_up_time": "13:44:24",
-        "last_limit_up_time": "13:47:30",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002565",
         "name": "顺灏股份",
         "reason": "包装印刷",
@@ -1314,6 +1303,17 @@
         "turnover_rate": 10.02,
         "first_limit_up_time": "13:44:24",
         "last_limit_up_time": "13:45:09",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "001331",
+        "name": "胜通能源",
+        "reason": "燃气Ⅱ",
+        "concepts": [],
+        "amount": 340843056.0,
+        "turnover_rate": 4.46,
+        "first_limit_up_time": "13:44:24",
+        "last_limit_up_time": "13:47:30",
         "consecutive_boards": 1
       },
       {
@@ -1328,17 +1328,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603051",
-        "name": "鹿山新材",
-        "reason": "化学制品",
-        "concepts": [],
-        "amount": 224274778.0,
-        "turnover_rate": 6.96,
-        "first_limit_up_time": "13:44:49",
-        "last_limit_up_time": "13:56:01",
-        "consecutive_boards": 1
-      },
-      {
         "code": "688836",
         "name": "宇树科技-W",
         "reason": "自动化设",
@@ -1347,6 +1336,17 @@
         "turnover_rate": 23.99,
         "first_limit_up_time": "13:44:49",
         "last_limit_up_time": "13:44:49",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "603051",
+        "name": "鹿山新材",
+        "reason": "化学制品",
+        "concepts": [],
+        "amount": 224274778.0,
+        "turnover_rate": 6.96,
+        "first_limit_up_time": "13:44:49",
+        "last_limit_up_time": "13:56:01",
         "consecutive_boards": 1
       },
       {
@@ -1638,23 +1638,23 @@
     ],
     "2026-11-24": [
       {
-        "code": "001229",
-        "name": "魅视科技",
-        "reason": "计算机设",
+        "code": "002579",
+        "name": "中京电子",
+        "reason": "元件",
         "concepts": [],
-        "amount": 24717451.0,
-        "turnover_rate": 1.1,
+        "amount": 833115296.0,
+        "turnover_rate": 8.81,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
+        "consecutive_boards": 4
       },
       {
-        "code": "001278",
-        "name": "一彬科技",
-        "reason": "汽车零部",
+        "code": "002122",
+        "name": "汇洲智能",
+        "reason": "通用设备",
         "concepts": [],
-        "amount": 29613850.0,
-        "turnover_rate": 2.35,
+        "amount": 45873742.0,
+        "turnover_rate": 0.71,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -1671,12 +1671,34 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002122",
-        "name": "汇洲智能",
+        "code": "002931",
+        "name": "锋龙股份",
         "reason": "通用设备",
         "concepts": [],
-        "amount": 45873742.0,
-        "turnover_rate": 0.71,
+        "amount": 241465082.0,
+        "turnover_rate": 2.55,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:30:45",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "002708",
+        "name": "光洋股份",
+        "reason": "汽车零部",
+        "concepts": [],
+        "amount": 99968155.0,
+        "turnover_rate": 0.85,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "001229",
+        "name": "魅视科技",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 24717451.0,
+        "turnover_rate": 1.1,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
@@ -1693,47 +1715,14 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002579",
-        "name": "中京电子",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 833115296.0,
-        "turnover_rate": 8.81,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
-      },
-      {
-        "code": "002708",
-        "name": "光洋股份",
+        "code": "001278",
+        "name": "一彬科技",
         "reason": "汽车零部",
         "concepts": [],
-        "amount": 99968155.0,
-        "turnover_rate": 0.85,
+        "amount": 29613850.0,
+        "turnover_rate": 2.35,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "002931",
-        "name": "锋龙股份",
-        "reason": "通用设备",
-        "concepts": [],
-        "amount": 241465082.0,
-        "turnover_rate": 2.55,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:30:45",
-        "consecutive_boards": 2
-      },
-      {
-        "code": "603516",
-        "name": "淳中科技",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 110234342.0,
-        "turnover_rate": 1.09,
-        "first_limit_up_time": "09:25:01",
-        "last_limit_up_time": "09:25:01",
         "consecutive_boards": 2
       },
       {
@@ -1748,6 +1737,17 @@
         "consecutive_boards": 3
       },
       {
+        "code": "603516",
+        "name": "淳中科技",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 110234342.0,
+        "turnover_rate": 1.09,
+        "first_limit_up_time": "09:25:01",
+        "last_limit_up_time": "09:25:01",
+        "consecutive_boards": 2
+      },
+      {
         "code": "605018",
         "name": "长华集团",
         "reason": "汽车零部",
@@ -1759,23 +1759,23 @@
         "consecutive_boards": 3
       },
       {
-        "code": "300703",
-        "name": "创源股份",
-        "reason": "文娱用品",
-        "concepts": [],
-        "amount": 164558115.0,
-        "turnover_rate": 6.54,
-        "first_limit_up_time": "09:30:00",
-        "last_limit_up_time": "09:30:00",
-        "consecutive_boards": 2
-      },
-      {
         "code": "301575",
         "name": "艾芬达",
         "reason": "家居用品",
         "concepts": [],
         "amount": 302135664.0,
         "turnover_rate": 12.06,
+        "first_limit_up_time": "09:30:00",
+        "last_limit_up_time": "09:30:00",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "300703",
+        "name": "创源股份",
+        "reason": "文娱用品",
+        "concepts": [],
+        "amount": 164558115.0,
+        "turnover_rate": 6.54,
         "first_limit_up_time": "09:30:00",
         "last_limit_up_time": "09:30:00",
         "consecutive_boards": 2
@@ -1847,17 +1847,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002242",
-        "name": "九阳股份",
-        "reason": "小家电",
-        "concepts": [],
-        "amount": 1143488384.0,
-        "turnover_rate": 4.32,
-        "first_limit_up_time": "09:31:51",
-        "last_limit_up_time": "09:32:30",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002548",
         "name": "金新农",
         "reason": "饲料",
@@ -1867,6 +1856,17 @@
         "first_limit_up_time": "09:31:51",
         "last_limit_up_time": "09:31:51",
         "consecutive_boards": 3
+      },
+      {
+        "code": "002242",
+        "name": "九阳股份",
+        "reason": "小家电",
+        "concepts": [],
+        "amount": 1143488384.0,
+        "turnover_rate": 4.32,
+        "first_limit_up_time": "09:31:51",
+        "last_limit_up_time": "09:32:30",
+        "consecutive_boards": 2
       },
       {
         "code": "603926",
