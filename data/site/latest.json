@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 13:49:51",
+  "generated_at": "2026-11-26 17:41:51",
   "latest_trade_date": "2026-11-26",
   "summary": [
     {
@@ -30,6 +30,17 @@
   "limit_up_details_by_date": {
     "2026-11-24": [
       {
+        "code": "002579",
+        "name": "中京电子",
+        "reason": "元件",
+        "concepts": [],
+        "amount": 833115296.0,
+        "turnover_rate": 8.81,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 4
+      },
+      {
         "code": "001278",
         "name": "一彬科技",
         "reason": "汽车零部",
@@ -50,17 +61,6 @@
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
         "consecutive_boards": 2
-      },
-      {
-        "code": "002579",
-        "name": "中京电子",
-        "reason": "元件",
-        "concepts": [],
-        "amount": 833115296.0,
-        "turnover_rate": 8.81,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 4
       },
       {
         "code": "002708",
@@ -239,17 +239,6 @@
         "consecutive_boards": 2
       },
       {
-        "code": "002242",
-        "name": "九阳股份",
-        "reason": "小家电",
-        "concepts": [],
-        "amount": 1143488384.0,
-        "turnover_rate": 4.32,
-        "first_limit_up_time": "09:31:51",
-        "last_limit_up_time": "09:32:30",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002548",
         "name": "金新农",
         "reason": "饲料",
@@ -259,6 +248,17 @@
         "first_limit_up_time": "09:31:51",
         "last_limit_up_time": "09:31:51",
         "consecutive_boards": 3
+      },
+      {
+        "code": "002242",
+        "name": "九阳股份",
+        "reason": "小家电",
+        "concepts": [],
+        "amount": 1143488384.0,
+        "turnover_rate": 4.32,
+        "first_limit_up_time": "09:31:51",
+        "last_limit_up_time": "09:32:30",
+        "consecutive_boards": 2
       },
       {
         "code": "603926",
@@ -492,6 +492,17 @@
         "consecutive_boards": 1
       },
       {
+        "code": "603206",
+        "name": "嘉环科技",
+        "reason": "通信服务",
+        "concepts": [],
+        "amount": 137805723.0,
+        "turnover_rate": 3.27,
+        "first_limit_up_time": "10:27:15",
+        "last_limit_up_time": "10:27:15",
+        "consecutive_boards": 1
+      },
+      {
         "code": "600400",
         "name": "红豆股份",
         "reason": "服装家纺",
@@ -511,17 +522,6 @@
         "turnover_rate": 3.37,
         "first_limit_up_time": "10:41:55",
         "last_limit_up_time": "10:41:55",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002611",
-        "name": "东方精工",
-        "reason": "专用设备",
-        "concepts": [],
-        "amount": 1178794192.0,
-        "turnover_rate": 8.95,
-        "first_limit_up_time": "13:00:33",
-        "last_limit_up_time": "14:27:45",
         "consecutive_boards": 1
       },
       {
