@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 17:41:51",
+  "generated_at": "2026-11-26 19:46:00",
   "latest_trade_date": "2026-11-26",
   "summary": [
     {
@@ -758,17 +758,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600467",
-        "name": "好当家",
-        "reason": "渔业",
-        "concepts": [],
-        "amount": 997511472.0,
-        "turnover_rate": 19.29,
-        "first_limit_up_time": "09:31:33",
-        "last_limit_up_time": "09:43:18",
-        "consecutive_boards": 1
-      },
-      {
         "code": "002728",
         "name": "特一药业",
         "reason": "中药Ⅱ",
@@ -777,6 +766,17 @@
         "turnover_rate": 2.78,
         "first_limit_up_time": "09:31:33",
         "last_limit_up_time": "09:31:33",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600467",
+        "name": "好当家",
+        "reason": "渔业",
+        "concepts": [],
+        "amount": 997511472.0,
+        "turnover_rate": 19.29,
+        "first_limit_up_time": "09:31:33",
+        "last_limit_up_time": "09:43:18",
         "consecutive_boards": 1
       },
       {
@@ -813,14 +813,14 @@
         "consecutive_boards": 1
       },
       {
-        "code": "600223",
-        "name": "亨迪药业",
-        "reason": "化学制药",
+        "code": "600227",
+        "name": "赤天化",
+        "reason": "农化制品",
         "concepts": [],
-        "amount": 208833853.0,
-        "turnover_rate": 2.74,
-        "first_limit_up_time": "09:34:08",
-        "last_limit_up_time": "09:34:08",
+        "amount": 856167360.0,
+        "turnover_rate": 21.4,
+        "first_limit_up_time": "09:33:24",
+        "last_limit_up_time": "15:00:00",
         "consecutive_boards": 1
       },
       {
@@ -855,72 +855,6 @@
         "first_limit_up_time": "09:35:44",
         "last_limit_up_time": "14:56:38",
         "consecutive_boards": 3
-      },
-      {
-        "code": "002861",
-        "name": "瀛通通讯",
-        "reason": "消费电子",
-        "concepts": [],
-        "amount": 186800588.0,
-        "turnover_rate": 10.24,
-        "first_limit_up_time": "09:36:03",
-        "last_limit_up_time": "09:36:03",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002480",
-        "name": "新筑股份",
-        "reason": "电力",
-        "concepts": [],
-        "amount": 55265729.0,
-        "turnover_rate": 1.41,
-        "first_limit_up_time": "09:37:12",
-        "last_limit_up_time": "09:37:12",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002900",
-        "name": "哈三联",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 79763742.0,
-        "turnover_rate": 4.26,
-        "first_limit_up_time": "09:38:33",
-        "last_limit_up_time": "09:38:33",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002864",
-        "name": "盘龙药业",
-        "reason": "中药Ⅱ",
-        "concepts": [],
-        "amount": 110140265.0,
-        "turnover_rate": 5.76,
-        "first_limit_up_time": "09:38:57",
-        "last_limit_up_time": "09:38:57",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "301089",
-        "name": "拓新药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 144827149.0,
-        "turnover_rate": 7.88,
-        "first_limit_up_time": "09:39:06",
-        "last_limit_up_time": "09:39:06",
-        "consecutive_boards": 1
-      },
-      {
-        "code": "002038",
-        "name": "双鹭药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 283267104.0,
-        "turnover_rate": 6.86,
-        "first_limit_up_time": "09:40:15",
-        "last_limit_up_time": "14:20:15",
-        "consecutive_boards": 1
       },
       {
         "code": "600280",
@@ -1099,6 +1033,17 @@
         "consecutive_boards": 1
       },
       {
+        "code": "002861",
+        "name": "瀛通通讯",
+        "reason": "医疗服务",
+        "concepts": [],
+        "amount": 502928960.0,
+        "turnover_rate": 12.91,
+        "first_limit_up_time": "10:36:54",
+        "last_limit_up_time": "14:54:06",
+        "consecutive_boards": 1
+      },
+      {
         "code": "603122",
         "name": "合富中国",
         "reason": "医疗服务",
@@ -1107,6 +1052,17 @@
         "turnover_rate": 12.91,
         "first_limit_up_time": "10:36:54",
         "last_limit_up_time": "14:54:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002820",
+        "name": "桂发祥",
+        "reason": "休闲食品",
+        "concepts": [],
+        "amount": 116164801.0,
+        "turnover_rate": 6.74,
+        "first_limit_up_time": "10:41:48",
+        "last_limit_up_time": "10:41:48",
         "consecutive_boards": 1
       },
       {
@@ -1132,6 +1088,17 @@
         "consecutive_boards": 1
       },
       {
+        "code": "002144",
+        "name": "宏达高科",
+        "reason": "纺织制造",
+        "concepts": [],
+        "amount": 101599777.0,
+        "turnover_rate": 8.27,
+        "first_limit_up_time": "11:02:33",
+        "last_limit_up_time": "11:02:33",
+        "consecutive_boards": 1
+      },
+      {
         "code": "600088",
         "name": "中视传媒",
         "reason": "影视院线",
@@ -1140,6 +1107,28 @@
         "turnover_rate": 4.72,
         "first_limit_up_time": "11:24:01",
         "last_limit_up_time": "11:24:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600088",
+        "name": "中视传媒",
+        "reason": "影视院线",
+        "concepts": [],
+        "amount": 229127870.0,
+        "turnover_rate": 4.72,
+        "first_limit_up_time": "11:24:01",
+        "last_limit_up_time": "11:24:01",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "600229",
+        "name": "城市传媒",
+        "reason": "出版",
+        "concepts": [],
+        "amount": 235626304.0,
+        "turnover_rate": 6.73,
+        "first_limit_up_time": "13:01:33",
+        "last_limit_up_time": "14:45:39",
         "consecutive_boards": 1
       },
       {
@@ -1174,6 +1163,17 @@
         "first_limit_up_time": "14:23:21",
         "last_limit_up_time": "14:24:00",
         "consecutive_boards": 1
+      },
+      {
+        "code": "603360",
+        "name": "百傲化学",
+        "reason": "农化制品",
+        "concepts": [],
+        "amount": 580717728.0,
+        "turnover_rate": 8.21,
+        "first_limit_up_time": "14:50:16",
+        "last_limit_up_time": "14:50:16",
+        "consecutive_boards": 2
       },
       {
         "code": "603360",
