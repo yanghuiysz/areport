@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27 17:25:17",
+  "generated_at": "2026-11-27 19:35:16",
   "latest_trade_date": "2026-11-27",
   "summary": [
     {
@@ -195,17 +195,6 @@
         "consecutive_boards": 1
       },
       {
-        "code": "301211",
-        "name": "亨迪药业",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 208833853.0,
-        "turnover_rate": 4.65,
-        "first_limit_up_time": "09:33:24",
-        "last_limit_up_time": "09:33:24",
-        "consecutive_boards": 1
-      },
-      {
         "code": "600227",
         "name": "赤天化",
         "reason": "农化制品",
@@ -214,6 +203,17 @@
         "turnover_rate": 21.4,
         "first_limit_up_time": "09:33:24",
         "last_limit_up_time": "15:00:00",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "301211",
+        "name": "亨迪药业",
+        "reason": "化学制药",
+        "concepts": [],
+        "amount": 208833853.0,
+        "turnover_rate": 4.65,
+        "first_limit_up_time": "09:33:24",
+        "last_limit_up_time": "09:33:24",
         "consecutive_boards": 1
       },
       {
@@ -593,39 +593,6 @@
     ],
     "2026-11-26": [
       {
-        "code": "002872",
-        "name": "天圣制药",
-        "reason": "化学制药",
-        "concepts": [],
-        "amount": 26888002.0,
-        "turnover_rate": 1.6,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "002651",
-        "name": "利君股份",
-        "reason": "航空装备",
-        "concepts": [],
-        "amount": 97311376.0,
-        "turnover_rate": 1.98,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 3
-      },
-      {
-        "code": "002197",
-        "name": "证通电子",
-        "reason": "计算机设",
-        "concepts": [],
-        "amount": 570391040.0,
-        "turnover_rate": 15.48,
-        "first_limit_up_time": "09:25:00",
-        "last_limit_up_time": "09:42:18",
-        "consecutive_boards": 2
-      },
-      {
         "code": "002565",
         "name": "顺灏股份",
         "reason": "包装印刷",
@@ -648,15 +615,26 @@
         "consecutive_boards": 1
       },
       {
-        "code": "603703",
-        "name": "盛洋科技",
-        "reason": "光学光电",
+        "code": "002872",
+        "name": "天圣制药",
+        "reason": "化学制药",
         "concepts": [],
-        "amount": 76219080.0,
-        "turnover_rate": 2.19,
+        "amount": 26888002.0,
+        "turnover_rate": 1.6,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "09:25:00",
-        "consecutive_boards": 1
+        "consecutive_boards": 3
+      },
+      {
+        "code": "002651",
+        "name": "利君股份",
+        "reason": "航空装备",
+        "concepts": [],
+        "amount": 97311376.0,
+        "turnover_rate": 1.98,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
+        "consecutive_boards": 3
       },
       {
         "code": "002713",
@@ -667,6 +645,28 @@
         "turnover_rate": 7.19,
         "first_limit_up_time": "09:25:00",
         "last_limit_up_time": "10:10:06",
+        "consecutive_boards": 1
+      },
+      {
+        "code": "002197",
+        "name": "证通电子",
+        "reason": "计算机设",
+        "concepts": [],
+        "amount": 570391040.0,
+        "turnover_rate": 15.48,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:42:18",
+        "consecutive_boards": 2
+      },
+      {
+        "code": "603703",
+        "name": "盛洋科技",
+        "reason": "光学光电",
+        "concepts": [],
+        "amount": 76219080.0,
+        "turnover_rate": 2.19,
+        "first_limit_up_time": "09:25:00",
+        "last_limit_up_time": "09:25:00",
         "consecutive_boards": 1
       },
       {
